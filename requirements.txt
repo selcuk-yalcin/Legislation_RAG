@@ -12,9 +12,9 @@ openai==1.12.0
 # MongoDB Vector Store
 pymongo[srv]==4.6.1
 
-# LangChain (Minimal - text splitting only)
+# LangChain (Minimal - compatible versions)
 langchain-text-splitters==0.3.11
-langchain-core==0.1.0
+langchain-core>=0.3.75,<2.0.0
 langchain-community==0.3.31
 
 # Web Server (Flask API)
