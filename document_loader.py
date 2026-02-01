@@ -11,14 +11,24 @@ from datetime import datetime
 from pymongo import MongoClient
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
+import voyageai
 from text_processing import clean_text
-from config import KANUN_DIR, TEBLIG_DIR, CHUNK_SIZE, CHUNK_OVERLAP, MONGO_URI, MONGO_DB_NAME, MONGO_COLLECTION_NAME, EMBEDDING_MODEL
+from config import (
+    KANUN_DIR, 
+    TEBLIG_DIR, 
+    CHUNK_SIZE, 
+    CHUNK_OVERLAP, 
+    MONGO_URI, 
+    MONGO_DB_NAME, 
+    MONGO_COLLECTION_NAME,
+    VOYAGE_API_KEY,
+    VOYAGE_EMBEDDING_MODEL
+)
 
-# Initialize embedding model (will download from HuggingFace if needed)
-print("🤖 Loading embedding model...")
-embedding_model = SentenceTransformer(EMBEDDING_MODEL)
-print(f"✅ Embedding model loaded: {EMBEDDING_MODEL}")
+# Initialize Voyage AI client
+print("🤖 Initializing Voyage AI embedding client...")
+voyage_client = voyageai.Client(api_key=VOYAGE_API_KEY)
+print(f"✅ Voyage AI client ready: {VOYAGE_EMBEDDING_MODEL}")
 
 
 def load_single_pdf(pdf_path):
@@ -100,24 +110,30 @@ def save_chunks_to_mongodb(chunks):
         print("🗑️ Cleared existing documents")
         
         # Prepare documents for MongoDB WITH EMBEDDINGS
-        print("\n🧠 Creating embeddings for chunks...")
+        print("\n🧠 Creating embeddings with Voyage AI...")
         documents_to_insert = []
         
-        # Process in batches for efficiency
-        batch_size = 100
+        # Process in batches for efficiency (Voyage AI supports batch processing)
+        batch_size = 128  # Voyage AI optimal batch size
         for i in range(0, len(chunks), batch_size):
             batch = chunks[i:i+batch_size]
             texts = [chunk.page_content for chunk in batch]
             
-            # Generate embeddings for batch
-            embeddings = embedding_model.encode(texts, show_progress_bar=True)
+            # Generate embeddings using Voyage AI
+            print(f"  🌊 Embedding batch {i//batch_size + 1}/{(len(chunks)-1)//batch_size + 1}...")
+            result = voyage_client.embed(
+                texts, 
+                model=VOYAGE_EMBEDDING_MODEL,
+                input_type="document"
+            )
+            embeddings = result.embeddings
             
             for j, (chunk, embedding) in enumerate(zip(batch, embeddings)):
                 doc = {
                     "chunk_id": i + j,
                     "content": chunk.page_content,
                     "metadata": chunk.metadata,
-                    "embedding": embedding.tolist(),  # ⭐ VECTOR EKLENDI!
+                    "embedding": embedding,  # ⭐ VOYAGE AI 1024-DIM VECTOR!
                     "created_at": datetime.utcnow()
                 }
                 documents_to_insert.append(doc)
@@ -126,7 +142,7 @@ def save_chunks_to_mongodb(chunks):
         
         # Insert new documents
         result = collection.insert_many(documents_to_insert)
-        print(f"\n✅ Saved {len(result.inserted_ids)} chunks WITH EMBEDDINGS to MongoDB")
+        print(f"\n✅ Saved {len(result.inserted_ids)} chunks WITH 1024-DIM EMBEDDINGS to MongoDB")
         
         client.close()
         return True

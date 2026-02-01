@@ -153,26 +153,26 @@ class RAGPipeline:
         self._manage_conversation_memory()
         
         # Step 5: Construct prompt
-        rag_prompt = f"""Based on the following excerpts from Law 6331, answer the question.
+        rag_prompt = f"""Aşağıdaki iş sağlığı ve güvenliği mevzuatı bilgilerine dayanarak soruyu yanıtla.
 
-CRITICAL INSTRUCTIONS:
-1. ONLY use the information provided below.
-2. If the question is NOT related to Law 6331, respond: "Bu soru 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile ilgili değildir."
-3. If the answer is not in the context, respond: "Bu bilgi kanun metninde yer almamaktadır."
-4. Always cite the specific article number (Madde X). Do NOT cite page numbers.
-5. Provide detailed and accurate answers.
+KRİTİK TALİMATLAR:
+1. SADECE aşağıda verilen bilgileri kullan.
+2. Cevap kaynaklarda yoksa: "Bu bilgi mevcut mevzuat kaynaklarında bulunamadı."
+3. Her zaman kaynak madde numarasını belirt (Madde X veya Yönetmelik Madde Y).
+4. Detaylı ve doğru cevaplar ver.
+5. Türkçe cevap ver.
 
-Law 6331 Content:
+Mevzuat İçeriği:
 {context}
 
-Question: {user_input}
+Soru: {user_input}
 
-Answer (must include article number):"""
+Cevap (madde numarası ile):"""
         
         messages = [
             {
                 "role": "system",
-                "content": "You are a legal expert specialized ONLY in Turkish Law 6331."
+                "content": "Sen Türk İş Sağlığı ve Güvenliği mevzuatı konusunda uzman bir hukuk danışmanısın."
             }
         ] + self.conversation_history[:-1] + [
             {
