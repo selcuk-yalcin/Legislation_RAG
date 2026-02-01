@@ -18,7 +18,7 @@ MONGO_COLLECTION_NAME = os.getenv("MONGO_COLLECTION_NAME", "documents")
 MONGO_VECTOR_INDEX_NAME = os.getenv("MONGO_VECTOR_INDEX_NAME", "vector_index")
 
 # Model Configuration
-MODEL_NAME = "ai21/jamba-mini-1.7"
+MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-3.5-turbo")  # OpenRouter üzerinden
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 RERANKER_MODEL = os.getenv("RERANKER_MODEL", "ms-marco-MiniLM-L-12-v2")
 
