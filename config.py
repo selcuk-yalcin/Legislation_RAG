@@ -22,12 +22,12 @@ MONGO_VECTOR_INDEX_NAME = os.getenv("MONGO_VECTOR_INDEX_NAME", "vector_index")
 MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-3.5-turbo")  # OpenRouter üzerinden
 VOYAGE_EMBEDDING_MODEL = os.getenv("VOYAGE_EMBEDDING_MODEL", "voyage-law-2")  # Voyage AI embedding
 VOYAGE_RERANK_MODEL = os.getenv("VOYAGE_RERANK_MODEL", "rerank-2")  # Voyage AI reranking
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")  # Legacy
-RERANKER_MODEL = os.getenv("RERANKER_MODEL", "ms-marco-MiniLM-L-12-v2")  # Legacy
 
-# Model Cache Directories (Railway Volume support)
-MODEL_CACHE_DIR = os.getenv("MODEL_CACHE_DIR", "./models")
-FLASHRANK_CACHE_DIR = os.getenv("FLASHRANK_CACHE_DIR", "./flashrank_cache")
+# Legacy Model Configuration (DEACTIVATED - kept for backward compatibility)
+# EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+# RERANKER_MODEL = os.getenv("RERANKER_MODEL", "ms-marco-MiniLM-L-12-v2")
+# MODEL_CACHE_DIR = os.getenv("MODEL_CACHE_DIR", "./models")
+# FLASHRANK_CACHE_DIR = os.getenv("FLASHRANK_CACHE_DIR", "./flashrank_cache")
 
 # Document Configuration
 DATA_DIR = "./data"  # Ana data klasörü
