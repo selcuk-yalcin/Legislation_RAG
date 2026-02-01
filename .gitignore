@@ -43,8 +43,8 @@ env/
 *.ipynb
 
 # Data (don't commit large PDFs to git, but keep structure)
-# Uncomment if you want to exclude PDFs
-# data/**/*.pdf
+data/**/*.pdf
+data/**/*.PDF
 
 # ⭐ MODEL FILES - DO NOT COMMIT (Too large for git)
 models/
