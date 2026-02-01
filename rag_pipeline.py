@@ -122,8 +122,9 @@ class RAGPipeline:
         Returns:
             str: Answer with source citations
         """
-        # Step 1: Expand the query
-        search_query = expand_query(self.client, user_input)
+        # Step 1: Expand the query (temporarily disabled to avoid model issues)
+        # search_query = expand_query(self.client, user_input)
+        search_query = user_input  # Use original query directly
         
         # Step 2: Retrieve broad set of documents
         initial_docs = self.vectorstore.similarity_search(
