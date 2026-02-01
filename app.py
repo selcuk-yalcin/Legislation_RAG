@@ -94,6 +94,24 @@ def health_check():
         }), 500
 
 
+@app.route('/debug/env', methods=['GET'])
+def debug_env():
+    """Debug endpoint to check environment variables"""
+    import os
+    from config import MONGO_URI, MONGO_DB_NAME, MONGO_COLLECTION_NAME, VOYAGE_API_KEY
+    
+    return jsonify({
+        'mongo_uri': MONGO_URI[:50] + '...' if MONGO_URI else 'NOT SET',
+        'mongo_db': MONGO_DB_NAME,
+        'mongo_collection': MONGO_COLLECTION_NAME,
+        'voyage_api_key': 'SET' if VOYAGE_API_KEY else 'NOT SET',
+        'env_check': {
+            'MONGO_URI_env': os.environ.get('MONGO_URI', 'NOT IN ENV')[:50] + '...',
+            'MONGO_DB_NAME_env': os.environ.get('MONGO_DB_NAME', 'NOT IN ENV')
+        }
+    }), 200
+
+
 @app.route('/stats', methods=['GET'])
 def get_stats():
     """Get database statistics"""
@@ -111,6 +129,7 @@ def get_stats():
         
         return jsonify({
             'total_documents': stats['total_documents'],
+            'total_chunks': stats['total_documents'],  # Backward compatibility
             'database': stats['database'],
             'collection': stats['collection'],
             'status': 'success'
