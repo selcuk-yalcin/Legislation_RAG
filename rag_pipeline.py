@@ -7,6 +7,7 @@ from config import (
     TEMPERATURE,
     MAX_TOKENS,
     INITIAL_RETRIEVAL_K,
+    TOP_RERANKED_K,
     MAX_CONVERSATION_HISTORY,
     MEMORY_STRATEGY
 )
@@ -132,8 +133,10 @@ class RAGPipeline:
             k=INITIAL_RETRIEVAL_K
         )
         
-        # Step 3: Rerank documents
-        relevant_docs = self.reranker.rerank_documents(search_query, initial_docs)
+        # Step 3: Rerank documents (temporarily disabled due to model compatibility issues)
+        # relevant_docs = self.reranker.rerank_documents(search_query, initial_docs)
+        # Use top documents directly without reranking
+        relevant_docs = initial_docs[:TOP_RERANKED_K]
         
         # Step 4: Build context
         context = "\n\n".join([doc.page_content for doc in relevant_docs])
