@@ -8,6 +8,11 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+# Debug: Environment variables kontrolü
+print("=" * 70)
+print("🔧 Configuration Loading...")
+print("=" * 70)
+
 # API Configuration
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
@@ -17,6 +22,13 @@ MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
 MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "mevzuat_db")
 MONGO_COLLECTION_NAME = os.getenv("MONGO_COLLECTION_NAME", "documents")
 MONGO_VECTOR_INDEX_NAME = os.getenv("MONGO_VECTOR_INDEX_NAME", "vector_index")
+
+# Debug output
+print(f"📊 MONGO_URI: {MONGO_URI[:50]}...")
+print(f"📊 MONGO_DB_NAME: {MONGO_DB_NAME}")
+print(f"📊 OPENROUTER_API_KEY: {'✅ Set' if OPENROUTER_API_KEY else '❌ Not Set'}")
+print(f"📊 VOYAGE_API_KEY: {'✅ Set' if VOYAGE_API_KEY else '❌ Not Set'}")
+print("=" * 70)
 
 # Model Configuration
 MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-3.5-turbo")  # OpenRouter üzerinden

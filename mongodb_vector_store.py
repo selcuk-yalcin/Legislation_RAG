@@ -1,43 +1,41 @@
 """
-MongoDB Vector Store - Production Ready
-MongoDB Atlas Vector Search implementation.
+MongoDB Vector Store - Production Ready (Voyage AI)
+MongoDB Atlas Vector Search with Voyage AI embeddings.
 """
 
 import os
 from pymongo import MongoClient
-from sentence_transformers import SentenceTransformer
+import voyageai
 from config import (
     MONGO_URI,
     MONGO_DB_NAME,
     MONGO_COLLECTION_NAME,
     MONGO_VECTOR_INDEX_NAME,
-    MODEL_CACHE_DIR,
-    EMBEDDING_MODEL
+    VOYAGE_API_KEY,
+    VOYAGE_EMBEDDING_MODEL
 )
 
 
 class MongoDBVectorStore:
-    """MongoDB Atlas Vector Search Wrapper"""
+    """MongoDB Atlas Vector Search Wrapper with Voyage AI"""
     
     def __init__(self):
-        """Initialize MongoDB connection and embedding model"""
+        """Initialize MongoDB connection and Voyage AI client"""
         print("🔌 MongoDB Atlas'a bağlanılıyor...")
+        print(f"   MONGO_URI: {MONGO_URI[:30]}...")  # Debug: İlk 30 karakter
+        
         self.client = MongoClient(MONGO_URI)
         self.db = self.client[MONGO_DB_NAME]
         self.collection = self.db[MONGO_COLLECTION_NAME]
         
-        print("🤖 Embedding modeli yükleniyor...")
-        # Modeli yerel klasörden yükle (internetten indirmez!)
-        model_path = os.path.join(MODEL_CACHE_DIR, "embedding_model")
+        print("🤖 Voyage AI embedding client başlatılıyor...")
+        if not VOYAGE_API_KEY:
+            raise ValueError("❌ VOYAGE_API_KEY bulunamadı! Environment variable'ı kontrol edin.")
         
-        if os.path.exists(model_path):
-            print(f"✅ Model yerel klasörden yükleniyor: {model_path}")
-            self.model = SentenceTransformer(model_path)
-        else:
-            print(f"⚠️  Yerel model bulunamadı, indiriliyor: {EMBEDDING_MODEL}")
-            self.model = SentenceTransformer(EMBEDDING_MODEL)
+        self.voyage_client = voyageai.Client(api_key=VOYAGE_API_KEY)
+        self.embedding_model = VOYAGE_EMBEDDING_MODEL
         
-        print("✅ MongoDB Vector Store hazır!")
+        print(f"✅ MongoDB Vector Store hazır! Model: {self.embedding_model}")
     
     def similarity_search(self, query, k=10, filter_dict=None):
         """
@@ -51,8 +49,9 @@ class MongoDBVectorStore:
         Returns:
             list: Document objelerinin listesi (LangChain formatında)
         """
-        # 1. Sorguyu vektöre çevir
-        query_vector = self.model.encode(query).tolist()
+        # 1. Sorguyu Voyage AI ile vektöre çevir
+        result = self.voyage_client.embed([query], model=self.embedding_model, input_type="query")
+        query_vector = result.embeddings[0]
         
         # 2. MongoDB Vector Search pipeline oluştur
         pipeline = [
@@ -157,11 +156,24 @@ def mongodb_store_exists():
         bool: True if documents exist
     """
     try:
+        print(f"🔍 MongoDB kontrolü yapılıyor...")
+        print(f"   MONGO_URI: {MONGO_URI[:50]}...")
+        print(f"   MONGO_DB_NAME: {MONGO_DB_NAME}")
+        print(f"   MONGO_COLLECTION_NAME: {MONGO_COLLECTION_NAME}")
+        
         client = MongoClient(MONGO_URI)
+        
+        # MongoDB bağlantısını test et
+        client.admin.command('ping')
+        print("   ✅ MongoDB bağlantısı başarılı!")
+        
         db = client[MONGO_DB_NAME]
         collection = db[MONGO_COLLECTION_NAME]
         count = collection.count_documents({})
+        print(f"   ✅ {count} döküman bulundu!")
         return count > 0
     except Exception as e:
         print(f"❌ MongoDB bağlantı hatası: {e}")
+        import traceback
+        traceback.print_exc()
         return False
