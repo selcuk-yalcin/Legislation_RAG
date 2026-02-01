@@ -1,0 +1,34 @@
+# Railway Deployment - Optimized Requirements
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core Dependencies
+python-dotenv==1.2.1
+numpy<2.0  # Pin to 1.x for compatibility - CRITICAL for compatibility
+torch>=2.8.0  # Updated for better performance
+sentence-transformers==2.7.0
+pypdf==6.6.2
+httpx==0.27.0
+openai==1.12.0
+
+# MongoDB Vector Store
+pymongo[srv]==4.6.1  # srv for MongoDB Atlas connection
+
+# LangChain (Minimal - sadece text splitting için)
+langchain-text-splitters==0.3.11
+langchain-core>=0.1.0
+langchain-community==0.3.31  # For PyPDFLoader
+
+# Reranker
+flashrank>=0.2.0
+
+# Evaluation & Testing
+ragas>=0.1.0  # RAG evaluation metrics
+datasets>=2.14.0  # HuggingFace datasets for RAGAS
+
+# Web Server (Flask API)
+flask>=3.0.0
+flask-cors>=4.0.0
+gunicorn==21.2.0
+
+# Additional Dependencies
+certifi>=2024.0.0
