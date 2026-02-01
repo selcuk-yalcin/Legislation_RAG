@@ -64,8 +64,9 @@ def initialize_rag_system():
     stats = vectorstore.get_collection_stats()
     print(f"✅ MongoDB bağlantısı başarılı: {stats['total_documents']} döküman yüklü\n")
     
-    # 4. Initialize reranker
-    reranker = RerankerService()
+    # 4. Initialize reranker (temporarily disabled due to compatibility issues)
+    # reranker = RerankerService()
+    reranker = None  # Reranker disabled for Railway compatibility
     
     # 5. Create RAG pipeline
     rag_pipeline = RAGPipeline(client, vectorstore, reranker)
