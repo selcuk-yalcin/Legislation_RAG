@@ -133,10 +133,12 @@ class RAGPipeline:
             k=INITIAL_RETRIEVAL_K
         )
         
-        # Step 3: Rerank documents (temporarily disabled due to model compatibility issues)
-        # relevant_docs = self.reranker.rerank_documents(search_query, initial_docs)
-        # Use top documents directly without reranking
-        relevant_docs = initial_docs[:TOP_RERANKED_K]
+        # Step 3: Rerank documents with Voyage AI
+        if self.reranker:
+            relevant_docs = self.reranker.rerank_documents(search_query, initial_docs, top_k=TOP_RERANKED_K)
+        else:
+            # Fallback: use top documents without reranking
+            relevant_docs = initial_docs[:TOP_RERANKED_K]
         
         # Step 4: Build context
         context = "\n\n".join([doc.page_content for doc in relevant_docs])

@@ -1,0 +1,66 @@
+"""
+Voyage AI Reranker - Railway-compatible, lightweight reranking service
+Uses Voyage AI's rerank-2 model for high-quality document reranking
+"""
+
+import os
+import voyageai
+from typing import List
+
+
+class VoyageReranker:
+    """Lightweight reranker using Voyage AI API"""
+    
+    def __init__(self):
+        """Initialize Voyage AI client"""
+        api_key = os.getenv("VOYAGE_API_KEY")
+        if not api_key:
+            raise ValueError("VOYAGE_API_KEY environment variable not set!")
+        
+        self.client = voyageai.Client(api_key=api_key)
+        self.model = "rerank-2"  # High-quality reranking model
+        
+        print("✅ Voyage AI Reranker initialized")
+    
+    def rerank_documents(self, query: str, documents: List, top_k: int = 5) -> List:
+        """
+        Rerank documents using Voyage AI rerank-2 model
+        
+        Args:
+            query: Search query
+            documents: List of Document objects with page_content
+            top_k: Number of top documents to return
+            
+        Returns:
+            List of top-k reranked documents
+        """
+        try:
+            if not documents:
+                return []
+            
+            # Extract text content from documents
+            doc_texts = [doc.page_content for doc in documents]
+            
+            print(f"⚖️ Reranking {len(documents)} documents with Voyage AI...")
+            
+            # Call Voyage AI rerank API
+            result = self.client.rerank(
+                query=query,
+                documents=doc_texts,
+                model=self.model,
+                top_k=min(top_k, len(documents))
+            )
+            
+            # Build ranked documents list
+            ranked_docs = []
+            for item in result.results:
+                ranked_docs.append(documents[item.index])
+            
+            print(f"✅ Reranking complete! Top {len(ranked_docs)} documents selected")
+            
+            return ranked_docs
+            
+        except Exception as e:
+            print(f"⚠️ Voyage reranking failed: {e}")
+            print(f"   Falling back to original order (top {top_k})")
+            return documents[:top_k]

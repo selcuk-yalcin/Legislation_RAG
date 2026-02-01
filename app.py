@@ -23,7 +23,7 @@ warnings.filterwarnings('ignore')
 # Import modules
 from client import create_openrouter_client
 from mongodb_vector_store import get_mongodb_vectorstore, mongodb_store_exists
-from reranker import RerankerService
+from voyage_reranker import VoyageReranker  # Voyage AI reranker
 from rag_pipeline import RAGPipeline
 
 # Initialize Flask app
@@ -64,9 +64,8 @@ def initialize_rag_system():
     stats = vectorstore.get_collection_stats()
     print(f"✅ MongoDB bağlantısı başarılı: {stats['total_documents']} döküman yüklü\n")
     
-    # 4. Initialize reranker (temporarily disabled due to compatibility issues)
-    # reranker = RerankerService()
-    reranker = None  # Reranker disabled for Railway compatibility
+    # 4. Initialize Voyage AI reranker
+    reranker = VoyageReranker()
     
     # 5. Create RAG pipeline
     rag_pipeline = RAGPipeline(client, vectorstore, reranker)

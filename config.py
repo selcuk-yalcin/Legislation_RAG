@@ -10,6 +10,7 @@ load_dotenv()
 
 # API Configuration
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
 
 # MongoDB Configuration
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
@@ -19,8 +20,10 @@ MONGO_VECTOR_INDEX_NAME = os.getenv("MONGO_VECTOR_INDEX_NAME", "vector_index")
 
 # Model Configuration
 MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-3.5-turbo")  # OpenRouter üzerinden
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-RERANKER_MODEL = os.getenv("RERANKER_MODEL", "ms-marco-MiniLM-L-12-v2")
+VOYAGE_EMBEDDING_MODEL = os.getenv("VOYAGE_EMBEDDING_MODEL", "voyage-law-2")  # Voyage AI embedding
+VOYAGE_RERANK_MODEL = os.getenv("VOYAGE_RERANK_MODEL", "rerank-2")  # Voyage AI reranking
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")  # Legacy
+RERANKER_MODEL = os.getenv("RERANKER_MODEL", "ms-marco-MiniLM-L-12-v2")  # Legacy
 
 # Model Cache Directories (Railway Volume support)
 MODEL_CACHE_DIR = os.getenv("MODEL_CACHE_DIR", "./models")
