@@ -56,6 +56,11 @@ INITIAL_RETRIEVAL_K = 100
 # TOP_RERANKED_K: LLM'e (GPT-4o-mini) gönderilen en kaliteli ve elenmiş parça sayısı.
 TOP_RERANKED_K = 15 
 
+# --- DOCUMENT PATHS ---
+DATA_DIR = "./data"  # Ana data klasörü
+KANUN_DIR = "./data/KANUN VE YÖNETMELİKLER"  # Kanunlar ve yönetmelikler
+TEBLIG_DIR = "./data/TEBLİĞ"  # Tebliğler
+
 # --- LLM VE HTTP PARAMETRELERİ ---
 TEMPERATURE = 0.2
 MAX_TOKENS = 1500

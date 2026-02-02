@@ -4,15 +4,14 @@ Specialized chunking for Turkish legal documents (KANUN, YÖNETMELİK, TEBLİĞ)
 """
 
 import re
-from typing import List, Dict, Any, TYPE_CHECKING
+from typing import List, Dict, Any
 
-if TYPE_CHECKING:
-    from langchain.schema import Document
-else:
-    try:
-        from langchain.schema import Document
-    except ImportError:
-        from langchain_core.documents import Document
+# Use simple object instead of langchain Document to avoid import issues
+class Document:
+    """Simple document class compatible with langchain"""
+    def __init__(self, page_content="", metadata=None):
+        self.page_content = page_content
+        self.metadata = metadata or {}
 
 
 def extract_madde_number(text: str) -> str:
