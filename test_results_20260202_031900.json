@@ -1,0 +1,218 @@
+{
+  "timestamp": "20260202_031900",
+  "total_questions": 30,
+  "successful": 30,
+  "failed": 0,
+  "results": [
+    {
+      "question": "İş güvenliği uzmanlarının çalışma süreleri nedir?",
+      "status": "success",
+      "response_time": 9.540891170501709,
+      "answer_length": 7625,
+      "sources_count": 0
+    },
+    {
+      "question": "İş güvenliği uzmanı kimler olabilir?",
+      "status": "success",
+      "response_time": 8.259433269500732,
+      "answer_length": 8001,
+      "sources_count": 0
+    },
+    {
+      "question": "İş güvenliği uzmanının görevleri nelerdir?",
+      "status": "success",
+      "response_time": 14.104542970657349,
+      "answer_length": 8648,
+      "sources_count": 0
+    },
+    {
+      "question": "İşyeri hekimi görevlendirmesi nasıl yapılır?",
+      "status": "success",
+      "response_time": 18.83851718902588,
+      "answer_length": 7986,
+      "sources_count": 0
+    },
+    {
+      "question": "İşyeri hekiminin çalışma süreleri ne kadardır?",
+      "status": "success",
+      "response_time": 7.478713274002075,
+      "answer_length": 7640,
+      "sources_count": 0
+    },
+    {
+      "question": "İşyeri hekiminin sorumlulukları nelerdir?",
+      "status": "success",
+      "response_time": 16.04284977912903,
+      "answer_length": 8222,
+      "sources_count": 0
+    },
+    {
+      "question": "Risk değerlendirmesi nasıl yapılır?",
+      "status": "success",
+      "response_time": 10.73590612411499,
+      "answer_length": 8701,
+      "sources_count": 0
+    },
+    {
+      "question": "Risk değerlendirmesi kimler tarafından yapılır?",
+      "status": "success",
+      "response_time": 10.743498086929321,
+      "answer_length": 7539,
+      "sources_count": 0
+    },
+    {
+      "question": "Risk değerlendirmesinde hangi adımlar izlenir?",
+      "status": "success",
+      "response_time": 17.364532947540283,
+      "answer_length": 7909,
+      "sources_count": 0
+    },
+    {
+      "question": "İşverenin iş sağlığı ve güvenliği konusundaki görevleri nelerdir?",
+      "status": "success",
+      "response_time": 17.80717372894287,
+      "answer_length": 8965,
+      "sources_count": 0
+    },
+    {
+      "question": "İşveren hangi durumlarda acil eylem planı hazırlamalıdır?",
+      "status": "success",
+      "response_time": 7.365856885910034,
+      "answer_length": 7642,
+      "sources_count": 0
+    },
+    {
+      "question": "İşverenin eğitim yükümlülükleri nelerdir?",
+      "status": "success",
+      "response_time": 27.966336965560913,
+      "answer_length": 8787,
+      "sources_count": 0
+    },
+    {
+      "question": "Çalışanların iş sağlığı ve güvenliği konusundaki hakları nelerdir?",
+      "status": "success",
+      "response_time": 16.686192989349365,
+      "answer_length": 8501,
+      "sources_count": 0
+    },
+    {
+      "question": "Çalışanlar hangi durumlarda çalışmayı durdurabilir?",
+      "status": "success",
+      "response_time": 9.231819152832031,
+      "answer_length": 7385,
+      "sources_count": 0
+    },
+    {
+      "question": "Çalışan temsilcisinin yetkileri nelerdir?",
+      "status": "success",
+      "response_time": 10.799705028533936,
+      "answer_length": 8228,
+      "sources_count": 0
+    },
+    {
+      "question": "Kişisel koruyucu donanım (KKD) kullanımı zorunlu mudur?",
+      "status": "success",
+      "response_time": 8.901102066040039,
+      "answer_length": 7463,
+      "sources_count": 0
+    },
+    {
+      "question": "KKD maliyeti kime aittir?",
+      "status": "success",
+      "response_time": 7.795454978942871,
+      "answer_length": 6969,
+      "sources_count": 0
+    },
+    {
+      "question": "KKD seçiminde nelere dikkat edilmelidir?",
+      "status": "success",
+      "response_time": 10.141484022140503,
+      "answer_length": 7741,
+      "sources_count": 0
+    },
+    {
+      "question": "İş kazası bildirimi nasıl yapılır?",
+      "status": "success",
+      "response_time": 14.34113621711731,
+      "answer_length": 7612,
+      "sources_count": 0
+    },
+    {
+      "question": "Meslek hastalığı nedir?",
+      "status": "success",
+      "response_time": 5.4610888957977295,
+      "answer_length": 7112,
+      "sources_count": 0
+    },
+    {
+      "question": "İş kazasında işverenin sorumlulukları nelerdir?",
+      "status": "success",
+      "response_time": 11.171719074249268,
+      "answer_length": 7935,
+      "sources_count": 0
+    },
+    {
+      "question": "Sağlık muayeneleri hangi sıklıkla yapılmalıdır?",
+      "status": "success",
+      "response_time": 7.883617877960205,
+      "answer_length": 7429,
+      "sources_count": 0
+    },
+    {
+      "question": "Hangi çalışanlar sağlık muayenesine tabi tutulmalıdır?",
+      "status": "success",
+      "response_time": 10.45265793800354,
+      "answer_length": 7402,
+      "sources_count": 0
+    },
+    {
+      "question": "Sağlık raporlarının gizliliği nasıl sağlanır?",
+      "status": "success",
+      "response_time": 10.253398895263672,
+      "answer_length": 7471,
+      "sources_count": 0
+    },
+    {
+      "question": "Tehlikeli madde kullanımında alınması gereken önlemler nelerdir?",
+      "status": "success",
+      "response_time": 12.9756920337677,
+      "answer_length": 8601,
+      "sources_count": 0
+    },
+    {
+      "question": "Kimyasal maddelerin etiketlenmesi nasıl olmalıdır?",
+      "status": "success",
+      "response_time": 11.593399047851562,
+      "answer_length": 8830,
+      "sources_count": 0
+    },
+    {
+      "question": "Biyolojik etkenlerden korunma yöntemleri nelerdir?",
+      "status": "success",
+      "response_time": 13.571648120880127,
+      "answer_length": 8471,
+      "sources_count": 0
+    },
+    {
+      "question": "Yangın söndürme ekipmanları nasıl seçilmelidir?",
+      "status": "success",
+      "response_time": 16.571451902389526,
+      "answer_length": 7648,
+      "sources_count": 0
+    },
+    {
+      "question": "Acil durum planı nasıl hazırlanır?",
+      "status": "success",
+      "response_time": 11.644707202911377,
+      "answer_length": 8026,
+      "sources_count": 0
+    },
+    {
+      "question": "Tahliye tatbikatı ne sıklıkla yapılmalıdır?",
+      "status": "success",
+      "response_time": 3.783273935317993,
+      "answer_length": 6541,
+      "sources_count": 0
+    }
+  ]
+}

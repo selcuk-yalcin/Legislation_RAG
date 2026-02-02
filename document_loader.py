@@ -1,8 +1,14 @@
 """
-Document loading and processing
+Document loading and processing - ENTERPRISE GRADE
 Loads ALL PDF files from data directories
 AND CREATES EMBEDDINGS for MongoDB Vector Search
-WITH LEGAL STRUCTURE AWARENESS (MADDE-based chunking)
+WITH DETERMINISTIC LEGAL STRUCTURE (MADDE-based hard splitting)
+
+🚀 CRITICAL IMPROVEMENTS:
+1. ✅ Deterministik MADDE Hard-Split - RecursiveCharacterTextSplitter'a güvenmez
+2. ✅ Metadata Inheritance - MADDE numarası chunk'lar arası miras alınır  
+3. ✅ Parent-Child Hierarchy - Her chunk parent_article_content içerir
+4. ✅ Voyage AI voyage-law-2 - Türk hukuku için optimize edilmiş embeddings
 """
 
 import os
@@ -14,7 +20,12 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import voyageai
 from text_processing import clean_text
-from legal_chunker import post_process_chunks, analyze_chunk_quality
+from legal_chunker import (
+    post_process_chunks, 
+    analyze_chunk_quality,
+    hard_split_by_madde,  # 🆕 DETERMINISTIK HARD-SPLIT
+    Document
+)
 from config import (
     KANUN_DIR, 
     TEBLIG_DIR, 
@@ -163,8 +174,12 @@ def save_chunks_to_mongodb(chunks):
 
 def load_and_process_documents():
     """
-    Loads ALL PDF documents from data directories, cleans text, and splits into chunks.
-    Each document is processed individually with its own metadata.
+    🆕 ENTERPRISE-GRADE DOCUMENT PROCESSING:
+    1. Loads ALL PDF documents from data directories
+    2. Cleans text artifacts
+    3. HARD-SPLITS by MADDE boundaries (deterministik)
+    4. Falls back to RecursiveCharacterTextSplitter for long MADDEs
+    5. Enriches with metadata inheritance & parent-child hierarchy
     
     Returns:
         list: List of document chunks ready for embedding
@@ -196,66 +211,99 @@ def load_and_process_documents():
     
     print(f"✅ Cleaned {len(all_documents)} pages")
     
-    # Split into chunks with LEGAL STRUCTURE AWARENESS
-    print("\n✂️  Splitting documents into MADDE-BASED chunks...")
-    print("📋 Using hierarchical separators for legal documents:")
-    print("   1️⃣  MADDE (Article) boundaries")
-    print("   2️⃣  Bent/Fıkra (Clause/Paragraph) boundaries")
-    print("   3️⃣  Double newlines")
-    print("   4️⃣  Single newlines")
-    print("   5️⃣  Fallback to character splitting")
+    # 🆕 STEP 1: DETERMINISTIK HARD-SPLIT BY MADDE
+    print("\n🔪 STEP 1: Deterministik MADDE Hard-Split...")
+    print("   📋 Splitting documents at MADDE boundaries (not character limits)")
     
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=CHUNK_SIZE,
-        chunk_overlap=CHUNK_OVERLAP,
-        # HUKUKI YAPI FARKINDALIKLI AYRAÇLAR
-        separators=[
-            # 1. Öncelik: MADDE başlıkları (en önemli!)
-            "\nMADDE ",
-            "\nMadde ",
-            "\nMadde-",
-            "\nMadde:",
-            "\nMadde–",
-            
-            # 2. Öncelik: BENT ve FIKRA ayraçları
-            "\na) ",
-            "\nb) ",
-            "\nc) ",
-            "\nç) ",
-            "\nd) ",
-            "\ne) ",
-            "\nf) ",
-            "\ng) ",
-            "\nğ) ",
-            "\nh) ",
-            
-            # 3. Öncelik: Fıkra numaraları
-            "\n(1) ",
-            "\n(2) ",
-            "\n(3) ",
-            "\n(4) ",
-            "\n(5) ",
-            
-            # 4. Öncelik: Paragraf ayraçları
-            "\n\n",
-            
-            # 5. Öncelik: Cümle sonları
-            "\n",
-            ". ",
-            
-            # 6. Son çare: Karakter bazlı
-            " ",
-            ""
-        ],
-        # Madde bütünlüğünü korumak için overlap artırıldı
-        length_function=len,
-        is_separator_regex=False
-    )
-    chunks = text_splitter.split_documents(all_documents)
-    print(f"✅ Created {len(chunks)} MADDE-AWARE chunks")
+    hard_split_chunks = []
+    for doc in all_documents:
+        # Her dökümanı MADDE sınırlarından böl
+        madde_chunks = hard_split_by_madde(doc.page_content, doc.metadata)
+        hard_split_chunks.extend(madde_chunks)
     
-    # Enrich chunks with legal structure metadata
-    chunks = post_process_chunks(chunks)
+    print(f"✅ Created {len(hard_split_chunks)} MADDE-level parent chunks")
+    
+    # 🆕 STEP 2: SECONDARY SPLIT FOR LONG MADDEs (RecursiveCharacterTextSplitter)
+    print("\n✂️  STEP 2: Secondary split for MADDEs longer than {CHUNK_SIZE} chars...")
+    print("   📋 Using hierarchical separators for legal documents:")
+    print("      1️⃣  Bent/Fıkra (Clause/Paragraph) boundaries")
+    print("      2️⃣  Double newlines")
+    print("      3️⃣  Single newlines")
+    print("      4️⃣  Fallback to character splitting")
+    
+    final_chunks = []
+    long_madde_count = 0
+    
+    for chunk in hard_split_chunks:
+        # Eğer chunk CHUNK_SIZE'dan küçükse, olduğu gibi ekle
+        if len(chunk.page_content) <= CHUNK_SIZE:
+            final_chunks.append(chunk)
+        else:
+            # Uzun MADDE'leri ikincil olarak böl (ama MADDE context'ini koru!)
+            long_madde_count += 1
+            
+            text_splitter = RecursiveCharacterTextSplitter(
+                chunk_size=CHUNK_SIZE,
+                chunk_overlap=CHUNK_OVERLAP,
+                # BENT/FIKRA seviyesinde bölme (MADDE'yi korur!)
+                separators=[
+                    # 1. Öncelik: BENT ayraçları
+                    "\na) ", "\nb) ", "\nc) ", "\nç) ", "\nd) ", 
+                    "\ne) ", "\nf) ", "\ng) ", "\nğ) ", "\nh) ",
+                    
+                    # 2. Öncelik: Fıkra numaraları
+                    "\n(1) ", "\n(2) ", "\n(3) ", "\n(4) ", "\n(5) ",
+                    
+                    # 3. Öncelik: Paragraf ayraçları
+                    "\n\n",
+                    
+                    # 4. Öncelik: Cümle sonları
+                    "\n", ". ",
+                    
+                    # 5. Son çare: Karakter bazlı
+                    " ", ""
+                ],
+                length_function=len,
+                is_separator_regex=False
+            )
+            
+            # Bu MADDE'yi alt parçalara böl
+            sub_chunks = text_splitter.split_text(chunk.page_content)
+            
+            # Her alt parçayı Document'e çevir ve parent metadata'yı koru
+            for i, sub_text in enumerate(sub_chunks):
+                sub_chunk = Document(
+                    page_content=sub_text,
+                    metadata=chunk.metadata.copy()
+                )
+                
+                # 🔥 PARENT-CHILD WITH DOCUMENT TITLE
+                # Parent content zaten hard_split_by_madde'den "DOCUMENT - MADDE X" formatında geliyor
+                # Eğer yoksa (eski data için fallback), burada ekle
+                if 'parent_article_content' in chunk.metadata:
+                    # Zaten var, olduğu gibi kullan
+                    sub_chunk.metadata['parent_article_content'] = chunk.metadata['parent_article_content']
+                else:
+                    # Yoksa, şimdi ekle
+                    document_title = chunk.metadata.get('document_title', 'Unknown Document')
+                    madde_num = chunk.metadata.get('madde_number', 'Unknown')
+                    full_parent_content = f"{document_title} - MADDE {madde_num}\n\n{chunk.page_content}"
+                    sub_chunk.metadata['parent_article_content'] = full_parent_content
+                
+                sub_chunk.metadata['is_sub_chunk'] = True
+                sub_chunk.metadata['sub_chunk_index'] = i
+                final_chunks.append(sub_chunk)
+    
+    if long_madde_count > 0:
+        print(f"   ✅ Split {long_madde_count} long MADDEs into {len(final_chunks)} total chunks")
+    else:
+        print(f"   ✅ No MADDEs exceeded {CHUNK_SIZE} characters")
+    
+    print(f"✅ Total chunks after secondary split: {len(final_chunks)}")
+    
+    # 🆕 STEP 3: METADATA INHERITANCE & ENRICHMENT
+    print("\n🧬 STEP 3: Metadata Inheritance & Legal Structure Enrichment...")
+    chunks = post_process_chunks(final_chunks)
     
     # Analyze chunk quality
     quality_metrics = analyze_chunk_quality(chunks)

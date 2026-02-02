@@ -43,7 +43,7 @@ def create_vector_search_index():
                 {
                     "type": "vector",
                     "path": "embedding",
-                    "numDimensions": 384,  # paraphrase-multilingual-MiniLM-L12-v2 = 384 dim
+                    "numDimensions": 1024,  # Voyage AI voyage-law-2 modeli
                     "similarity": "cosine"
                 },
                 {

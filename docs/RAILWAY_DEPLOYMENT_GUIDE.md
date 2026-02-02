@@ -30,7 +30,7 @@ Railway Dashboard → **Variables** sekmesi:
 
 ```env
 # MongoDB Connection (ZORUNLU)
-MONGO_URI=mongodb+srv://infera:Hoffnung_1986@mevzuatdb.qqpyi1b.mongodb.net/?appName=mevzuatdb
+MONGO_URI=mongodb+srv://<username>:<password>@mevzuatdb.qqpyi1b.mongodb.net/?appName=mevzuatdb
 MONGO_DB_NAME=mevzuat_db
 MONGO_COLLECTION_NAME=documents
 MONGO_VECTOR_INDEX_NAME=vector_index

@@ -2,14 +2,12 @@
 Legal Document Chunking Utilities - ENTERPRISE GRADE
 Specialized chunking for Turkish legal documents (KANUN, YÖNETMELİK, TEBLİĞ)
 
-🚀 CRITICAL IMPROVEMENTS:
-1. ✅ Deterministik MADDE Hard-Split - RecursiveCharacterTextSplitter yerine gerçek MADDE sınırlarından böler
-2. ✅ Context Memory (Stateful Processing) - MADDE numarasını bir sonraki chunk'a miras bırakır
-3. ✅ Multi-MADDE Detection & Auto-Split - Metadata zehirlenmesini önler
-4. ✅ Parent-Child Hierarchy - Her child chunk'a parent_article_content ekler
-5. ✅ Robust Text Normalization - "M A D D E 7 2" gibi bozuk PDF'leri düzeltir
-6. ✅ Smart is_complete_madde Logic - Gerçek bütünlüğü kontrol eder
-7. ✅ Voyage AI voyage-law-2 - Türk hukuku için optimize edilmiş embeddings
+🚀 IMPROVEMENTS:
+1. ✅ Context Memory (Stateful Processing) - Inherits MADDE from previous chunk
+2. ✅ Multi-MADDE Detection & Auto-Split - Prevents metadata poisoning
+3. ✅ Parent-Child Hierarchy Support - Ready for hierarchical RAG
+4. ✅ Robust Text Normalization - Handles broken PDF extractions
+5. ✅ Smart is_complete_madde Logic - Checks actual completeness
 """
 
 import re
@@ -26,8 +24,7 @@ class Document:
 def normalize_text_for_madde_detection(text: str) -> str:
     """
     Normalizes text to handle broken PDF extractions.
-    ⚠️ NOT USED IN HARD-SPLIT! Use robust regex instead.
-    Kept for backward compatibility with other functions.
+    Fixes: "M a d d e", "MAD DE", "M A D D E 7 2", etc.
     
     Args:
         text (str): Raw text from PDF
@@ -48,7 +45,7 @@ def normalize_text_for_madde_detection(text: str) -> str:
 def extract_all_madde_numbers(text: str) -> List[str]:
     """
     Extracts ALL article (MADDE) numbers from text.
-    🆕 ROBUST REGEX: Handles "M A D D E 7 2", "Madde 72", "MADDE-72", etc.
+    🆕 IMPROVEMENT: Uses findall instead of search to detect multi-MADDE chunks.
     
     Args:
         text (str): Text to search for MADDE numbers
@@ -56,16 +53,19 @@ def extract_all_madde_numbers(text: str) -> List[str]:
     Returns:
         List[str]: List of all MADDE numbers found
     """
-    # 🆕 ROBUST PATTERN: Handles broken PDF extractions
-    # (?i) = case insensitive
-    # M\s*A\s*D\s*D\s*E = "MADDE" with optional spaces between letters
-    # \s*[:\-–]?\s* = optional separator (colon, dash, etc.)
-    # (\d+) = the article number
-    robust_pattern = r"(?i)M\s*A\s*D\s*D\s*E\s*[:\-–]?\s*(\d+)"
+    # Normalize text first
+    normalized = normalize_text_for_madde_detection(text)
+    
+    # Pattern: "MADDE 12", "Madde 12", "Madde-12", "Madde:12"
+    patterns = [
+        r"MADDE\s*[:\-–]?\s*(\d+)",
+        r"Madde\s*[:\-–]?\s*(\d+)",
+    ]
     
     all_madde_numbers = []
-    matches = re.findall(robust_pattern, text)
-    all_madde_numbers.extend(matches)
+    for pattern in patterns:
+        matches = re.findall(pattern, normalized)
+        all_madde_numbers.extend(matches)
     
     # Remove duplicates while preserving order
     seen = set()
@@ -94,8 +94,7 @@ def extract_madde_number(text: str) -> str:
 
 def detect_madde_boundaries(text: str) -> List[Tuple[int, str]]:
     """
-    🆕 ROBUST: Detects positions and numbers of all MADDE boundaries in text.
-    Handles broken PDF extractions: "M A D D E 7 2", "Madde-72", "MADDE: 72", etc.
+    Detects positions and numbers of all MADDE boundaries in text.
     
     Args:
         text (str): Text to analyze
@@ -103,16 +102,12 @@ def detect_madde_boundaries(text: str) -> List[Tuple[int, str]]:
     Returns:
         List[Tuple[int, str]]: List of (position, madde_number) tuples
     """
-    # 🆕 ROBUST PATTERN: Works with broken PDFs
-    # (?i) = case insensitive
-    # M\s*A\s*D\s*D\s*E = "MADDE" with optional spaces between each letter
-    # \s*[:\-–]?\s* = optional separator (space, colon, dash, en-dash)
-    # (\d+) = capture the article number
-    robust_pattern = r"(?i)M\s*A\s*D\s*D\s*E\s*[:\-–]?\s*(\d+)"
+    normalized = normalize_text_for_madde_detection(text)
     
+    pattern = r"MADDE\s*[:\-–]?\s*(\d+)"
     boundaries = []
     
-    for match in re.finditer(robust_pattern, text):
+    for match in re.finditer(pattern, normalized, re.IGNORECASE):
         boundaries.append((match.start(), match.group(1)))
     
     return boundaries
@@ -150,69 +145,6 @@ def check_is_complete_madde(text: str, madde_number: str) -> bool:
     # At this point: chunk has exactly one MADDE and it's at the start
     # This is likely a complete MADDE
     return True
-
-
-def hard_split_by_madde(text: str, metadata: Optional[Dict] = None) -> List[Document]:
-    """
-    🆕 DETERMINISTIK HARD-SPLIT: Metni gerçek MADDE sınırlarından böler.
-    RecursiveCharacterTextSplitter'a güvenmez, ROBUST REGEX ile kesin olarak böler.
-    
-    🔥 CRITICAL: Handles broken PDF extractions!
-    - "M A D D E 7 2" → Detected!
-    - "Madde-72" → Detected!
-    - "MADDE: 72" → Detected!
-    
-    Bu fonksiyon RecursiveCharacterTextSplitter'ın "sessiz riski"ni ortadan kaldırır:
-    - Chunk size'a bakmaksızın MADDE sınırlarını korur
-    - Her MADDE bir "Parent" olarak kabul edilir
-    - Metadata zehirlenmesi %100 önlenir
-    
-    Args:
-        text (str): Dökümanın tam metni
-        metadata (Dict): Döküman metadata'sı
-        
-    Returns:
-        List[Document]: Her MADDE için bir Document
-    """
-    metadata = metadata or {}
-    
-    # 🆕 ROBUST REGEX: Direkt orijinal text üzerinde çalış (normalizasyon YOK!)
-    # Pozisyonları orijinal text'ten al, bu sayede pozisyon kayması olmaz
-    boundaries = detect_madde_boundaries(text)
-    
-    # Eğer hiç MADDE yoksa, metni olduğu gibi döndür
-    if not boundaries:
-        return [Document(page_content=text, metadata=metadata.copy())]
-    
-    chunks = []
-    
-    for i, (pos, madde_num) in enumerate(boundaries):
-        # MADDE başlangıç ve bitiş pozisyonlarını belirle
-        start_pos = pos
-        end_pos = boundaries[i + 1][0] if i + 1 < len(boundaries) else len(text)
-        
-        # MADDE metnini çıkar (direkt orijinal text'ten!)
-        madde_text = text[start_pos:end_pos].strip()
-        
-        # 🆕 PARENT CONTENT WITH DOCUMENT TITLE
-        # "İŞ KANUNU - MADDE 74 - [madde metni]" formatında
-        document_title = metadata.get('document_title', 'Unknown Document')
-        full_parent_content = f"{document_title} - MADDE {madde_num}\n\n{madde_text}"
-        
-        # Parent document oluştur
-        chunk_metadata = metadata.copy()
-        chunk_metadata['madde_number'] = madde_num
-        chunk_metadata['is_complete_madde'] = True
-        chunk_metadata['parent_article_content'] = full_parent_content  # 🔥 DOCUMENT TITLE EKLENDI!
-        chunk_metadata['chunk_method'] = 'hard_split_by_madde'  # Debug için
-        
-        chunk = Document(
-            page_content=madde_text,
-            metadata=chunk_metadata
-        )
-        chunks.append(chunk)
-    
-    return chunks
 
 
 def split_multi_madde_chunk(chunk: Document) -> List[Document]:
@@ -289,24 +221,16 @@ def extract_fikra_numbers(text: str) -> List[str]:
     return matches
 
 
-def enrich_chunk_metadata(
-    chunk: Document, 
-    last_known_madde: Optional[str] = None,
-    last_parent_content: Optional[str] = None
-) -> Tuple[Document, str, Optional[str]]:
+def enrich_chunk_metadata(chunk: Document, last_known_madde: Optional[str] = None) -> Tuple[Document, str]:
     """
-    🆕 ENTERPRISE-GRADE METADATA ENRICHMENT:
-    1. Context Memory - MADDE numarasını bir öncekinden miras alır
-    2. Parent-Child - Her chunk'a parent_article_content ekler
-    3. "Devamı" işaretlemesi - Miras alınan chunk'ları açıkça belirtir
+    🆕 CONTEXT MEMORY: Enriches chunk with metadata using context from previous chunk.
     
     Args:
         chunk (Document): Original chunk
-        last_known_madde (Optional[str]): MADDE number from previous chunk
-        last_parent_content (Optional[str]): Parent MADDE content from previous chunk
+        last_known_madde (Optional[str]): MADDE number from previous chunk (context memory)
         
     Returns:
-        Tuple[Document, str, Optional[str]]: (Enriched chunk, current MADDE, parent content for next)
+        Tuple[Document, str]: (Enriched chunk, current MADDE number for next chunk)
     """
     text = chunk.page_content
     
@@ -316,30 +240,9 @@ def enrich_chunk_metadata(
     # 🚀 CONTEXT INHERITANCE: If no MADDE found, inherit from previous chunk
     if madde_number == "Unknown" and last_known_madde:
         madde_number = last_known_madde
-        chunk.metadata['inherited_madde'] = True
-        
-        # 🆕 PARENT-CHILD İLİŞKİSİ: Eğer parent content varsa ekle
-        if last_parent_content:
-            chunk.metadata['parent_article_content'] = last_parent_content
-        
-        # full_reference'ı "Devamı" olarak işaretle
-        document_title = chunk.metadata.get('document_title', 'Unknown Document')
-        chunk.metadata['full_reference'] = f"{document_title} - MADDE {madde_number} (Devamı)"
-        
-        # Parent content değişmedi, bir sonraki chunk için aynı parent'ı geçir
-        current_parent = last_parent_content
+        chunk.metadata['inherited_madde'] = True  # Mark as inherited for debugging
     else:
         chunk.metadata['inherited_madde'] = False
-        
-        # Yeni MADDE başladı - bu MADDE'nin kendisi parent olur
-        if madde_number != "Unknown":
-            # 🔥 PARENT CONTENT WITH DOCUMENT TITLE
-            document_title = chunk.metadata.get('document_title', 'Unknown Document')
-            full_parent_content = f"{document_title} - MADDE {madde_number}\n\n{text}"
-            chunk.metadata['parent_article_content'] = full_parent_content
-            current_parent = full_parent_content
-        else:
-            current_parent = None
     
     bent_letters = extract_bent_letters(text)
     fikra_numbers = extract_fikra_numbers(text)
@@ -357,16 +260,15 @@ def enrich_chunk_metadata(
     else:
         chunk.metadata['is_complete_madde'] = False
     
-    # Create a human-readable source identifier (if not already set above)
-    if 'full_reference' not in chunk.metadata:
-        document_title = chunk.metadata.get('document_title', 'Unknown Document')
-        if madde_number != "Unknown":
-            chunk.metadata['full_reference'] = f"{document_title} - MADDE {madde_number}"
-        else:
-            chunk.metadata['full_reference'] = document_title
+    # Create a human-readable source identifier
+    document_title = chunk.metadata.get('document_title', 'Unknown Document')
+    if madde_number != "Unknown":
+        chunk.metadata['full_reference'] = f"{document_title} - MADDE {madde_number}"
+    else:
+        chunk.metadata['full_reference'] = document_title
     
-    # Return chunk, current MADDE, and parent content for next iteration
-    return chunk, madde_number, current_parent
+    # Return chunk and current MADDE for next iteration's context
+    return chunk, madde_number
 
 
 def post_process_chunks(chunks: List[Document]) -> List[Document]:
@@ -400,27 +302,20 @@ def post_process_chunks(chunks: List[Document]) -> List[Document]:
     else:
         print(f"   ✅ No multi-MADDE chunks detected")
     
-    # STEP 2: Enrich with context memory & parent-child (Stateful Processing)
-    print("   🧠 Enriching with context memory & parent-child hierarchy...")
+    # STEP 2: Enrich with context memory (Stateful Processing)
+    print("   🧠 Enriching with context memory...")
     enriched_chunks = []
     last_known_madde = None
-    last_parent_content = None
     complete_madde_count = 0
     inherited_count = 0
     
     for i, chunk in enumerate(split_chunks):
-        enriched, current_madde, current_parent = enrich_chunk_metadata(
-            chunk, 
-            last_known_madde,
-            last_parent_content
-        )
+        enriched, current_madde = enrich_chunk_metadata(chunk, last_known_madde)
         enriched_chunks.append(enriched)
         
         # Update context for next chunk
         if current_madde != "Unknown":
             last_known_madde = current_madde
-        if current_parent is not None:
-            last_parent_content = current_parent
         
         # Track statistics
         if enriched.metadata.get('is_complete_madde', False):
@@ -431,7 +326,7 @@ def post_process_chunks(chunks: List[Document]) -> List[Document]:
     print(f"✅ Enriched {len(enriched_chunks)} chunks with legal metadata")
     print(f"   📊 Complete MADDE chunks: {complete_madde_count}/{len(enriched_chunks)} ({100*complete_madde_count//len(enriched_chunks)}%)")
     if inherited_count > 0:
-        print(f"   🧬 Inherited MADDE context: {inherited_count} chunks (with parent content)")
+        print(f"   🧬 Inherited MADDE context: {inherited_count} chunks")
     
     return enriched_chunks
 
