@@ -2,6 +2,7 @@
 Document loading and processing
 Loads ALL PDF files from data directories
 AND CREATES EMBEDDINGS for MongoDB Vector Search
+WITH LEGAL STRUCTURE AWARENESS (MADDE-based chunking)
 """
 
 import os
@@ -13,6 +14,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import voyageai
 from text_processing import clean_text
+from legal_chunker import post_process_chunks, analyze_chunk_quality
 from config import (
     KANUN_DIR, 
     TEBLIG_DIR, 
@@ -45,10 +47,17 @@ def load_single_pdf(pdf_path):
     loader = PyPDFLoader(pdf_path)
     documents = loader.load()
     
-    # Add source metadata
+    # Extract document title from filename (remove .pdf extension)
+    filename = os.path.basename(pdf_path)
+    document_title = filename.replace('.pdf', '')
+    source_directory = os.path.basename(os.path.dirname(pdf_path))
+    
+    # Add enriched source metadata
     for doc in documents:
-        doc.metadata['source_file'] = os.path.basename(pdf_path)
-        doc.metadata['source_dir'] = os.path.basename(os.path.dirname(pdf_path))
+        doc.metadata['source_file'] = filename
+        doc.metadata['source_dir'] = source_directory
+        doc.metadata['document_title'] = document_title
+        doc.metadata['document_type'] = source_directory  # KANUN VE YÖNETMELİKLER or TEBLİĞ
     
     return documents
 
@@ -187,15 +196,74 @@ def load_and_process_documents():
     
     print(f"✅ Cleaned {len(all_documents)} pages")
     
-    # Split into chunks
-    print("\n✂️  Splitting documents into chunks...")
+    # Split into chunks with LEGAL STRUCTURE AWARENESS
+    print("\n✂️  Splitting documents into MADDE-BASED chunks...")
+    print("📋 Using hierarchical separators for legal documents:")
+    print("   1️⃣  MADDE (Article) boundaries")
+    print("   2️⃣  Bent/Fıkra (Clause/Paragraph) boundaries")
+    print("   3️⃣  Double newlines")
+    print("   4️⃣  Single newlines")
+    print("   5️⃣  Fallback to character splitting")
+    
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
-        separators=["\n\n", "\n", ". ", " ", ""]
+        # HUKUKI YAPI FARKINDALIKLI AYRAÇLAR
+        separators=[
+            # 1. Öncelik: MADDE başlıkları (en önemli!)
+            "\nMADDE ",
+            "\nMadde ",
+            "\nMadde-",
+            "\nMadde:",
+            "\nMadde–",
+            
+            # 2. Öncelik: BENT ve FIKRA ayraçları
+            "\na) ",
+            "\nb) ",
+            "\nc) ",
+            "\nç) ",
+            "\nd) ",
+            "\ne) ",
+            "\nf) ",
+            "\ng) ",
+            "\nğ) ",
+            "\nh) ",
+            
+            # 3. Öncelik: Fıkra numaraları
+            "\n(1) ",
+            "\n(2) ",
+            "\n(3) ",
+            "\n(4) ",
+            "\n(5) ",
+            
+            # 4. Öncelik: Paragraf ayraçları
+            "\n\n",
+            
+            # 5. Öncelik: Cümle sonları
+            "\n",
+            ". ",
+            
+            # 6. Son çare: Karakter bazlı
+            " ",
+            ""
+        ],
+        # Madde bütünlüğünü korumak için overlap artırıldı
+        length_function=len,
+        is_separator_regex=False
     )
     chunks = text_splitter.split_documents(all_documents)
-    print(f"✅ Created {len(chunks)} chunks")
+    print(f"✅ Created {len(chunks)} MADDE-AWARE chunks")
+    
+    # Enrich chunks with legal structure metadata
+    chunks = post_process_chunks(chunks)
+    
+    # Analyze chunk quality
+    quality_metrics = analyze_chunk_quality(chunks)
+    print("\n📊 Legal Structure Analysis:")
+    print(f"   ✅ Complete MADDE chunks: {quality_metrics['complete_madde_chunks']} ({quality_metrics['complete_madde_percentage']:.1f}%)")
+    print(f"   📝 Chunks with BENT: {quality_metrics['chunks_with_bent']}")
+    print(f"   📝 Chunks with FIKRA: {quality_metrics['chunks_with_fikra']}")
+    print(f"   📏 Average chunk length: {quality_metrics['average_chunk_length']:.0f} characters")
     
     # Show statistics
     if chunks:

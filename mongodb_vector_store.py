@@ -40,15 +40,23 @@ class MongoDBVectorStore:
     def similarity_search(self, query, k=10, filter_dict=None):
         """
         MongoDB Vector Search ile benzer dökümanları bul.
+        WITH INTELLIGENT METADATA FILTERING!
         
         Args:
             query (str): Arama sorgusu
             k (int): Döndürülecek döküman sayısı
-            filter_dict (dict): Metadata filtreleri (opsiyonel)
+            filter_dict (dict): MongoDB query format metadata filtreleri (opsiyonel)
+                               Örnek: {'source_dir': 'KANUN VE YÖNETMELİKLER'}
+                               Örnek: {'$or': [{'document_title': {'$regex': 'maden', '$options': 'i'}}]}
             
         Returns:
             list: Document objelerinin listesi (LangChain formatında)
         """
+        print(f"\n🔍 MongoDB Vector Search başlatılıyor...")
+        print(f"   • Query: {query[:50]}...")
+        print(f"   • K: {k}")
+        print(f"   • Filter: {filter_dict if filter_dict else 'None (tüm dokümanlar)'}")
+        
         # 1. Sorguyu Voyage AI ile vektöre çevir
         result = self.voyage_client.embed([query], model=self.embedding_model, input_type="query")
         query_vector = result.embeddings[0]
@@ -63,27 +71,36 @@ class MongoDBVectorStore:
                     "numCandidates": k * 10,  # Daha iyi sonuçlar için fazla aday tara
                     "limit": k
                 }
-            },
-            {
-                "$project": {
-                    "content": 1,
-                    "metadata": 1,
-                    "score": {"$meta": "vectorSearchScore"}
-                }
             }
         ]
         
-        # 3. Filter ekle (opsiyonel)
+        # 3. Metadata filter ekle (vector search SONRASINDA)
+        # NOT: MongoDB Atlas'ta filter $vectorSearch içinde "filter" parametresi ile de verilebilir
+        # ama daha esnek olması için $match stage kullanıyoruz
         if filter_dict:
-            match_stage = {"$match": {}}
-            for key, value in filter_dict.items():
-                match_stage["$match"][f"metadata.{key}"] = value
-            pipeline.insert(1, match_stage)
+            print(f"   📂 Applying metadata filter...")
+            pipeline.append({
+                "$match": filter_dict
+            })
         
-        # 4. Sorguyu çalıştır
-        results = list(self.collection.aggregate(pipeline))
+        # 4. Projection ekle (score ve data)
+        pipeline.append({
+            "$project": {
+                "content": 1,
+                "metadata": 1,
+                "score": {"$meta": "vectorSearchScore"}
+            }
+        })
         
-        # 5. LangChain Document formatına çevir
+        # 5. Sorguyu çalıştır
+        try:
+            results = list(self.collection.aggregate(pipeline))
+            print(f"   ✅ Found {len(results)} documents")
+        except Exception as e:
+            print(f"   ❌ MongoDB query failed: {e}")
+            return []
+        
+        # 6. LangChain Document formatına çevir
         documents = []
         for result in results:
             # Document benzeri obje oluştur

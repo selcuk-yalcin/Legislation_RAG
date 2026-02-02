@@ -32,7 +32,7 @@ MongoDB Atlas'ta vector search kullanabilmek için **Search Index** oluşturman�
 
 **Index Name:** `vector_index`
 
-**JSON Configuration:**
+**JSON Configuration (UPDATED with MADDE-level metadata):**
 ```json
 {
   "fields": [
@@ -49,6 +49,18 @@ MongoDB Atlas'ta vector search kullanabilmek için **Search Index** oluşturman�
     {
       "type": "filter",
       "path": "metadata.source_dir"
+    },
+    {
+      "type": "filter",
+      "path": "metadata.document_title"
+    },
+    {
+      "type": "filter",
+      "path": "metadata.document_type"
+    },
+    {
+      "type": "filter",
+      "path": "metadata.madde_number"
     },
     {
       "type": "filter",
@@ -118,6 +130,18 @@ db.documents.createSearchIndex(
       {
         type: "filter",
         path: "metadata.source_dir"
+      },
+      {
+        type: "filter",
+        path: "metadata.document_title"
+      },
+      {
+        type: "filter",
+        path: "metadata.document_type"
+      },
+      {
+        type: "filter",
+        path: "metadata.madde_number"
       },
       {
         type: "filter",

@@ -11,7 +11,7 @@ from config import (
     MAX_CONVERSATION_HISTORY,
     MEMORY_STRATEGY
 )
-from query_expansion import expand_query
+from query_expansion import expand_query, analyze_query_context, build_metadata_filter
 
 
 class RAGPipeline:
@@ -51,6 +51,7 @@ class RAGPipeline:
     def _format_sources(self, documents):
         """
         Format source documents in a beautiful, user-friendly way.
+        NOW WITH MADDE-LEVEL PRECISION!
         
         Args:
             documents: List of Document objects with metadata
@@ -65,57 +66,55 @@ class RAGPipeline:
         sources += "📚 CEVABINIZ İÇİN KULLANILAN KAYNAKLAR\n"
         sources += "═" * 70 + "\n\n"
         
-        # Group documents by source file
-        sources_by_file = {}
-        for doc in documents:
-            source_file = doc.metadata.get('source_file', 'Bilinmeyen Kaynak')
-            if source_file not in sources_by_file:
-                sources_by_file[source_file] = []
-            sources_by_file[source_file].append(doc)
-        
-        # Format each source group
-        source_num = 1
-        for source_file, docs in sources_by_file.items():
-            # Clean up source file name
-            clean_name = source_file.replace('.pdf', '').replace('_', ' ')
+        # Format each source with MADDE information
+        for idx, doc in enumerate(documents, 1):
+            # Get enhanced metadata
+            document_title = doc.metadata.get('document_title', 'Bilinmeyen Belge')
+            madde_number = doc.metadata.get('madde_number', 'Bilinmeyen')
+            full_reference = doc.metadata.get('full_reference', document_title)
+            document_type = doc.metadata.get('document_type', '')
+            page = doc.metadata.get('page', 'N/A')
             
-            sources += f"📄 Kaynak {source_num}: {clean_name}\n"
+            sources += f"📄 Kaynak {idx}: {full_reference}\n"
             sources += "─" * 70 + "\n"
             
-            # Show pages from this document
-            pages = []
-            for doc in docs:
-                page_label = doc.metadata.get('page_label', doc.metadata.get('page', 'N/A'))
-                if page_label not in pages:
-                    pages.append(page_label)
+            # Show document type
+            if document_type:
+                category = "📜 Kanun/Yönetmelik" if "KANUN" in document_type else "📋 Tebliğ"
+                sources += f"{category}\n"
             
-            if pages:
-                sources += f"📖 Sayfa(lar): {', '.join(map(str, pages))}\n"
+            # Show MADDE number if available
+            if madde_number != "Bilinmeyen":
+                sources += f"📌 MADDE: {madde_number}\n"
             
-            # Show source directory (KANUN/TEBLİĞ) from first doc
-            if docs:
-                source_dir = docs[0].metadata.get('source_dir', '')
-                if source_dir:
-                    category = "📜 Kanun/Yönetmelik" if "KANUN" in source_dir else "📋 Tebliğ"
-                    sources += f"{category}\n"
+            # Show page number
+            sources += f"📖 Sayfa: {page}\n"
             
-            # Show content preview from first document
-            if docs:
-                content_preview = docs[0].page_content[:200].replace('\n', ' ').strip()
-                sources += f"💬 Alıntı: \"{content_preview}...\"\n"
+            # Show structural information if available
+            if doc.metadata.get('has_bent', False):
+                bent_count = doc.metadata.get('bent_count', 0)
+                sources += f"📋 Bu maddede {bent_count} bent bulunmaktadır\n"
+            
+            if doc.metadata.get('has_fikra', False):
+                fikra_count = doc.metadata.get('fikra_count', 0)
+                sources += f"📝 Bu maddede {fikra_count} fıkra bulunmaktadır\n"
+            
+            # Show content preview
+            content_preview = doc.page_content[:200].replace('\n', ' ').strip()
+            sources += f"💬 Alıntı: \"{content_preview}...\"\n"
             
             sources += "\n"
-            source_num += 1
         
         sources += "═" * 70 + "\n"
-        sources += "💡 Not: Kaynak dökümanlar MongoDB Atlas'tan otomatik seçilmiştir.\n"
+        sources += "💡 Not: Kaynaklar MADDE bazlı parçalama ile hassas şekilde seçilmiştir.\n"
         
         return sources
     
     def generate_response(self, user_input):
         """
         Main RAG Pipeline:
-        1. Expand Query -> 2. Retrieve (Broad) -> 3. Rerank -> 4. Generate Answer
+        1. Analyze Query Context (NEW!) -> 2. Build Metadata Filter (NEW!) 
+        3. Expand Query -> 4. Retrieve (Broad, with filtering) -> 5. Rerank -> 6. Generate Answer
         
         Args:
             user_input (str): User's question
@@ -123,24 +122,45 @@ class RAGPipeline:
         Returns:
             str: Answer with source citations
         """
-        # Step 1: Expand the query (temporarily disabled to avoid model issues)
+        # Step 1: Analyze query to determine relevant sectors/documents (INTELLIGENT FILTERING!)
+        print("\n🧠 Analyzing query context for intelligent filtering...")
+        query_analysis = analyze_query_context(self.client, user_input)
+        
+        # Step 2: Build metadata filter based on analysis
+        metadata_filter = build_metadata_filter(query_analysis)
+        
+        # Step 3: Expand the query (temporarily disabled to avoid model issues)
         # search_query = expand_query(self.client, user_input)
         search_query = user_input  # Use original query directly
         
-        # Step 2: Retrieve broad set of documents
+        # Step 4: Retrieve broad set of documents WITH METADATA FILTERING
+        print(f"\n📚 Retrieving documents from MongoDB...")
         initial_docs = self.vectorstore.similarity_search(
             search_query,
-            k=INITIAL_RETRIEVAL_K
+            k=INITIAL_RETRIEVAL_K,
+            filter_dict=metadata_filter  # 🔥 SMART FILTERING APPLIED HERE!
         )
         
-        # Step 3: Rerank documents with Voyage AI
+        if not initial_docs:
+            print("⚠️ No documents found with current filter, retrying without filter...")
+            # Fallback: retry without filter if no results
+            initial_docs = self.vectorstore.similarity_search(
+                search_query,
+                k=INITIAL_RETRIEVAL_K,
+                filter_dict=None
+            )
+        
+        # Step 5: Rerank documents with Voyage AI
+        print(f"\n🎯 Reranking {len(initial_docs)} documents...")
         if self.reranker:
             relevant_docs = self.reranker.rerank_documents(search_query, initial_docs, top_k=TOP_RERANKED_K)
         else:
             # Fallback: use top documents without reranking
             relevant_docs = initial_docs[:TOP_RERANKED_K]
         
-        # Step 4: Build context
+        print(f"✅ Selected {len(relevant_docs)} most relevant documents")
+        
+        # Step 6: Build context
         context = "\n\n".join([doc.page_content for doc in relevant_docs])
         
         # Add user message to conversation history
@@ -152,7 +172,7 @@ class RAGPipeline:
         # Manage conversation memory (keep only recent messages)
         self._manage_conversation_memory()
         
-        # Step 5: Construct prompt
+        # Step 7: Construct prompt
         rag_prompt = f"""Aşağıdaki iş sağlığı ve güvenliği mevzuatı bilgilerine dayanarak soruyu yanıtla.
 
 KRİTİK TALİMATLAR:
