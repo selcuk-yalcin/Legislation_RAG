@@ -54,7 +54,7 @@ CHUNK_OVERLAP = 300
 INITIAL_RETRIEVAL_K = 100 
 
 # TOP_RERANKED_K: LLM'e (GPT-4o-mini) gönderilen en kaliteli ve elenmiş parça sayısı.
-TOP_RERANKED_K = 3 
+TOP_RERANKED_K = 10 
 
 # --- DOCUMENT PATHS ---
 DATA_DIR = "./data"  # Ana data klasörü
