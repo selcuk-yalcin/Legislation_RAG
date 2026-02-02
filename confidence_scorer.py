@@ -29,14 +29,6 @@ class ConfidenceScorer:
         "sağlanan mevzuat",  # RAG couldn't find info
         "spesifik bir hüküm"  # No specific provision found
     ]
-        "belirtilmemiş",
-        "açık değil",
-        "bilgi bulunmamaktadır",
-        "yer almamaktadır",
-        "değildir",  # Too vague
-        "bilinmemektedir",
-        "tespit edilememiştir"
-    ]
     
     # Positive signals
     POSITIVE_SIGNALS = [
