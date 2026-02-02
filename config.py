@@ -51,7 +51,7 @@ CHUNK_SIZE = 1500
 CHUNK_OVERLAP = 300 
 
 # INITIAL_RETRIEVAL_K: Reranker'a geniş aday havuzu sunarak 'iğneyi samanlıktan çıkarmayı' sağlar.
-INITIAL_RETRIEVAL_K = 100 
+INITIAL_RETRIEVAL_K = 50
 
 # TOP_RERANKED_K: LLM'e (GPT-4o-mini) gönderilen en kaliteli ve elenmiş parça sayısı.
 TOP_RERANKED_K = 15
