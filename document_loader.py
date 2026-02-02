@@ -133,14 +133,23 @@ def save_chunks_to_mongodb(chunks):
         print("\n🧠 Creating embeddings with Voyage AI...")
         documents_to_insert = []
         
+        # 🆕 FILTER OUT EMPTY CHUNKS (Voyage AI doesn't accept empty strings)
+        valid_chunks = [chunk for chunk in chunks if chunk.page_content.strip()]
+        empty_chunks = len(chunks) - len(valid_chunks)
+        
+        if empty_chunks > 0:
+            print(f"⚠️  Filtered out {empty_chunks} empty chunks")
+        
+        print(f"📊 Processing {len(valid_chunks)} valid chunks...")
+        
         # Process in batches for efficiency (Voyage AI supports batch processing)
         batch_size = 128  # Voyage AI optimal batch size
-        for i in range(0, len(chunks), batch_size):
-            batch = chunks[i:i+batch_size]
+        for i in range(0, len(valid_chunks), batch_size):
+            batch = valid_chunks[i:i+batch_size]
             texts = [chunk.page_content for chunk in batch]
             
             # Generate embeddings using Voyage AI
-            print(f"  🌊 Embedding batch {i//batch_size + 1}/{(len(chunks)-1)//batch_size + 1}...")
+            print(f"  🌊 Embedding batch {i//batch_size + 1}/{(len(valid_chunks)-1)//batch_size + 1}...")
             result = voyage_client.embed(
                 texts, 
                 model=VOYAGE_EMBEDDING_MODEL,
@@ -158,7 +167,7 @@ def save_chunks_to_mongodb(chunks):
                 }
                 documents_to_insert.append(doc)
             
-            print(f"  ✓ Processed {min(i+batch_size, len(chunks))}/{len(chunks)} chunks")
+            print(f"  ✓ Processed {min(i+batch_size, len(valid_chunks))}/{len(valid_chunks)} chunks")
         
         # Insert new documents
         result = collection.insert_many(documents_to_insert)

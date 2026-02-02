@@ -25,6 +25,7 @@ from client import create_openrouter_client
 from mongodb_vector_store import get_mongodb_vectorstore, mongodb_store_exists
 from voyage_reranker import VoyageReranker  # Voyage AI reranker
 from rag_pipeline import RAGPipeline
+from hybrid_pipeline import HybridRAGOrchestrator  # Hybrid orchestrator
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -40,24 +41,26 @@ CORS(app, resources={
 
 # Global variables for RAG components
 rag_pipeline = None
+hybrid_orchestrator = None
+openrouter_client = None  # Shared OpenRouter client
 
 
 def initialize_rag_system():
     """Initialize the RAG system components"""
-    global rag_pipeline
+    global rag_pipeline, hybrid_orchestrator, openrouter_client
     
     if rag_pipeline is not None:
         return  # Already initialized
     
-    print("🚀 Initializing Legislation RAG System (MongoDB)...\n")
+    print("🚀 Initializing Legislation RAG System (MongoDB + Hybrid)...\n")
     
     # 1. MongoDB'de veri var mı kontrol et
     if not mongodb_store_exists():
         print("❌ MongoDB'de döküman bulunamadı!")
         raise Exception("MongoDB'de döküman yok. Lütfen preprocessing.py scriptini çalıştırın.")
     
-    # 2. Create OpenRouter client
-    client = create_openrouter_client()
+    # 2. Create OpenRouter client (shared for RAG + Gemini)
+    openrouter_client = create_openrouter_client()
     
     # 3. MongoDB Vector Store'u yükle (ChromaDB yerine)
     vectorstore = get_mongodb_vectorstore()
@@ -68,7 +71,20 @@ def initialize_rag_system():
     reranker = VoyageReranker()
     
     # 5. Create RAG pipeline
-    rag_pipeline = RAGPipeline(client, vectorstore, reranker)
+    rag_pipeline = RAGPipeline(openrouter_client, vectorstore, reranker)
+    
+    # 6. Create Hybrid Orchestrator (with Gemini 2.0 Flash fallback via OpenRouter)
+    try:
+        hybrid_orchestrator = HybridRAGOrchestrator(
+            rag_pipeline=rag_pipeline,
+            mongo_collection=vectorstore.collection,
+            openrouter_client=openrouter_client,
+            enable_fallback=True
+        )
+        print("✅ Hybrid orchestrator with Gemini 2.0 Flash ready!")
+    except Exception as e:
+        print(f"⚠️  Hybrid orchestrator disabled: {e}")
+        hybrid_orchestrator = None
     
     print("\n✅ Legislation RAG system ready!\n")
 
@@ -186,14 +202,29 @@ def query_question():
         # Initialize RAG system if not already done
         initialize_rag_system()
         
-        # Generate answer
-        answer = rag_pipeline.generate_response(question)
-        
-        return jsonify({
-            'answer': answer,
-            'sources': [],  # TODO: Extract sources from answer
-            'status': 'success'
-        }), 200
+        # Use Hybrid Orchestrator if available, otherwise fallback to RAG
+        if hybrid_orchestrator:
+            # Intelligent routing: RAG → Score → Gemini fallback if needed
+            result = hybrid_orchestrator.query(question)
+            
+            return jsonify({
+                'answer': result['answer'],
+                'method': result.get('method', 'unknown'),
+                'confidence': result.get('confidence', 0),
+                'regulation': result.get('regulation', ''),
+                'sources': [],  # TODO: Extract sources from result
+                'status': 'success'
+            }), 200
+        else:
+            # Fallback to basic RAG
+            answer = rag_pipeline.generate_response(question)
+            
+            return jsonify({
+                'answer': answer,
+                'method': 'basic_rag',
+                'sources': [],
+                'status': 'success'
+            }), 200
         
     except Exception as e:
         return jsonify({
