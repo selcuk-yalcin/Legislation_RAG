@@ -34,12 +34,12 @@ class GeminiFallback:
                 base_url="https://openrouter.ai/api/v1",
                 api_key=api_key
             )
-        
-        # Use Gemini 3 Flash Preview (free tier on OpenRouter, 1M context!)
-        self.model_name = "google/gemini-3-flash-preview"
-        
-        print(f"✅ Gemini 3 Flash Preview initialized via OpenRouter (1M context window, FREE)")
-    
+
+        # Use Gemini 2.5 Flash Lite (free tier on OpenRouter, 1M context!)
+        self.model_name = "google/gemini-2.5-flash-lite"
+
+        print(f"✅ Gemini 2.5 Flash Lite initialized via OpenRouter (1M context window, FREE)")
+
     def load_full_regulation(
         self,
         regulation_name: str,
