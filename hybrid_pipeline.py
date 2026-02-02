@@ -28,7 +28,7 @@ class HybridRAGOrchestrator:
     # Regulation name mapping for fallback
     REGULATION_MAP = {
         "patlayici": "MUHTEMEL PATLAYICI ORTAMDA KULLANILAN TEÇHİZAT",
-        "maden": "MADEN İŞYERLERİNDE İŞ SAĞLIĞI VE GÜVENLİĞİ",
+        "maden": "İŞ KANUNU",  # Changed: Maden questions often need İş Kanunu
         "insaat": "YAPILARDA İŞ SAĞLIĞI VE GÜVENLİĞİ",
         "kimyasal": "KİMYASAL MADDELERLE ÇALIŞMALARDA SAĞLIK VE GÜVENLİK",
         "elektrik": "ELEKTRİK İÇ TESİSLERİ YÖNETMELİĞİ",

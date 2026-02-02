@@ -1,5 +1,5 @@
 """
-Confidence Scoring for RAG Answers
+Confidence Scorer for RAG Answers
 Determines if answer quality is sufficient or if fallback is needed
 """
 
@@ -13,8 +13,22 @@ class ConfidenceScorer:
     # Red flag phrases indicating low confidence
     RED_FLAGS = [
         "bulunamadı",
+        "bulunamaz",
+        "bulunmamaktadır",
+        "bulunamamıştır",  # Past tense passive
+        "bulunmamıştır",   # Past tense passive variant
         "bilgi yok",
         "mevcut değil",
+        "belirtilmemiş",
+        "açık değil",
+        "bilgi bulunmamaktadır",
+        "yer almamaktadır",
+        "değildir",  # Too vague
+        "bilinmemektedir",
+        "tespit edilememiştir",
+        "sağlanan mevzuat",  # RAG couldn't find info
+        "spesifik bir hüküm"  # No specific provision found
+    ]
         "belirtilmemiş",
         "açık değil",
         "bilgi bulunmamaktadır",
@@ -150,6 +164,21 @@ class ConfidenceScorer:
         # Component 2: Red flags (instant disqualifier)
         has_red_flags = self.check_red_flags(answer)
         scores['red_flags'] = 0.0 if has_red_flags else 1.0
+        
+        # INSTANT REJECTION: If red flags detected, return 0.0 immediately
+        if has_red_flags:
+            return {
+                "overall": 0.0,
+                "components": {
+                    'length': 0.0,
+                    'red_flags': 0.0,
+                    'positive_signals': 0.0,
+                    'source_relevance': 0.0,
+                    'citation_quality': 0.0
+                },
+                "recommendation": "fallback",
+                "reason": "Red flag detected - insufficient information in sources"
+            }
         
         # Component 3: Positive signals
         positive_count = self.count_positive_signals(answer)
