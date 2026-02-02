@@ -191,14 +191,48 @@ HUKUKİ HALÜSİNASYON BARİYERİ:
             
             print(f"   ✅ Response received ({len(answer)} chars)")
             
+            # Extract MADDE references from answer for sources
+            import re
+            madde_pattern = r'\[MADDE\s+(\d+)\]'
+            madde_matches = re.findall(madde_pattern, answer, re.IGNORECASE)
+            
+            # Create sources list from MADDE references
+            sources = []
+            for madde_num in set(madde_matches):  # Remove duplicates
+                sources.append({
+                    "document_title": regulation_name,
+                    "madde_number": madde_num,
+                    "method": "gemini_fallback",
+                    "citation": f"[MADDE {madde_num}]"
+                })
+            
+            # Format sources for display
+            sources_html = "\n\n" + "═" * 70 + "\n"
+            sources_html += "📚 CEVABINIZ İÇİN KULLANILAN KAYNAKLAR\n"
+            sources_html += "═" * 70 + "\n\n"
+            
+            if sources:
+                for idx, src in enumerate(sources, 1):
+                    sources_html += f"📄 Kaynak {idx}: {src['document_title']}\n"
+                    sources_html += "─" * 70 + "\n"
+                    sources_html += f"📌 MADDE: {src['madde_number']}\n"
+                    sources_html += f"🔍 Yöntem: Gemini Fallback (Full Document Search)\n"
+                    sources_html += f"💬 Atıf: {src['citation']}\n\n"
+            else:
+                sources_html += "⚠️  No specific MADDE citations found in answer.\n\n"
+            
+            sources_html += "═" * 70 + "\n"
+            sources_html += "💡 Not: Gemini 1M context window ile tüm düzenleme tarandı.\n"
+            
             return {
-                "answer": answer,
+                "answer": answer + sources_html,
                 "method": "gemini_fallback_openrouter",
                 "regulation": regulation_name,
                 "full_doc_length": doc_length,
                 "confidence": 0.90,  # High confidence (saw full doc)
                 "model": self.model_name,
-                "api": "openrouter"
+                "api": "openrouter",
+                "sources": sources  # For API response
             }
             
         except Exception as e:
