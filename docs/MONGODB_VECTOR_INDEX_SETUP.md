@@ -39,7 +39,7 @@ MongoDB Atlas'ta vector search kullanabilmek için **Search Index** oluşturman�
     {
       "type": "vector",
       "path": "embedding",
-      "numDimensions": 384,
+      "numDimensions": 1024,
       "similarity": "cosine"
     },
     {
@@ -82,14 +82,14 @@ python3 -c "from mongodb_vector_store import MongoDBVectorStore; store = MongoDB
 
 ### ✅ Doğru Ayarlar:
 - **Index Name:** `vector_index` (config.py'deki MONGO_VECTOR_INDEX_NAME ile aynı olmalı)
-- **Vector Dimensions:** 384 (paraphrase-multilingual-MiniLM-L12-v2 modeli)
+- **Vector Dimensions:** 1024 (Voyage AI voyage-law-2 modeli)
 - **Similarity:** cosine
 - **Collection:** documents
 
 ### ⚠️ Dikkat Edilmesi Gerekenler:
 - Index'in aktif hale gelmesi 1-2 dakika sürer
 - Index adı `config.py`'deki `MONGO_VECTOR_INDEX_NAME` ile eşleşmeli
-- Embedding boyutu (384) model çıktısı ile uyumlu olmalı
+- Embedding boyutu (1024) Voyage AI model çıktısı ile uyumlu olmalı
 
 ---
 
@@ -108,7 +108,7 @@ db.documents.createSearchIndex(
       {
         type: "vector",
         path: "embedding",
-        numDimensions: 384,
+        numDimensions: 1024,
         similarity: "cosine"
       },
       {
