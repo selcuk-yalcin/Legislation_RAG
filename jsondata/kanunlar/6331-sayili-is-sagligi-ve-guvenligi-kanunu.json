@@ -1,0 +1,515 @@
+{
+  "law_metadata": {
+    "law_title": "İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU",
+    "law_number": "6331",
+    "acceptance_date": "20/6/2012",
+    "publication_date": "30/6/2012",
+    "official_gazette": {
+      "date": "30/6/2012",
+      "number": "28339",
+      "order": "5",
+      "volume": "52"
+    }
+  },
+  "definitions": [
+    {
+      "term": "Bakanlık",
+      "definition": "Çalışma ve Sosyal Güvenlik Bakanlığını"
+    },
+    {
+      "term": "Çalışan",
+      "definition": "Kendi özel kanunlarındaki statülerine bakılmaksızın kamu veya özel işyerlerinde istihdam edilen gerçek kişiyi"
+    },
+    {
+      "term": "Çalışan temsilcisi",
+      "definition": "İş sağlığı ve güvenliği ile ilgili çalışmalara katılma, çalışmaları izleme, tedbir alınmasını isteme, tekliflerde bulunma ve benzeri konularda çalışanları temsil etmeye yetkili çalışanı"
+    },
+    {
+      "term": "Destek elemanı",
+      "definition": "Asli görevinin yanında iş sağlığı ve güvenliği ile ilgili önleme, koruma, tahliye, yangınla mücadele, ilk yardım ve benzeri konularda özel olarak görevlendirilmiş uygun donanım ve yeterli eğitime sahip kişiyi"
+    },
+    {
+      "term": "Eğitim kurumu",
+      "definition": "İş güvenliği uzmanı, işyeri hekimi ve diğer sağlık personelinin eğitimlerini vermek üzere Bakanlıkça yetkilendirilen kamu kurum ve kuruluşlarını, üniversiteleri ve Türk Ticaret Kanununa göre faaliyet gösteren şirketler tarafından kurulan müesseseleri"
+    },
+    {
+      "term": "Genç çalışan",
+      "definition": "Onbeş yaşını bitirmiş ancak onsekiz yaşını doldurmamış çalışanı"
+    },
+    {
+      "term": "İş Güvenliği Uzmanı",
+      "definition": "Usul ve esasları yönetmelikle belirlenen, iş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş güvenliği uzmanlığı belgesine sahip, Bakanlık ve ilgili kuruluşlarında çalışma hayatını denetleyen müfettişler ile mühendislik veya mimarlık eğitimi veren fakültelerin mezunları ile teknik elemanı"
+    },
+    {
+      "term": "İş kazası",
+      "definition": "İşyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebebiyet veren veya vücut bütünlüğünü ruhen ya da bedenen engelli hâle getiren olayı"
+    },
+    {
+      "term": "İşveren",
+      "definition": "Çalışan istihdam eden gerçek veya tüzel kişi yahut tüzel kişiliği olmayan kurum ve kuruluşları"
+    },
+    {
+      "term": "İşyeri",
+      "definition": "Mal veya hizmet üretmek amacıyla maddi olan ve olmayan unsurlar ile çalışanın birlikte örgütlendiği, işverenin işyerinde ürettiği mal veya hizmet ile nitelik yönünden bağlılığı bulunan ve aynı yönetim altında örgütlenen işyerine bağlı yerler ile dinlenme, çocuk emzirme, yemek, uyku, yıkanma, muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu gibi diğer eklentiler ve araçları da içeren organizasyonu"
+    },
+    {
+      "term": "İşyeri hekimi",
+      "definition": "İş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, işyeri hekimliği belgesine sahip hekimi"
+    },
+    {
+      "term": "İşyeri sağlık ve güvenlik birimi",
+      "definition": "İşyerinde iş sağlığı ve güvenliği hizmetlerini yürütmek üzere kurulan, gerekli donanım ve personele sahip olan birimi"
+    },
+    {
+      "term": "Konsey",
+      "definition": "Ulusal İş Sağlığı ve Güvenliği Konseyini"
+    },
+    {
+      "term": "Kurul",
+      "definition": "İş sağlığı ve güvenliği kurulunu"
+    },
+    {
+      "term": "Meslek hastalığı",
+      "definition": "Mesleki risklere maruziyet sonucu ortaya çıkan hastalığı"
+    },
+    {
+      "term": "Ortak sağlık ve güvenlik birimi",
+      "definition": "Kamu kurum ve kuruluşları, organize sanayi bölgeleri ile Türk Ticaret Kanununa göre faaliyet gösteren şirketler tarafından, işyerlerine iş sağlığı ve güvenliği hizmetlerini sunmak üzere kurulan gerekli donanım ve personele sahip olan ve Bakanlıkça yetkilendirilen birimi"
+    },
+    {
+      "term": "Önleme",
+      "definition": "İşyerinde yürütülen işlerin bütün safhalarında iş sağlığı ve güvenliği ile ilgili riskleri ortadan kaldırmak veya azaltmak için planlanan ve alınan tedbirlerin tümünü"
+    },
+    {
+      "term": "Risk",
+      "definition": "Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme ihtimalini"
+    },
+    {
+      "term": "Risk değerlendirmesi",
+      "definition": "İşyerinde var olan ya da dışarıdan gelebilecek tehlikelerin belirlenmesi, bu tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden kaynaklanan risklerin analiz edilerek derecelendirilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gerekli çalışmaları"
+    },
+    {
+      "term": "Tehlike",
+      "definition": "İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini etkileyebilecek zarar veya hasar verme potansiyelini"
+    },
+    {
+      "term": "Tehlike sınıfı",
+      "definition": "İş sağlığı ve güvenliği açısından, yapılan işin özelliği, işin her safhasında kullanılan veya ortaya çıkan maddeler, iş ekipmanı, üretim yöntem ve şekilleri, çalışma ortam ve şartları ile ilgili diğer hususlar dikkate alınarak işyeri için belirlenen tehlike grubunu"
+    },
+    {
+      "term": "Teknik eleman",
+      "definition": "Teknik öğretmen, fizikçi, kimyager ve biyolog unvanına sahip olanlar ile üniversitelerin iş sağlığı ve güvenliği programı mezunlarını"
+    },
+    {
+      "term": "İşyeri hemşiresi",
+      "definition": "25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanununa göre hemşirelik mesleğini icra etmeye yetkili, iş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş işyeri hemşireliği belgesine sahip hemşire/sağlık memurunu"
+    }
+  ],
+  "content": [
+    {
+      "level": "PART",
+      "index": "BİRİNCİ BÖLÜM",
+      "title": "Amaç, Kapsam ve Tanımlar",
+      "text_content": "",
+      "children": [
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 1",
+          "title": "Amaç",
+          "text_content": "(1) Bu Kanunun amacı; işyerlerinde iş sağlığı ve güvenliğinin sağlanması ve mevcut sağlık ve güvenlik şartlarının iyileştirilmesi için işveren ve çalışanların görev, yetki, sorumluluk, hak ve yükümlülüklerini düzenlemektir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 2",
+          "title": "Kapsam ve istisnalar",
+          "text_content": "(1) Bu Kanun; kamu ve özel sektöre ait bütün işlere ve işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine, çırak ve stajyerler de dâhil olmak üzere tüm çalışanlarına faaliyet konularına bakılmaksızın uygulanır.\n(2) Ancak aşağıda belirtilen faaliyetler ve kişiler hakkında bu Kanun hükümleri uygulanmaz:\na) Fabrika, bakım merkezi, dikimevi ve benzeri işyerlerindekiler hariç Türk Silahlı Kuvvetleri, genel kolluk kuvvetleri ve Milli İstihbarat Teşkilatı Müsteşarlığının faaliyetleri.\nb) Afet ve acil durum birimlerinin müdahale faaliyetleri.\nc) Ev hizmetleri.\nç) Çalışan istihdam etmeksizin kendi nam ve hesabına mal ve hizmet üretimi yapanlar.\nd) Hükümlü ve tutuklulara yönelik infaz hizmetleri sırasında, iyileştirme kapsamında yapılan işyurdu, eğitim, güvenlik ve meslek edindirme faaliyetleri.\ne) **(Ek: 10/9/2014-6552/15 md.)** Denizyolu taşımacılığı yapan araçların uluslararası seyrüsefer hâlleri.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 3",
+          "title": "Tanımlar",
+          "text_content": "(1) Bu Kanunun uygulanmasında;\n(2) İşveren adına hareket eden, işin ve işyerinin yönetiminde görev alan işveren vekilleri, bu Kanunun uygulanması bakımından işveren sayılır.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "PART",
+      "index": "İKİNCİ BÖLÜM",
+      "title": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+      "text_content": "",
+      "children": [
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 4",
+          "title": "İşverenin genel yükümlülüğü",
+          "text_content": "(1) İşveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlü olup bu çerçevede;\na) Mesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması, organizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik tedbirlerinin değişen şartlara uygun hale getirilmesi ve mevcut durumun iyileştirilmesi için çalışmalar yapar.\nb) İşyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar.\nc) Risk değerlendirmesi yapar veya yaptırır.\nç) Çalışana görev verirken, çalışanın sağlık ve güvenlik yönünden işe uygunluğunu göz önüne alır.\nd) Yeterli bilgi ve talimat verilenler dışındaki çalışanların hayati ve özel tehlike bulunan yerlere girmemesi için gerekli tedbirleri alır.\n(2) İşyeri dışındaki uzman kişi ve kuruluşlardan hizmet alınması, işverenin sorumluluklarını ortadan kaldırmaz.\n(3) Çalışanların iş sağlığı ve güvenliği alanındaki yükümlülükleri, işverenin sorumluluklarını etkilemez.\n(4) İşveren, iş sağlığı ve güvenliği tedbirlerinin maliyetini çalışanlara yansıtamaz.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 5",
+          "title": "Risklerden korunma ilkeleri",
+          "text_content": "(1) İşverenin yükümlülüklerinin yerine getirilmesinde aşağıdaki ilkeler göz önünde bulundurulur:\na) Risklerden kaçınmak.\nb) Kaçınılması mümkün olmayan riskleri analiz etmek.\nc) Risklerle kaynağında mücadele etmek.\nc) İşin kişilere uygun hale getirilmesi için işyerlerinin tasarımı ile iş ekipmanı, çalışma şekli ve üretim metotlarının seçiminde özen göstermek, özellikle tekdüze çalışma ve üretim temposunun sağlık ve güvenliğe olumsuz etkilerini önlemek, önlenemiyor ise en aza indirmek.\nd) Teknik gelişmelere uyum sağlamak.\ne) Tehlikeli olanı, tehlikesiz veya daha az tehlikeli olanla değiştirmek.\nf) Teknoloji, iş organizasyonu, çalışma şartları, sosyal ilişkiler ve çalışma ortamı ile ilgili faktörlerin etkilerini kapsayan tutarlı ve genel bir önleme politikası geliştirmek.\ng) Toplu korunma tedbirlerine, kişisel korunma tedbirlerine göre öncelik vermek.\nğ) Çalışanlara uygun talimatlar vermek.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 6",
+          "title": "İş sağlığı ve güvenliği hizmetleri",
+          "text_content": "(1) Mesleki risklerin önlenmesi ve bu risklerden korunulmasına yönelik çalışmaları da kapsayacak, iş sağlığı ve güvenliği hizmetlerinin sunulması için işveren;\na) Çalışanları arasından iş güvenliği uzmanı, işyeri hekimi ve on ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli görevlendirir. Çalışanları arasında belirlenen niteliklere sahip personel bulunmaması hâlinde, bu hizmetin tamamını veya bir kısmını ortak sağlık ve güvenlik birimlerinden hizmet alarak yerine getirebilir. Ancak belirlenen niteliklere ve gerekli belgeye sahip olması hâlinde, tehlike sınıfı ve çalışan sayısı dikkate alınarak, bu hizmetin yerine getirilmesini kendisi üstlenebilir. **(Ek cümle: 10/9/2014-6552/16 md.)** Belirlenen niteliklere ve gerekli belgeye sahip olmayan ancak 10'dan az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyeri işverenleri veya işveren vekili tarafından Bakanlıkça ilan edilen eğitimleri tamamlamak şartıyla işe giriş ve periyodik muayeneler ve tetkikler hariç iş sağlığı ve güvenliği hizmetlerini yürütebilirler. (1)\nb) Görevlendirdikleri kişi veya hizmet aldığı kurum ve kuruluşların görevlerini yerine getirmeleri amacıyla araç, gereç, mekân ve zaman gibi gerekli bütün ihtiyaçlarını karşılar.\nc) İşyerinde sağlık ve güvenlik hizmetlerini yürütenler arasında iş birliği ve koordinasyonu sağlar.\nç) Görevlendirdikleri kişi veya hizmet aldığı kurum ve kuruluşlar tarafından iş sağlığı ve güvenliği ile ilgili mevzuata uygun olan ve yazılı olarak bildirilen tedbirleri yerine getirir.\nd) Çalışanların sağlık ve güvenliğini etkilediği bilinen veya etkilemesi muhtemel konular hakkında; görevlendirdikleri kişi veya hizmet aldığı kurum ve kuruluşları, başka işyerlerinden çalışmak üzere kendi işyerine gelen çalışanları ve bunların işverenlerini bilgilendirir.\n(2) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamındaki kamu kurum ve kuruluşları; iş sağlığı ve güvenliği hizmetlerini, Sağlık Bakanlığına ait döner sermayeli kuruluşlardan doğrudan alabileceği gibi 4734 sayılı Kanun hükümleri çerçevesinde de alabilir.\n(3) Tam süreli işyeri hekimi görevlendirilen işyerlerinde, diğer sağlık personeli görevlendirilmesi zorunlu değildir.\n(4) **(Ek: 10/9/2014-6552/16 md.)** Birinci fıkranın (a) bendine göre yapılacak görevlendirme süresinin belirlenmesinde 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu kapsamındaki öğrenci statüsünde olan çırak ve stajyerler, çalışan sayısının toplamına dâhil edilmez.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 7",
+          "title": "İş sağlığı ve güvenliği hizmetlerinin desteklenmesi",
+          "text_content": "(1) İş sağlığı ve güvenliği hizmetlerinin yerine getirilmesi için, Bakanlıkça aşağıdaki şartlarla destek sağlanabilir:\na) Kamu kurum ve kuruluşları hariç ondan az çalışanı bulunanlardan, çok tehlikeli ve tehlikeli sınıfta yer alan işyerleri faydalanabilir. Ancak, Bakanlar Kurulu, ondan az çalışanı bulunanlardan az tehlikeli sınıfta yer alan işyerlerinin de faydalanmasına karar verebilir.\nb) Giderler, iş kazası ve meslek hastalığı bakımından kısa vadeli sigorta kolları için toplanan primlerden kaynak aktarılmak suretiyle, Sosyal Güvenlik Kurumu tarafından finanse edilir.\nc) Uygulamada, Sosyal Güvenlik Kurumu kayıtları esas alınır.\nç) Bu Kanun ve diğer mevzuat gereğince yapılan kontrol ve denetimlerde; istihdam ettiği kişilerin sigortalılık bildiriminde bulunmadığı tespit edilen işverenlerden, tespit tarihine kadar yapılan ödemeler yasal faizi ile birlikte Sosyal Güvenlik Kurumunca tahsil edilir ve bu durumdaki işverenler, sağlanan destekten üç yıl süreyle faydalanamaz.\nd) Uygulamaya ilişkin olarak ortaya çıkabilecek tereddütleri gidermeye, uygulamayı yönlendirmeye ve doğabilecek sorunları çözmeye Bakanlık yetkilidir.\n(2) Aşağıdaki konular ile bunlara ilişkin usul ve esaslar, Maliye Bakanlığının uygun görüşü alınarak Bakanlıkça çıkarılan yönetmelikle belirlenir:\na) İş sağlığı ve güvenliği hizmetlerinin yerine getirilmesi için sağlanacak desteğin uygulanması.\nb) Destek sağlanacak ondan az çalışanı bulunan işyerlerinin özellikleri göz önünde bulundurularak; Sosyal Güvenlik Kurumu tarafından ödenecek iş sağlığı ve güvenliği hizmet bedellerinin tespiti, destek olunacak kısmı ve ödenme şekli.\nc) Destekten faydalanabilecek işyerlerinin taşıması gereken şartlar.\nç) İş sağlığı ve güvenliği hizmeti verecek kuruluşların özellikleri.\n(3) Etkinlik ve sürekliliğin sağlanması amacıyla; Bakanlık tarafından Sağlık Bakanlığı, Bilim, Sanayi ve Teknoloji Bakanlığı ve ilgili meslek kuruluşlarıyla iş birliği yapılabilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 8",
+          "title": "İşyeri hekimleri ve iş güvenliği uzmanları",
+          "text_content": "(1) İşyeri hekimi ve iş güvenliği uzmanlarının hak ve yetkileri, görevlerini yerine getirmeleri nedeniyle kısıtlanamaz. Bu kişiler, görevlerini mesleğin gerektirdiği etik ilkeler ve mesleki bağımsızlık içerisinde yürütür.\n(2) **(Değişik: 4/4/2015-6645/1 md.)** İşverene iş sağlığı ve güvenliği ile ilgili konularda rehberlik ve danışmanlık yapmak üzere görevlendirilen işyeri hekimi ve iş güvenliği uzmanı, görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde bulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve tavsiyeleri belirler ve işverene yazılı olarak bildirir. Eksiklik ve aksaklıkların düzeltilmesinden, tedbir ve tavsiyelerin yerine getirilmesinden işveren sorumludur. Bildirilen eksiklik ve aksaklıkların acil durdurmayı gerektirmesi veya yangın, patlama, göçme, kimyasal sızıntı ve benzeri acil ve hayati tehlike arz etmesi, meslek hastalığına sebep olabilecek ortamların bulunmasına rağmen işveren tarafından gerekli tedbirlerin alınmaması hâlinde, bu durum işyeri hekimi veya iş güvenliği uzmanınca, Bakanlığın yetkili birimine, varsa yetkili sendika temsilcisine, yoksa çalışan temsilcisine bildirilir. Bildirim yapmadığı tespit edilen işyeri hekimi ve iş güvenliği uzmanının belgesi üç ay, tekrarında ise altı ay süreyle askıya alınır. Bu bildirimden dolayı işvereni tarafından işyeri hekimi veya iş güvenliği uzmanının iş sözleşmesine son verilemez ve bu kişiler hiçbir şekilde hak kaybına uğratılamaz. Aksi takdirde işveren hakkında bir yıllık sözleşme ücreti tutarından az olmamak üzere tazminata hükmedilir. İşyeri hekimi veya iş güvenliği uzmanının iş kanunları ve diğer kanunlara göre sahip olduğu hakları saklıdır. Açılan davada, kötü niyetle gerçek dışı bildirimde bulunduğu mahkeme kararıyla tespit edilen kişinin belgesi altı ay süreyle askıya alınır.\n(3) Hizmet sunan kuruluşlar ile işyeri hekimi ve iş güvenliği uzmanları, iş sağlığı ve güvenliği hizmetlerinin yürütülmesindeki ihmallerinden dolayı, hizmet sundukları işverene karşı sorumludur.\n(4) Çalışanın ölümü veya maluliyetiyle sonuçlanacak şekilde vücut bütünlüğünün bozulmasına neden olan iş kazası veya meslek hastalığının meydana gelmesinde ihmali tespit edilen işyeri hekimi veya iş güvenliği uzmanının yetki belgesi askıya alınır.\n(5) İş güvenliği uzmanlarının görev alabilmeleri için; çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı, tehlikeli sınıfta yer alan işyerlerinde en az (B) sınıfı, az tehlikeli sınıfta yer alan işyerlerinde ise en az (C) sınıfı iş güvenliği uzmanlığı belgesine sahip olmaları şartı aranır. Bakanlık, iş güvenliği uzmanlarının ve işyeri hekimlerinin görevlendirilmesi konusunda sektörel alanda özel düzenleme yapabilir. **(Ek cümle: 4/4/2015-6645/1 md.)** Sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi meslekî unvana sahip iş güvenliği uzmanlarının görev yapacağının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar, Bakanlıkça belirlenir.\n(6) Belirlenen çalışma süresi nedeniyle işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda; işveren, işyeri sağlık ve güvenlik birimi kurar. Bu durumda, çalışanların tabi olduğu kanun hükümleri saklı kalmak kaydıyla, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma süresi dikkate alınır.\n(7) Kamu kurum ve kuruluşlarında ilgili mevzuata göre çalıştırılan işyeri hekimi veya iş güvenliği uzmanı olma niteliğini haiz personel, gerekli belgeye sahip olmaları şartıyla asli görevlerinin yanında, belirlenen çalışma süresine riayet ederek çalışmakta oldukları kurumda veya ilgili personelin muvafakati ve üst yöneticinin onayı ile diğer kamu kurum ve kuruluşlarında görevlendirilebilir. Bu şekilde görevlendirilecek personele, görev yaptığı her saat için (200) gösterge rakamının memur aylık katsayısı ile çarpımı tutarında ilave ödeme, hizmet alan kurum tarafından yapılır. Bu ödemeden damga vergisi hariç herhangi bir kesinti yapılmaz. Bu durumdaki görevlendirmeye ilişkin ilave ödemelerde, günlük mesai saatlerine bağlı kalmak kaydıyla, aylık toplam seksen saatten fazla olan görevlendirmeler dikkate alınmaz.\n(8) Kamu sağlık hizmetlerinde tam süreli işyerinde çalışma ilişkin mevzuat hükümleri saklı kalmak kaydıyla, işyeri hekimlerinin ve diğer sağlık personelinin işyeri sağlık ve güvenlik birimi ile ortak sağlık ve güvenlik birimlerinde görevlendirilmelerinde ve hizmet verilen işyerlerinde çalışanlarla sınırlı olmak üzere görevlerini yerine getirmelerinde, diğer kanunların kısıtlayıcı hükümleri uygulanmaz.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 9",
+          "title": "Tehlike sınıfının belirlenmesi",
+          "text_content": "(1) İşyeri tehlike sınıfları; 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 83 üncü maddesine göre belirlenen kısa vadeli sigorta kolları prim tarifesi de dikkate alınarak, İş Sağlığı ve Güvenliği Genel Müdürünün Başkanlığında ilgili taraflarca oluşturulan komisyonun görüşleri doğrultusunda, Bakanlıkça çıkarılacak tebliğ ile tespit edilir.\n(2) İşyeri tehlike sınıflarının tespitinde, o işyerinde yapılan asıl iş dikkate alınır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 10",
+          "title": "Risk değerlendirmesi, kontrol, ölçüm ve araştırma",
+          "text_content": "(1) İşveren, iş sağlığı ve güvenliği yönünden risk değerlendirmesi yapmak veya yaptırmakla yükümlüdür. Risk değerlendirmesi yapılırken aşağıdaki hususlar dikkate alınır:\na) Belirli risklerden etkilenecek çalışanların durumu.\nb) Kullanılacak iş ekipmanı ile kimyasal madde ve müstahzarların seçimi.\nc) İşyerinin tertip ve düzeni.\nç) Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika gerektiren gruplar ile kadın çalışanların durumu.\n(2) İşveren, yapılacak risk değerlendirmesi sonucu alınacak iş sağlığı ve güvenliği tedbirleri ile kullanılması gereken koruyucu donanım veya ekipmanı belirler.\n(3) İşyerinde uygulanacak iş sağlığı ve güvenliği tedbirleri, çalışma şekilleri ve üretim yöntemleri; çalışanların sağlık ve güvenlik yönünden korunma düzeyini yükseltecek ve işyerinin idari yapılanmasının her kademesinde uygulanabilir nitelikte olmalıdır.\n(4) İşveren, iş sağlığı ve güvenliği yönünden çalışma ortamına ve çalışanların bu ortamda maruz kaldığı risklerin belirlenmesine yönelik gerekli kontrol, ölçüm, inceleme ve araştırmaların yapılmasını sağlar.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 11",
+          "title": "Acil durum planları, yangınla mücadele ve ilk yardım",
+          "text_content": "(1) İşveren;\na) Çalışma ortamı, kullanılan maddeler, iş ekipmanı ile çevre şartlarını dikkate alarak meydana gelebilecek acil durumları önceden değerlendirerek, çalışanları ve çalışma çevresini etkilemesi mümkün ve muhtemel acil durumları belirler ve bunların olumsuz etkilerini önleyici ve sınırlandırıcı tedbirleri alır.\nb) Acil durumların olumsuz etkilerinden korunmak üzere gerekli ölçüm ve değerlendirmeleri yapar, acil durum planlarını hazırlar.\nc) Acil durumlarla mücadele için işyerinin büyüklüğü ve taşıdığı özel tehlikeler, yapılan işin niteliği, çalışan sayısı ile işyerinde bulunan diğer kişileri dikkate alarak; önleme, koruma, tahliye, yangınla mücadele, ilk yardım ve benzeri konularda uygun donanıma sahip ve bu konularda eğitimli yeterli sayıda kişiyi görevlendirir, araç ve gereçleri sağlayarak eğitim ve tatbikatları yaptırır ve ekiplerin her zaman hazır bulunmalarını sağlar.\nç) Özellikle ilk yardım, acil tıbbi müdahale, kurtarma ve yangınla mücadele konularunda, işyeri dışındaki kuruluşlarla irtibatı sağlayacak gerekli düzenlemeleri yapar.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 12",
+          "title": "Tahliye",
+          "text_content": "(1) Ciddi, yakın ve önlenemeyen tehlikenin meydana gelmesi durumunda işveren;\na) Çalışanların işi bırakarak derhal çalışma yerlerinden ayrılıp güvenli bir yere gidebilmeleri için, önceden gerekli düzenlemeleri yapar ve çalışanlara gerekli talimatları verir.\nb) Durumun devam etmesi hâlinde, zorunluluk olmadıkça, gerekli donanıma sahip ve özel olarak görevlendirilenler dışındaki çalışanlardan işlerine devam etmelerini isteyemez.\n(2) İşveren, çalışanların kendileri veya diğer kişilerin güvenliği için ciddi ve yakın bir tehlike ile karşılaştıkları ve amirine hemen haber veremedikleri durumlarda; istenmeyen sonuçların önlenmesi için, bilgileri ve mevcut teknik donanımları çerçevesinde müdahale edebilmelerine imkân sağlar. Böyle bir durumda çalışanlar, ihmal veya dikkatsiz davranışları olmadıkça yaptıkları müdahaleden dolayı sorumlu tutulamaz.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 13",
+          "title": "Çalışmaktan kaçınma hakkı",
+          "text_content": "(1) Ciddi ve yakın tehlike ile karşı karşıya kalan çalışanlar kurula, kurulun bulunmadığı işyerlerinde ise işverene başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmasına karar verilmesini talep edebilir. Kurul acilen toplanarak, işveren ise derhâl kararını verir ve durumu tutanakla tespit eder. Karar, çalışana ve çalışan temsilcisine yazılı olarak bildirilir.\n(2) Kurul veya işverenin çalışanın talebi yönünde karar vermesi hâlinde çalışan, gerekli tedbirler alınıncaya kadar çalışmaktan kaçınabilir. Çalışanların çalışmaktan kaçındığı dönemdeki ücreti ile kanunlardan ve iş sözleşmesinden doğan diğer hakları saklıdır.\n(3) Çalışanlar ciddi ve yakın tehlikenin önlenemez olduğu durumlarda birinci fıkradaki usule uymak zorunda olmaksızın işyerini veya tehlikeli bölgeyi terk ederek belirlenen güvenli yere gider. Çalışanların bu hareketlerinden dolayı hakları kısıtlanamaz.\n(4) İş sözleşmesiyle çalışanlar, talep etmelerine rağmen gerekli tedbirlerin alınmadığı durumlarda, tabi oldukları kanun hükümlerine göre iş sözleşmelerini feshedebilir. Toplu sözleşme veya toplu iş sözleşmesi ile çalışan kamu personeli, bu maddeye göre çalışmadığı dönemde fiilen çalışmış sayılır.\n(5) Bu Kanunun 25 inci maddesine göre işyerinde işin durdurulması hâlinde, bu madde hükümleri uygulanmaz.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 14",
+          "title": "İş kazası ve meslek hastalıklarının kayıt ve bildirimi",
+          "text_content": "(1) İşveren;\na) Bütün iş kazalarının ve meslek hastalıklarının kaydını tutar, gerekli incelemeleri yaparak bunlar ile ilgili raporları düzenler.\nb) İşyerinde meydana gelen ancak yaralanma veya ölüme neden olmadığı halde işyeri ya da iş ekipmanının zarara uğramasına yol açan veya çalışan, işyeri ya da iş ekipmanını zarara uğratma potansiyeli olan olayları inceleyerek bunlar ile ilgili raporları düzenler.\n(2) İşveren, aşağıdaki hallerde belirtilen sürede Sosyal Güvenlik Kurumuna bildirimde bulunur:\na) İş kazalarını kazadan sonraki üç iş günü içinde.\nb) Sağlık hizmeti sunucuları veya işyeri hekimi tarafından kendisine bildirilen meslek hastalıklarını, öğrendiği tarihten itibaren üç iş günü içinde.\n(3) İşyeri hekimi veya sağlık hizmeti sunucuları; meslek hastalığı ön tanısı koydukları vakaları, Sosyal Güvenlik Kurumu tarafından yetkilendirilen sağlık hizmeti sunucularına sevk eder.\n(4) Sağlık hizmeti sunucuları kendilerine intikal eden iş kazalarını, yetkilendirilen sağlık hizmeti sunucuları ise meslek hastalığı tanısı koydukları vakaları en geç on gün içinde Sosyal Güvenlik Kurumuna bildirir.\n(5) Bu maddenin uygulanmasına ilişkin usul ve esaslar, Sağlık Bakanlığının uygun görüşü alınarak Bakanlıkça belirlenir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 15",
+          "title": "Sağlık gözetimi",
+          "text_content": "(1) İşveren;\na) Çalışanların işyerinde maruz kalacakları sağlık ve güvenlik risklerini dikkate alarak sağlık gözetimine tabi tutulmalarını sağlar.\nb) Aşağıdaki hallerde çalışanların sağlık muayenelerinin yapılmasını sağlamak zorundadır:\n1) İşe girişlerinde.\n2) İş değişikliğinde.\n3) İş kazası, meslek hastalığı veya sağlık nedeniyle tekrarlanan işten uzaklaşmalarından sonra işe dönüşlerinde talep etmeleri hâlinde.\n4) İşin devamı süresince, çalışanın ve işin niteliği ile işyerinin tehlike sınıfına göre Bakanlıkça belirlenen düzenli aralıklarla.\n(2) Tehlikeli ve çok tehlikeli sınıfta yer alan işlerde çalışacaklar, yapacakları işe uygun olduklarını belirten sağlık raporu olmadan işe başlatılamaz. (1)\n(3) (Değişik birinci cümle: 10/9/2014-6552/17 md.) Bu Kanun kapsamında alınması gereken sağlık raporları işyeri hekiminden alınır. 10'dan az çalışanı bulunan ve az tehlikeli işyerleri için ise kamu hizmet sunucuları veya aile hekimlerinden de alınabilir. Raporlara itirazlar Sağlık Bakanlığı tarafından belirlenen hakem hastanelere yapılır, verilen kararlar kesindir.\n(4) Sağlık gözetiminden doğan maliyet ve bu gözetimden kaynaklı her türlü ek maliyet işverence karşılanır, çalışana yansıtılamaz.\n(5) Sağlık muayenesi yaptırılan çalışanın özel hayatı ve itibarının korunması açısından sağlık bilgileri gizli tutulur.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 16",
+          "title": "Çalışanların bilgilendirilmesi",
+          "text_content": "(1) İşyerinde iş sağlığı ve güvenliğinin sağlanması ve sürdürülebilmesi amacıyla işveren, çalışanları ve çalışan temsilcilerini işyerinin özelliklerini de dikkate alarak aşağıdaki konularda bilgilendirir:\na) İşyerinde karşılaşılabilecek sağlık ve güvenlik riskleri, koruyucu ve önleyici tedbirler.\nb) Kendileri ile ilgili yasal hak ve sorumluluklar.\nc) İlk yardım, olağan dışı durumlar, afetler ve yangınla mücadele ve tahliye işleri konusunda görevlendirilen kişiler.\n(2) İşveren;\na) 12 nci maddede belirtilen ciddi ve yakın tehlikeye maruz kalan veya kalma riski olan bütün çalışanları, tehlikeler ile bunlardan doğan risklere karşı alınmış ve alınacak tedbirler hakkında derhal bilgilendirir.\nb) Başka işyerlerinden çalışmak üzere kendi işyerine gelen çalışanların birinci fıkrada belirtilen bilgileri almalarını sağlamak üzere, söz konusu çalışanların işverenlerine gerekli bilgileri verir.\nc) Risk değerlendirmesi, iş sağlığı ve güvenliği ile ilgili koruyucu ve önleyici tedbirler, ölçüm, analiz, teknik kontrol, kayıtlar, raporlar ve teftişten elde edilen bilgilere, destek elemanları ile çalışan temsilcilerinin ulaşmasını sağlar.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 17",
+          "title": "Çalışanların eğitimi",
+          "text_content": "(1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar. Bu eğitim özellikle; işe başlamadan önce, çalışma yeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni teknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan yeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla tekrarlanır.\n(2) Çalışan temsilcileri özel olarak eğitilir.\n(3) Mesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta yer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyenler çalıştırılamaz.\n(4) İş kazası geçiren veya meslek hastalığına yakalanan çalışana işe başlamadan önce, söz konusu kazanın veya meslek hastalığının sebepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim verilir. Ayrıca, herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar işe başlatılmadan önce bilgi yenileme eğitimi verilir.\n(5) Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde; yapılacak işlerde karşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimatları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerinden çalışmak üzere gelen çalışanlar işe başlatılamaz.\n(6) Geçici iş ilişkisi kurulan işveren, iş sağlığı ve güvenliği risklerine karşı çalışana gerekli eğitimin verilmesini sağlar.\n(7) Bu madde kapsamında verilecek eğitimin maliyeti çalışanlara yansıtılamaz. Eğitimlerde geçen süre çalışma süresinden sayılır. Eğitim sürelerinin haftalık çalışma süresinin üzerinde olması hâlinde, bu süreler fazla sürelerle çalışma veya fazla çalışma olarak değerlendirilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 18",
+          "title": "Çalışanların görüşlerinin alınması ve katılımlarının sağlanması",
+          "text_content": "(1) İşveren, görüş alma ve katılımın sağlanması konusunda, çalışanlara veya iki ve daha fazla çalışan temsilcisinin bulunduğu işyerlerinde varsa işyeri yetkili sendika temsilcilerine yoksa çalışan temsilcilerine aşağıdaki imkânları sağlar:\na) İş sağlığı ve güvenliği ile ilgili konularda görüşlerinin alınması, teklif getirme hakkının tanınması ve bu konulardaki görüşmelerde yer alma ve katılımlarının sağlanması.\nb) Yeni teknolojilerin uygulanması, seçilecek iş ekipmanı, çalışma ortamı ve şartlarının çalışanların sağlık ve güvenliğine etkisi konularunda görüşlerinin alınması.\n(2) İşveren, destek elemanları ile çalışan temsilcilerinin aşağıdaki konularda önceden görüşlerinin alınmasını sağlar:\na) İşyerinden görevlendirilecek veya işyeri dışından hizmet alınacak işyeri hekimi, iş güvenliği uzmanı ve diğer personel ile ilk yardım, yangınla mücadele ve tahliye işleri için kişilerin görevlendirilmesi.\nb) Risk değerlendirmesi yapılarak, alınması gereken koruyucu ve önleyici tedbirlerin ve kullanılması gereken koruyucu donanım ve ekipmanın belirlenmesi.\nc) Sağlık ve güvenlik risklerinin önlenmesi ve koruyucu hizmetlerin yürütülmesi.\nç) Çalışanların bilgilendirilmesi.\nd) Çalışanlara verilecek eğitimin planlanması.\n(3) Çalışanların veya çalışan temsilcilerinin, işyerinde iş sağlığı ve güvenliği için alınan önlemlerin yetersiz olduğu durumlarda veya teftiş sırasında, yetkili makama başvurmalarından dolayı hakları kısıtlanamaz.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 19",
+          "title": "Çalışanların yükümlülükleri",
+          "text_content": "(1) Çalışanlar, iş sağlığı ve güvenliği ile ilgili aldıkları eğitim ve işverenin bu konudaki talimatları doğrultusunda, kendilerinin ve hareketlerinden veya yaptıkları işten etkilenen diğer çalışanların sağlık ve güvenliklerini tehlikeye düşürmemekle yükümlüdür.\n(2) Çalışanların, işveren tarafından verilen eğitim ve talimatlar doğrultusunda yükümlülükleri şunlardır:\na) İşyerindeki makine, cihaz, araç, gereç, tehlikeli madde, taşıma ekipmanı ve diğer üretim araçlarını kurallara uygun şekilde kullanmak, bunların güvenlik donanımlarını doğru olarak kullanmak, keyfi olarak çıkarmamak ve değiştirmemek.\nb) Kendilerine sağlanan kişisel koruyucu donanımı doğru kullanmak ve korumak.\nc) İşyerindeki makine, cihaz, araç, gereç, tesis ve binalarda sağlık ve güvenlik yönünden ciddi ve yakın bir tehlike ile karşılaştıklarında ve koruma tedbirlerinde bir eksiklik gördüklerinde, işverene veya çalışan temsilcisine derhal haber vermek.\nç) Teftişe yetkili makam tarafından işyerinde tespit edilen noksanlık ve mevzuata aykırılıkların giderilmesi konusunda, işveren ve çalışan temsilcisi ile iş birliği yapmak.\nd) Kendi görev alanında, iş sağlığı ve güvenliğinin sağlanması için işveren ve çalışan temsilcisi ile iş birliği yapmak.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 20",
+          "title": "Çalışan temsilcisi",
+          "text_content": "(1) İşveren; işyerinin değişik bölümlerindeki riskler ve çalışan sayılarını göz önünde bulundurarak dengeli dağılıma özen göstermek kaydıyla, çalışanlar arasında yapılacak seçim veya seçimle belirlenemediği durumda atama yoluyla, aşağıda belirtilen sayılarda çalışan temsilcisini görevlendirir:\na) İki ile elli arasında çalışanı bulunan işyerlerinde bir.\nb) Ellibir ile yüz arasında çalışanı bulunan işyerlerinde iki.\nc) Yüzbir ile beşyüz arasında çalışanı bulunan işyerlerinde üç.\nç) Beşyüzbir ile bin arasında çalışanı bulunan işyerlerinde dört.\nd) Binbir ile ikibin arasında çalışanı bulunan işyerlerinde beş.\ne) İkibinbir ve üzeri çalışanı bulunan işyerlerinde altı.\n(2) Birden fazla çalışan temsilcisinin bulunması durumunda baş temsilci, çalışan temsilcileri arasında yapılacak seçimle belirlenir.\n(3) Çalışan temsilcileri, tehlike kaynağının yok edilmesi veya tehlikeden kaynaklanan riskin azaltılması için, işverene öneride bulunma ve işverenden gerekli tedbirlerin alınmasını isteme hakkına sahiptir.\n(4) Görevlerini yürütmeleri nedeniyle, çalışan temsilcileri ve destek elemanlarının hakları kısıtlanamaz ve görevlerini yerine getirebilmeleri için işveren tarafından gerekli imkânlar sağlanır.\n(5) İşyerinde yetkili sendika bulunması hâlinde, işyeri sendika temsilcileri çalışan temsilcisi olarak da görev yapar.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "PART",
+      "index": "ÜÇÜNCÜ BÖLÜM",
+      "title": "Konsey, Kurul ve Koordinasyon",
+      "text_content": "",
+      "children": [
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 21",
+          "title": "Ulusal İş Sağlığı ve Güvenliği Konseyi",
+          "text_content": "(1) Ülke genelinde iş sağlığı ve güvenliği ile ilgili politika ve stratejilerin belirlenmesi için tavsiyelerde bulunmak üzere Konsey kurulmuştur.\n(2) Konsey, Bakanlık Müsteşarının başkanlığında aşağıda belirtilen üyelerden oluşur:\na) Bakanlık İş Sağlığı ve Güvenliği Genel Müdürü, Çalışma Genel Müdürü, İş Teftiş Kurulu Başkanı ve Sosyal Güvenlik Kurumu Başkanlığından bir genel müdür.\nb) Bilim, Sanayi ve Teknoloji, Çevre ve Şehircilik, Enerji ve Tabii Kaynaklar, Gıda, Tarım ve Hayvancılık, Kalkınma, Millî Eğitim ile Sağlık bakanlıklarından ilgili birer genel müdür.\nc) Yükseköğretim Kurulu Başkanlığından bir yürütme kurulu üyesi, Devlet Personel Başkanlığından bir başkan yardımcısı.\nç) İşveren, işçi ve kamu görevlileri sendikaları üst kuruluşlarının en fazla üyeye sahip ilk üçünden, Türkiye Odalar ve Borsalar Birliğinden, Türkiye Esnaf ve Sanatkârları Konfederasyonundan, Türk Tabipleri Birliğinden, Türk Mühendis ve Mimar Odaları Birliğinden ve Türkiye Ziraat Odaları Birliğinden konuyla ilgili veya görevli birer yönetim kurulu üyesi.\nd) İhtiyaç duyulması hâlinde İş Sağlığı ve Güvenliği Genel Müdürünün teklifi ve Konseyin kararı ile belirlenen, iş sağlığı ve güvenliği konusunda faaliyet gösteren kurum veya kuruluşlardan en fazla iki temsilci.\n(3) İkinci fıkranın (d) bendi kapsamında belirlenen Konsey üyeleri, iki yıl için seçilir ve üst üste iki olağan toplantıya katılmaz ise ilgili kurum veya kuruluşun üyeliği sona erer.\n(4) Konseyin sekretaryası, İş Sağlığı ve Güvenliği Genel Müdürlüğünce yürütülür.\n(5) Konsey, toplantıya katılanların salt çoğunluğu ile karar verir. Oyların eşitliği hâlinde başkanın oyu kararı belirler. Çekimser oy kullanılamaz.\n(6) Konsey yılda iki defa olağan toplanır. Başkanın veya üyelerin üçte birinin teklifi ile olağanüstü olarak da toplanabilir.\n(7) Konseyin çalışma usul ve esasları Bakanlık tarafından belirlenir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 22",
+          "title": "İş sağlığı ve güvenliği kurulu",
+          "text_content": "(1) Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur. İşveren, iş sağlığı ve güvenliği mevzuatına uygun kurul kararlarını uygular.\n(2) Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise, faaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.\nb) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması gerekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nc) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.\nç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam çalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur.\n(3) Aynı çalışma alanında birden fazla işverenin bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 23",
+          "title": "İş sağlığı ve güvenliğinin koordinasyonu",
+          "text_content": "(1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenler; iş hijyeni ile iş sağlığı ve güvenliği önlemlerinin uygulanmasında iş birliği yapar, yapılan işin yapısı göz önüne alınarak mesleki risklerin önlenmesi ve bu risklerden korunulması çalışmalarını koordinasyon içinde yapar, birbirlerini ve çalışan temsilcilerini bu riskler konusunda bilgilendirir.\n(2) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları, sanayi bölgeleri veya siteleri gibi yerlerde, iş sağlığı ve güvenliği konusundaki koordinasyon yönetim tarafından sağlanır. Yönetim, işyerlerinde iş sağlığı ve güvenliği yönünden diğer işyerlerini etkileyecek tehlikeler hususunda gerekli tedbirleri almaları için işverenleri uyarır. Bu uyarılara uymayan işverenleri Bakanlığa bildirir.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "PART",
+      "index": "DÖRDÜNCÜ BÖLÜM",
+      "title": "Teftiş ve İdari Yaptırımlar",
+      "text_content": "",
+      "children": [
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 24",
+          "title": "Teftiş, inceleme, araştırma, müfettişin yetki, yükümlülük ve sorumluluğu",
+          "text_content": "(1) Bu Kanun hükümlerinin uygulanmasının izlenmesi ve teftişi, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş müfettişlerince yapılır. Bu Kanun kapsamında yapılacak teftiş ve incelemelerde, 4857 sayılı Kanunun 92, 93, 96, 97 ve 107 nci maddeleri uygulanır.\n(2) Bakanlık, işyerlerinde iş sağlığı ve güvenliği konulararında ölçüm, inceleme ve araştırma yapmaya, bu amaçla numune almaya ve eğitim kurumları ile ortak sağlık ve güvenlik birimlerinde kontrol ve denetim yapmaya yetkilidir. Bu konularda yetkilendirilenler mümkün olduğu kadar işi aksatmamak, işverenin ve işyerinin meslek sırları ile gördükleri ve öğrendikleri hususları tamamen gizli tutmakla yükümlüdür. Kontrol ve denetimin usul ve esasları Bakanlıkça düzenlenir.\n(3) Askeri işyerleriyle yurt güvenliği için gerekli maddeler üretilen işyerlerinin denetim ve teftişi konusu ve sonuçlarına ait işlemler, Millî Savunma Bakanlığı ve Bakanlıkça birlikte hazırlanacak yönetmeliğe göre yürütülür.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 25",
+          "title": "İşin durdurulması",
+          "text_content": "(1) İşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit edildiğinde; bu tehlike giderilinceye kadar, hayati tehlikenin niteliği ve bu tehlikeden doğabilecek riskin etkileyebileceği alan ile çalışanlar dikkate alınarak, işyerinin bir bölümünde veya tamamında iş durdurulur. Ayrıca çok tehlikeli sınıfta yer alan maden, metal ve yapı işleri ile tehlikeli kimyasallarla çalışılan işlerin yapıldığı veya büyük endüstriyel kazaların olabileceği işyerlerinde, risk değerlendirmesi yapılmamış olması durumunda iş durdurulur.\n(2) İş sağlığı ve güvenliği bakımından teftişe yetkili üç iş müfettişinden oluşan heyet, iş sağlığı ve güvenliği bakımından teftişe yetkili iş müfettişinin tespiti üzerine gerekli incelemeleri yaparak, tespit tarihinden itibaren iki gün içerisinde işin durdurulmasına karar verebilir. Ancak tespit edilen hususun acil müdahaleyi gerektirmesi hâlinde; tespiti yapan iş müfettişi, heyet tarafından karar alınıncaya kadar geçerli olmak kaydıyla işi durdurur.\n(3) İşin durdurulması kararı, ilgili mülki idare amirine ve işyeri dosyasının bulunduğu Çalışma ve İş Kurumu il müdürlüğüne bir gün içinde gönderilir. İşin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle yirmidört saat içinde yerine getirilir. Ancak, tespit edilen hususun acil müdahaleyi gerektirmesi nedeniyle verilen işin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle aynı gün yerine getirilir. 1\n(4) İşveren, yerine getirildiği tarihten itibaren altı iş günü içinde, yetkili iş mahkemesinde işin durdurulması kararına itiraz edebilir. İtiraz, işin durdurulması kararının uygulanmasını etkilemez. Mahkeme itirazı öncelikle görüşür ve altı iş günü içinde karara bağlar. Mahkeme kararı kesindir.\n(5) İşverenin işin durdurulmasını gerektiren hususların giderildiğini Bakanlığa yazılı olarak bildirmesi hâlinde, en geç yedi gün içinde işyerinde inceleme yapılarak işverenin talebi sonuçlandırılır.\n(6) İşveren, işin durdurulması sebebiyle işsiz kalan çalışanlara ücretlerini ödemekle veya ücretlerinde bir düşüklük olmamak üzere meslek veya durumlarına göre başka bir iş vermekle yükümlüdür.\n(7) **(Ek: 4/4/2015-6645/2 md.)** Çok tehlikeli sınıfta yer alan ve ihale ile alınan işlerde; teknolojik gelişme, iş gücü kapasitesinin artırılması, üretim metotlarında yenilik gibi bir kısım unsurlar sağlanmadan üretim ve/veya imalat planlarına, iş programlarına aykırı hareket edilerek üretim zorlaması nedeniyle hayati tehlike oluşturacak şekilde çalışma biçimleri, işin durdurulma sebebi sayılır.\n(8) **(Ek: 4/4/2015-6645/2 md.)** İşyerinde durdurulan işlerde izinsiz çalışma yaptıran işveren veya işveren vekillerine üç yıldan beş yıla kadar hapis cezası verilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 25/A",
+          "title": "Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama",
+          "text_content": "**(Ek: 4/4/2015-6645/3 md.)**\nÖlümlü iş kazası meydana gelen maden işyerlerinde kusuru yargı kararı ile tespit edilen işveren, mahkeme tarafından iki yıl süreyle kamu ihalelerine katılmaktan 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 26 ncı maddesinin ikinci fıkrasında sayılanlarla birlikte yasaklanır. Kararın bir örneği işverenin siciline işlenmek üzere Kamu İhale Kurumuna gönderilir ve Kurumun internet sayfasında ilan edilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 26",
+          "title": "İdari para cezaları ve uygulanması",
+          "text_content": "(1) Bu Kanunun;\na) 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentlerinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir yükümlülük için ayrı ayrı ikibin Türk Lirası,\nb) 6 ncı maddesinin birinci fıkrası gereğince belirlenen nitelikte iş güvenliği uzmanı veya işyeri hekimi görevlendirmeyen işverene görevlendirmediği her bir kişi için beşbin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar, diğer sağlık personeli görevlendirmeyen işverene ikibinbeşyüz Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar, aynı fıkranın (b), (c) ve (d) bentlerinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir ihlal için ayrı ayrı binbeşyüz Türk Lirası, (ç) bendine aykırı hareket eden işverene yerine getirilmeyen her bir tedbir için ayrı ayrı bin Türk Lirası,\nc) 8 inci maddesinin birinci ve altıncı fıkralarına aykırı hareket eden işverene her bir ihlal için ayrı ayrı binbeşyüz Türk Lirası,\nç) 10 uncu maddesinin birinci fıkrasına göre risk değerlendirmesi yapmayan veya yaptırmayan işverene üçbin Türk Lirası, aykırılığın devam ettiği her ay için dörtbinbeşyüz Türk Lirası, dördüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene binbeşyüz Türk Lirası,\nd) 11 ve 12 nci maddeleri hükümlerine aykırı hareket eden işverene, uyulmayan her bir yükümlülük için bin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar,\ne) 14 üncü maddesinin birinci fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene her bir yükümlülük için ayrı ayrı binbeşyüz Türk Lirası, ikinci fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene ikibin Türk Lirası, dördüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen sağlık hizmeti sunucuları veya yetkilendirilen sağlık hizmeti sunucularına ikibin Türk Lirası,\nf) 15 inci maddesinin birinci ve ikinci fıkralarında belirtilen yükümlülükleri yerine getirmeyen işverene, sağlık gözetimine tabi tutulmayan veya sağlık raporu alınmayan her çalışan için bin Türk Lirası,\ng) 16 ncı maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene, bilgilendirilmeyen her bir çalışan için bin Türk Lirası,\nğ) (Değişik: 4/4/2015-6645/4 md.) 17 nci maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene, her bir aykırılık için çalışan başına ayrı ayrı beşyüz Türk Lirası,\nh) 18 inci maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene, her bir aykırılık için ayrı ayrı bin Türk Lirası,\nı) 20 nci maddesinin birinci ve dördüncü fıkralarında belirtilen yükümlülükleri yerine getirmeyen işverene bin Türk Lirası, üçüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene binbeşyüz Türk Lirası,\ni) 22 nci maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir aykırılık için ayrı ayrı ikibin Türk Lirası,\nj) 23 üncü maddesinin ikinci fıkrasında belirtilen bildirim yükümlülüklerini yerine getirmeyen yönetimlere beşbin Türk Lirası,\nk) 24 üncü maddesinin ikinci fıkrasında belirtilen iş sağlığı ve güvenliği ile ilgili konularda ölçüm, inceleme ve araştırma yapılmasına, numune alınmasına veya eğitim kurumları ile ortak sağlık ve güvenlik birimlerinin kontrol ve denetiminin yapılmasına engel olan işverene beşbin Türk Lirası,\nl) (Değişik: 4/4/2015-6645/4 md.) 25 inci maddesinin altıncı fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene ihlale uğrayan her bir çalışan için bin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar,\nm) 29 uncu maddesinde belirtilen; büyük kaza önleme politika belgesi hazırlamayan işverene ellibin Türk Lirası, güvenlik raporunu hazırlayıp Bakanlığın değerlendirmesine sunmadan işyerini faaliyete geçiren, işletilmesine Bakanlıkça izin verilmeyen işyerini açan veya durdurulan işyerinde faaliyete devam eden işverene seksenbin Türk Lirası,\nn) 30 uncu maddesinde öngörülen yönetmeliklerde belirtilen yükümlülükleri yerine getirmeyen işverene, uyulmayan her hüküm için tespit edildiği tarihten itibaren aylık olarak bin Türk Lirası,\no) (Ek: 4/4/2015-6645/4 md.) Çalışanlarına, standartlara uygun ve CE işaretli kişisel koruyucu donanım temin etmeyen işverenlere çalışan başına beşyüz Türk Lirası,\nö) (Ek: 4/4/2015-6645/4 md.) Yer altı maden işletmelerinde çalışanların bulundukları yeri ve giriş çıkışlarını gösteren takip sistemini kurmayan işverenlere çalışan başına beşyüz Türk Lirası,\n idari para cezası verilir.\n(2) **(Değişik: 4/4/2015-6645/4 md.)** Bu Kanunda belirtilen idari para cezaları, 14 üncü maddede belirtilen bildirim yükümlülüğünü yerine getirmeyenlere uygulanacak idari para cezaları hariç gerekçesi belirtilmek suretiyle Çalışma ve İş Kurumu il müdürünce verilir. 14 üncü maddede belirtilen bildirim yükümlülüğünü yerine getirmeyenler için uygulanan idari para cezaları hariç tahsil edilen idari para cezaları genel bütçeye gelir kaydedilir. 14 üncü maddede belirtilen bildirim yükümlülüğünü yerine getirmeyenlere uygulanacak idari para cezaları ise doğrudan Sosyal Güvenlik Kurumunca verilir. Sosyal Güvenlik Kurumunca verilen idari para cezalarının tebliğ, itiraz ve tahsilinde 5510 sayılı Kanunun 102 nci maddesi hükümleri uygulanır. Verilen diğer idari para cezaları tebliğinden itibaren otuz gün içinde ödenir. İdari para cezaları tüzel kişiliği bulunmayan kamu kurum ve kuruluşları adına da düzenlenebilir.\n(3) **(Ek: 4/4/2015-6645/4 md.)** Bu maddede belirtilen idari para cezaları;\na) Ondan az çalışanı bulunan işyerlerinden;\n1) Az tehlikeli sınıfta yer alanlar için aynı miktarda,\n2) Tehlikeli sınıfta yer alanlar için yüzde yirmi beş oranında artırılarak,\n3) Çok tehlikeli sınıfta yer alanlar için yüzde elli oranında artırılarak,\nb) On ila kırk dokuz çalışanı bulunan işyerlerinden;\n1) Az tehlikeli sınıfta yer alanlar için aynı miktarda,\n2) Tehlikeli sınıfta yer alanlar için yüzde elli oranında artırılarak,\n3) Çok tehlikeli sınıfta yer alanlar için yüzde yüz oranında artırılarak,\nc) Elli ve daha fazla çalışanı bulunan işyerlerinden;\n1) Az tehlikeli sınıfta yer alanlar için yüzde elli oranında artırılarak,\n2) Tehlikeli sınıfta yer alanlar için yüzde yüz oranında artırılarak,\n3) Çok tehlikeli sınıfta yer alanlar için yüzde iki yüz oranında artırılarak,\nuygulanır.\n(4) **(Ek: 4/4/2015-6645/4 md.)** İşin durdurulması hâlinde, durdurmaya sebep olan fiilden dolayı ilgili idari para cezası uygulanmaz.\n(5) **(Ek: 4/4/2015-6645/4 md.)** Çalışan sayısıyla çarpılarak verilen idari para cezalarında üçüncü fıkra hükümleri uygulanmaz.\n(6) **(Ek: 4/4/2015-6645/4 md.)** 14 üncü maddede belirtilen bildirim yükümlülüğünü yerine getirmeyenler için uygulanan idari para cezaları hariç olmak üzere bu Kanuna göre tahsil edilen idari para cezaları, iş sağlığı ve güvenliği ile ilgili eğitim ve araştırma-geliştirme projelerine ilişkin harcamalarda kullanılır. Bu amaçla ihtiyaç duyulan ödenek, Bakanlık bütçesinde öngörülür. Söz konusu ödeneğin kullanılmasına ilişkin usul ve esaslar, Bakanlık ile Maliye Bakanlığınca müştereken belirlenir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 27",
+          "title": "Hüküm bulunmayan haller ve muafiyet",
+          "text_content": "(1) Çalışanların tabi oldukları kanun hükümleri saklı kalmak kaydıyla, bu Kanunda hüküm bulunmayan hallerde 4857 sayılı Kanunun bu Kanuna aykırı olmayan hükümleri uygulanır.\n(2) Bu Kanuna göre düzenlenen kağıtlar damga vergisinden, işlemler harçtan müstesnadır.\n(3) Bakanlık, bu Kanuna göre yapılacak iş ve işlemlere ait her türlü belge veya bilgiyi, elektronik ve benzeri ortamlar üzerinden isteyebilir, arşivleyebilir, bu ortamlar üzerinden onay, yetki, bilgi ve belge verebilir.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "PART",
+      "index": "BEŞİNCİ BÖLÜM",
+      "title": "Çeşitli ve Geçici Hükümler",
+      "text_content": "",
+      "children": [
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 28",
+          "title": "Bağımlılık yapan maddeleri kullanma yasağı",
+          "text_content": "(1) İşyerine, sarhoş veya uyuşturucu madde almış olarak gelmek ve işyerinde alkollü içki veya uyuşturucu madde kullanmak yasaktır.\n(2) İşveren; işyeri eklentilerinden sayılan kısımlarda, ne gibi hallerde, hangi zamanda ve hangi şartlarla alkollü içki içilebileceğini belirleme yetkisine sahiptir.\n(3) Aşağıdaki çalışanlar için alkollü içki kullanma yasağı uygulanmaz:\na) Alkollü içki yapılan işyerlerinde çalışan ve işin gereği olarak üretileni denetlemekle görevlendirilenler.\nb) Kapalı kaplarda veya açık olarak alkollü içki satılan veya içilen işyerlerinde işin gereği alkollü içki içmek zorunda olanlar.\nc) İşinin niteliği gereği müşterilerle birlikte alkollü içki içmek zorunda olanlar.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 29",
+          "title": "Güvenlik raporu veya büyük kaza önleme politika belgesi",
+          "text_content": "(1) İşletmeye başlanmadan önce, büyük endüstriyel kaza oluşabilecek işyerleri için, işyerlerinin büyüklüğüne göre büyük kaza önleme politika belgesi veya güvenlik raporu işveren tarafından hazırlanır.\n(2) Güvenlik raporu hazırlama yükümlülüğü bulunan işveren, hazırladıkları güvenlik raporlarının içerik ve yeterlilikleri Bakanlıkça incelenmesini müteakip işyerlerini işletmeye açabilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 30",
+          "title": "İş sağlığı ve güvenliği ile ilgili çeşitli yönetmelikler",
+          "text_content": "(1) Aşağıdaki konular ile bunlara ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmeliklerle düzenlenir:\na) İlgili bakanlıkların görüşü alınarak, iş sağlığı ve güvenliğinin sağlanması, sürdürülmesi ve mevcut durumun iyileştirilmesi amacıyla; işyeri bina ve eklentileri, iş ekipmanı, işin her safhasında kullanılan ve ortaya çıkan maddeler, çalışma ortam ve şartları, özel risk taşıyan iş ekipmanı ve işler ile işyerleri, özel politika gerektiren grupların çalıştırılması, işin özelliğine göre gece çalışmaları ve postalar hâlinde çalışmalar, sağlık kuralları bakımından daha az çalışılması gereken işler, gebe ve emziren kadınların çalışma şartları, emzirme odaları ve çocuk bakım yurtlarının kurulması veya dışarıdan hizmet alınması ve benzeri özel düzenleme gerektirebilecek konular ve bunlara bağlı bildirim ve izinler ile bu Kanunun uygulanmasına yönelik diğer hususlar.\nb) İş sağlığı ve güvenliği hizmetleri ile ilgili olarak;\n1) Çalışan sayısı ve tehlike sınıfı göz önünde bulundurularak hangi işyerlerinde işyeri sağlık ve güvenlik biriminin kurulacağı, bu birimlerin fiziki şartları ile birimlerde bulundurulacak donanım.\n2) İşyeri sağlık ve güvenlik birimi ile ortak sağlık ve güvenlik biriminde görev alacak işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin nitelikleri, işe alınmaları, görevlendirilmeleri, görev, yetki ve sorumlulukları, görevlerini nasıl yürütecekleri, işyerindeki çalışan sayısı ve işyerinin yer aldığı tehlike sınıfı göz önünde bulundurularak asgari çalışma süreleri, işyerlerindeki tehlikeli hususları nasıl bildirecekleri, sahip oldukları belgelere göre hangi işyerlerinde görev alabilecekleri.\n3) İş sağlığı ve güvenliği hizmeti sunacak kişi, kurum ve kuruluşların; görev, yetki ve yükümlülükleri, belgelendirmeleri ve yetkilendirmeleri ile sunulacak hizmetler kapsamında yer alan sağlık gözetimi ve sağlık raporları, kuruluşların fiziki şartları ile kuruluşlarda bulundurulacak personel ve donanım.\n4) İş sağlığı ve güvenliği hizmeti sunan kişi, kurum ve kuruluşlardan işyeri tehlike sınıfı ve çalışan sayısına göre; hangi şartlarda hizmet alınacağı, görevlendirilecek veya istihdam edilecek kişilerin sayısı, işyerinde verilecek hizmet süresi ve belirlenen görevleri hangi hallerde işverenin kendisinin üstlenebileceği.\n5) İşyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin eğitimleri ve belgelendirmeleri, unvanlarına göre kimlerin hangi sınıf belge alabilecekleri, işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personeli eğitimi verecek kurumların belgelendirmeleri, yetkilendirmeleri ile eğitim programlarının ve bu programlarda görev alacak eğiticilerin niteliklerinin belirlenmesi ve belgelendirmeleri, eğitimlerin sonunda yapılacak sınavlar ve düzenlenecek belgeler.\n6) **(Ek: 10/9/2014-6552/18 md.)** 10'dan az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerinde iş sağlığı ve güvenliği hizmetlerinin üstlenilmesine ilişkin eğitim programları, eğitimin süresi ve eğiticiilerin nitelikleri ile görevlendirmeye ilişkin hususlar.\nc) Risk değerlendirmesi ile ilgili olarak; risk değerlendirmesinin hangi işyerlerinde ne şekilde yapılacağı, değerlendirme yapacak kişi ve kuruluşların niteliklerinin belirlenmesi, gerekli izinlerin verilmesi ve izinlerin iptal edilmesi.\nç) Sağlık Bakanlığının görüşü alınarak, işverenlerin işyerlerinde bu Kanun kapsamında yapmakla yükümlü oldukları kişisel maruziyete ve çalışma ortamına yönelik gerekli kontrol, inceleme ve araştırmalar ile fiziksel, kimyasal ve biyolojik etmenlerle ilgili ölçüm ve laboratuvar analizlerinin usul ve esasları ile bu ölçüm ve analizleri yapacak kişi ve kuruluşların niteliklerinin belirlenmesi, gerekli yetkilerin verilmesi ve verilen yetkilerin iptali ile yetkilendirme ve belgelendirme bedelleri.\nd) Yapılan işin niteliği, çalışan sayısı, işyerinin büyüklüğü, kullanılan, depolanan ve üretilen maddeler, iş ekipmanı ve işyerinin konumu gibi hususlar dikkate alınarak acil durum planlarının hazırlanması, önleme, koruma, tahliye, ilk yardım ve benzeri konular ile bu konularda görevlendirilecek kişiler.\ne) Çalışanlara ve temsilcilerine verilecek eğitimler, bu eğitimlerin belgelendirilmesi, iş sağlığı ve güvenliği eğitimi verecek kişi ve kuruluşlarda aranacak nitelikler ile mesleki eğitim alma zorunluluğu bulunan işler.\nf) Kurulun oluşumu, görev ve yetkileri, çalışma usul ve esasları, birden çok kurul bulunması hâlinde bu kurullar arasındaki koordinasyon ve iş birliği.\ng) **(Değişik: 4/4/2015-6645/5 md.)** İşyerlerinde işin durdurulması, hangi işlerde risk değerlendirmesi yapılmamış olması durumunda işin durdurulacağı, durdurma sebeplerini gidermek için mühürlerin geçici olarak kaldırılması, yeniden çalışmaya izin verilme şartları, çok tehlikeli işler sınıfında yer alan başta maden ve yapı olmak üzere işyerlerinde acil durdurmayı gerektiren hususlar, acil hâllerde işin durdurulmasına karar verilinceye kadar geçecek sürede alınacak tedbirlerin uygulanması.\nğ) Çevre ve Şehircilik Bakanlığı ile müştereken, büyük endüstriyel kazaların önlenmesi ve etkilerinin azaltılması için alınacak tedbirler, büyük endüstriyel kaza oluşabilecek işyerlerinin belirlenmesi ve sınıflandırılması, büyük kaza önleme politika belgesi veya güvenlik raporunun hazırlanması ve uygulanması, güvenlik raporunun olmaması, incelenmek üzere Bakanlığa gönderilmemesi veya Bakanlıkça yetersiz bulunması durumunda işin durdurulması ve işin devamına izin verilmesi.\n(2) Birinci fıkranın (b) bendine göre işyeri hekimi ve diğer sağlık personeline dair çıkarılan yönetmelikte yer alan işyeri hekimi ve diğer sağlık personelinin eğitim programları, çalışma süreleri, görev ve yetkilerine ilişkin hususlarda Sağlık Bakanlığının uygun görüşü alınır.\n(3) **(Ek: 4/4/2015-6645/5 md.)** Maden işyerlerinin hangilerinde sığınma odalarının kurulabileceği ve bu odaların teknik özelliklerine dair usul ve esaslar Bakanlıkça bir yıl içinde çıkarılacak yönetmelikle düzenlenir. Bu teknik özellikler, ulusal ve uluslararası standartlara uygun olarak belirlenir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 31",
+          "title": "Belgelendirme, ihtar ve iptaller",
+          "text_content": "(1) İş sağlığı ve güvenliği hizmeti sunan, ölçüm ve analizleri yapan kişi, kurum, kuruluşlar ve eğitim kurumları ile ilgili olarak yetkilendirme ve belgelendirme bedelleri, bu kişi ve kurumlara getirilen kuralların ihlali hâlinde hafif, orta ve ağır ihtar olarak kayda alınması ile yetki belgelerinin geçerliliğinin doğrudan veya ihtar puanları esas alınarak askıya alınması ve iptaline dair usul ve esaslar Bakanlıkça belirlenir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 32",
+          "title": "Değiştirilen hükümler",
+          "text_content": "22/5/2003 tarihli ve 4857 sayılı İş Kanununun;\na) 7 nci maddesinin birinci fıkrasının son cümlesi aşağıdaki şekilde değiştirilmiştir. \"Geçici iş ilişkisi kurulan işveren işçiye talimat verme hakkına sahiptir.\"\nb) 25 inci maddesinin birinci fıkrasının (II) numaralı bendinin (d) alt bendinde yer alan \"veya 84 üncü maddeye aykırı hareket etmesi\" ibaresi \", işyerine sarhoş yahut uyuşturucu madde almış olarak gelmesi ya da işyerinde bu maddeleri kullanması\" şeklinde değiştirilmiştir.\nc) 71 inci maddesinin üçüncü fıkrasında geçen \"hafif işler\" ibaresinden sonra gelmek üzere \", onaltı yaşını doldurmuş fakat onsekiz yaşını bitirmemiş genç işçilerin hangi çeşit işlerde çalıştırılabilecekleri\" ibaresi eklenmiştir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 33",
+          "title": "",
+          "text_content": "13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümünde yer alan \"Baş İş Müfettişi\" unvanlı kadrolar \"İş Başmüfettişi\" olarak değiştirilmiştir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 34",
+          "title": "",
+          "text_content": "Ekli (I), (II) ve (III) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümüne eklenmiş, ekli (IV) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümünden çıkarılmıştır.1",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 35",
+          "title": "",
+          "text_content": "14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 36",
+          "title": "",
+          "text_content": "9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunla ilgili olup yerine işlenmiştir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 37",
+          "title": "Yürürlükten kaldırılan hükümler",
+          "text_content": "4857 sayılı Kanunun aşağıdaki hükümleri yürürlükten kaldırılmıştır:\na) 2 nci maddesinin dördüncü fıkrası.\nb) 63 üncü maddesinin dördüncü fıkrası.\nc) 69 uncu maddesinin dördüncü, beşinci ve altıncı fıkraları.\nç) 77, 78, 79, 80, 81, 83, 84, 85, 86, 87, 88, 89, 95, 105 ve geçici 2 nci maddeler.\n4857 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (f) bendinde yer alan \"İş sağlığı ve güvenliği hükümleri saklı kalmak üzere\" ifadesi ile 98 inci maddesinin birinci fıkrasında yer alan \"85 inci madde kapsamındaki işyerlerinde ise çalıştırılan her işçi için bin Yeni Türk Lirası,\" ifadesi metinden çıkartılmıştır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 1",
+          "title": "Atıflar",
+          "text_content": "(1) Diğer mevzuatta iş sağlığı ve güvenliği ile ilgili olarak 4857 sayılı Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 2",
+          "title": "Mevcut yönetmelikler",
+          "text_content": "(1) 4857 sayılı Kanunun 77 nci, 78 inci, 79 uncu, 80 inci, 81 inci ve 88 inci maddelerine göre yürürlüğe konulan yönetmeliklerin bu Kanuna aykırı olmayan hükümleri, bu Kanunda öngörülen yönetmelikler yürürlüğe girinceye kadar uygulanmaya devam olunur.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 3",
+          "title": "Sağlık raporları",
+          "text_content": "(1) Çalışanlar için, 4857 sayılı Kanun ve diğer mevzuat gereği daha önce alınmış bulunan periyodik sağlık raporları süresi bitinceye kadar geçerlidir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 4",
+          "title": "İş güvenliği uzmanı görevlendirme yükümlülüğü",
+          "text_content": "(1) **(Değişik: 4/4/2015-6645/6 md.)** Bu Kanunun 8 inci maddesinde belirtilen çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirme yükümlülüğü, 1/1/2018 tarihine kadar (B) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirilmesi; tehlikeli sınıfta yer alan işyerlerinde ise (B) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirme yükümlülüğü, 1/1/2017 tarihine kadar (C) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirilmesi kaydıyla yerine getirilmiş sayılır.\n(2) **(Ek: 12/7/2013-6495/55 md.)** Bakanlık, usul ve esaslarını belirlemek kaydıyla, iş güvenliği uzmanlığı belgesine sahip olanlara, Sosyal Güvenlik Kurumuna ödenmiş olan prim gün sayısı ile sahip oldukları belge sınıfı gibi hususları dikkate alarak üst sınıflardaki iş güvenliği uzmanlığı belgesi alabilmeleri için fıkranın yürürlüğe girdiği tarihten itibaren bir yıl içinde kullanılmak şartıyla en fazla iki sınav hakkı verilmesine dair gerekli düzenlemeyi yapmaya yetkilidir.\n(3) **(Ek: 4/4/2015-6645/6 md.)** İkinci fıkraya göre iş güvenliği uzmanlığı belge yükseltme sınavlarında başarılı olup belge almaya hak kazananların hakları saklıdır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 5",
+          "title": "Mevcut sertifika ve belgeler ile ihtar puanları",
+          "text_content": "(1) Bu Kanunun yayımı tarihinden önce Bakanlıkça verilen işyeri hekimliği, iş güvenliği uzmanlığı ve işyeri hemşiresi sertifikası veya belgesi ile Türk Tabipleri Birliği tarafından verilen işyeri hekimliği sertifikası sahiplerinden belgeleri geçersiz sayılanlar, mevcut belge veya sertifikalarını bu Kanunun yayımından itibaren bir yıl içinde Bakanlıkça düzenlenecek belge ile değiştirmeleri şartıyla bu Kanunla verilen bütün hak ve yetkileri kullanabilirler. Aynı tarihten önce eğitim kurumlarınca verilen işyeri hekimliği ve iş güvenliği uzmanlığı eğitimlerini tamamlayanlardan eğitimleri geçersiz sayılanlar ilgili mevzuata göre sınava girmeye hak kazanırlar. Hak sahipliğinin tespitinde Bakanlık kayıtları esas alınır.\n(2) Bu Kanunun yayımı tarihinden önce haklarında kesinleşmiş yargı kararı bulunmayan eğitim kurumu ve ortak sağlık ve güvenlik birimlerine uygulanan ihtar puanları, kayıtlarda yer alan haliyle yeni yapılacak düzenlemeye aktarılır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 6",
+          "title": "İşyeri hekimliği yapan kurum tabiplerine yapılan ücret ödemeleri",
+          "text_content": "(1) Kamu kurum ve kuruluşları ile mahalli idarelerde gerçekleştirilmiş olan işyeri hekimliği ücreti ödemeleri nedeniyle kamu görevlileri hakkında idari veya mali yargılama ve takibat yapılamaz, başlatılanlar işlemden kaldırılır, bu ödemeler geriye tahsil ve tazmin konusu edilemez.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 7",
+          "title": "",
+          "text_content": "(1) Bu Kanunun yayımı tarihinde Baş İş Müfettişi kadrolarında bulunanlar, hiçbir işleme gerek kalmaksızın İş Başmüfettişi kadrolarına atanmış sayılır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 8",
+          "title": "",
+          "text_content": "(1) Bu Kanunun yayımlandığı tarihte İş Sağlığı ve Güvenliği Merkez Müdürlüğünde İşçi Sağlığı ve İş Güvenliği Enstitü Müdürü ile İşçi Sağlığı ve İş Güvenliği Enstitü Müdür Yardımcısı unvanlı kadrolarda bulunanların görevleri, bu Kanunun yayımlandığı tarihte sona erer ve bunlar en geç bir ay içinde derece ve kademelerine uygun diğer kadrolara atanır. Bunlar, yeni bir kadroya atanıncaya kadar, eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminatlar ile diğer mali haklarını almaya devam eder. Söz konusu personelin atandıkları tarih itibarıyla eski kadrolarına ilişkin olarak en son ayda aldıkları aylık, ek gösterge, her türlü zam ve tazminatları, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti ve ek ders ücreti hariç) toplam net tutarının (bu tutar sabit bir değer olarak esas alınır); yeni atandıkları kadrolara ilişkin olarak yapılan aylık, ek gösterge, her türlü zam ve tazminatları, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti ve ek ders ücreti hariç) toplam net tutarından fazla olması hâlinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca tazminat olarak ödenir. Atandıkları kadro unvanlarında isteğe bağlı olarak herhangi bir değişiklik olanlarla kendi istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.\n(2) Bu Kanuna ekli listelerde ihdas edilen kadrolardan boş bulunan 20 İş Sağlığı ve Güvenliği Uzmanı, 100 İş Sağlığı ve Güvenliği Uzman Yardımcısı, 40 Memur, 40 Veri Hazırlama ve Kontrol İşletmeni ve 10 Mühendis kadrosuna, 21/12/2011 tarihli ve 6260 sayılı 2012 yılı Merkezi Yönetim Bütçe Kanundaki sınırlamalara tabi olmadan 2012 yılı içinde atama yapılabilir.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "GEÇİCİ MADDE 9",
+          "title": "",
+          "text_content": "**(Ek: 4/4/2015-6645/7 md.)**\n(1) Bu Kanunun 26 ncı maddesinin birinci fıkrasına eklenen (ö) bendi, 1/1/2016 tarihinden itibaren uygulanır.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 38",
+          "title": "Yürürlük",
+          "text_content": "(1) Bu Kanunun;\na) **(Değişik: 12/7/2013-6495/56 md.)** 6 ve 7 nci maddeleri;\n1) 4857 sayılı İş Kanununun mülga 81 inci maddesi kapsamında çalışanlar hariç kamu kurumları ile 50'den az çalışanı olan ve az tehlikeli sınıfta yer alan işyerleri için 1/7/2016 tarihinde,\n2) 50'den az çalışanı olan tehlikeli ve çok tehlikeli sınıfta yer alan işyerleri için 1/1/2014 tarihinde,\n3) Diğer işyerleri için yayımı tarihinden itibaren altı ay sonra,\nb) 9, 31, 33, 34, 35, 36 ve 38 inci maddeleri ile geçici 4, geçici 5, geçici 6, geçici 7 ve geçici 8 inci maddeleri yayımı tarihinde,\nc) Diğer maddeleri yayımı tarihinden itibaren altı ay sonra,\nyürürlüğe girer.",
+          "children": []
+        },
+        {
+          "level": "ARTICLE",
+          "index": "MADDE 39",
+          "title": "Yürütme",
+          "text_content": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "amendment_summaries": [
+    {
+      "amending_law_number": "6462",
+      "affected_articles": "3",
+      "effective_date": "3/5/2013"
+    },
+    {
+      "amending_law_number": "6495",
+      "affected_articles": "3, GEÇİCİ MADDE 4, 38",
+      "effective_date": "2/8/2013"
+    },
+    {
+      "amending_law_number": "6552",
+      "affected_articles": "2, 6, 15, 30",
+      "effective_date": "11/9/2014"
+    },
+    {
+      "amending_law_number": "6645",
+      "affected_articles": "8, 25, 25/A, 26, 30, GEÇİCİ MADDE 4, GEÇİCİ MADDE 9",
+      "effective_date": "23/4/2015"
+    }
+  ]
+}
