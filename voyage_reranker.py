@@ -1,11 +1,12 @@
 """
 Voyage AI Reranker - Railway-compatible, lightweight reranking service
-Uses Voyage AI's rerank-2 model for high-quality document reranking
+Uses Voyage AI's rerank-2.5-lite model for high-quality document reranking
 """
 
 import os
 import voyageai
 from typing import List
+from config import VOYAGE_RERANK_MODEL
 
 
 class VoyageReranker:
@@ -18,9 +19,9 @@ class VoyageReranker:
             raise ValueError("VOYAGE_API_KEY environment variable not set!")
         
         self.client = voyageai.Client(api_key=api_key)
-        self.model = "rerank-2"  # High-quality reranking model
+        self.model = VOYAGE_RERANK_MODEL  # Use model from config (rerank-2.5-lite)
         
-        print("✅ Voyage AI Reranker initialized")
+        print(f"✅ Voyage AI Reranker initialized (model: {self.model})")
     
     def rerank_documents(self, query: str, documents: List, top_k: int = 5) -> List:
         """
