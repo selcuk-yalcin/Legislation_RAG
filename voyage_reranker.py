@@ -25,7 +25,7 @@ class VoyageReranker:
     
     def rerank_documents(self, query: str, documents: List, top_k: int = 5) -> List:
         """
-        Rerank documents using Voyage AI rerank-2 model
+        Rerank documents using Voyage AI rerank-2.5-lite model
         
         Args:
             query: Search query
@@ -43,6 +43,8 @@ class VoyageReranker:
             doc_texts = [doc.page_content for doc in documents]
             
             print(f"⚖️ Reranking {len(documents)} documents with Voyage AI...")
+            print(f"   • Model: {self.model}")
+            print(f"   • Query: {query[:50]}...")
             
             # Call Voyage AI rerank API
             result = self.client.rerank(
@@ -62,6 +64,11 @@ class VoyageReranker:
             return ranked_docs
             
         except Exception as e:
-            print(f"⚠️ Voyage reranking failed: {e}")
+            print(f"❌ Voyage reranking failed!")
+            print(f"   Error type: {type(e).__name__}")
+            print(f"   Error message: {str(e)}")
+            print(f"   Model attempted: {self.model}")
             print(f"   Falling back to original order (top {top_k})")
-            return documents[:top_k]
+            
+            # Re-raise the exception so we can see it in logs
+            raise e
