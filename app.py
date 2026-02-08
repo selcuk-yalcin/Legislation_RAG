@@ -207,12 +207,25 @@ def query_question():
             # Intelligent routing: RAG → Score → Gemini fallback if needed
             result = hybrid_orchestrator.query(question)
             
+            # Extract sources from result
+            sources = []
+            if 'sources' in result and result['sources']:
+                for src in result['sources']:
+                    if isinstance(src, dict):
+                        sources.append({
+                            'file': src.get('metadata', {}).get('file', 'Bilinmeyen Kaynak'),
+                            'page': src.get('metadata', {}).get('page', '?'),
+                            'content': src.get('content', '')[:200] + '...' if src.get('content') else ''
+                        })
+            
             return jsonify({
                 'answer': result['answer'],
                 'method': result.get('method', 'unknown'),
                 'confidence': result.get('confidence', 0),
                 'regulation': result.get('regulation', ''),
-                'sources': [],  # TODO: Extract sources from result
+                'fallback_reason': result.get('fallback_reason', ''),
+                'sources': sources,
+                'normalized_query': result.get('normalized_query', {}),
                 'status': 'success'
             }), 200
         else:
