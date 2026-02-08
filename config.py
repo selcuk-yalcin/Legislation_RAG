@@ -34,8 +34,8 @@ print(f"📊 VOYAGE_API_KEY: {'✅ Set' if VOYAGE_API_KEY else '❌ Not Set'}")
 print("=" * 70)
 
 # --- MODEL SEÇİMLERİ (BAŞARI VE MALİYET ODAKLI) ---
-# GPT-4o-mini: 3.5 Turbo fiyatına çok daha yüksek zeka ve analiz kapasitesi sunar.
-MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-4o-mini") 
+# Gemini 2.5 Flash Lite: Google's latest fast and efficient model with 1M context
+MODEL_NAME = os.getenv("MODEL_NAME", "google/gemini-2.5-flash-lite") 
 
 # Voyage-law-2: Hukuki metinler için optimize edilmiş 1024 boyutlu embedding modeli.
 VOYAGE_EMBEDDING_MODEL = os.getenv("VOYAGE_EMBEDDING_MODEL", "voyage-law-2")

@@ -35,10 +35,10 @@ class GeminiFallback:
                 api_key=api_key
             )
 
-        # Use Gemini 2.0 Flash Experimental (free tier on OpenRouter, 1M context!)
-        self.model_name = "google/gemini-2.0-flash-exp:free"
+        # Use Gemini 2.5 Flash Lite (latest Google model, 1M context!)
+        self.model_name = "google/gemini-2.5-flash-lite"
 
-        print(f"✅ Gemini 2.0 Flash initialized via OpenRouter (1M context window, FREE)")
+        print(f"✅ Gemini 2.5 Flash Lite initialized via OpenRouter (1M context window)")
 
     def load_full_regulation(
         self,
