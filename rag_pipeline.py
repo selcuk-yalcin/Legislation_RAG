@@ -54,8 +54,8 @@ class RAGPipeline:
             
             sources += f"📖 Sayfa: {page}\n"
             
-            # İçerik önizleme - tam madde göster (2000 karakter)
-            content_preview = doc.page_content[:2000].replace('\n', ' ').strip()
+            # İçerik önizleme - tam içeriği gönder (limit yok)
+            content_preview = doc.page_content.replace('\n', ' ').strip()
             sources += f"💬 Alıntı: \"{content_preview}\"\n\n"
         
         sources += "═" * 70 + "\n"
@@ -88,8 +88,20 @@ class RAGPipeline:
         else:
             relevant_docs = initial_docs[:TOP_RERANKED_K]
         
-        # Step 5: Bağlam Oluşturma
-        context = "\n\n".join([f"KAYNAK [{doc.metadata.get('source_file')}]: {doc.page_content}" for doc in relevant_docs])
+        # Step 5: Bağlam Oluşturma (source_file temizleme)
+        def clean_source_name(doc):
+            """source_file'dan .pdf kaldır ve düzgün başlık formatına çevir"""
+            raw = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen Belge')
+            # .pdf uzantısını kaldır
+            name = raw.replace('.pdf', '').replace('.PDF', '')
+            # Alt çizgileri boşluğa çevir
+            name = name.replace('_', ' ')
+            # BÜYÜK HARF ise düzgün başlık formatına çevir
+            if name == name.upper():
+                name = name.title()
+            return name.strip()
+        
+        context = "\n\n".join([f"KAYNAK [{clean_source_name(doc)}]: {doc.page_content}" for doc in relevant_docs])
         
         # Step 6: Sertleştirilmiş Prompt (Hallucination Engelleyici)
         # OLD VERSION - Keeping for reference
@@ -101,19 +113,19 @@ class RAGPipeline:
         
         # NEW VERSION - Simplified format without MADDE numbers (temporary fix)
         rag_prompt = f"""
-Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış bir danışmansın.
+Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış  bir danışmansın.
 
 YANIT FORMATI:
 - Her önemli nokta için başlık kullan (bold formatında: **Başlık:**)
 - Kaynak referanslarını köşeli parantez içinde SADECE yönetmelik/kanun adı olarak yaz
 - Dosya adı (.pdf) kullanma, sadece resmi yönetmelik/kanun adını yaz
-- MADDE numarası KULLANMA
+- "Fıkra", "Bent", "Madde" gibi madde referansları KULLANMA - sadece yönetmelik/kanun adı yaz
 - Temiz, okunaklı ve madde işaretli liste formatında yanıt ver
 
 ÖRNEK FORMAT:
-**Acil Durumların Belirlenmesi:** İşyerinde meydana gelebilecek acil durumlar, tasarım veya kuruluş aşamasından itibaren belirlenmelidir. [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+**Acil Durumların Belirlenmesi:** İşyerinde meydana gelebilecek acil durumlar, tasarım veya kuruluş aşamasından itibaren belirlenmelidir [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
 
-**Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır. [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+**Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
 
 KAYNAK İSİMLENDİRME KURALLARI:
 - "İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ.pdf" yerine → [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
@@ -121,12 +133,25 @@ KAYNAK İSİMLENDİRME KURALLARI:
 - Her zaman düzgün Türkçe başlık formatında yaz (ilk harf büyük, geri kalan küçük)
 - .pdf uzantısı ASLA yazma
 
+YASAK REFERANS ÖRNEKLERİ (BUNLARI ASLA YAZMA):
+❌ [Fıkra 1, Bent A]
+❌ [Madde 14]
+❌ [Fıkra 2]
+❌ [6331_SAYILI_KANUN.pdf]
+❌ [, Fıkra 1, Bent A]
+
+DOĞRU REFERANS ÖRNEKLERİ:
+✅ [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
+✅ [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
+✅ [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+✅ [Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği]
+
 KURALLAR:
 1. SADECE aşağıdaki mevzuat içeriğine dayan
-2. Her bilginin sonuna kaynak referansı ekle
+2. Her bilginin sonuna köşeli parantez içinde TAM yönetmelik/kanun adı yaz
 3. Bilgi yoksa: "Sağlanan kaynaklarda bu konuya dair bilgi bulunamamıştır" de
 4. Spekülatif ifadeler kullanma
-5. MADDE numarası yazma
+5. Fıkra, Bent, Madde numarası referans olarak KULLANMA
 
 Mevzuat İçeriği:
 ----------------------------------
@@ -141,8 +166,13 @@ Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
         messages = [
             {
                 "role": "system",
-                # "content": "Sen, sadece sağlanan metinleri kullanarak cevap veren, yorum katmayan ve hukuki dökümanlara %100 sadık kalan bir Türk Mevzuat Analiz Sistemisin."
-                "content": "Sen İSG mevzuatı danışmanısın. Yanıtlarını **Başlık:** formatında ver ve kaynak referanslarını [Yönetmelik Adı] şeklinde ekle. Dosya adı (.pdf) ve MADDE numarası kullanma. Sadece sağlanan metinlere dayan."
+                "content": """Sen İSG mevzuatı danışmanısın. KATMAN KURALLAR:
+1. Yanıtlarını **Başlık:** formatında ver
+2. Kaynak referanslarını SADECE [Yönetmelik/Kanun Tam Adı] şeklinde ekle
+3. [Fıkra X], [Bent X], [Madde X] gibi kısa referanslar YASAK - her zaman tam yönetmelik/kanun adı kullan
+4. Dosya adı (.pdf) kullanma
+5. Sadece sağlanan metinlere dayan
+6. Kaynak adını bağlamda KAYNAK [...] başlığından al, içerik metnindeki madde/fıkra numaralarını referans olarak KULLANMA"""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
