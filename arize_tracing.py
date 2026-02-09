@@ -76,6 +76,7 @@ class ArizeLegislationTracer:
         confidence: float,
         latency: float,
         sources: List[Dict],
+        sources_count: Optional[int] = None,
         metadata: Optional[Dict] = None
     ) -> None:
         """Trace a complete RAG query interaction"""
@@ -83,6 +84,9 @@ class ArizeLegislationTracer:
             return
             
         try:
+            # Use sources_count if provided, otherwise calculate from sources list
+            num_sources = sources_count if sources_count is not None else len(sources)
+            
             with self.tracer.start_as_current_span(
                 "rag_query",
                 attributes={
@@ -92,7 +96,7 @@ class ArizeLegislationTracer:
                     "rag.method": method,
                     "rag.confidence": confidence,
                     "rag.latency_ms": latency * 1000,
-                    "rag.num_sources": len(sources),
+                    "rag.num_sources": num_sources,
                     "rag.timestamp": datetime.utcnow().isoformat(),
                 }
             ) as span:
