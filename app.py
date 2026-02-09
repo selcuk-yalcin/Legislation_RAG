@@ -27,6 +27,14 @@ from voyage_reranker import VoyageReranker  # Voyage AI reranker
 from rag_pipeline import RAGPipeline
 from hybrid_pipeline import HybridRAGOrchestrator  # Hybrid orchestrator
 
+# Import Arize Phoenix tracing
+try:
+    from arize_tracing import initialize_tracing, trace_rag_query, get_tracing_status
+    TRACING_AVAILABLE = True
+except ImportError:
+    TRACING_AVAILABLE = False
+    print("⚠️  arize_tracing module not available, tracing disabled")
+
 # Initialize Flask app
 app = Flask(__name__)
 
@@ -87,6 +95,13 @@ def initialize_rag_system():
         hybrid_orchestrator = None
     
     print("\n✅ Legislation RAG system ready!\n")
+    
+    # Initialize Arize Phoenix tracing
+    if TRACING_AVAILABLE:
+        try:
+            initialize_tracing()
+        except Exception as e:
+            print(f"⚠️  Arize tracing init error: {e}")
 
 
 @app.route('/health', methods=['GET'])
@@ -101,7 +116,8 @@ def health_check():
         return jsonify({
             'status': 'healthy',
             'message': 'Legislation RAG System (MongoDB)',
-            'mongodb': health
+            'mongodb': health,
+            'tracing': get_tracing_status() if TRACING_AVAILABLE else {'enabled': False}
         }), 200
     except Exception as e:
         return jsonify({
@@ -202,10 +218,16 @@ def query_question():
         # Initialize RAG system if not already done
         initialize_rag_system()
         
+        # Track query start time for tracing
+        import time as _time
+        _query_start = _time.time()
+        
         # Use Hybrid Orchestrator if available, otherwise fallback to RAG
         if hybrid_orchestrator:
             # Intelligent routing: RAG → Score → Gemini fallback if needed
             result = hybrid_orchestrator.query(question)
+            
+            _query_latency = (_time.time() - _query_start) * 1000  # ms
             
             # Extract sources from result
             sources = []
@@ -217,6 +239,22 @@ def query_question():
                             'page': src.get('metadata', {}).get('page', '?'),
                             'content': src.get('content', '')[:200] + '...' if src.get('content') else ''
                         })
+            
+            # Trace to Arize Phoenix
+            if TRACING_AVAILABLE:
+                try:
+                    trace_rag_query(
+                        question=question,
+                        method=result.get('method', 'unknown'),
+                        confidence=result.get('confidence', 0),
+                        answer=result.get('answer', ''),
+                        sources_count=len(sources),
+                        latency_ms=_query_latency,
+                        normalized_query=result.get('normalized_query'),
+                        fallback_reason=result.get('fallback_reason', ''),
+                    )
+                except Exception as trace_err:
+                    print(f"⚠️  Tracing error: {trace_err}")
             
             return jsonify({
                 'answer': result['answer'],
@@ -231,6 +269,20 @@ def query_question():
         else:
             # Fallback to basic RAG
             answer = rag_pipeline.generate_response(question)
+            
+            _query_latency = (_time.time() - _query_start) * 1000
+            
+            # Trace basic RAG
+            if TRACING_AVAILABLE:
+                try:
+                    trace_rag_query(
+                        question=question,
+                        method='basic_rag',
+                        answer=answer,
+                        latency_ms=_query_latency,
+                    )
+                except Exception:
+                    pass
             
             return jsonify({
                 'answer': answer,
@@ -274,6 +326,88 @@ def reset_query():
         return jsonify({
             'message': 'Conversation history cleared',
             'status': 'success'
+        }), 200
+        
+    except Exception as e:
+        return jsonify({
+            'error': str(e),
+            'status': 'error'
+        }), 500
+
+
+@app.route('/feedback', methods=['POST', 'OPTIONS'])
+def submit_feedback():
+    """
+    Store user feedback (thumbs up/down) for a bot response.
+    Also logs feedback as a span in Arize Phoenix tracing.
+    
+    Request Body:
+        {
+            "message_id": "12345",
+            "question": "User's question",
+            "answer": "Bot's answer",
+            "feedback": "up" or "down",
+            "timestamp": "2026-02-09T..."
+        }
+    
+    Response:
+        {
+            "status": "success",
+            "message": "Feedback recorded"
+        }
+    """
+    if request.method == 'OPTIONS':
+        return '', 204
+    
+    try:
+        data = request.get_json()
+        
+        if not data or 'feedback' not in data:
+            return jsonify({
+                'error': 'Missing feedback in request body',
+                'status': 'error'
+            }), 400
+        
+        feedback_type = data['feedback']  # "up" or "down"
+        message_id = data.get('message_id', '')
+        question = data.get('question', '')
+        answer = data.get('answer', '')
+        timestamp = data.get('timestamp', '')
+        
+        # Log feedback
+        print(f"\n{'👍' if feedback_type == 'up' else '👎'} FEEDBACK RECEIVED")
+        print(f"   Message ID: {message_id}")
+        print(f"   Question: {question[:100]}...")
+        print(f"   Feedback: {feedback_type}")
+        print(f"   Timestamp: {timestamp}")
+        
+        # Store in MongoDB feedback collection
+        try:
+            from mongodb_vector_store import MongoDBVectorStore
+            store = MongoDBVectorStore()
+            feedback_collection = store.db['user_feedback']
+            feedback_collection.insert_one({
+                'message_id': message_id,
+                'question': question,
+                'answer': answer[:500],  # Truncate for storage
+                'feedback': feedback_type,
+                'timestamp': timestamp,
+                'created_at': __import__('datetime').datetime.utcnow()
+            })
+            print(f"   ✅ Feedback saved to MongoDB")
+        except Exception as mongo_err:
+            print(f"   ⚠️  MongoDB save failed: {mongo_err}")
+        
+        # Log to Arize Phoenix tracing if available
+        try:
+            from arize_tracing import log_feedback_span
+            log_feedback_span(message_id, question, answer, feedback_type)
+        except Exception as trace_err:
+            print(f"   ⚠️  Tracing feedback log skipped: {trace_err}")
+        
+        return jsonify({
+            'status': 'success',
+            'message': 'Feedback recorded'
         }), 200
         
     except Exception as e:

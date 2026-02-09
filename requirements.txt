@@ -25,3 +25,17 @@ pypdf==3.17.4
 flask==3.0.0
 flask-cors==4.0.0
 gunicorn==21.2.0
+
+# Arize Phoenix Tracing (Manual Instrumentation)
+arize-phoenix>=4.0.0
+openinference-instrumentation>=0.1.12
+openinference-semantic-conventions>=0.1.9
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+opentelemetry-exporter-otlp-proto-http>=1.20.0
+
+# Arize Phoenix Tracing (Observability)
+arize-otel>=0.7.0
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+openinference-instrumentation-openai>=0.1.0

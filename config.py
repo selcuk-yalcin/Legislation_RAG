@@ -26,6 +26,11 @@ MONGO_DB_NAME = os.environ.get("MONGO_DB_NAME") or os.getenv("MONGO_DB_NAME", "m
 MONGO_COLLECTION_NAME = os.environ.get("MONGO_COLLECTION_NAME") or os.getenv("MONGO_COLLECTION_NAME", "documents")
 MONGO_VECTOR_INDEX_NAME = os.environ.get("MONGO_VECTOR_INDEX_NAME") or os.getenv("MONGO_VECTOR_INDEX_NAME", "vector_index")
 
+# Arize Phoenix Tracing Configuration
+ARIZE_SPACE_ID = os.environ.get("ARIZE_SPACE_ID", "")
+ARIZE_API_KEY = os.environ.get("ARIZE_API_KEY", "")
+ARIZE_PROJECT_NAME = os.environ.get("ARIZE_PROJECT_NAME", "legislationchatbot")
+
 # Debug output
 print(f"📊 MONGO_URI: {MONGO_URI[:30]}...")
 print(f"📊 MONGO_DB_NAME: {MONGO_DB_NAME}")
