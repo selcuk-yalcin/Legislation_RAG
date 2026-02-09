@@ -43,16 +43,9 @@ class RAGPipeline:
         
         for idx, doc in enumerate(documents, 1):
             document_title = doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen Belge'))
-            madde_number = doc.metadata.get('madde_number', 'Bilinmeyen')
-            page = doc.metadata.get('page', 'N/A')
             
             sources += f"📄 Kaynak {idx}: {document_title}\n"
             sources += "─" * 70 + "\n"
-            
-            if madde_number != "Bilinmeyen":
-                sources += f"📌 MADDE: {madde_number}\n"
-            
-            sources += f"📖 Sayfa: {page}\n"
             
             # İçerik önizleme - tam içeriği gönder (limit yok)
             content_preview = doc.page_content.replace('\n', ' ').strip()
