@@ -404,10 +404,17 @@ def submit_feedback():
         except Exception as mongo_err:
             print(f"   ⚠️  MongoDB save failed: {mongo_err}")
         
-        # Log to Arize Phoenix tracing if available
+        # Log to Arize tracing if available
         try:
             from arize_tracing import log_feedback_span
-            log_feedback_span(message_id, question, answer, feedback_type)
+            log_feedback_span(
+                query_id=message_id,
+                feedback_type=feedback_type,
+                metadata={
+                    'question': question,
+                    'answer': answer[:200]
+                }
+            )
         except Exception as trace_err:
             print(f"   ⚠️  Tracing feedback log skipped: {trace_err}")
         
