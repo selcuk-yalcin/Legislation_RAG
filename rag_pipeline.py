@@ -105,8 +105,9 @@ Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşm�
 
 YANIT FORMATI:
 - Her önemli nokta için başlık kullan (bold formatında: **Başlık:**)
-- Kaynak referanslarını köşeli parantez içinde yaz: [Kaynak Adı]
-- MADDE numarası kullanma (geçici olarak devre dışı)
+- Kaynak referanslarını köşeli parantez içinde SADECE yönetmelik/kanun adı olarak yaz
+- Dosya adı (.pdf) kullanma, sadece resmi yönetmelik/kanun adını yaz
+- MADDE numarası KULLANMA
 - Temiz, okunaklı ve madde işaretli liste formatında yanıt ver
 
 ÖRNEK FORMAT:
@@ -114,11 +115,18 @@ YANIT FORMATI:
 
 **Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır. [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
 
+KAYNAK İSİMLENDİRME KURALLARI:
+- "İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ.pdf" yerine → [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
+- "6331_SAYILI_KANUN.pdf" yerine → [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
+- Her zaman düzgün Türkçe başlık formatında yaz (ilk harf büyük, geri kalan küçük)
+- .pdf uzantısı ASLA yazma
+
 KURALLAR:
 1. SADECE aşağıdaki mevzuat içeriğine dayan
-2. Her bilginin sonuna kaynak referansı ekle [Kaynak Adı]
+2. Her bilginin sonuna kaynak referansı ekle
 3. Bilgi yoksa: "Sağlanan kaynaklarda bu konuya dair bilgi bulunamamıştır" de
 4. Spekülatif ifadeler kullanma
+5. MADDE numarası yazma
 
 Mevzuat İçeriği:
 ----------------------------------
@@ -134,7 +142,7 @@ Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
             {
                 "role": "system",
                 # "content": "Sen, sadece sağlanan metinleri kullanarak cevap veren, yorum katmayan ve hukuki dökümanlara %100 sadık kalan bir Türk Mevzuat Analiz Sistemisin."
-                "content": "Sen İSG mevzuatı danışmanısın. Yanıtlarını **Başlık:** formatında ver ve kaynak referanslarını [Kaynak Adı] şeklinde ekle. Sadece sağlanan metinlere dayan, madde numarası kullanma."
+                "content": "Sen İSG mevzuatı danışmanısın. Yanıtlarını **Başlık:** formatında ver ve kaynak referanslarını [Yönetmelik Adı] şeklinde ekle. Dosya adı (.pdf) ve MADDE numarası kullanma. Sadece sağlanan metinlere dayan."
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
