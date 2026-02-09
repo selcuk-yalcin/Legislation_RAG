@@ -248,10 +248,13 @@ def query_question():
                         method=result.get('method', 'unknown'),
                         confidence=result.get('confidence', 0),
                         answer=result.get('answer', ''),
+                        sources=sources,
                         sources_count=len(sources),
-                        latency_ms=_query_latency,
-                        normalized_query=result.get('normalized_query'),
-                        fallback_reason=result.get('fallback_reason', ''),
+                        latency=_query_latency,
+                        metadata={
+                            'normalized_query': result.get('normalized_query'),
+                            'fallback_reason': result.get('fallback_reason', '')
+                        }
                     )
                 except Exception as trace_err:
                     print(f"⚠️  Tracing error: {trace_err}")
@@ -279,7 +282,10 @@ def query_question():
                         question=question,
                         method='basic_rag',
                         answer=answer,
-                        latency_ms=_query_latency,
+                        sources=[],
+                        latency=_query_latency,
+                        confidence=0.5,
+                        metadata={'fallback': 'basic_rag'}
                     )
                 except Exception:
                     pass
