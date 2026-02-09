@@ -92,21 +92,33 @@ class RAGPipeline:
         context = "\n\n".join([f"KAYNAK [{doc.metadata.get('source_file')}]: {doc.page_content}" for doc in relevant_docs])
         
         # Step 6: Sertleştirilmiş Prompt (Hallucination Engelleyici)
+        # OLD VERSION - Keeping for reference
+        # rag_prompt = f"""
+        # Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış, son derece titiz bir hukuk danışmanısın. 
+        # Görevin, aşağıdaki 'Mevzuat İçeriği' kısmını bir hakim hassasiyetiyle incelemek ve soruyu yanıtlamaktır.
+        # ...
+        # """
+        
+        # NEW VERSION - Simplified format without MADDE numbers (temporary fix)
         rag_prompt = f"""
-Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış, son derece titiz bir hukuk danışmanısın. 
-Görevin, aşağıdaki 'Mevzuat İçeriği' kısmını bir hakim hassasiyetiyle incelemek ve soruyu yanıtlamaktır.
+Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış bir danışmansın.
 
-HUKUKİ PROTOKOL VE SINIRLAR:
-1. **MUTLAK SADAKAT:** SADECE aşağıda sağlanan mevzuat içeriğine dayan. Kendi genel kültürünü ASLA kullanma.
-2. **MADDE NUMARALARI:** Metinde açıkça 'Madde X' ifadesi geçmiyorsa, kesinlikle bir madde numarası uydurma.
-3. **KAYNAK KONTROLÜ:** Eğer bir bilgi metinde varsa ama maddesi belirsizse, "İlgili mevzuat hükmüne göre..." ifadesini kullan.
-4. **ÇELİŞKİ YÖNETİMİ:** Farklı sektör dökümanları (örn: Gemi vs. Yapı İşleri) arasında çelişki varsa, sorudaki bağlama en uygun olanı seç.
-5. **BİLGİ YOKLUĞU:** Cevap metinde yoksa şu cevabı ver: "Sağlanan mevzuat kaynaklarında bu konuya dair spesifik bir hüküm bulunamamıştır."
+YANIT FORMATI:
+- Her önemli nokta için başlık kullan (bold formatında: **Başlık:**)
+- Kaynak referanslarını köşeli parantez içinde yaz: [Kaynak Adı]
+- MADDE numarası kullanma (geçici olarak devre dışı)
+- Temiz, okunaklı ve madde işaretli liste formatında yanıt ver
 
-HUKUKİ HALÜSİNASYON BARİYERİ:
-⚠️  Cevapta kullandığın her bilginin yanına, o bilgiyi aldığın madde numarasını köşeli parantez içinde yaz [MADDE X].
-⚠️  Metinde olmayan bir bilgiyi asla ekleme. Emin değilsen, açıkça "Bu konuda kaynaklarda açık hüküm yoktur" de.
-⚠️  "Yorumuma göre" veya "muhtemelen" gibi spekülatif ifadeler YASAK. Sadece metindeki lafza sadık kal.
+ÖRNEK FORMAT:
+**Acil Durumların Belirlenmesi:** İşyerinde meydana gelebilecek acil durumlar, tasarım veya kuruluş aşamasından itibaren belirlenmelidir. [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+
+**Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır. [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+
+KURALLAR:
+1. SADECE aşağıdaki mevzuat içeriğine dayan
+2. Her bilginin sonuna kaynak referansı ekle [Kaynak Adı]
+3. Bilgi yoksa: "Sağlanan kaynaklarda bu konuya dair bilgi bulunamamıştır" de
+4. Spekülatif ifadeler kullanma
 
 Mevzuat İçeriği:
 ----------------------------------
@@ -115,13 +127,14 @@ Mevzuat İçeriği:
 
 Kullanıcı Sorusu: {user_input}
 
-Yanıt (Kesin, Kanıta Dayalı ve Mevzuat Atıflı):"""
+Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
         
         # Mesaj Geçmişi Yönetimi
         messages = [
             {
                 "role": "system",
-                "content": "Sen, sadece sağlanan metinleri kullanarak cevap veren, yorum katmayan ve hukuki dökümanlara %100 sadık kalan bir Türk Mevzuat Analiz Sistemisin."
+                # "content": "Sen, sadece sağlanan metinleri kullanarak cevap veren, yorum katmayan ve hukuki dökümanlara %100 sadık kalan bir Türk Mevzuat Analiz Sistemisin."
+                "content": "Sen İSG mevzuatı danışmanısın. Yanıtlarını **Başlık:** formatında ver ve kaynak referanslarını [Kaynak Adı] şeklinde ekle. Sadece sağlanan metinlere dayan, madde numarası kullanma."
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
