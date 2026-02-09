@@ -62,12 +62,20 @@ def initialize_rag_system():
     
     print("🚀 Initializing Legislation RAG System (MongoDB + Hybrid)...\n")
     
-    # 1. MongoDB'de veri var mı kontrol et
+    # 1. Initialize Arize tracing FIRST (before creating OpenAI client!)
+    # OpenAIInstrumentor must be active BEFORE client creation to auto-trace
+    if TRACING_AVAILABLE:
+        try:
+            initialize_tracing()
+        except Exception as e:
+            print(f"⚠️  Arize tracing init error: {e}")
+    
+    # 2. MongoDB'de veri var mı kontrol et
     if not mongodb_store_exists():
         print("❌ MongoDB'de döküman bulunamadı!")
         raise Exception("MongoDB'de döküman yok. Lütfen preprocessing.py scriptini çalıştırın.")
     
-    # 2. Create OpenRouter client (shared for RAG + Gemini)
+    # 3. Create OpenRouter client (shared for RAG + Gemini) - NOW auto-traced!
     openrouter_client = create_openrouter_client()
     
     # 3. MongoDB Vector Store'u yükle (ChromaDB yerine)
@@ -95,13 +103,6 @@ def initialize_rag_system():
         hybrid_orchestrator = None
     
     print("\n✅ Legislation RAG system ready!\n")
-    
-    # Initialize Arize Phoenix tracing
-    if TRACING_AVAILABLE:
-        try:
-            initialize_tracing()
-        except Exception as e:
-            print(f"⚠️  Arize tracing init error: {e}")
 
 
 @app.route('/health', methods=['GET'])

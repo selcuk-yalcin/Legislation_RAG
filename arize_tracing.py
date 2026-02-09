@@ -83,9 +83,14 @@ class ArizeTracer:
             
         try:
             with self.tracer.start_as_current_span("user_feedback") as span:
+                # Input/Output for visibility in Arize UI
+                span.set_attribute("input.value", metadata.get("question", "") if metadata else "")
+                span.set_attribute("output.value", metadata.get("answer", "") if metadata else "")
+                
                 span.set_attribute("feedback.query_id", query_id)
                 span.set_attribute("feedback.type", feedback_type)
                 span.set_attribute("feedback.score", 1.0 if feedback_type == "up" else 0.0)
+                span.set_attribute("feedback.label", "positive" if feedback_type == "up" else "negative")
                 span.set_attribute("feedback.timestamp", datetime.utcnow().isoformat())
                 
                 if user_id:
