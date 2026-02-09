@@ -54,9 +54,9 @@ class RAGPipeline:
             
             sources += f"📖 Sayfa: {page}\n"
             
-            # İçerik önizleme
-            content_preview = doc.page_content[:180].replace('\n', ' ').strip()
-            sources += f"💬 Alıntı: \"{content_preview}...\"\n\n"
+            # İçerik önizleme - tam madde göster (2000 karakter)
+            content_preview = doc.page_content[:2000].replace('\n', ' ').strip()
+            sources += f"💬 Alıntı: \"{content_preview}\"\n\n"
         
         sources += "═" * 70 + "\n"
         sources += "💡 Not: Kaynaklar MADDE bazlı parçalama ile hassas şekilde seçilmiştir.\n"
