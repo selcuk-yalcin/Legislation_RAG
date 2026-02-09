@@ -27,9 +27,9 @@ from voyage_reranker import VoyageReranker  # Voyage AI reranker
 from rag_pipeline import RAGPipeline
 from hybrid_pipeline import HybridRAGOrchestrator  # Hybrid orchestrator
 
-# Import Arize Phoenix tracing
+# Import Arize tracing (auto-instruments OpenRouter/OpenAI calls)
 try:
-    from arize_tracing import initialize_tracing, trace_rag_query, get_tracing_status
+    from arize_tracing import initialize_tracing, get_tracing_status, log_feedback_span
     TRACING_AVAILABLE = True
 except ImportError:
     TRACING_AVAILABLE = False
@@ -240,24 +240,7 @@ def query_question():
                             'content': src.get('content', '')[:200] + '...' if src.get('content') else ''
                         })
             
-            # Trace to Arize Phoenix
-            if TRACING_AVAILABLE:
-                try:
-                    trace_rag_query(
-                        question=question,
-                        method=result.get('method', 'unknown'),
-                        confidence=result.get('confidence', 0),
-                        answer=result.get('answer', ''),
-                        sources=sources,
-                        sources_count=len(sources),
-                        latency=_query_latency,
-                        metadata={
-                            'normalized_query': result.get('normalized_query'),
-                            'fallback_reason': result.get('fallback_reason', '')
-                        }
-                    )
-                except Exception as trace_err:
-                    print(f"⚠️  Tracing error: {trace_err}")
+            # Note: OpenRouter LLM calls are auto-traced by Arize OpenAI instrumentation
             
             return jsonify({
                 'answer': result['answer'],
@@ -275,20 +258,7 @@ def query_question():
             
             _query_latency = (_time.time() - _query_start) * 1000
             
-            # Trace basic RAG
-            if TRACING_AVAILABLE:
-                try:
-                    trace_rag_query(
-                        question=question,
-                        method='basic_rag',
-                        answer=answer,
-                        sources=[],
-                        latency=_query_latency,
-                        confidence=0.5,
-                        metadata={'fallback': 'basic_rag'}
-                    )
-                except Exception:
-                    pass
+            # Note: OpenRouter LLM calls are auto-traced by Arize
             
             return jsonify({
                 'answer': answer,
@@ -405,18 +375,18 @@ def submit_feedback():
             print(f"   ⚠️  MongoDB save failed: {mongo_err}")
         
         # Log to Arize tracing if available
-        try:
-            from arize_tracing import log_feedback_span
-            log_feedback_span(
-                query_id=message_id,
-                feedback_type=feedback_type,
-                metadata={
-                    'question': question,
-                    'answer': answer[:200]
-                }
-            )
-        except Exception as trace_err:
-            print(f"   ⚠️  Tracing feedback log skipped: {trace_err}")
+        if TRACING_AVAILABLE:
+            try:
+                log_feedback_span(
+                    query_id=message_id,
+                    feedback_type=feedback_type,
+                    metadata={
+                        'question': question,
+                        'answer': answer[:200]
+                    }
+                )
+            except Exception as trace_err:
+                print(f"   ⚠️  Tracing feedback log skipped: {trace_err}")
         
         return jsonify({
             'status': 'success',

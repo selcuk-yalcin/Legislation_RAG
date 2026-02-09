@@ -26,7 +26,8 @@ flask==3.0.0
 flask-cors==4.0.0
 gunicorn==21.2.0
 
-# Arize Tracing (Official SDK)
+# Arize Tracing (OpenRouter via OpenAI auto-instrumentation)
 arize-otel>=0.7.0
+openinference-instrumentation-openai>=0.1.0
 opentelemetry-api>=1.20.0
 opentelemetry-sdk>=1.20.0
