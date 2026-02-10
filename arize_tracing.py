@@ -8,6 +8,12 @@ import os
 from typing import Dict, Any, Optional
 from datetime import datetime
 
+# Set OTEL env vars BEFORE any imports to prevent gRPC/mutex issues
+os.environ.setdefault("OTEL_EXPORTER_OTLP_TIMEOUT", "30000")
+os.environ.setdefault("OTEL_EXPORTER_OTLP_PROTOCOL", "http/protobuf")
+os.environ.setdefault("OTEL_BSP_SCHEDULE_DELAY", "5000")
+os.environ.setdefault("OTEL_BSP_MAX_EXPORT_BATCH_SIZE", "32")
+
 # Arize + OpenAI auto-instrumentation
 try:
     from arize.otel import register
@@ -43,10 +49,7 @@ class ArizeTracer:
         try:
             print("🔭 Initializing Arize tracing (OpenRouter auto-instrumentation)...")
             
-            # Set OTEL exporter timeout via env var (prevents DEADLINE_EXCEEDED)
-            os.environ.setdefault("OTEL_EXPORTER_OTLP_TIMEOUT", "30000")
-            
-            # Step 1: Register with Arize (as per official docs)
+            # Step 1: Register with Arize using HTTP/protobuf (avoids gRPC mutex issues)
             self.tracer_provider = register(
                 space_id=ARIZE_SPACE_ID,
                 api_key=ARIZE_API_KEY,
