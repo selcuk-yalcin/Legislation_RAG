@@ -87,27 +87,37 @@ class ArizeTracer:
             span_name = f"user_feedback_{feedback_type}" + ("_with_comment" if has_comment else "")
             
             with self.tracer.start_as_current_span(span_name) as span:
-                # Input/Output for visibility in Arize UI
-                span.set_attribute("input.value", metadata.get("question", "") if metadata else "")
-                span.set_attribute("output.value", metadata.get("answer", "") if metadata else "")
+                # Build detailed input/output for better visibility in Arize UI
+                question = metadata.get("question", "") if metadata else ""
+                answer = metadata.get("answer", "") if metadata else ""
+                comment = metadata.get("comment", "") if metadata else ""
                 
+                # Input: Show question + comment (if exists)
+                input_text = question
+                if comment:
+                    input_text += f"\n\n💬 User Comment:\n{comment}"
+                span.set_attribute("input.value", input_text)
+                
+                # Output: Show answer
+                span.set_attribute("output.value", answer)
+                
+                # Feedback attributes
                 span.set_attribute("feedback.query_id", query_id)
                 span.set_attribute("feedback.type", feedback_type)
                 span.set_attribute("feedback.score", 1.0 if feedback_type == "up" else 0.0)
                 span.set_attribute("feedback.label", "positive" if feedback_type == "up" else "negative")
                 span.set_attribute("feedback.timestamp", datetime.utcnow().isoformat())
                 
-                # Add user comment if present (for dislike feedback)
-                if metadata and metadata.get("comment"):
-                    span.set_attribute("feedback.user_comment", str(metadata["comment"]))
-                    span.set_attribute("feedback.comment_length", metadata.get("comment_length", len(str(metadata["comment"]))))
+                # Add user comment as separate attribute (for filtering/search)
+                if comment:
+                    span.set_attribute("feedback.user_comment", str(comment))
+                    span.set_attribute("feedback.comment_length", len(str(comment)))
                 
                 if user_id:
                     span.set_attribute("feedback.user_id", user_id)
-                if metadata:
-                    for key, value in metadata.items():
-                        if value is not None:
-                            span.set_attribute(f"feedback.{key}", str(value))
+                
+                # Don't add metadata items again (already in input/output)
+                # This prevents duplication
                 
                 span.set_status(Status(StatusCode.OK))
                         
