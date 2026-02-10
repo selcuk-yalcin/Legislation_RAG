@@ -153,9 +153,10 @@ DOĞRU REFERANS ÖRNEKLERİ:
 KURALLAR:
 1. SADECE aşağıdaki mevzuat içeriğine dayan
 2. Her bilginin sonuna köşeli parantez içinde TAM yönetmelik/kanun adı yaz
-3. Bilgi yoksa: "Sağlanan kaynaklarda bu konuya dair bilgi bulunamamıştır" de
+3. Bilgi yoksa: en yakın ilgili bilgileri sun ve hangi mevzuatın incelenmesi gerektiğini belirt
 4. Spekülatif ifadeler kullanma
 5. "Fıkra", "Bent", "Madde" kelimelerini hiçbir şekilde yanıtında kullanma
+6. ASLA boş veya genel bir "bilgi bulunamadı" cevabı verme — her zaman context'ten çıkarılabilecek en yakın bilgiyi sun
 
 Mevzuat İçeriği:
 ----------------------------------
@@ -177,7 +178,8 @@ Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
 4. Dosya adı (.pdf) kullanma
 5. Sadece sağlanan metinlere dayan
 6. Kaynak adını bağlamda KAYNAK [...] başlığından al, içerik metnindeki fıkra/bent/madde numaralarını referans olarak gösterme
-7. Madde içeriğini açıklarken direkt bilgiyi yaz, numaralandırma yapma"""
+7. Madde içeriğini açıklarken direkt bilgiyi yaz, numaralandırma yapma
+8. ASLA boş veya genel "bilgi bulunamadı" cevabı verme — en yakın ilgili bilgileri sun"""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
