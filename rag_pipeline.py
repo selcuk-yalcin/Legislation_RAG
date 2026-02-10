@@ -108,17 +108,23 @@ class RAGPipeline:
         rag_prompt = f"""
 Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış  bir danışmansın.
 
+ÖNEMLİ: Yanıtlarında "Fıkra", "Bent", "Madde" gibi ifadeler kullanmak kesinlikle YASAKTIR.
+
 YANIT FORMATI:
 - Her önemli nokta için başlık kullan (bold formatında: **Başlık:**)
 - Kaynak referanslarını köşeli parantez içinde SADECE yönetmelik/kanun adı olarak yaz
 - Dosya adı (.pdf) kullanma, sadece resmi yönetmelik/kanun adını yaz
-- "Fıkra", "Bent", "Madde" gibi madde referansları KULLANMA - sadece yönetmelik/kanun adı yaz
+- Madde içeriğini açıklarken direkt bilgiyi yaz, madde numarasını belirtme
 - Temiz, okunaklı ve madde işaretli liste formatında yanıt ver
 
-ÖRNEK FORMAT:
+ÖRNEK YANIT:
+Soru: "Acil durum planı nasıl hazırlanır?"
+
 **Acil Durumların Belirlenmesi:** İşyerinde meydana gelebilecek acil durumlar, tasarım veya kuruluş aşamasından itibaren belirlenmelidir [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
 
 **Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
+
+**Acil Durum Planının Hazırlanması:** İşveren, tespit edilen acil durumlara göre acil durum planı hazırlamalı ve gerekli her türlü tedbiri almalıdır [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
 
 KAYNAK İSİMLENDİRME KURALLARI:
 - "İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ.pdf" yerine → [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
@@ -130,21 +136,26 @@ YASAK REFERANS ÖRNEKLERİ (BUNLARI ASLA YAZMA):
 ❌ [Fıkra 1, Bent A]
 ❌ [Madde 14]
 ❌ [Fıkra 2]
+❌ [Madde 14, Fıkra 2]
 ❌ [6331_SAYILI_KANUN.pdf]
 ❌ [, Fıkra 1, Bent A]
+❌ İşveren, bütün iş kazalarının kaydını tutar [Fıkra 1, Bent A]
+❌ Sosyal Güvenlik Kurumuna bildirimde bulunmakla yükümlüdür [MADDE 14, Fıkra 2]
 
 DOĞRU REFERANS ÖRNEKLERİ:
 ✅ [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
 ✅ [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
 ✅ [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
 ✅ [Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği]
+✅ İşveren, bütün iş kazalarının kaydını tutmalıdır [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
+✅ Sosyal Güvenlik Kurumuna bildirimde bulunmakla yükümlüdür [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
 
 KURALLAR:
 1. SADECE aşağıdaki mevzuat içeriğine dayan
 2. Her bilginin sonuna köşeli parantez içinde TAM yönetmelik/kanun adı yaz
 3. Bilgi yoksa: "Sağlanan kaynaklarda bu konuya dair bilgi bulunamamıştır" de
 4. Spekülatif ifadeler kullanma
-5. Fıkra, Bent, Madde numarası referans olarak KULLANMA
+5. "Fıkra", "Bent", "Madde" kelimelerini hiçbir şekilde yanıtında kullanma
 
 Mevzuat İçeriği:
 ----------------------------------
@@ -159,13 +170,14 @@ Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
         messages = [
             {
                 "role": "system",
-                "content": """Sen İSG mevzuatı danışmanısın. KATMAN KURALLAR:
+                "content": """Sen İSG mevzuatı danışmanısın. KESİN KURALLAR:
 1. Yanıtlarını **Başlık:** formatında ver
 2. Kaynak referanslarını SADECE [Yönetmelik/Kanun Tam Adı] şeklinde ekle
-3. [Fıkra X], [Bent X], [Madde X] gibi kısa referanslar YASAK - her zaman tam yönetmelik/kanun adı kullan
+3. "Fıkra", "Bent", "Madde" kelimelerini yanıtlarında ASLA kullanma
 4. Dosya adı (.pdf) kullanma
 5. Sadece sağlanan metinlere dayan
-6. Kaynak adını bağlamda KAYNAK [...] başlığından al, içerik metnindeki madde/fıkra numaralarını referans olarak KULLANMA"""
+6. Kaynak adını bağlamda KAYNAK [...] başlığından al, içerik metnindeki fıkra/bent/madde numaralarını referans olarak gösterme
+7. Madde içeriğini açıklarken direkt bilgiyi yaz, numaralandırma yapma"""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
