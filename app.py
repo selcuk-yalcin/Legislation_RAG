@@ -349,6 +349,7 @@ def submit_feedback():
         message_id = data.get('message_id', '')
         question = data.get('question', '')
         answer = data.get('answer', '')
+        comment = data.get('comment', '')
         timestamp = data.get('timestamp', '')
         
         # Log feedback
@@ -356,6 +357,8 @@ def submit_feedback():
         print(f"   Message ID: {message_id}")
         print(f"   Question: {question[:100]}...")
         print(f"   Feedback: {feedback_type}")
+        if comment:
+            print(f"   💬 Comment: {comment[:200]}")
         print(f"   Timestamp: {timestamp}")
         
         # Store in MongoDB feedback collection
@@ -363,14 +366,17 @@ def submit_feedback():
             from mongodb_vector_store import MongoDBVectorStore
             store = MongoDBVectorStore()
             feedback_collection = store.db['user_feedback']
-            feedback_collection.insert_one({
+            feedback_doc = {
                 'message_id': message_id,
                 'question': question,
                 'answer': answer[:500],  # Truncate for storage
                 'feedback': feedback_type,
                 'timestamp': timestamp,
                 'created_at': __import__('datetime').datetime.utcnow()
-            })
+            }
+            if comment:
+                feedback_doc['comment'] = comment
+            feedback_collection.insert_one(feedback_doc)
             print(f"   ✅ Feedback saved to MongoDB")
         except Exception as mongo_err:
             print(f"   ⚠️  MongoDB save failed: {mongo_err}")
