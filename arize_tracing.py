@@ -43,13 +43,14 @@ class ArizeTracer:
         try:
             print("🔭 Initializing Arize tracing (OpenRouter auto-instrumentation)...")
             
+            # Set OTEL exporter timeout via env var (prevents DEADLINE_EXCEEDED)
+            os.environ.setdefault("OTEL_EXPORTER_OTLP_TIMEOUT", "30000")
+            
             # Step 1: Register with Arize (as per official docs)
-            # Increase timeout to prevent DEADLINE_EXCEEDED errors
             self.tracer_provider = register(
                 space_id=ARIZE_SPACE_ID,
                 api_key=ARIZE_API_KEY,
                 project_name=ARIZE_PROJECT_NAME,
-                timeout_millis=30000,  # 30 seconds (default is 10s)
             )
             
             # Step 2: Auto-instrument OpenAI SDK (catches all OpenRouter calls)
