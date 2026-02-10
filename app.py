@@ -384,13 +384,18 @@ def submit_feedback():
         # Log to Arize tracing if available
         if TRACING_AVAILABLE:
             try:
+                trace_metadata = {
+                    'question': question,
+                    'answer': answer[:200]
+                }
+                if comment:
+                    trace_metadata['comment'] = comment
+                    trace_metadata['comment_length'] = len(comment)
+                
                 log_feedback_span(
                     query_id=message_id,
                     feedback_type=feedback_type,
-                    metadata={
-                        'question': question,
-                        'answer': answer[:200]
-                    }
+                    metadata=trace_metadata
                 )
             except Exception as trace_err:
                 print(f"   ⚠️  Tracing feedback log skipped: {trace_err}")

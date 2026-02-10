@@ -82,7 +82,11 @@ class ArizeTracer:
             return
             
         try:
-            with self.tracer.start_as_current_span("user_feedback") as span:
+            # Use descriptive span name based on feedback type and comment presence
+            has_comment = metadata and metadata.get("comment")
+            span_name = f"user_feedback_{feedback_type}" + ("_with_comment" if has_comment else "")
+            
+            with self.tracer.start_as_current_span(span_name) as span:
                 # Input/Output for visibility in Arize UI
                 span.set_attribute("input.value", metadata.get("question", "") if metadata else "")
                 span.set_attribute("output.value", metadata.get("answer", "") if metadata else "")
@@ -92,6 +96,11 @@ class ArizeTracer:
                 span.set_attribute("feedback.score", 1.0 if feedback_type == "up" else 0.0)
                 span.set_attribute("feedback.label", "positive" if feedback_type == "up" else "negative")
                 span.set_attribute("feedback.timestamp", datetime.utcnow().isoformat())
+                
+                # Add user comment if present (for dislike feedback)
+                if metadata and metadata.get("comment"):
+                    span.set_attribute("feedback.user_comment", str(metadata["comment"]))
+                    span.set_attribute("feedback.comment_length", metadata.get("comment_length", len(str(metadata["comment"]))))
                 
                 if user_id:
                     span.set_attribute("feedback.user_id", user_id)
