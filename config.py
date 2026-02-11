@@ -31,6 +31,13 @@ ARIZE_SPACE_ID = os.environ.get("ARIZE_SPACE_ID", "")
 ARIZE_API_KEY = os.environ.get("ARIZE_API_KEY", "")
 ARIZE_PROJECT_NAME = os.environ.get("ARIZE_PROJECT_NAME", "legislationchatbot")
 
+# Web Fallback Configuration (Serper + Azure DI)
+SERPER_API_KEY = os.environ.get("SERPER_API_KEY", "")
+AZURE_DI_ENDPOINT = os.environ.get("AZURE_DI_ENDPOINT", "")
+AZURE_DI_KEY = os.environ.get("AZURE_DI_KEY", "")
+AZURE_DI_MODEL = os.environ.get("AZURE_DI_MODEL", "prebuilt-layout")
+TR_PROXY_URL = os.environ.get("TR_PROXY_URL", "")  # Optional: Turkey IP proxy
+
 # Debug output
 print(f"📊 MONGO_URI: {MONGO_URI[:30]}...")
 print(f"📊 MONGO_DB_NAME: {MONGO_DB_NAME}")

@@ -2,6 +2,7 @@
 Hybrid RAG Pipeline - Orchestrator
 Intelligently routes queries between primary RAG and Gemini fallback
 Enhanced: 3-tier confidence system - never returns empty answers
+Web Fallback: Serper + Azure DI + MongoDB for fresh legislation data
 """
 
 import re
@@ -95,6 +96,16 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
         else:
             print("✅ Hybrid orchestrator initialized (fallback disabled)")
         
+        # Initialize Web Fallback Pipeline (Serper + Azure DI + MongoDB)
+        self.web_pipeline = None
+        try:
+            from web_fallback_pipeline import WebFallbackPipeline
+            self.web_pipeline = WebFallbackPipeline(openrouter_client=openrouter_client)
+            if not self.web_pipeline.enabled:
+                self.web_pipeline = None
+        except Exception as e:
+            print(f"⚠️  Web fallback pipeline disabled: {e}")
+        
         # Statistics
         self.stats = {
             "total_queries": 0,
@@ -102,6 +113,7 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
             "rag_enriched": 0,
             "enhanced_fallback": 0,
             "gemini_fallback": 0,
+            "web_fallback": 0,
             "fallback_disabled": 0
         }
     
@@ -259,7 +271,20 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
                 self.stats["enhanced_fallback"] += 1
                 return enhanced_result
             
-            # If enhanced fallback also failed, try Gemini
+            # Try Web Fallback (Serper + Azure DI) before Gemini
+            if self.web_pipeline:
+                print("\n🌐 Trying Web Fallback (Serper + Azure DI)...")
+                reg_hint = self.REGULATION_MAP.get(
+                    normalized.get("regulation_type", ""), None
+                )
+                web_result = self.web_pipeline.execute(user_query, regulation_hint=reg_hint)
+                if web_result and web_result.get("answer"):
+                    self.stats["web_fallback"] += 1
+                    web_result["normalized_query"] = normalized
+                    web_result["fallback_reason"] = f"Low confidence ({confidence:.2f}) — web search used"
+                    return web_result
+            
+            # If web fallback also failed, try Gemini
             if self.enable_fallback:
                 fallback_reason = f"Low confidence ({confidence:.2f})"
                 if score_result["components"]["red_flags"] == 0.0:
@@ -595,6 +620,7 @@ bile en yakın ilgili bilgileri sun. ASLA boş cevap verme. Her zaman yardımcı
                 "rag_success": f"{100 * self.stats['rag_success'] / total:.1f}%",
                 "rag_enriched": f"{100 * self.stats['rag_enriched'] / total:.1f}%",
                 "enhanced_fallback": f"{100 * self.stats['enhanced_fallback'] / total:.1f}%",
+                "web_fallback": f"{100 * self.stats['web_fallback'] / total:.1f}%",
                 "gemini_fallback": f"{100 * self.stats['gemini_fallback'] / total:.1f}%",
                 "fallback_disabled": f"{100 * self.stats['fallback_disabled'] / total:.1f}%"
             }
@@ -613,6 +639,7 @@ bile en yakın ilgili bilgileri sun. ASLA boş cevap verme. Her zaman yardımcı
             print(f"\n✅ Primary RAG Success (High): {stats['rag_success']} ({stats['percentages']['rag_success']})")
             print(f"⚠️  Enriched RAG (Medium): {stats['rag_enriched']} ({stats['percentages']['rag_enriched']})")
             print(f"🔄 Enhanced Fallback (Low): {stats['enhanced_fallback']} ({stats['percentages']['enhanced_fallback']})")
+            print(f"🌐 Web Fallback: {stats['web_fallback']} ({stats['percentages']['web_fallback']})")
             print(f"🚀 Gemini Fallback: {stats['gemini_fallback']} ({stats['percentages']['gemini_fallback']})")
             
             if stats["fallback_disabled"] > 0:
