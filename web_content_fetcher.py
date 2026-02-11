@@ -141,3 +141,38 @@ class WebContentFetcher:
         else:
             html = self.fetch_html(url)
             return (html, "html") if html else (None, "html")
+
+    def fetch_raw_bytes(self, url: str) -> Tuple[Optional[bytes], str]:
+        """
+        Fetch raw bytes from a URL (for Azure DI processing).
+        Returns (bytes_content, content_type) where content_type is 'pdf' or 'html'.
+
+        This is preferred over fetch() when the content will be sent
+        directly to Azure DI for structured parsing (tables, figures).
+        """
+        print(f"   📥 Fetching raw bytes: {url[:80]}...")
+        try:
+            with httpx.Client(**self._get_client_kwargs()) as client:
+                resp = client.get(url)
+                resp.raise_for_status()
+
+                raw_bytes = resp.content
+                resp_type = resp.headers.get("content-type", "")
+
+                if "pdf" in resp_type or url.lower().endswith(".pdf"):
+                    content_type = "pdf"
+                else:
+                    content_type = "html"
+
+                print(f"   ✅ Fetched {len(raw_bytes):,} bytes ({content_type})")
+                return raw_bytes, content_type
+
+        except httpx.TimeoutException:
+            print(f"   ❌ Timeout fetching {url}")
+            return None, "unknown"
+        except httpx.HTTPStatusError as e:
+            print(f"   ❌ HTTP {e.response.status_code} for {url}")
+            return None, "unknown"
+        except Exception as e:
+            print(f"   ❌ Fetch failed: {e}")
+            return None, "unknown"

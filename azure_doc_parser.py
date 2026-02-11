@@ -68,6 +68,69 @@ class AzureDocParser:
             print(f"   ❌ Azure DI PDF parsing failed: {e}")
             return None
 
+    def parse_pdf_bytes(self, pdf_bytes: bytes) -> Optional[str]:
+        """
+        Parse PDF from raw bytes (downloaded via proxy) with Azure DI Layout model.
+        Tables, figures, and structured content are extracted as Markdown.
+
+        Args:
+            pdf_bytes: Raw PDF file content as bytes.
+
+        Returns:
+            Markdown-formatted text with tables preserved.
+        """
+        print(f"   📄 Azure DI parsing PDF bytes ({len(pdf_bytes):,} bytes)...")
+        try:
+            poller = self.client.begin_analyze_document(
+                model_id=self.model,
+                analyze_request=pdf_bytes,
+                content_type="application/pdf",
+                output_content_format="markdown",
+            )
+            result = poller.result()
+            markdown = result.content or ""
+
+            # Log table/figure extraction stats
+            tables_count = len(result.tables) if hasattr(result, 'tables') and result.tables else 0
+            figures_count = markdown.count("![") if markdown else 0
+            print(f"   ✅ Azure DI: {len(markdown):,} chars, {tables_count} tables, {figures_count} figures")
+            return markdown
+
+        except Exception as e:
+            print(f"   ❌ Azure DI PDF bytes parsing failed: {e}")
+            return None
+
+    def parse_html_bytes(self, html_bytes: bytes) -> Optional[str]:
+        """
+        Parse HTML content from raw bytes with Azure DI Layout model.
+        Useful for structured government pages with tables.
+
+        Args:
+            html_bytes: Raw HTML content as bytes.
+
+        Returns:
+            Markdown-formatted text with tables preserved.
+        """
+        print(f"   🌐 Azure DI parsing HTML bytes ({len(html_bytes):,} bytes)...")
+        try:
+            import base64
+            from azure.ai.documentintelligence.models import AnalyzeDocumentRequest
+
+            b64_content = base64.b64encode(html_bytes).decode('utf-8')
+            poller = self.client.begin_analyze_document(
+                model_id=self.model,
+                analyze_request=AnalyzeDocumentRequest(bytes_source=b64_content),
+                output_content_format="markdown",
+            )
+            result = poller.result()
+            markdown = result.content or ""
+            print(f"   ✅ Azure DI HTML: {len(markdown):,} chars extracted")
+            return markdown
+
+        except Exception as e:
+            print(f"   ❌ Azure DI HTML bytes parsing failed: {e}")
+            return None
+
     def parse_url(self, url: str) -> Optional[str]:
         """
         Parse a web page URL directly with Azure DI.

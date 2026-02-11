@@ -1,15 +1,19 @@
 """
-Web Fallback Pipeline
+Web Fallback Pipeline v2
 Orchestrates the full web-based fallback flow:
-  1. Serper search on official Turkish gov sites
-  2. Fetch content via TR IP (HTML or PDF)
-  3. Parse with Azure Document Intelligence (PDF) or simple HTML parser
+  1. Serper search with synonym expansion + dedup + date sorting
+  2. Fetch FULL CONTENT from links (not just snippets) via TR proxy
+  3. Parse with Azure Document Intelligence (PDF tables/figures + HTML)
   4. Chunk using heading-based semantic splitting
   5. Vectorize and store in MongoDB for future reuse
-  6. Generate answer from web context
+  6. Generate answer from full web context with obsolescence warnings
 
-This module is called by the HybridRAGOrchestrator when internal RAG
-confidence is below threshold.
+v2 improvements:
+  A. Full content fetching (never stops at snippet)
+  B. PDF table/figure handling via Azure DI
+  C. Date/Mülga (obsolescence) sorting + LLM instructions
+  D. De-duplication of same-law results
+  E. ISG synonym-based query expansion
 """
 
 import os
@@ -18,7 +22,7 @@ from typing import Dict, Optional, List
 
 class WebFallbackPipeline:
     """
-    End-to-end web fallback: Search → Fetch → Parse → Chunk → Store → Answer
+    End-to-end web fallback v2: Search → Fetch Full → Parse → Chunk → Store → Answer
     """
 
     def __init__(self, openrouter_client=None):
@@ -35,7 +39,7 @@ class WebFallbackPipeline:
         self.enabled = self._check_requirements()
 
         if self.enabled:
-            print("✅ Web Fallback Pipeline ready (Serper + Azure DI + MongoDB)")
+            print("✅ Web Fallback Pipeline v2 ready (Serper + Azure DI + MongoDB)")
         else:
             print("⚠️  Web Fallback Pipeline disabled (missing env vars)")
 
@@ -91,7 +95,7 @@ class WebFallbackPipeline:
         return self._web_store
 
     # ──────────────────────────────────────────────
-    # Main pipeline
+    # Main pipeline (v2)
     # ──────────────────────────────────────────────
 
     def execute(
@@ -100,7 +104,12 @@ class WebFallbackPipeline:
         regulation_hint: Optional[str] = None,
     ) -> Optional[Dict]:
         """
-        Run the full web fallback pipeline.
+        Run the full web fallback pipeline v2.
+
+        Pipeline: Search (with synonyms + dedup + date sort)
+                  → Fetch FULL content (not snippets)
+                  → Parse with Azure DI (tables/figures)
+                  → Chunk → Store → Answer
 
         Args:
             query: User's original question.
@@ -113,31 +122,36 @@ class WebFallbackPipeline:
             return None
 
         print("\n" + "─" * 70)
-        print("🌐 WEB FALLBACK PIPELINE")
+        print("🌐 WEB FALLBACK PIPELINE v2")
         print("─" * 70)
 
-        # ── Step 1: Search ──
-        print("\n📌 Step 1: Serper Web Search...")
+        # ── Step 1: Search (E: synonym expansion, D: dedup, C: date sort) ──
+        print("\n📌 Step 1: Serper Web Search (v2: synonyms + dedup + date check)...")
         search_results = self.searcher.search_legislation(query, regulation_hint)
 
         if not search_results:
             print("   ❌ No results from Serper")
             return None
 
-        # ── Step 2 & 3: Fetch + Parse top results ──
-        print(f"\n📌 Step 2-3: Fetching & parsing top {len(search_results)} results...")
+        # ── Step 2-4: Fetch FULL CONTENT + Parse + Chunk ──
+        print(f"\n📌 Step 2-4: Fetching FULL content & parsing top {min(3, len(search_results))} results...")
         all_chunks: List[Dict] = []
         web_sources: List[Dict] = []
+        obsolete_warnings: List[str] = []
 
-        for result in search_results[:3]:  # Process top 3 only
+        for result in search_results[:3]:  # Process top 3
             url = result["link"]
             title = result["title"]
+            is_obsolete = result.get("is_potentially_obsolete", False)
+            obsolete_reason = result.get("obsolescence_reason", "")
+
+            if is_obsolete:
+                obsolete_warnings.append(f"{title}: {obsolete_reason}")
 
             # Check if already in our web store
             try:
                 if self.web_store.url_already_stored(url):
                     print(f"   ♻️  Already stored: {url[:60]}...")
-                    # Search existing chunks instead
                     existing = self.web_store.search(query, k=3)
                     if existing:
                         for doc in existing:
@@ -149,40 +163,40 @@ class WebFallbackPipeline:
                             "title": title,
                             "url": url,
                             "status": "cached",
+                            "is_obsolete": is_obsolete,
                         })
                     continue
             except Exception:
                 pass
 
-            # Fetch content
-            content, content_type = self.fetcher.fetch(url)
-            if not content:
-                print(f"   ⚠️  Could not fetch: {url[:60]}")
-                continue
-
-            # Parse
+            # ── A: Fetch FULL content (not just snippet) ──
             parsed_text = None
-            if content_type == "pdf":
-                if self.parser and self.parser != "html_only":
-                    parsed_text = self.parser.parse_pdf(content)
+            chunk_type = "plain"
+
+            # Try Azure DI first for best quality (B: PDF table/figure handling)
+            if self.parser and self.parser != "html_only":
+                parsed_text = self._fetch_and_parse_with_azure_di(url)
+                if parsed_text:
                     chunk_type = "markdown"
-                else:
-                    print(f"   ⚠️  Cannot parse PDF without Azure DI: {url[:60]}")
-                    continue
-            else:
-                # HTML
-                if self.parser and self.parser != "html_only":
-                    parsed_text = self.parser.parse_url(url)
-                    chunk_type = "markdown"
-                else:
-                    parsed_text = self._simple_html_parse(content)
+
+            # Fallback: regular fetch + simple parse
+            if not parsed_text:
+                parsed_text = self._fetch_and_parse_fallback(url)
+                if parsed_text:
                     chunk_type = "plain"
 
             if not parsed_text or len(parsed_text.strip()) < 50:
-                print(f"   ⚠️  Parsed content too short for: {url[:60]}")
-                continue
+                # Last resort: use snippet (but mark it)
+                snippet = result.get("snippet", "")
+                if len(snippet) > 30:
+                    print(f"   ⚠️  Using snippet only for: {url[:60]}")
+                    parsed_text = f"### {title}\n\n{snippet}"
+                    chunk_type = "snippet"
+                else:
+                    print(f"   ⚠️  No content obtained for: {url[:60]}")
+                    continue
 
-            # ── Step 4: Chunk ──
+            # ── Step 3: Chunk ──
             chunks = self.chunker.chunk_document(
                 text=parsed_text,
                 source_url=url,
@@ -191,29 +205,37 @@ class WebFallbackPipeline:
             )
 
             if chunks:
+                # Add obsolescence flag to chunk metadata
+                if is_obsolete:
+                    for c in chunks:
+                        c["metadata"]["is_potentially_obsolete"] = True
+                        c["metadata"]["obsolescence_reason"] = obsolete_reason
+
                 all_chunks.extend(chunks)
                 web_sources.append({
                     "title": title,
                     "url": url,
-                    "status": "fetched",
+                    "status": "fetched" if chunk_type != "snippet" else "snippet_only",
                     "chunks": len(chunks),
+                    "content_type": chunk_type,
+                    "is_obsolete": is_obsolete,
                 })
 
-                # ── Step 5: Store in MongoDB ──
-                try:
-                    print(f"\n📌 Step 5: Vectorizing & storing {len(chunks)} chunks...")
-                    stored = self.web_store.store_chunks(chunks)
-                    print(f"   ✅ Stored {stored} chunks for future reuse")
-                except Exception as e:
-                    print(f"   ⚠️  Storage failed (answer still generated): {e}")
+                # ── Step 4: Store in MongoDB (if full content, not snippet) ──
+                if chunk_type != "snippet":
+                    try:
+                        stored = self.web_store.store_chunks(chunks)
+                        print(f"   ✅ Stored {stored} chunks for future reuse")
+                    except Exception as e:
+                        print(f"   ⚠️  Storage failed (answer still generated): {e}")
 
         if not all_chunks:
             print("\n   ❌ No usable content from any web source")
             return None
 
-        # ── Step 6: Generate answer ──
-        print(f"\n📌 Step 6: Generating answer from {len(all_chunks)} web chunks...")
-        answer = self._generate_web_answer(query, all_chunks, web_sources)
+        # ── Step 5: Generate answer (C: with date/mülga warnings) ──
+        print(f"\n📌 Step 5: Generating answer from {len(all_chunks)} web chunks...")
+        answer = self._generate_web_answer(query, all_chunks, web_sources, obsolete_warnings)
 
         if not answer:
             return None
@@ -224,10 +246,60 @@ class WebFallbackPipeline:
             "confidence": 0.55,
             "web_sources": web_sources,
             "chunks_used": len(all_chunks),
+            "obsolete_warnings": obsolete_warnings,
         }
 
     # ──────────────────────────────────────────────
-    # Answer generation
+    # Content fetching strategies (A: Full content)
+    # ──────────────────────────────────────────────
+
+    def _fetch_and_parse_with_azure_di(self, url: str) -> Optional[str]:
+        """
+        Fetch raw bytes from URL and parse with Azure DI.
+        Best for: PDFs with tables/figures, structured HTML.
+        """
+        try:
+            from azure_doc_parser import AzureDocParser
+
+            parser = self.parser
+            if not isinstance(parser, AzureDocParser):
+                return None
+
+            raw_bytes, content_type = self.fetcher.fetch_raw_bytes(url)
+            if not raw_bytes or len(raw_bytes) < 100:
+                return None
+
+            if content_type == "pdf":
+                return parser.parse_pdf_bytes(raw_bytes)
+            else:
+                return parser.parse_html_bytes(raw_bytes)
+
+        except Exception as e:
+            print(f"   ⚠️  Azure DI fetch+parse failed for {url[:50]}: {e}")
+            return None
+
+    def _fetch_and_parse_fallback(self, url: str) -> Optional[str]:
+        """
+        Fetch HTML and use simple parser. Fallback when Azure DI unavailable.
+        """
+        try:
+            content, content_type = self.fetcher.fetch(url)
+            if not content:
+                return None
+
+            if content_type == "pdf":
+                # Can't parse PDF without Azure DI
+                print(f"   ⚠️  PDF requires Azure DI: {url[:50]}")
+                return None
+            else:
+                return self._simple_html_parse(content)
+
+        except Exception as e:
+            print(f"   ⚠️  Fallback fetch failed for {url[:50]}: {e}")
+            return None
+
+    # ──────────────────────────────────────────────
+    # Answer generation (C: with date/mülga warnings)
     # ──────────────────────────────────────────────
 
     def _generate_web_answer(
@@ -235,8 +307,10 @@ class WebFallbackPipeline:
         query: str,
         chunks: List[Dict],
         web_sources: List[Dict],
+        obsolete_warnings: List[str],
     ) -> Optional[str]:
-        """Generate an answer from web-sourced chunks using LLM."""
+        """Generate an answer from web-sourced chunks using LLM.
+        Includes instructions about date verification and obsolescence."""
         if not self.openrouter_client:
             print("   ❌ No LLM client available for answer generation")
             return None
@@ -245,9 +319,22 @@ class WebFallbackPipeline:
         context_parts = []
         for idx, chunk in enumerate(chunks[:10], 1):  # Max 10 chunks
             title = chunk["metadata"].get("source_title", "Bilinmeyen")
-            context_parts.append(f"[Kaynak: {title}]\n{chunk['content']}")
+            is_obsolete = chunk["metadata"].get("is_potentially_obsolete", False)
+            obsolete_note = " [⚠️ GÜNCELLIK KONTROL EDİLMELİ]" if is_obsolete else ""
+            context_parts.append(f"[Kaynak {idx}: {title}{obsolete_note}]\n{chunk['content']}")
 
         context = "\n\n---\n\n".join(context_parts)
+
+        # Build obsolescence warning for LLM
+        obsolete_section = ""
+        if obsolete_warnings:
+            obsolete_section = "\n\nÖNEMLI - GÜNCELLİK UYARISI:\n"
+            for w in obsolete_warnings:
+                obsolete_section += f"⚠️ {w}\n"
+            obsolete_section += (
+                "Bu kaynaklar 2012 öncesi veya mülga olabilir. "
+                "Güncelliğini doğrula ve kullanıcıyı bilgilendir.\n"
+            )
 
         prompt = f"""Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış bir danışmansın.
 
@@ -259,7 +346,11 @@ KURALLAR:
 2. Kaynak referanslarını köşeli parantez içinde yönetmelik/kanun adı olarak yaz
 3. Cevabın sonunda "Dosya adı" veya ".pdf" kullanma
 4. Spekülatif bilgi verme — sadece kaynaklardaki bilgileri kullan
-5. Eğer bilgi çelişiyorsa en güncel tarihli kaynağa öncelik ver
+5. Eğer bilgi çelişiyorsa EN GÜNCEL tarihli kaynağa öncelik ver
+6. Kaynakta tablo varsa, tablo bilgilerini doğru aktar
+7. "⚠️ GÜNCELLIK KONTROL EDİLMELİ" işaretli kaynakları kullanırken, 
+   kullanıcıyı bu bilginin eski olabileceği konusunda uyar
+{obsolete_section}
 
 İNTERNET KAYNAKLARI:
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -276,6 +367,8 @@ Yanıt:"""
                 "content": (
                     "Sen İSG mevzuatı danışmanısın. Resmi internet kaynaklarından "
                     "elde edilen güncel bilgilerle cevap veriyorsun. "
+                    "Tablo ve şekil bilgilerini doğru aktar. "
+                    "Eski/mülga mevzuat konusunda kullanıcıyı uyar. "
                     "Cevabını Türkçe ver."
                 ),
             },
@@ -315,9 +408,26 @@ Yanıt:"""
         for src in sources:
             title = src.get("title", "Kaynak")
             url = src.get("url", "")
+            status = src.get("status", "")
+            content_type = src.get("content_type", "")
+            is_obsolete = src.get("is_obsolete", False)
+
             # Clean title
             clean_title = title.replace(" - Mevzuat Bilgi Sistemi", "").strip()
-            section += f"📄 Kaynak: {clean_title}, {url}\n\n"
+
+            # Status indicator
+            if status == "cached":
+                status_mark = "[onbellek]"
+            elif status == "snippet_only":
+                status_mark = "[yalnizca ozet]"
+            elif content_type == "markdown":
+                status_mark = "[tam icerik]"
+            else:
+                status_mark = ""
+
+            obsolete_mark = " [eski olabilir]" if is_obsolete else ""
+
+            section += f"Kaynak: {clean_title} {status_mark}{obsolete_mark}\n{url}\n\n"
 
         section += "═" * 70 + "\n"
         return section
