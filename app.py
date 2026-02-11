@@ -449,26 +449,54 @@ def ask_question():
         # Initialize RAG system if not already done
         initialize_rag_system()
         
-        # Generate answer
-        result = rag_pipeline.generate_response(question)
-        
-        # Handle both old (string) and new (dict) return formats
-        if isinstance(result, dict):
+        # Use Hybrid Orchestrator for intelligent routing with web fallback
+        if hybrid_orchestrator:
+            result = hybrid_orchestrator.query(question)
+            
+            # Format sources for response
+            sources = []
+            if 'sources' in result and result['sources']:
+                for src in result['sources']:
+                    if isinstance(src, dict):
+                        sources.append({
+                            'title': src.get('title', src.get('metadata', {}).get('document_title', 'Bilinmeyen')),
+                            'source': src.get('source', src.get('metadata', {}).get('source', '')),
+                            'link': src.get('link', src.get('metadata', {}).get('source_url', '')),
+                            'source_type': src.get('source_type', src.get('metadata', {}).get('source_type', 'document')),
+                            'score': src.get('score', 0)
+                        })
+            
             return jsonify({
                 'answer': result.get('answer', ''),
                 'method': result.get('method', 'unknown'),
-                'sources': result.get('sources', []),
-                'source_count': result.get('source_count', 0),
+                'confidence': result.get('confidence', 0),
+                'sources': sources,
+                'source_count': len(sources),
+                'fallback_reason': result.get('fallback_reason', ''),
                 'status': 'success'
             }), 200
         else:
-            # Legacy string format
-            return jsonify({
-                'answer': result,
-                'method': 'unknown',
-                'sources': [],
-                'status': 'success'
-            }), 200
+            # Fallback to basic RAG if hybrid not available
+            result = rag_pipeline.generate_response(question)
+            
+            # Handle both old (string) and new (dict) return formats
+            if isinstance(result, dict):
+                return jsonify({
+                    'answer': result.get('answer', ''),
+                    'method': result.get('method', 'internal'),
+                    'sources': result.get('sources', []),
+                    'source_count': result.get('source_count', 0),
+                    'status': 'success'
+                }), 200
+            else:
+                # Legacy string format
+                return jsonify({
+                    'answer': result,
+                    'method': 'internal',
+                    'sources': [],
+                    'source_count': 0,
+                    'status': 'success'
+                }), 200
         
     except Exception as e:
         return jsonify({

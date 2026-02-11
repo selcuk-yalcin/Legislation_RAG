@@ -242,10 +242,22 @@ class WebFallbackPipeline:
         if not answer:
             return None
 
+        # Format sources for API response
+        sources = []
+        for ws in web_sources:
+            sources.append({
+                "title": ws.get("title", "Web Kaynağı"),
+                "source": ws.get("title", ""),
+                "link": ws.get("url", ""),
+                "source_type": "web_search",
+                "score": 0.55
+            })
+
         return {
             "answer": answer,
             "method": "web_fallback",
             "confidence": 0.55,
+            "sources": sources,
             "web_sources": web_sources,
             "chunks_used": len(all_chunks),
             "obsolete_warnings": obsolete_warnings,

@@ -167,10 +167,21 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
         print("\n🔍 Step 2: Primary RAG Search...")
         try:
             # Use expanded query for better retrieval
-            rag_answer = self.rag.generate_response(expanded_query)
+            rag_result = self.rag.generate_response(expanded_query)
             
-            # Get sources for confidence scoring
-            sources = self.rag.vectorstore.similarity_search(expanded_query, k=5)
+            # Handle both old (string) and new (dict) return formats
+            if isinstance(rag_result, dict):
+                rag_answer = rag_result.get('answer', '')
+                rag_sources = rag_result.get('sources', [])
+            else:
+                rag_answer = rag_result
+                rag_sources = []
+            
+            # Get sources for confidence scoring (if not already from RAG result)
+            if not rag_sources:
+                sources = self.rag.vectorstore.similarity_search(expanded_query, k=5)
+            else:
+                sources = rag_sources
             
             print(f"   ✅ RAG answer generated ({len(rag_answer)} chars)")
             print(f"   📚 Retrieved {len(sources)} sources")
