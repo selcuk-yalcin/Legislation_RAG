@@ -1,0 +1,76 @@
+{
+  "test_name": "PDF İçerik Doğrulama Testi",
+  "description": "Veritabanındaki PDF içeriklerinin doğru parse edilip edilmediğini kontrol eder",
+  "queries": [
+    {
+      "id": 1,
+      "query": "Yapı işlerinde korkuluk yüksekliği en az kaç cm olmalıdır?",
+      "expected_answer": "110 santimetre (cm)",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "110"
+    },
+    {
+      "id": 2,
+      "query": "Yapı işlerinde topuk levhası yüksekliği kaç cm olmalıdır?",
+      "expected_answer": "15 santimetre",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "15"
+    },
+    {
+      "id": 3,
+      "query": "Korkuluk ile ara korkuluk arasındaki mesafe en fazla kaç cm olabilir?",
+      "expected_answer": "50 santimetre",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "50"
+    },
+    {
+      "id": 4,
+      "query": "Sütunlu çalışma platformlarında sesli ikaz sistemi ne zaman devreye girer?",
+      "expected_answer": "Platformun hareketi esnasında ve platform şasiye 2,5 metreden fazla yaklaştığında",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "2,5"
+    },
+    {
+      "id": 5,
+      "query": "Yapı yüzeyi ile platform arasındaki açıklık 25 cm veya daha az ise ne gerekir?",
+      "expected_answer": "15 santimetre yüksekliğinde topuk levhası bulunması sağlanır",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "topuk levhası"
+    },
+    {
+      "id": 6,
+      "query": "İskele hesapları yapılmadan iskele kurulabilir mi?",
+      "expected_answer": "Hayır, sağlamlık ve dayanıklılık hesapları üreticiden temin edilir veya yapılır/yaptırılır",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "hesap"
+    },
+    {
+      "id": 7,
+      "query": "İskele platformlarına güvenli ulaşım için ne kullanılır?",
+      "expected_answer": "Merdiven",
+      "source": "Yapı İşlerinde İSG Yönetmeliği",
+      "verification": "merdiven"
+    },
+    {
+      "id": 8,
+      "query": "Kaçış yolu koridor genişliği en az kaç cm olmalıdır?",
+      "expected_answer": "110 cm (kaçış yolu dışında koridor olarak da kullanılıyorsa)",
+      "source": "Binaların Yangından Korunması Yönetmeliği",
+      "verification": "110"
+    },
+    {
+      "id": 9,
+      "query": "Yangın uyarı butonları yerden hangi yüksekliğe yerleştirilir?",
+      "expected_answer": "En az 110 cm ve en fazla 130 cm yüksekliğe",
+      "source": "Binaların Yangından Korunması Yönetmeliği",
+      "verification": "110"
+    },
+    {
+      "id": 10,
+      "query": "Basınçlı ekipmanlarda 110 derecenin üzerindeki sıcaklıklarda ne olur?",
+      "expected_answer": "Aşırı ısınma riski olan 110°C'den fazla sıcaklıkta kızgın su/buhar üretimi için özel gereksinimler var",
+      "source": "Basınçlı Ekipmanlar Yönetmeliği",
+      "verification": "110"
+    }
+  ]
+}

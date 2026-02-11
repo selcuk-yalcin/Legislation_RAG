@@ -450,12 +450,25 @@ def ask_question():
         initialize_rag_system()
         
         # Generate answer
-        answer = rag_pipeline.generate_response(question)
+        result = rag_pipeline.generate_response(question)
         
-        return jsonify({
-            'answer': answer,
-            'status': 'success'
-        }), 200
+        # Handle both old (string) and new (dict) return formats
+        if isinstance(result, dict):
+            return jsonify({
+                'answer': result.get('answer', ''),
+                'method': result.get('method', 'unknown'),
+                'sources': result.get('sources', []),
+                'source_count': result.get('source_count', 0),
+                'status': 'success'
+            }), 200
+        else:
+            # Legacy string format
+            return jsonify({
+                'answer': result,
+                'method': 'unknown',
+                'sources': [],
+                'status': 'success'
+            }), 200
         
     except Exception as e:
         return jsonify({

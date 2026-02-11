@@ -201,4 +201,21 @@ Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
         self.conversation_history.append({"role": "assistant", "content": response_text})
         self._manage_conversation_memory()
         
-        return response_text + sources_html
+        # Kaynak bilgilerini hazırla
+        sources_list = []
+        for doc in relevant_docs:
+            source_info = {
+                "title": doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen')),
+                "madde_number": doc.metadata.get('madde_number', ''),
+                "source_type": doc.metadata.get('source_type', 'document'),
+                "source_url": doc.metadata.get('source_url', ''),
+                "score": getattr(doc, 'score', 0)
+            }
+            sources_list.append(source_info)
+        
+        return {
+            "answer": response_text + sources_html,
+            "method": "internal",
+            "sources": sources_list,
+            "source_count": len(relevant_docs)
+        }
