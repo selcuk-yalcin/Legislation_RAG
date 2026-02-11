@@ -31,8 +31,10 @@ class WebContentFetcher:
 
     def __init__(self):
         self.timeout = float(os.getenv("FETCH_TIMEOUT", "30"))
-        self.proxy = self.DEFAULT_PROXY or None
-        mode = "via TR proxy" if self.proxy else "direct (no proxy configured)"
+        # Read proxy at init time (after dotenv is loaded)
+        proxy_url = os.getenv("TR_PROXY_URL", "").strip()
+        self.proxy = proxy_url if proxy_url else None
+        mode = f"via TR proxy ({self.proxy})" if self.proxy else "direct (no proxy)"
         print(f"✅ Web Content Fetcher initialized ({mode})")
 
     def _get_client_kwargs(self) -> dict:

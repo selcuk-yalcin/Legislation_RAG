@@ -55,8 +55,7 @@ class AzureDocParser:
             with open(pdf_path, "rb") as f:
                 poller = self.client.begin_analyze_document(
                     model_id=self.model,
-                    analyze_request=f,
-                    content_type="application/octet-stream",
+                    body=f,
                     output_content_format="markdown",
                 )
             result = poller.result()
@@ -81,10 +80,10 @@ class AzureDocParser:
         """
         print(f"   📄 Azure DI parsing PDF bytes ({len(pdf_bytes):,} bytes)...")
         try:
+            import io
             poller = self.client.begin_analyze_document(
                 model_id=self.model,
-                analyze_request=pdf_bytes,
-                content_type="application/pdf",
+                body=io.BytesIO(pdf_bytes),
                 output_content_format="markdown",
             )
             result = poller.result()
@@ -119,7 +118,7 @@ class AzureDocParser:
             b64_content = base64.b64encode(html_bytes).decode('utf-8')
             poller = self.client.begin_analyze_document(
                 model_id=self.model,
-                analyze_request=AnalyzeDocumentRequest(bytes_source=b64_content),
+                body=AnalyzeDocumentRequest(bytes_source=b64_content),
                 output_content_format="markdown",
             )
             result = poller.result()
@@ -147,7 +146,7 @@ class AzureDocParser:
 
             poller = self.client.begin_analyze_document(
                 model_id=self.model,
-                analyze_request=AnalyzeDocumentRequest(url_source=url),
+                body=AnalyzeDocumentRequest(url_source=url),
                 output_content_format="markdown",
             )
             result = poller.result()

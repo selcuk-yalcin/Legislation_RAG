@@ -148,11 +148,11 @@ class WebFallbackPipeline:
             if is_obsolete:
                 obsolete_warnings.append(f"{title}: {obsolete_reason}")
 
-            # Check if already in our web store
+            # Check if already in our web store (ZERO-COST path)
             try:
                 if self.web_store.url_already_stored(url):
                     print(f"   ♻️  Already stored: {url[:60]}...")
-                    existing = self.web_store.search(query, k=3)
+                    existing = self.web_store.get_chunks_by_url(url, limit=10)
                     if existing:
                         for doc in existing:
                             all_chunks.append({
@@ -163,10 +163,12 @@ class WebFallbackPipeline:
                             "title": title,
                             "url": url,
                             "status": "cached",
+                            "chunks": len(existing),
                             "is_obsolete": is_obsolete,
                         })
                     continue
-            except Exception:
+            except Exception as e:
+                print(f"   ⚠️  Cache check failed: {e}")
                 pass
 
             # ── A: Fetch FULL content (not just snippet) ──
