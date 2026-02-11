@@ -1,0 +1,27 @@
+{
+  "mappings": {
+    "dynamic": false,
+    "fields": {
+      "embedding": {
+        "dimensions": 1024,
+        "similarity": "cosine",
+        "type": "knnVector"
+      },
+      "metadata": {
+        "dynamic": false,
+        "fields": {
+          "source_type": {
+            "type": "token"
+          },
+          "source_url": {
+            "type": "token"
+          },
+          "document_title": {
+            "type": "string"
+          }
+        },
+        "type": "document"
+      }
+    }
+  }
+}

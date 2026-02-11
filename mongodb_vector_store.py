@@ -37,73 +37,104 @@ class MongoDBVectorStore:
         
         print(f"✅ MongoDB Vector Store hazır! Model: {self.embedding_model}")
     
-    def similarity_search(self, query, k=10, filter_dict=None):
+    def similarity_search(self, query, k=10, filter_dict=None, search_web=True):
         """
-        MongoDB Vector Search ile benzer dökümanları bul.
-        WITH INTELLIGENT METADATA FILTERING!
+        HYBRID MongoDB Vector Search - Searches BOTH collections:
+        1. documents (manual uploads)
+        2. web_search (Serper + Azure DI + Voyage)
         
         Args:
             query (str): Arama sorgusu
             k (int): Döndürülecek döküman sayısı
             filter_dict (dict): MongoDB query format metadata filtreleri (opsiyonel)
-                               Örnek: {'source_dir': 'KANUN VE YÖNETMELİKLER'}
-                               Örnek: {'$or': [{'document_title': {'$regex': 'maden', '$options': 'i'}}]}
+            search_web (bool): web_search collection'ını da ara (default: True)
             
         Returns:
-            list: Document objelerinin listesi (LangChain formatında)
+            list: Document objelerinin listesi (score'a göre sıralı)
         """
-        print(f"\n🔍 MongoDB Vector Search başlatılıyor...")
+        print(f"\n🔍 HYBRID MongoDB Vector Search başlatılıyor...")
         print(f"   • Query: {query[:50]}...")
         print(f"   • K: {k}")
-        print(f"   • Filter: {filter_dict if filter_dict else 'None (tüm dokümanlar)'}")
+        print(f"   • Filter: {filter_dict if filter_dict else 'None'}")
+        print(f"   • Search web_search: {search_web}")
         
-        # 1. Sorguyu Voyage AI ile vektöre çevir
+        # 1. Sorguyu Voyage AI ile vektöre çevir (bir kez, her iki search için)
         result = self.voyage_client.embed([query], model=self.embedding_model, input_type="query")
         query_vector = result.embeddings[0]
         
-        # 2. MongoDB Vector Search pipeline oluştur
-        pipeline = [
-            {
-                "$vectorSearch": {
-                    "index": MONGO_VECTOR_INDEX_NAME,
-                    "path": "embedding",
-                    "queryVector": query_vector,
-                    "numCandidates": k * 10,  # Daha iyi sonuçlar için fazla aday tara
-                    "limit": k
+        # 2. Helper function - bir collection'da vector search yap
+        def _search_in_collection(collection_name, index_name, limit):
+            """Vector search in a specific collection"""
+            collection = self.db[collection_name]
+            
+            pipeline = [
+                {
+                    "$vectorSearch": {
+                        "index": index_name,
+                        "path": "embedding",
+                        "queryVector": query_vector,
+                        "numCandidates": limit * 10,
+                        "limit": limit
+                    }
                 }
-            }
-        ]
-        
-        # 3. Metadata filter ekle (vector search SONRASINDA)
-        # NOT: MongoDB Atlas'ta filter $vectorSearch içinde "filter" parametresi ile de verilebilir
-        # ama daha esnek olması için $match stage kullanıyoruz
-        if filter_dict:
-            print(f"   📂 Applying metadata filter...")
+            ]
+            
+            # Metadata filter (if provided)
+            if filter_dict:
+                pipeline.append({"$match": filter_dict})
+            
+            # Projection
             pipeline.append({
-                "$match": filter_dict
+                "$project": {
+                    "content": 1,
+                    "metadata": 1,
+                    "score": {"$meta": "vectorSearchScore"}
+                }
             })
+            
+            try:
+                results = list(collection.aggregate(pipeline))
+                return results
+            except Exception as e:
+                print(f"   ⚠️  {collection_name} search failed: {e}")
+                return []
         
-        # 4. Projection ekle (score ve data)
-        pipeline.append({
-            "$project": {
-                "content": 1,
-                "metadata": 1,
-                "score": {"$meta": "vectorSearchScore"}
-            }
-        })
+        # 3. Search in DOCUMENTS collection (manual uploads)
+        print(f"   📚 Searching 'documents' collection...")
+        docs_results = _search_in_collection(
+            collection_name=MONGO_COLLECTION_NAME,  # "documents"
+            index_name=MONGO_VECTOR_INDEX_NAME,      # "vector_index"
+            limit=k
+        )
+        print(f"   ✅ documents: {len(docs_results)} results")
         
-        # 5. Sorguyu çalıştır
-        try:
-            results = list(self.collection.aggregate(pipeline))
-            print(f"   ✅ Found {len(results)} documents")
-        except Exception as e:
-            print(f"   ❌ MongoDB query failed: {e}")
-            return []
+        # 4. Search in WEB_SEARCH collection (Serper + Azure DI)
+        web_results = []
+        if search_web:
+            print(f"   🌐 Searching 'web_search' collection...")
+            try:
+                web_results = _search_in_collection(
+                    collection_name="web_search",
+                    index_name="web_vector_index",  # ⚠️ INDEX MUST EXIST IN ATLAS
+                    limit=k
+                )
+                print(f"   ✅ web_search: {len(web_results)} results")
+            except Exception as e:
+                # If index doesn't exist yet, skip web search
+                print(f"   ⚠️  web_search skipped (index not ready): {str(e)[:80]}")
+                print(f"   💡 Create 'web_vector_index' in MongoDB Atlas to enable web search")
         
-        # 6. LangChain Document formatına çevir
+        # 5. Merge results and sort by score
+        all_results = docs_results + web_results
+        all_results.sort(key=lambda x: x.get('score', 0), reverse=True)
+        
+        # Take top-k from merged results
+        top_results = all_results[:k]
+        print(f"   🎯 HYBRID TOTAL: {len(all_results)} merged → {len(top_results)} final")
+        
+        # 6. Convert to LangChain Document format
         documents = []
-        for result in results:
-            # Document benzeri obje oluştur
+        for result in top_results:
             doc = type('Document', (), {
                 'page_content': result['content'],
                 'metadata': result.get('metadata', {}),
