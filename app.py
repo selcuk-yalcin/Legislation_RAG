@@ -439,6 +439,7 @@ def ask_question():
             }), 400
         
         question = data['question'].strip()
+        force_web = data.get('force_web', False)  # Force web fallback for testing
         
         if not question:
             return jsonify({
@@ -451,7 +452,14 @@ def ask_question():
         
         # Use Hybrid Orchestrator for intelligent routing with web fallback
         if hybrid_orchestrator:
-            result = hybrid_orchestrator.query(question)
+            # If force_web is True, bypass RAG and go directly to web pipeline
+            if force_web and hybrid_orchestrator.web_pipeline:
+                print("\n🌐 FORCE WEB MODE — Bypassing primary RAG, using web pipeline directly")
+                result = hybrid_orchestrator.web_pipeline.execute(question)
+                if not result:
+                    result = {"answer": "Web araması sonuç döndürmedi.", "method": "web_fallback_failed", "confidence": 0, "sources": []}
+            else:
+                result = hybrid_orchestrator.query(question)
             
             # Format sources for response
             sources = []
