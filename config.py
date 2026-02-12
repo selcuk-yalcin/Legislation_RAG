@@ -38,6 +38,10 @@ AZURE_DI_KEY = os.environ.get("AZURE_DI_KEY", "")
 AZURE_DI_MODEL = os.environ.get("AZURE_DI_MODEL", "prebuilt-layout")
 TR_PROXY_URL = os.environ.get("TR_PROXY_URL", "")  # Optional: Turkey IP proxy
 
+# Azure Blob Storage Configuration (for backup and archive)
+AZURE_STORAGE_CONNECTION_STRING = os.environ.get("AZURE_STORAGE_CONNECTION_STRING", "")
+AZURE_STORAGE_CONTAINER = os.environ.get("AZURE_STORAGE_CONTAINER", "klavuzlar-backup")
+
 # Debug output
 print(f"📊 MONGO_URI: {MONGO_URI[:30]}...")
 print(f"📊 MONGO_DB_NAME: {MONGO_DB_NAME}")
@@ -74,8 +78,8 @@ KANUN_DIR = "./data/KANUN VE YÖNETMELİKLER"  # Kanunlar ve yönetmelikler
 TEBLIG_DIR = "./data/TEBLİĞ"  # Tebliğler
 
 # --- LLM VE HTTP PARAMETRELERİ ---
-TEMPERATURE = 0.2
-MAX_TOKENS = 1500
+TEMPERATURE = 0.1  # Denetçi modu: düşük yaratıcılık, metne bağlılık
+MAX_TOKENS = 800   # Kısa ve öz cevaplar için düşürüldü
 EXPANSION_TEMPERATURE = 0.3
 EXPANSION_MAX_TOKENS = 100
 

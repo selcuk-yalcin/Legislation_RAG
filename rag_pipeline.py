@@ -32,27 +32,92 @@ class RAGPipeline:
         if len(self.conversation_history) > self.max_history:
             self.conversation_history = self.conversation_history[-self.max_history:]
     
+    def _clean_title(self, raw_title):
+        """Basliklari temizle ve duzenle"""
+        import re
+        
+        if not raw_title or raw_title in ['Bilinmeyen Belge', 'Bilinmeyen Rehber', 'Bilinmeyen']:
+            return "Belge Adi Bulunamadi"
+        
+        # .pdf uzantisini kaldir
+        title = raw_title.replace('.pdf', '').replace('.PDF', '')
+        
+        # Basinda [PDF] varsa kaldir
+        title = title.replace('[PDF]', '').replace('[pdf]', '').strip()
+        
+        # Alt cizgileri ve tire isaretlerini bosluga cevir
+        title = title.replace('_', ' ').replace('-', ' ')
+        
+        # Coklu bosluklari temizle
+        title = re.sub(r'\s+', ' ', title).strip()
+        
+        # TAMAMEN BUYUK HARF ise Title Case yap
+        if title == title.upper() and len(title) > 5:
+            title = title.title()
+        
+        # Cok kisa ve anlamsiz basliklari filtrele
+        if len(title) < 10 and not any(keyword in title.lower() for keyword in ['kanun', 'yonetmelik', 'teblig', 'genelge']):
+            return "Isimsiz Belge"
+        
+        return title
+    
     def _format_sources(self, documents):
-        """Format source documents with MADDE-level precision metadata"""
+        """Format sources with clear separation between legislation and guides"""
         if not documents:
             return ""
         
+        # Kaynak tipine gore ayir
+        mevzuat_docs = [d for d in documents if d.metadata.get('collection_type') != 'guide']
+        guide_docs = [d for d in documents if d.metadata.get('collection_type') == 'guide']
+        
         sources = "\n\n" + "═" * 70 + "\n"
-        sources += "📚 CEVABINIZ İÇİN KULLANILAN KAYNAKLAR\n"
+        sources += "📚 CEVABINIZ ICIN KULLANILAN KAYNAKLAR\n"
         sources += "═" * 70 + "\n\n"
         
-        for idx, doc in enumerate(documents, 1):
-            document_title = doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen Belge'))
-            
-            sources += f"📄 Kaynak {idx}: {document_title}\n"
+        # Mevzuat kaynaklari
+        if mevzuat_docs:
+            sources += "🏛️ **MEVZUAT KAYNAKLARI (Yasal Dayanak)**\n"
             sources += "─" * 70 + "\n"
-            
-            # İçerik önizleme - tam içeriği gönder (limit yok)
-            content_preview = doc.page_content.replace('\n', ' ').strip()
-            sources += f"💬 Alıntı: \"{content_preview}\"\n\n"
+            for idx, doc in enumerate(mevzuat_docs, 1):
+                # Basligi temizle
+                raw_title = doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen Belge'))
+                clean_title = self._clean_title(raw_title)
+                
+                # Link varsa ekle
+                source_url = doc.metadata.get('source_url', '')
+                if source_url and source_url.startswith('http'):
+                    sources += f"{idx}. {clean_title}\n"
+                    sources += f"   🔗 Link: {source_url}\n"
+                else:
+                    sources += f"{idx}. {clean_title}\n"
+                
+                # Icerik onizleme
+                content_preview = doc.page_content.replace('\n', ' ').strip()[:250]
+                sources += f"   💬 Alinti: \"{content_preview}...\"\n\n"
+        
+        # Rehber kaynaklari
+        if guide_docs:
+            sources += "📚 **REHBER KAYNAKLARI (Uygulama Onerileri)**\n"
+            sources += "─" * 70 + "\n"
+            for idx, doc in enumerate(guide_docs, 1):
+                # Basligi temizle
+                raw_title = doc.metadata.get('guide_title', doc.metadata.get('source_file', 'Bilinmeyen Rehber'))
+                clean_title = self._clean_title(raw_title)
+                
+                # Link varsa ekle
+                source_url = doc.metadata.get('source_url', '')
+                if source_url and source_url.startswith('http'):
+                    sources += f"{idx}. {clean_title}\n"
+                    sources += f"   🔗 Link: {source_url}\n"
+                else:
+                    sources += f"{idx}. {clean_title}\n"
+                
+                # Icerik onizleme
+                content_preview = doc.page_content.replace('\n', ' ').strip()[:250]
+                sources += f"   💡 Oneri: \"{content_preview}...\"\n\n"
         
         sources += "═" * 70 + "\n"
-        sources += "💡 Not: Kaynaklar MADDE bazlı parçalama ile hassas şekilde seçilmiştir.\n"
+        sources += "💡 Not: Mevzuat kaynaklari yasal hukumler, rehber kaynaklari uygulama onerileridir.\n"
         return sources
     
     def generate_response(self, user_input):
@@ -81,10 +146,15 @@ class RAGPipeline:
         else:
             relevant_docs = initial_docs[:TOP_RERANKED_K]
         
-        # Step 5: Bağlam Oluşturma (source_file temizleme)
+        # Step 5: Bağlam Oluşturma - KAYNAK TİPİNE GÖRE AYRI
         def clean_source_name(doc):
             """source_file'dan .pdf kaldır ve düzgün başlık formatına çevir"""
-            raw = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen Belge')
+            # Rehber ise guide_title kullan
+            if doc.metadata.get('collection_type') == 'guide':
+                raw = doc.metadata.get('guide_title') or doc.metadata.get('source_file', 'Bilinmeyen Rehber')
+            else:
+                raw = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen Belge')
+            
             # .pdf uzantısını kaldır
             name = raw.replace('.pdf', '').replace('.PDF', '')
             # Alt çizgileri boşluğa çevir
@@ -94,7 +164,30 @@ class RAGPipeline:
                 name = name.title()
             return name.strip()
         
-        context = "\n\n".join([f"KAYNAK [{clean_source_name(doc)}]: {doc.page_content}" for doc in relevant_docs])
+        # Kaynak tipine göre ayır
+        documents_docs = [d for d in relevant_docs if d.metadata.get('collection_type') != 'guide']
+        guides_docs = [d for d in relevant_docs if d.metadata.get('collection_type') == 'guide']
+        
+        # Mevzuat kaynakları
+        mevzuat_context = ""
+        if documents_docs:
+            mevzuat_context = "\n🏛️ MEVZUAT KAYNAKLARI (Kanun/Yönetmelik - AYNEN ALINTILA):\n" + "="*70 + "\n\n"
+            mevzuat_context += "\n\n".join([
+                f"KAYNAK [{clean_source_name(doc)}]: {doc.page_content}" 
+                for doc in documents_docs
+            ])
+        
+        # Rehber kaynakları
+        guide_context = ""
+        if guides_docs:
+            guide_context = "\n\n📚 REHBER KAYNAKLARI (Kılavuz/Uygulama Rehberi - ÖNERİ NİTELİĞİNDE):\n" + "="*70 + "\n\n"
+            guide_context += "\n\n".join([
+                f"REHBER [{clean_source_name(doc)}]: {doc.page_content}" 
+                for doc in guides_docs
+            ])
+        
+        # Birleşik context
+        context = mevzuat_context + guide_context
         
         # Step 6: Sertleştirilmiş Prompt (Hallucination Engelleyici)
         # OLD VERSION - Keeping for reference
@@ -104,82 +197,77 @@ class RAGPipeline:
         # ...
         # """
         
-        # NEW VERSION - Simplified format without MADDE numbers (temporary fix)
-        rag_prompt = f"""
-Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış  bir danışmansın.
+        # DENETÇİ MODU - Sıkı Alıntı + Yorum Yapmama Promptu
+        rag_prompt = f"""Sen bir İSG mevzuat denetçisisin. Görevin SADECE aşağıdaki metinleri kullanarak soruyu yanıtlamak.
 
-ÖNEMLİ: Yanıtlarında "Fıkra", "Bent", "Madde" gibi ifadeler kullanmak kesinlikle YASAKTIR.
+━━━ DEMİR KURALLAR ━━━
 
-YANIT FORMATI:
-- Her önemli nokta için başlık kullan (bold formatında: **Başlık:**)
-- Kaynak referanslarını köşeli parantez içinde SADECE yönetmelik/kanun adı olarak yaz
-- Dosya adı (.pdf) kullanma, sadece resmi yönetmelik/kanun adını yaz
-- Madde içeriğini açıklarken direkt bilgiyi yaz, madde numarasını belirtme
-- Temiz, okunaklı ve madde işaretli liste formatında yanıt ver
+1. METİNDEN DIŞARI ÇIKMA.
+   Sana verilen mevzuat/rehber metninde ne yazıyorsa ONU yaz. Kendi cümleni EKLEME, yorum YAPMA, çıkarım YAPMA.
 
-ÖRNEK YANIT:
-Soru: "Acil durum planı nasıl hazırlanır?"
+2. ALINTIYLA CEVAP VER.
+   İlgili hükmü mevzuattaki haliyle tırnak içinde ("...") aynen aktar. Kelime değiştirme, eş anlamlı kullanma.
+   Eğer metinde bir madde numarası, ek numarası veya başlık varsa (Madde 4, Ek-II, vb.) cevaba ONUNLA BAŞLA.
 
-**Acil Durumların Belirlenmesi:** İşyerinde meydana gelebilecek acil durumlar, tasarım veya kuruluş aşamasından itibaren belirlenmelidir [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
+3. BİLGİ YOKSA UYDURMA.
+   Dokümanda net bir rakam, süre veya bilgi yoksa şunu yaz:
+   "Sağlanan mevzuat metninde bu konuda net bir hüküm bulunmamaktadır."
+   Asla "genellikle", "muhtemelen", "yaklaşık" gibi belirsiz ifadeler kullanma.
 
-**Önleyici Tedbirler:** Belirlenen acil durumların olumsuz etkilerini önleyici tedbirler alınmalıdır [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
+4. KISA VE ÖZ YAZ.
+   - Gereksiz giriş cümlesi yazma ("Elbette, bu konuda...", "Bu sorunun cevabı...")
+   - Direkt cevaba gir
+   - Aynı bilgiyi tekrar etme
+   - Hedef: en fazla 500 karakter (zorunlu değilse uzatma)
 
-**Acil Durum Planının Hazırlanması:** İşveren, tespit edilen acil durumlara göre acil durum planı hazırlamalı ve gerekli her türlü tedbiri almalıdır [İşyerlerinde Acil Durumlar Hakkında Yönetmelik].
+5. KAYNAK GÖSTER.
+   Her alıntının sonuna [Kaynak Adı] ekle.
+   - .pdf uzantısı YAZMA
+   - Dosya adı yerine düzgün Türkçe başlık kullan
+   - Kaynak adını bağlamda KAYNAK [...] veya REHBER [...] başlığından al
 
-KAYNAK İSİMLENDİRME KURALLARI:
-- "İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ.pdf" yerine → [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
-- "6331_SAYILI_KANUN.pdf" yerine → [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
-- Her zaman düzgün Türkçe başlık formatında yaz (ilk harf büyük, geri kalan küçük)
-- .pdf uzantısı ASLA yazma
+6. KAYNAK AYIRIMI.
+   🏛️ Mevzuat (kanun/yönetmelik) → kesin hüküm, tırnak içinde alıntı
+   📚 Rehber (kılavuz/uygulama) → öneri niteliğinde, "...önerilmektedir" formatında
 
-YASAK REFERANS ÖRNEKLERİ (BUNLARI ASLA YAZMA):
-❌ [Fıkra 1, Bent A]
-❌ [Madde 14]
-❌ [Fıkra 2]
-❌ [Madde 14, Fıkra 2]
-❌ [6331_SAYILI_KANUN.pdf]
-❌ [, Fıkra 1, Bent A]
-❌ İşveren, bütün iş kazalarının kaydını tutar [Fıkra 1, Bent A]
-❌ Sosyal Güvenlik Kurumuna bildirimde bulunmakla yükümlüdür [MADDE 14, Fıkra 2]
+━━━ YASAK DAVRANIŞLAR ━━━
+❌ "Bu konuda şunu söyleyebiliriz ki..." gibi dolgu cümleleri
+❌ Metinde olmayan süre/rakam uydurma
+❌ Aynı bilgiyi farklı kelimelerle tekrarlama
+❌ [Fıkra 1, Bent A], [Madde 14] gibi eksik referanslar
+❌ .pdf uzantılı dosya adları
 
-DOĞRU REFERANS ÖRNEKLERİ:
-✅ [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
-✅ [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
-✅ [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
-✅ [Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği]
-✅ İşveren, bütün iş kazalarının kaydını tutmalıdır [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
-✅ Sosyal Güvenlik Kurumuna bildirimde bulunmakla yükümlüdür [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu]
+━━━ DOĞRU CEVAP ÖRNEĞİ ━━━
+Soru: "Risk değerlendirmesi ne sıklıkla yenilenir?"
 
-KURALLAR:
-1. SADECE aşağıdaki mevzuat içeriğine dayan
-2. Her bilginin sonuna köşeli parantez içinde TAM yönetmelik/kanun adı yaz
-3. Bilgi yoksa: en yakın ilgili bilgileri sun ve hangi mevzuatın incelenmesi gerektiğini belirt
-4. Spekülatif ifadeler kullanma
-5. "Fıkra", "Bent", "Madde" kelimelerini hiçbir şekilde yanıtında kullanma
-6. ASLA boş veya genel bir "bilgi bulunamadı" cevabı verme — her zaman context'ten çıkarılabilecek en yakın bilgiyi sun
+Cevap:
+"İşveren; yapılan risk değerlendirmesi sonuçlarına göre, kontrol tedbirlerini düzenli olarak izler ve risk değerlendirmesini yeniler." [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
 
-Mevzuat İçeriği:
-----------------------------------
+━━━ YANLIŞ CEVAP ÖRNEĞİ ━━━
+❌ "Risk değerlendirmesi konusu oldukça önemlidir. İSG mevzuatına göre işverenler risk değerlendirmesi yapmalı ve bunu düzenli olarak güncellemelidir. Genellikle 2 yılda bir yenilenmesi tavsiye edilir ancak bu süre sektöre göre değişebilir..."
+
+━━━ METİNLER ━━━
 {context}
-----------------------------------
+━━━━━━━━━━━━━━━━━━
 
-Kullanıcı Sorusu: {user_input}
+Soru: {user_input}
 
-Yanıt (Temiz, Kaynaklı ve Başlıklı Format):"""
+Cevap:"""
         
         # Mesaj Geçmişi Yönetimi
         messages = [
             {
                 "role": "system",
-                "content": """Sen İSG mevzuatı danışmanısın. KESİN KURALLAR:
-1. Yanıtlarını **Başlık:** formatında ver
-2. Kaynak referanslarını SADECE [Yönetmelik/Kanun Tam Adı] şeklinde ekle
-3. "Fıkra", "Bent", "Madde" kelimelerini yanıtlarında ASLA kullanma
-4. Dosya adı (.pdf) kullanma
-5. Sadece sağlanan metinlere dayan
-6. Kaynak adını bağlamda KAYNAK [...] başlığından al, içerik metnindeki fıkra/bent/madde numaralarını referans olarak gösterme
-7. Madde içeriğini açıklarken direkt bilgiyi yaz, numaralandırma yapma
-8. ASLA boş veya genel "bilgi bulunamadı" cevabı verme — en yakın ilgili bilgileri sun"""
+                "content": """Sen İSG mevzuat DENETÇİSİSİN. Bir hakim gibi sadece metne bağlı kal.
+
+DEMİR KURALLAR:
+1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
+2. İlgili hükmü tırnak içinde ("...") AYNEN alıntıla. Kelime değiştirme.
+3. Metinde yoksa: "Sağlanan mevzuat metninde bu konuda net bir hüküm bulunmamaktadır." de. Uydurma.
+4. Kısa ve öz yaz. Gereksiz tekrar yapma. Direkt cevaba gir.
+5. 🏛️ Mevzuat = kesin hüküm, tırnak alıntı. 📚 Rehber = öneri niteliğinde.
+6. Kaynak: [Tam Türkçe Ad] formatında. .pdf YAZMA. Dosya adı YAZMA.
+7. "Fıkra", "Bent" kelimelerini referansta KULLANMA."""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
