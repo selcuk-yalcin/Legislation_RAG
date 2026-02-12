@@ -248,11 +248,12 @@ Cevap:"""
 KURALLAR:
 1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
 2. İlgili hükmü tırnak içinde ("...") AYNEN alıntıla. Kelime değiştirme.
-3. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de. Uydurma. Yönlendirme yapma. Liste verme.
-4. Detaylı ve açıklayıcı cevap ver. Birden fazla ilgili kaynak varsa hepsini kullan. Gereksiz tekrar yapma ama yeterli bilgi ver.
-5. Mevzuat = kesin hüküm, tırnak alıntı. Rehber = öneri niteliğinde.
-6. Kaynak: [Tam Türkçe Ad] formatında. .pdf YAZMA. Dosya adı YAZMA.
-7. EMOJİ KULLANMA. Yönlendirme mesajı YAZMA."""
+3. Her alıntının sonunda [Kaynak Adı] formatında kaynak belirt. Örnek: "..." [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
+4. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de. Uydurma. Yönlendirme yapma. Liste verme.
+5. Detaylı ve açıklayıcı cevap ver. Birden fazla ilgili kaynak varsa hepsini kullan. Gereksiz tekrar yapma ama yeterli bilgi ver.
+6. Mevzuat = kesin hüküm, tırnak alıntı. Rehber = öneri niteliğinde.
+7. Kaynak adını köşeli parantez içinde yaz: [Tam Türkçe Ad]. .pdf YAZMA. Dosya adı YAZMA. MADDE numarası YAZMA.
+8. EMOJİ KULLANMA. Yönlendirme mesajı YAZMA."""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
@@ -274,7 +275,7 @@ KURALLAR:
         self.conversation_history.append({"role": "assistant", "content": response_text})
         self._manage_conversation_memory()
         
-        # Kaynak bilgilerini hazırla - Perplexity tarzı
+        # Kaynak bilgilerini hazırla - Tam metin ile
         sources_list = []
         for idx, doc in enumerate(relevant_docs, 1):
             # Rehber ise guide_title, değilse document_title kullan
@@ -293,19 +294,15 @@ KURALLAR:
                 "madde_number": doc.metadata.get('madde_number', ''),
                 "source_type": doc.metadata.get('collection_type', 'document'),
                 "source_url": doc.metadata.get('source_url', ''),
+                "full_text": doc.page_content,  # TAM METİN
                 "excerpt": self._extract_clean_preview(doc.page_content, max_length=250),
                 "score": getattr(doc, 'score', 0)
             }
             sources_list.append(source_info)
         
-        # Inline citation ekle - Perplexity tarzı [1][2][3]
-        citation_text = ""
-        if sources_list:
-            citation_numbers = "".join([f"[{s['id']}]" for s in sources_list[:5]])  # İlk 5 kaynak
-            citation_text = f" {citation_numbers}"
-        
+        # Citation numaralarını kaldırdık - cevap olduğu gibi
         return {
-            "answer": response_text + citation_text,
+            "answer": response_text,
             "method": "internal",
             "sources": sources_list,
             "source_count": len(relevant_docs)
