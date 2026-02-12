@@ -61,6 +61,41 @@ class RAGPipeline:
         
         return title
     
+    def _extract_clean_preview(self, text, max_length=300):
+        """
+        Metinden anlamlı bir önizleme çıkar - tam cümleler kullanarak
+        """
+        import re
+        
+        # Yeni satırları ve fazla boşlukları temizle
+        clean_text = re.sub(r'\s+', ' ', text.replace('\n', ' ')).strip()
+        
+        if len(clean_text) <= max_length:
+            return clean_text
+        
+        # max_length'e kadar al
+        preview = clean_text[:max_length]
+        
+        # Son tam cümleyi bul (. ! ? ile biten)
+        last_sentence_end = max(
+            preview.rfind('. '),
+            preview.rfind('! '),
+            preview.rfind('? ')
+        )
+        
+        # Eğer tam cümle bulunduysa, oradan kes
+        if last_sentence_end > max_length * 0.5:  # En az yarısı dolu olmalı
+            preview = preview[:last_sentence_end + 1]
+        else:
+            # Yoksa en son kelimeye kadar al
+            last_space = preview.rfind(' ')
+            if last_space > 0:
+                preview = preview[:last_space] + '...'
+            else:
+                preview = preview + '...'
+        
+        return preview.strip()
+    
     def _format_sources(self, documents):
         """Format sources with clear separation between legislation and guides"""
         if not documents:
@@ -70,14 +105,14 @@ class RAGPipeline:
         mevzuat_docs = [d for d in documents if d.metadata.get('collection_type') != 'guide']
         guide_docs = [d for d in documents if d.metadata.get('collection_type') == 'guide']
         
-        sources = "\n\n" + "═" * 70 + "\n"
-        sources += "📚 CEVABINIZ ICIN KULLANILAN KAYNAKLAR\n"
-        sources += "═" * 70 + "\n\n"
+        sources = "\n\n" + "=" * 70 + "\n"
+        sources += "KAYNAKLAR\n"
+        sources += "=" * 70 + "\n\n"
         
         # Mevzuat kaynaklari
         if mevzuat_docs:
-            sources += "🏛️ **MEVZUAT KAYNAKLARI (Yasal Dayanak)**\n"
-            sources += "─" * 70 + "\n"
+            sources += "MEVZUAT KAYNAKLARI:\n"
+            sources += "-" * 70 + "\n"
             for idx, doc in enumerate(mevzuat_docs, 1):
                 # Basligi temizle
                 raw_title = doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen Belge'))
@@ -87,18 +122,18 @@ class RAGPipeline:
                 source_url = doc.metadata.get('source_url', '')
                 if source_url and source_url.startswith('http'):
                     sources += f"{idx}. {clean_title}\n"
-                    sources += f"   🔗 Link: {source_url}\n"
+                    sources += f"   Link: {source_url}\n"
                 else:
                     sources += f"{idx}. {clean_title}\n"
                 
-                # Icerik onizleme
-                content_preview = doc.page_content.replace('\n', ' ').strip()[:250]
-                sources += f"   💬 Alinti: \"{content_preview}...\"\n\n"
+                # Icerik onizleme - TAM CUMLELER AL
+                content_preview = self._extract_clean_preview(doc.page_content, max_length=300)
+                sources += f"   İlgili Bölüm: \"{content_preview}\"\n\n"
         
         # Rehber kaynaklari
         if guide_docs:
-            sources += "📚 **REHBER KAYNAKLARI (Uygulama Onerileri)**\n"
-            sources += "─" * 70 + "\n"
+            sources += "REHBER KAYNAKLARI:\n"
+            sources += "-" * 70 + "\n"
             for idx, doc in enumerate(guide_docs, 1):
                 # Basligi temizle
                 raw_title = doc.metadata.get('guide_title', doc.metadata.get('source_file', 'Bilinmeyen Rehber'))
@@ -108,16 +143,15 @@ class RAGPipeline:
                 source_url = doc.metadata.get('source_url', '')
                 if source_url and source_url.startswith('http'):
                     sources += f"{idx}. {clean_title}\n"
-                    sources += f"   🔗 Link: {source_url}\n"
+                    sources += f"   Link: {source_url}\n"
                 else:
                     sources += f"{idx}. {clean_title}\n"
                 
-                # Icerik onizleme
-                content_preview = doc.page_content.replace('\n', ' ').strip()[:250]
-                sources += f"   💡 Oneri: \"{content_preview}...\"\n\n"
+                # Icerik onizleme - TAM CUMLELER AL
+                content_preview = self._extract_clean_preview(doc.page_content, max_length=300)
+                sources += f"   İlgili Bölüm: \"{content_preview}\"\n\n"
         
-        sources += "═" * 70 + "\n"
-        sources += "💡 Not: Mevzuat kaynaklari yasal hukumler, rehber kaynaklari uygulama onerileridir.\n"
+        sources += "=" * 70 + "\n"
         return sources
     
     def generate_response(self, user_input):
@@ -171,7 +205,7 @@ class RAGPipeline:
         # Mevzuat kaynakları
         mevzuat_context = ""
         if documents_docs:
-            mevzuat_context = "\n🏛️ MEVZUAT KAYNAKLARI (Kanun/Yönetmelik - AYNEN ALINTILA):\n" + "="*70 + "\n\n"
+            mevzuat_context = "\nMEVZUAT KAYNAKLARI (Kanun/Yönetmelik - AYNEN ALINTILA):\n" + "="*70 + "\n\n"
             mevzuat_context += "\n\n".join([
                 f"KAYNAK [{clean_source_name(doc)}]: {doc.page_content}" 
                 for doc in documents_docs
@@ -180,7 +214,7 @@ class RAGPipeline:
         # Rehber kaynakları
         guide_context = ""
         if guides_docs:
-            guide_context = "\n\n📚 REHBER KAYNAKLARI (Kılavuz/Uygulama Rehberi - ÖNERİ NİTELİĞİNDE):\n" + "="*70 + "\n\n"
+            guide_context = "\n\nREHBER KAYNAKLARI (Kılavuz/Uygulama Rehberi - ÖNERİ NİTELİĞİNDE):\n" + "="*70 + "\n\n"
             guide_context += "\n\n".join([
                 f"REHBER [{clean_source_name(doc)}]: {doc.page_content}" 
                 for doc in guides_docs
@@ -198,9 +232,9 @@ class RAGPipeline:
         # """
         
         # DENETÇİ MODU - Sıkı Alıntı + Yorum Yapmama Promptu
-        rag_prompt = f"""Sen bir İSG mevzuat denetçisisin. Görevin SADECE aşağıdaki metinleri kullanarak soruyu yanıtlamak.
+        rag_prompt = f"""Sen bir İSG mevzuat uzmanısın. Görevin SADECE aşağıdaki metinleri kullanarak soruyu yanıtlamak.
 
-━━━ DEMİR KURALLAR ━━━
+KURALLAR:
 
 1. METİNDEN DIŞARI ÇIKMA.
    Sana verilen mevzuat/rehber metninde ne yazıyorsa ONU yaz. Kendi cümleni EKLEME, yorum YAPMA, çıkarım YAPMA.
@@ -209,10 +243,11 @@ class RAGPipeline:
    İlgili hükmü mevzuattaki haliyle tırnak içinde ("...") aynen aktar. Kelime değiştirme, eş anlamlı kullanma.
    Eğer metinde bir madde numarası, ek numarası veya başlık varsa (Madde 4, Ek-II, vb.) cevaba ONUNLA BAŞLA.
 
-3. BİLGİ YOKSA UYDURMA.
+3. BİLGİ YOKSA "BULUNAMADI" DE.
    Dokümanda net bir rakam, süre veya bilgi yoksa şunu yaz:
-   "Sağlanan mevzuat metninde bu konuda net bir hüküm bulunmamaktadır."
+   "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı."
    Asla "genellikle", "muhtemelen", "yaklaşık" gibi belirsiz ifadeler kullanma.
+   HİÇBİR ZAMAN yönlendirme yapma, başka kaynaklar önerme veya emoji kullanma.
 
 4. KISA VE ÖZ YAZ.
    - Gereksiz giriş cümlesi yazma ("Elbette, bu konuda...", "Bu sorunun cevabı...")
@@ -227,28 +262,26 @@ class RAGPipeline:
    - Kaynak adını bağlamda KAYNAK [...] veya REHBER [...] başlığından al
 
 6. KAYNAK AYIRIMI.
-   🏛️ Mevzuat (kanun/yönetmelik) → kesin hüküm, tırnak içinde alıntı
-   📚 Rehber (kılavuz/uygulama) → öneri niteliğinde, "...önerilmektedir" formatında
+   Mevzuat (kanun/yönetmelik) = kesin hüküm, tırnak içinde alıntı
+   Rehber (kılavuz/uygulama) = öneri niteliğinde, "...önerilmektedir" formatında
 
-━━━ YASAK DAVRANIŞLAR ━━━
-❌ "Bu konuda şunu söyleyebiliriz ki..." gibi dolgu cümleleri
-❌ Metinde olmayan süre/rakam uydurma
-❌ Aynı bilgiyi farklı kelimelerle tekrarlama
-❌ [Fıkra 1, Bent A], [Madde 14] gibi eksik referanslar
-❌ .pdf uzantılı dosya adları
+YASAK DAVRANIŞLAR:
+- "Bu konuda şunu söyleyebiliriz ki..." gibi dolgu cümleleri
+- Metinde olmayan süre/rakam uydurma
+- Aynı bilgiyi farklı kelimelerle tekrarlama
+- Emoji kullanma
+- Yönlendirme mesajları ("Daha spesifik soru sorun", "Bu kaynaklara bakabilirsiniz")
+- Liste halinde kaynak gösterme (cevap yok ise bile)
+- .pdf uzantılı dosya adları
 
-━━━ DOĞRU CEVAP ÖRNEĞİ ━━━
+DOĞRU CEVAP ÖRNEĞİ:
 Soru: "Risk değerlendirmesi ne sıklıkla yenilenir?"
 
 Cevap:
 "İşveren; yapılan risk değerlendirmesi sonuçlarına göre, kontrol tedbirlerini düzenli olarak izler ve risk değerlendirmesini yeniler." [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
 
-━━━ YANLIŞ CEVAP ÖRNEĞİ ━━━
-❌ "Risk değerlendirmesi konusu oldukça önemlidir. İSG mevzuatına göre işverenler risk değerlendirmesi yapmalı ve bunu düzenli olarak güncellemelidir. Genellikle 2 yılda bir yenilenmesi tavsiye edilir ancak bu süre sektöre göre değişebilir..."
-
-━━━ METİNLER ━━━
+METİNLER:
 {context}
-━━━━━━━━━━━━━━━━━━
 
 Soru: {user_input}
 
@@ -258,16 +291,16 @@ Cevap:"""
         messages = [
             {
                 "role": "system",
-                "content": """Sen İSG mevzuat DENETÇİSİSİN. Bir hakim gibi sadece metne bağlı kal.
+                "content": """Sen İSG mevzuat uzmanısın. Sadece verilen metne bağlı kal.
 
-DEMİR KURALLAR:
+KURALLAR:
 1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
 2. İlgili hükmü tırnak içinde ("...") AYNEN alıntıla. Kelime değiştirme.
-3. Metinde yoksa: "Sağlanan mevzuat metninde bu konuda net bir hüküm bulunmamaktadır." de. Uydurma.
+3. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de. Uydurma. Yönlendirme yapma. Liste verme.
 4. Kısa ve öz yaz. Gereksiz tekrar yapma. Direkt cevaba gir.
-5. 🏛️ Mevzuat = kesin hüküm, tırnak alıntı. 📚 Rehber = öneri niteliğinde.
+5. Mevzuat = kesin hüküm, tırnak alıntı. Rehber = öneri niteliğinde.
 6. Kaynak: [Tam Türkçe Ad] formatında. .pdf YAZMA. Dosya adı YAZMA.
-7. "Fıkra", "Bent" kelimelerini referansta KULLANMA."""
+7. EMOJİ KULLANMA. Yönlendirme mesajı YAZMA."""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
