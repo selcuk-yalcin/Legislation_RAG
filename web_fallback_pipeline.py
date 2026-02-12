@@ -102,6 +102,7 @@ class WebFallbackPipeline:
         self,
         query: str,
         regulation_hint: Optional[str] = None,
+        timeout_seconds: int = 180,  # NEW: Max 3 minutes for web fallback
     ) -> Optional[Dict]:
         """
         Run the full web fallback pipeline v2.
@@ -114,15 +115,19 @@ class WebFallbackPipeline:
         Args:
             query: User's original question.
             regulation_hint: Optional regulation name for better Serper results.
+            timeout_seconds: Maximum time allowed for web fallback (default: 180s = 3min).
 
         Returns:
             Dict with answer, sources, method info — or None if pipeline fails.
         """
+        import time
+        start_time = time.time()
+        
         if not self.enabled:
             return None
 
         print("\n" + "─" * 70)
-        print("🌐 WEB FALLBACK PIPELINE v2")
+        print(f"🌐 WEB FALLBACK PIPELINE v2 (timeout: {timeout_seconds}s)")
         print("─" * 70)
 
         # ── Step 1: Search (E: synonym expansion, D: dedup, C: date sort) ──
@@ -140,6 +145,13 @@ class WebFallbackPipeline:
         obsolete_warnings: List[str] = []
 
         for result in search_results[:3]:  # Process top 3
+            # Timeout check
+            elapsed = time.time() - start_time
+            if elapsed > timeout_seconds:
+                print(f"\n⏱️  TIMEOUT REACHED ({elapsed:.1f}s > {timeout_seconds}s)")
+                print(f"   Processed {len(web_sources)} sources before timeout")
+                break
+            
             url = result["link"]
             title = result["title"]
             is_obsolete = result.get("is_potentially_obsolete", False)
@@ -232,7 +244,8 @@ class WebFallbackPipeline:
                         print(f"   ⚠️  Storage failed (answer still generated): {e}")
 
         if not all_chunks:
-            print("\n   ❌ No usable content from any web source")
+            elapsed = time.time() - start_time
+            print(f"\n   ❌ No usable content from any web source (took {elapsed:.1f}s)")
             return None
 
         # ── Step 5: Generate answer (C: with date/mülga warnings) ──
@@ -240,7 +253,17 @@ class WebFallbackPipeline:
         answer = self._generate_web_answer(query, all_chunks, web_sources, obsolete_warnings)
 
         if not answer:
+            elapsed = time.time() - start_time
+            print(f"   ❌ Answer generation failed (took {elapsed:.1f}s)")
             return None
+        
+        # Log total pipeline duration
+        elapsed = time.time() - start_time
+        print(f"   ✅ Web Fallback completed in {elapsed:.1f}s")
+        
+        # Warn if took too long
+        if elapsed > timeout_seconds * 0.8:
+            print(f"   ⚠️  Pipeline took {elapsed:.1f}s (close to {timeout_seconds}s timeout)")
 
         # Format sources for API response
         sources = []

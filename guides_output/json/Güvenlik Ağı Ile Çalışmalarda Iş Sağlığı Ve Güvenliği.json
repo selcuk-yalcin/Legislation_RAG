@@ -1,0 +1,1466 @@
+{
+  "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+  "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+  "total_chunks": 81,
+  "exported_at": "2026-02-12T12:19:02.300904",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# GÜVENLİK AĞI İLE ÇALIŞMALARDA İŞ SAĞLIĞI VE GÜVENLİĞİ\n\n\n\n<figure>\n</figure>\n\n\n<!-- PageFooter=\"T.C. Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı ve Güvenliği Genel Müdürlüğü\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->\n\n\n<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\nC*\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## GÜVENLİK AĞI İLE ÇALIŞMALARDA İŞ SAĞLIĞI VE GÜVENLİĞİ\n\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nGüvenlik Ağı İle Çalışmalarda İş Sağlığı ve Güvenliği Rehberi T.C. Çalışma ve Sosyal Güvenlik Bakanlığı,\nİş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır. Hazırlanan bu rehberdeki hususlar\ntavsiye niteliğindedir.\n\n<!-- PageBreak -->\n\nYayına Hazırlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nEmek Mahallesi, Naci Ayvalıoğlu Cad. No:13\n06520 Çankaya / ANKARA\nTelefon: 0 312 296 60 00\nFaks: 0 312 215 50 28\nwww.isggm.gov.tr -www.guvenliinsaat.gov.tr\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nMart 2018 (Revizyon: 2024)\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "## İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<th>01</th>\n<th>GİRİŞ</th>\n<th>4</th>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>02</td>\n<td>GÜVENLİK AĞLARI</td>\n<td>9</td>\n</tr>\n<tr>\n<td rowspan=\"17\"></td>\n<td>2.1 Terimler</td>\n<td>10</td>\n</tr>\n<tr>\n<td>2.2 Güvenlik ağı tasarım prensipleri</td>\n<td>12</td>\n</tr>\n<tr>\n<td>2.3 Güvenlik ağı sistemleri</td>\n<td>12</td>\n</tr>\n<tr>\n<td>2.4 Güvenlik ağı sınıflandırması</td>\n<td>14</td>\n</tr>\n<tr>\n<td>2.5 Ağ gözü ipi</td>\n<td>14</td>\n</tr>\n<tr>\n<td>2.6 Kenar (sınır) ipi</td>\n<td>14</td>\n</tr>\n<tr>\n<td>2.7 Bağlama ipi</td>\n<td>15</td>\n</tr>\n<tr>\n<td>2.8 Birleştirme ipi</td>\n<td>15</td>\n</tr>\n<tr>\n<td>2.9 Güvenlik ağı etiketi</td>\n<td>15</td>\n</tr>\n<tr>\n<td>2.10 Kullanıcı talimat kitabı</td>\n<td>16</td>\n</tr>\n<tr>\n<td>2.11 Sökülebilir deney ağ gözü</td>\n<td>17</td>\n</tr>\n<tr>\n<td>2.12 Güvenlik ağlarının boyutları</td>\n<td>17</td>\n</tr>\n<tr>\n<td>2.13 Düşme yüksekliği</td>\n<td>18</td>\n</tr>\n<tr>\n<td>2.14 Yakalama genişliği</td>\n<td>19</td>\n</tr>\n<tr>\n<td>2.15 Boşluk (açıklık) mesafesi</td>\n<td>20</td>\n</tr>\n<tr>\n<td>2.16 Ağ sarkması</td>\n<td>23</td>\n</tr>\n<tr>\n<td>2.17 Aşırı gerilme ve düşük gerilme</td>\n<td>23</td>\n</tr>\n<tr>\n<td>03</td>\n<td>UYGULAMALAR</td>\n<td>24</td>\n</tr>\n<tr>\n<td rowspan=\"5\"></td>\n<td>3.1 Çatı imalatı</td>\n<td>25</td>\n</tr>\n<tr>\n<td>3.2 Tadilat işleri</td>\n<td>26</td>\n</tr>\n<tr>\n<td>3.3 Kalıp ve ön dökümlü beton işleri</td>\n<td>27</td>\n</tr>\n<tr>\n<td>3.4 Metal kaplama</td>\n<td>27</td>\n</tr>\n<tr>\n<td>3.5 Köprü işleri<",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "/td>\n<td>28</td>\n</tr>\n<tr>\n<td>04</td>\n<td>PLANLAMA VE SORUMLULUKLAR</td>\n<td>28</td>\n</tr>\n<tr>\n<td></td>\n<td>4.1 Tasarımcının (proje müellifi) sorumlulukları</td>\n<td>29</td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td></td>\n<td>4.2 Üreticinin sorumlulukları</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>4.3 Kurulumu yapan çalışanların sorumlulukları</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>4.4 Ana yüklenici/şantiye şefinin sorumlulukları</td>\n<td>31</td>\n</tr>\n<tr>\n<td>05</td>\n<td>KURULUM GEREKSİNİMLERİ</td>\n<td>31</td>\n</tr>\n<tr>\n<td></td>\n<td>5.1 Güvenlik ağı kurulum hiyerarşisi</td>\n<td>32</td>\n</tr>\n<tr>\n<td></td>\n<td>5.2 Kurulumdan önce ağların incelenmesi</td>\n<td>33</td>\n</tr>\n<tr>\n<td></td>\n<td>5.3 Güvenlik ağına erişim</td>\n<td>33</td>\n</tr>\n<tr>\n<td></td>\n<td>5.4 Ankraj noktaları</td>\n<td>33</td>\n</tr>\n<tr>\n<td></td>\n<td>5.5 Ağ kenar boşlukları</td>\n<td>34</td>\n</tr>\n<tr>\n<td></td>\n<td>5.6 Ağların birleştirilmesi</td>\n<td>35</td>\n</tr>\n<tr>\n<td></td>\n<td>5.7 Destek çatısı</td>\n<td>35</td>\n</tr>\n<tr>\n<td></td>\n<td>5.8 Bağlama ve karabinalar</td>\n<td>36</td>\n</tr>\n<tr>\n<td></td>\n<td>5.9 Alta yuvarlama</td>\n<td>36</td>\n</tr>\n<tr>\n<td></td>\n<td>5.10 Saçak torbalama</td>\n<td>37</td>\n</tr>\n<tr>\n<td></td>\n<td>5.11 T,U ve V güvenlik ağı sistemleri</td>\n<td>37</td>\n</tr>\n<tr>\n<td></td>\n<td>5.12 Teslim belgesi</td>\n<td>38</td>\n</tr>\n<tr>\n<td></td>\n<td>5.13 Ağın sökülmesi</td>\n<td>38</td>\n</tr>\n<tr>\n<td>06</td>\n<td>KURTARMA PLANI</td>\n<td>38</td>\n</tr>\n<tr>\n<td>4</t",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "d>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>07</td>\n<td>GÜVENLİK AĞININ BAKIM VE ONARIMI</td>\n<td>39</td>\n</tr>\n<tr>\n<td>4</td>\n<td>7.1 Ağın incelenmesi</td>\n<td>39</td>\n</tr>\n<tr>\n<td></td>\n<td>7.2 Genel deneyler</td>\n<td>40</td>\n</tr>\n<tr>\n<td></td>\n<td>7.3 UV bozulma deneyleri</td>\n<td>40</td>\n</tr>\n<tr>\n<td></td>\n<td>7.4 Ağ üzerinde düşen cisimler</td>\n<td>40</td>\n</tr>\n<tr>\n<td></td>\n<td>7.5 Ağ bakımı</td>\n<td>41</td>\n</tr>\n<tr>\n<td></td>\n<td>7.6 Onarım</td>\n<td>41</td>\n</tr>\n<tr>\n<td></td>\n<td>7.7 Ağların depolanması</td>\n<td>42</td>\n</tr>\n<tr>\n<td>08</td>\n<td>KONTROL LİSTESİ</td>\n<td>42</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "### 1. GİRİŞ\n\n\nYapı sektörü, çalışma koşulları gereği dinamik çalışmanın yoğun olduğu, doğa koşulları\nile mücadelenin bir hayli fazla olduğu işleri barındırmaktadır. Diğer sektörlerden farklı\nçalışma şartları sebebiyle içerisinde çalışma hayatı açısından tehdit unsuru olan birçok tehlike\nbulunmaktadır. Proje boyunca yapılan çalışmalar sırasında çalışanların sağlık ve güvenliği için\ntehdit oluşturan tehlikelerin başında yapılan işten kaynaklanan tehlikeler yani mesleki\ntehlikeler gelmektedir. Yapı sektöründen yapılan faaliyetler ve bu faaliyetler neticesinde yaşanan kaza\nistatistikleri incelendiğinde çalışanların sağlık ve güvenliğine karşı en büyük tehdidi yüksekte\nyapılan işlerin oluşturduğu görülmektedir. Yüksekte çalışma Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği'nde tanımlanmıştır. Bu tanıma göre seviye farkı bulunan ve düşme\nsonucu yaralanma ihtimalinin oluşabileceği her türlü alanda yapılan çalışma yüksekte çalışma\nolarak kabul edilmektedir. Kalıp ve demir işleri, dış cephe işleri, merdiven ve basamaklar\nüzerinde yapılan işler, iskeleler ve cephe platformlarında yapılan işler, çatı imalat ve tadilat\nişleri, çelik konstrüksiyon işleri, köprü, tünel ve kazı işleri, iş ekipmanlarında yapılan\nçalışmalar ve daha birçok faaliyet içerisinde yüksekte çalışmayı barındırmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "er, çatı imalat ve tadilat\nişleri, çelik konstrüksiyon işleri, köprü, tünel ve kazı işleri, iş ekipmanlarında yapılan\nçalışmalar ve daha birçok faaliyet içerisinde yüksekte çalışmayı barındırmaktadır. Kullanılan ekipmanların temini, kurulumu, montajı ve sökümü sırasında yapılan\nhatalar ve eksiklikler, çalışma sırasında ekipmanlar üzerinde yapılan değişiklikler, yüksekte\nyapılan işlerin gözetiminin yapılmaması ya da yetersiz olması, yanlış korunma yöntemlerine\nbaşvurulması, çalışmaya uygun ekipmanın bulunmaması, yüksekte çalışma ile ilgili eğitim\nalınmamış olması gibi nedenlerden dolayı çalışanlar yüksekten düşme riski ile sık sık karşı\nkarşıya kalmaktadır. Yüksekten düşme sonucu yaralanmalar ise genellikle ağır sonuçlu\nolmakta ya da ölümle sonuçlanmaktadır. Dolayısıyla kontrol tedbirlerinin alınması büyük\nönem teşkil etmektedir. Aşağıdaki şekilde alınacak kontrol tedbirlerinin hiyerarşisine ait\ngenel hususlar belirtilmiştir. <!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 1: Kontrol tedbirlerinin hiyerarşisi</figcaption>\n\nKONTROL HİYERARŞİSİ\n\nEN ÇOK ETKİLİ\n\nORTADAN KALDIRMA\n\nTehlike ortadan kaldırılır. DEĞİŞTİRME\n\nTehlikeli olan tehlikeli olmayanla ya\nda daha az tehlikeli olanla değiştirilir. MÜHENDİSLİK\nKONTROLLERİ\n\nÇalışanlar tehlikeden izole edilir. İDARİ\nKONTROLLER\n\nÇalışma şekillerinde değişiklikler yapılır. KKD\n\nÇalışanların kişisel koruyucu donanımlar kullanarak\nkorunması sağlanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "MÜHENDİSLİK\nKONTROLLERİ\n\nÇalışanlar tehlikeden izole edilir. İDARİ\nKONTROLLER\n\nÇalışma şekillerinde değişiklikler yapılır. KKD\n\nÇalışanların kişisel koruyucu donanımlar kullanarak\nkorunması sağlanır. EN AZ ETKİLİ\n\n</figure>\n\n\nBu hiyerarşi yüksekte çalışma dikkate alınarak incelendiğinde aşağıdaki hususlar\nöncelik sırasına göre değerlendirilmelidir:\n\nİlk basamak, yüksekte çalışmaktan uygulanabilir olduğu sürece kaçınılması ve\nyüksekte çalışmaya olan ihtiyacın ortadan kaldırılmasıdır. Yapı tasarım ve planlama\naşamalarında bu hususun dikkate alınmasıyla tehlikeye maruziyet en baştan ortadan\nkaldırılabilir. Prefabrik çatı elemanlarının yerde montajının yapılması, uzatılabilir kolu olan\nboya ruloları vb. ekipmanların kullanılması, boyama vb. işlerin malzeme/tesisat yerine\nyerleştirilmeden önce yapılması, yerinde imalattan ziyade prekast beton yapıların tercih\nedilmesi gibi hususlar tehlikenin ortadan kaldırılmasına örnek verilebilir. Tehlikenin ortadan kaldırılması söz konusu değilse ve çalışmanın yüksekte yapılması\nzorunluysa, hâlihazırdaki güvenli çalışma yerlerinin seçimi, doğru iş ekipmanlarının kullanımı\nve diğer tedbirlerin alınmasıyla güvenli erişim ve çalışma ortamı sağlanarak düşmenin önüne\ngeçilmeli, çalışanlar tehlikeden izole edilmelidir. Güvenli çalışma platformları, korkuluk\nsistemleri, bariyerler, sabit ve hareketli iskeleler, cephe platformları, yükseltilebilir iş\nplatformları gibi ekipmanlar kullanılarak çalışanların düşmesi önlenmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "çalışma platformları, korkuluk\nsistemleri, bariyerler, sabit ve hareketli iskeleler, cephe platformları, yükseltilebilir iş\nplatformları gibi ekipmanlar kullanılarak çalışanların düşmesi önlenmelidir. Tehlikenin ortadan kaldırılamadığı ve çalışanların izole edilemediği durumlarda ise\ndüşme mesafesi ve düşme neticesinde oluşabilecek sonuçların şiddeti uygun ekipmanların\nkullanımı ile minimize edilmelidir. Çalışanın hareket alanını kısıtlayan sistemler, düşmeyi\n\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\nönleyici sistemler, pozisyon alma (konumlanma) sistemleri, tam vücut emniyet kemerleri,\niple erişim sistemleri, düşmeyi durdurma sistemleri kullanılarak düşme riski, düşme mesafesi\nve oluşacak muhtemel sonuçların şiddeti asgari düzeye indirilmelidir. Yukarıdaki hususlar dikkate alınarak aşağıdaki sorulara cevap aranmalıdır:\n\nYüksekte çalışma tehlikesi ortadan kaldırabilir/elimine edilebilir mi? ☒\nÇalışma zemin seviyesinden uzun kollu alet ve ekipmanlarla yapılabilir mi? ☒\nYapılar zemin seviyesinde inşa edilebilir/montajı yapılabilir ve daha sonra yukarı\nkaldırılabilir mi? Yüksekte çalışma tehlikesi izole edilebilir mi? ☒\nKenar koruma kullanılabilir mi? ☒\nKorkuluklu çalışma platformları ( iskeleler, yükseltilebilir iş platformları vb. )\nkullanılabilir mi? ☒\nDüşmenin engellenmesi için çalışanın korumasız kenar veya noktalara yaklaşmasını\nönleyici sistemler kullanılabilir mi? Muhtemel bir düşmenin mesafesi ve oluşacak etki/sonuç minimize edilebilir mi?",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "? ☒\nDüşmenin engellenmesi için çalışanın korumasız kenar veya noktalara yaklaşmasını\nönleyici sistemler kullanılabilir mi? Muhtemel bir düşmenin mesafesi ve oluşacak etki/sonuç minimize edilebilir mi? Bu\nadım ortadan kaldırma ve izole etme adımları işe yaramıyorsa tercih edilmelidir. Düşmeyi durdurma sistemi kullanılabilir mi? ☒\n\n☒\nDüşmenin etkisini hafifletmek için güvenlik ağları veya düşmeye karşı hava yastıkları\nkullanılabilir mi? <figure>\n<figcaption>Şekil 2: Düşmeye karşı hava yastıklarının kullanımı</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\nDüşmenin önlenmesi için yukarıda belirtilen kontrol tedbirlerinin birlikte kullanımı da\nsöz konusudur. Tehlikenin en baştan elimine edilmesinin en etkin kontrol adımı olduğu\ndikkate alınmalı ve her bir adımda risk altındaki tüm çalışanları koruyan tedbirler (toplu\nkorunma) bireyin sadece kendisini koruyan tedbirlerden (kişisel korunma) önce gelmelidir. Yüksekte çalışma sırasında kullanılacak ekipmanın seçimi çalışmanın güvenli şekilde\nsürdürülebilmesi açısından son derece önemlidir. Dikkat edilecek bazı kriterler aşağıda\nbelirtilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "#### ® Çalışma koşulları\n\n\nEğim, kötü zemin koşulları, engeller ve trafik ekipman seçiminde rol oynayan\nfaktörlerdendir. Örneğin, yükseltilebilir iş platformu stabilitesi ile ilgili bir tehlikenin\nsöz konusu olmaması koşuluyla engellerin olduğu ve zemin koşullarının iyi olmadığı\nyerlerde istenilen çalışma alanına erişmek için mobil iskele yerine tercih edilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "#### @ Giriş ve çıkış noktalarının mesafeleri\n\n\nYüksek mesafedeki girişler için merdiven kullanımının uygunluğu çok daha düşüktür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "#### ® Düşmenin mesafesi ve sonuçları\n\n\nAçıklık (yerleştirme) mesafesi dikkate alınmadan düşmeyi durdurma sistemlerinin\nkullanılması neticesinde düşmeye karşı koruma etkisiz olacaktır. Çünkü düşme\nmesafesi gerekli olan açılma mesafesinden daha az olduğundan durdurma sistemi\ntamamen çalışmadan çalışan zemine ya da bir alt seviyeye çarpacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "#### @ Kullanım sıklığı ve süresi\n\n\nUzun süreli ve yüksek sıklıkta yapılan çalışmalar daha yüksek standartlarda düşmeye\nkarşı koruma gerektirmektedir. Örneğin, merdiven kullanımından ziyade bir mobil\niskele kullanımı tercih edilebilir. Merdiven ise kısa süreli ve düşük riskli tekrar eden\nişler için kullanılabilir. @\nKurtarma\n\nDüşmeyi durdurma sistemi kullanan asılı halde kalmış bir çalışanın kurtarılmasının zor\nolduğu durumlarda yükseltilebilir iş platformu vb. diğer iş ekipmanlarının kullanımı\ntercih edilebilir. <!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n<!-- PageNumber=\"@ İş ekipmanının kurulumu ve sökümünden kaynaklanan ek riskler\" -->\n\nBir çalışan tarafından kullanılan yükseltilebilir bir iş platformu bir çalışanın güvenli\nşekilde çalışması için iki veya üç çalışan tarafından kurulumu yapılan bir iskeleden çok\ndaha az risk teşkil edebilir. Risk değerlendirmesi dikkate alınarak yüksekte güvenli çalışmanın sağlanması için en\nuygun kontrol tedbirlerine başvurulmalıdır. Tehlikenin ortadan kaldırılamadığı ya da\nçalışanların izole edilemediği durumlarda kullanılabilecek düşmeye karşı koruma\nsistemlerinden birisi de güvenlik ağlarıdır. Güvenlik ağları genellikle çelik yapı ve köprü\ninşaatlarında, çatı imalat ve tadilat işleri ile bina inşaatlarında açıkta kalan cephe ve\nboşluklara kurularak muhtemel bir düşme neticesinde oluşabilecek ölüm ve yaralanmaların\nönlenmesini sağlar. İnşaat sahasında güvenlik ağı kullanılacaksa özellikle 3 hususa önem verilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "cephe ve\nboşluklara kurularak muhtemel bir düşme neticesinde oluşabilecek ölüm ve yaralanmaların\nönlenmesini sağlar. İnşaat sahasında güvenlik ağı kullanılacaksa özellikle 3 hususa önem verilmelidir. Öncelikle güvenlik ağı temin edilirken bu ağın standardlara uygun olduğundan emin\nolunmalıdır. Sandartta belirtilen nitelikleri taşımayan güvenlik ağlarının kullanılması\nmuhtemel bir düşmede çalışanın ağ tarafından tutulamamasına ve çalışanın zemine veya alt\nseviyelere düşmesine/çarpmasına neden olabilir. Güvenlik ağlarında aranması gereken ikinci önemli husus, standardlara uygun olarak\ntemin edilen ağın ğvenli kurulum gerekleri dikkate alınarak kurulmasıdır. Nitekim\nmevzuatımızda güvenlik ağlarının malzeme özellikleri, deneyler ve kurulum şartları\nbakımından standardlara uygun olması zorunlu tutulmuştur. (Bkz. Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği, EK-5). Standardlara uygunluk ve güvenli kurulumdan sonra üçüncü önemli hususu ise\ndepolama, bakım ve inceleme kriterleri oluşturmaktadır. Güvenlik ağları hafif ve çürümeye\nkarşı dayanıklı olmalarına rağmen, uygunsuz kullanımda kolayca hasar görebilir, aşınıp\nyıpranabilir, yırtılabilir, alevden etkilenebilir ve depolama koşullarına bağlı olarak etkinliğini\nyitirebilir. Bunların dışında kötü hava koşullarından, UVşınlarından ve çevresel faktörlerden\nde etkilenerek dayanım kaybı yaşayabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "n etkilenebilir ve depolama koşullarına bağlı olarak etkinliğini\nyitirebilir. Bunların dışında kötü hava koşullarından, UVşınlarından ve çevresel faktörlerden\nde etkilenerek dayanım kaybı yaşayabilir. Bu yüzden, güvenlik ağlarının üretici talimatları\ndoğrultusunda yapılan periyodik deneyleri de dâhil olmak üzere yetkili bir kişi tarafından\ndüzenli olarak incelemeye tabi tutulması son derece önemlidir. <!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\nHazırlanan bu rehberde; güvenlik ağlarının tanıtılmasına, ağ tasarımda dikkat edilecek\nhususların ne olduğuna ve ağın güvenli bir şekilde kurulup sökülebilmesi için hangi kriterlerin\ngöz önüne alınması gerektiğine dair hususlara değinilmiş ve konu ile alakalı işveren, şantiye\nşefi, iş güvenliği uzmanı ve inşaat sahasında çalışan ilgili diğer kişilere iş sağlığı ve güvenliği\naçısından yüksekte çalışmanın uygun şekilde yürütülebilmesi için güvenlik ağları ile ilgili genel\nolarak bilgi verme amacı güdülmüştür. İnşaat sahasında yapılan çalışmalar; yüksekte yapılan\nişin niteliği, kullanılan iş ekipmanları ve çalışma ortamına bağlı olarak değiştiğinden\nbaşvurulacak kontrol önlemleri ve güvenlik ağı ile ilgili uygulamalar da değişebilmektedir. Dolayısıyla sahadaki yetkili kişilerin güvenlik ağının yeterli şekilde kurulmasında ve\ndüşmelerin önlenmesinde çalışma ortamının durumunu dikkate alarak yeni çözümler\nüretmesi gerekmektedir. Ülkemizde kullanımı yaygın olan güvenlik ağları sistem S ve sistem\nT'dir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "ekilde kurulmasında ve\ndüşmelerin önlenmesinde çalışma ortamının durumunu dikkate alarak yeni çözümler\nüretmesi gerekmektedir. Ülkemizde kullanımı yaygın olan güvenlik ağları sistem S ve sistem\nT'dir. Bu rehberde belirtilen malzeme nitelikleri ile ilgili hususlar tüm güvenlik ağı sistemlerini\nkapsamakla beraber, güvenlik ağının kurulumu ile olarak genelde yatay olarak kurulan sistem\nS güvenlik ağlarının üzerinde durulmuştur. Rehber, ulusal standardlarımız dikkate alınarak\nhazırlanmış ve standardlarımızda yer almayan güvenlik ağları ile ilgili önemli diğer hususlar\niçin ise BS 8411 uygulama esasları rehberi ve çeşitli yabancı kaynaklardan faydalanılmıştır. Bu rehberin hazırlanmasında kullanılan ulusal standardlar ve rehber aşağıda belirtilmiştir. TS EN 1263-1 (Güvenlik Ağları- Bölüm 1: Güvenlik kuralları, deney metotları)\n\nTS EN 1263-2 (Güvenlik Ağları- Bölüm 2: Konumlandırma sınırları için güvenlik kuralları)\n\nBS 8411 Code of practice for safety nets on construction sites and other works\n(İnşaat sahaları ve diğer işlerde kullanılan güvenlik ağları için uygulama esasları)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "### 2. GÜVENLİK AĞLARI\n\n\nGüvenlik ağları, toplu düşmeyi durdurma sistemleridir. Düşmelere karşı pasif koruma\nsağlarken çalışanların hareketlerini kısıtlamadan yüksekte çalışmalarına da olanak sağlar.\nÇalışma alanının altına kurulan güvenlik ağları çalışanların düşme mesafesini azaltır ve düşme\nsonucu oluşacak etkiyi hafifleterek yaralanma ve ölüm gibi istenmeyen sonuçların önüne\ngeçilmesini sağlar.\n\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\nGüvenlik ağının avantajlarından bazıları aşağıda belirtilmiştir.\n\nSistem düşük teknoloji olduğundan, kullanımı kolaydır. Örneğin; Bozulduğunda\nsistemin bir bütün olarak durmasına neden olabilecek mekanik elemanlar içermez.\n\nSistem kurulduğunda açıkça yerinde durmaktadır. Son derece görseldir. Kusurlar\nsistemin basit doğasından dolayı kolayca belirlenebilir.\n\nGüvenlik ağının kullanılması, çalışanların hareketleri diğer bazı sistemlerde olduğu gibi\nkısıtlanmadığından yapılan işlerin çalışanlar tarafından daha rahat ve hızlı şekilde\nyapılmasını sağlar. Dolayısıyla zaman ve masraflardan tasarruf edilir.\n\n☒\nUygun şekilde kurulmuş bir ağ sayesinde çalışanların güvende olma hisleri artar ve\nçalışanlar sadece işlerine odaklanabilirler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "#### 2.1 TERİMLER\n\n\nGüvenlik ağı ile ilgili bazı terimler aşağıda belirtilmiştir. Ağ gözü: Ağ oluşturacak biçimde temel bir geometrik modelde (kareler ve eşkenar\ndörtgenler şeklinde) düzenlenmiş bir dizi ip. Deney ağ gözü: Güvenlik ağının içine yerleştirilmiş ve ağın performansı zayıflatılmaksızın\nyaşlanma sebebiyle oluşan herhangi bir bozulmayı belirlemek için sökülebilen ağ gözü. Ağ: Ağ gözlerinin birleşimi. Kenar (sınır) ipi: Bir ağın çevresindeki (kenarlarındaki) her bir ağ gözünden geçen ve güvenlik\nağının çevresel boyutlarını belirleyen bir ip. <figure>\n<figcaption>Şekil 3: Kenar ipi</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\nBağlama ipi: Kenar ipini uygun bir desteğe güvenli bir şekilde bağlamak için kullanılan ip. Birleştirme ipi: İki veya daha fazla olan güvenlik ağını bir araya getiren ip. Destek çatısı (çerçevesi): Ağların bağlandığı ve dinamik hareketlerin oluşması durumunda\nkinetik enerjinin absorbe edilmesine (sönümlenmesine) katkıda bulunan yapı. Sınıf: Enerji absorplama kapasitesi ve ağ gözü büyüklüğüne bağlı ağ sınıflandırması. Ankraj cihazı: Bağlama ipi, karabinaları veya diğer bağlama cihazlarını içerebilen güvenlik\nağının yapıya bağlanması için kullanılan bir cihaz ya da sistem. Yakalama genişliği: Çalışma platformunun kenarından güvenlik ağının dış kenarına olan\nyatay mesafe.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "ama cihazlarını içerebilen güvenlik\nağının yapıya bağlanması için kullanılan bir cihaz ya da sistem. Yakalama genişliği: Çalışma platformunun kenarından güvenlik ağının dış kenarına olan\nyatay mesafe. Sapma (Waisting): Ağ çevresinde desteksiz kısımlarda, ağın kendi ağırlığından veya yüksek\ngerilmeden dolayı komşu yapıdan ya da olması gerektiği hat hizasından yatay doğrultuda\nuzaklaşması. Saçak torbalama (Eaves bagging): Ağ çevresinde desteksiz kısımlarda oluşan doğal sapma\nşeklini ya da yatay doğrultuda bel vermeyi ortadan kaldıran kurma tekniği. Alta yuvarlama (Under Rolling): Standard ağın belirli bir boşluğa uyacak şekilde genişliğinin\nazaltılması ya da bağlama ipi veya bağlama sistemine dayanıklı kenar sağlanması için\nuygulanan kurma tekniği. <figure>\n<figcaption>Şekil 4: Alta yuvarlama tekniği</figcaption>\n</figure>\n\n\nİlk sarkma: Ağın kendi ağırlığından kaynaklanan sarkma miktarı. <!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nAğ sistemi: Düşmelerin durdurulmasını sağlamak amacıyla bir düzene göre birbirlerine\nbağlanmış ağ gözleri, kenar ipleri, birleştirme ipleri, bağlama ipleri, ankraj cihazları ve destek\nçatısının oluşturduğu sistem.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "#### 2.2 GÜVENLİK AĞI TASARIM PRENSİPLERİ\n\n\nGüvenlik ağları gittikçe esnemek ve düşmenin enerjisini absorbe etmek\n(sönümlemek) için tasarlanır. Böylece düşen çalışanın yaralanma ihtimali de daha az\nolmaktadır. Düşme yüksekliği ne kadar yüksekse, ağ üzerinde oluşacak etki de o kadar çok\nolacaktır. Dolayısıyla güvenlik ağında oluşan esnemede o kadar çok olmalıdır. Güvenlik ağı,\ntasarımdaki azami düşme yüksekliğine kadar düşme etkisinden kaynaklanan enerjinin\ntamamını absorbe edebilecek şekilde yeterli miktarda esneyebilmelidir.\n\nGüvenlik ağının üzerine düşen çalışanın ağ esnediği sırada ağ altındaki bir nesneye ya\nda zemine vurmaması için ağın altında yeterli miktarda açık mesafenin bulunması son derece\nönemlidir.\n\n<!-- PageNumber=\"12\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "#### 2.3 GÜVENLİK AĞI SİSTEMLERİ\n\n\nGüvenlik ağları, kare (Q) veya eşkenar dörtgen (D) ağ gözü düzenlerini içermekte olup\ndüğümlü ya da düğümsüz olabilir. Şekil 4'te düğümlü ve düğümsüz ağ gözleri yer almaktadır. <figure>\n<figcaption>Şekil 5: Düğümlü ve düğümsüz ağ gözleri</figcaption>\n</figure>\n\n\n<!-- PageBreak -->\n\nDüğümlü bir ağın üzerine yük bindiği zaman, oluşan etkinin yanındaki düğümler\nsıkılaşır. Oluşan sıkılaşma kalıcıdır ve ağın daha sonraki etkilerden absorbe edebileceği enerji\nmiktarını azaltır. Düğümsüz ağlarda ise böyle bir problem yoktur. Düğümsüz ağ üzerine\ndüşen çalışanın yüz yaralanmasına maruz kalma ihtimali daha düşüktür. TS EN 1263-1 Standardında güvenlik ağlarının mevcut 4 sistemi yer almaktadır. Bu\nsistemler Tablo 1'de gösterilmektedir. <table>\n<caption>Tablo 1: Güvenlik Ağı Sistemleri</caption>\n<tr>\n<th></th>\n<th>Güvenlik ağı sistemleri</th>\n</tr>\n<tr>\n<td>SİSTEM S</td>\n<td>Kenar ipi olan (yatay olarak kurulan) güvenlik ağı</td>\n</tr>\n<tr>\n<td>SİSTEM T</td>\n<td>Yatay kullanım için konsollara (desteklere) bağlanan güvenlik ağı</td>\n</tr>\n<tr>\n<td>SİSTEM U</td>\n<td>Düşey kullanım için destek yapısına bağlanan güvenlik ağı</td>\n</tr>\n<tr>\n<td>SİSTEM V</td>\n<td>(Asmaya uygun) bir sehpa tipi desteğe bağlanan kenar ipi olan güvenlik ağı</td>\n</tr>\n</table>\n\n\nGüvenlik ağı sistemlerine ait örnek şekiller aşağıda gösterilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "</tr>\n<tr>\n<td>SİSTEM V</td>\n<td>(Asmaya uygun) bir sehpa tipi desteğe bağlanan kenar ipi olan güvenlik ağı</td>\n</tr>\n</table>\n\n\nGüvenlik ağı sistemlerine ait örnek şekiller aşağıda gösterilmektedir. <figure>\n<figcaption>Şekil 6: Güvenlik ağı sistemleri</figcaption>\n\nSİSTEM S\n\nSİSTEM T\n\nSİSTEM V\n\n5\n\nSİSTEM U\n\n</figure>\n\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "#### 2.4 GÜVENLİK AĞI SINIFLANDIRMASI\n\n\nTS EN 1263-1 Standardında güvenlik ağları 4 sınıftan oluşmaktadır:\n\nA ve B sınıfları; ağın asgari enerji absorplama kapasitesini yani ne kadar enerji\nabsorbe edebileceğini tanımlar. Bu kapasite kJ cinsinden ifade edilir.\n\nÖrneğin; Sınıf A 2,3 kJ iken sınıf B 4,4 kJ'dur.\n\n1 ve 2 sınıfları ise azami ağ gözü boyutlarını tanımlamaktadır.\n\nÖrneğin; Sınıf 1 boyutu için 60 mm iken sınıf 2 boyutu için 100 mm'dir.\n\nAşağıdaki tabloda sınıflandırma gösterilmektedir:\n\n\n<table>\n<caption>Tablo 2: Güvenlik Ağı Sınıfları</caption>\n<tr>\n<th>SINIF</th>\n<th>ENERJİ ABSORPLAMA KAPASİTESİ (kJ)</th>\n<th>AĞ GÖZÜ BOYUTU (mm)</th>\n</tr>\n<tr>\n<td>A1</td>\n<td>2,3</td>\n<td>60</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>2,3</td>\n<td>100</td>\n</tr>\n<tr>\n<td>B1</td>\n<td>4,4</td>\n<td>60</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>4,4</td>\n<td>100</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "#### 2.5 AĞ GÖZÜ İPİ\n\n\nAğ gözü ipi birbirine çözülmeyecek şekilde örülmüş en az 3 ayrı iplikten yapılmalıdır\nve TS EN 1263-1 Standardı madde 7.3'e göre deneye tabi tutulmuş olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "7",
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "#### 2.6 KENAR (SINIR) İPİ\n\n\nSınır ipi, sistem S ve V güvenlik ağının çevresindeki her bir ağ gözünden geçen devamlı\niptir. Sahip olması gerektiği asgari çekme mukavemeti ipin tipine göre değişmektedir.\nÖrneğin; K tipi ip 30 kN çekme mukavemetine sahip olmalıdır. Kenar ipleri, TS EN 1263-1\nStandardı Madde 7.5'e göre deneye tabi tutulmuş olmalıdır.\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "7",
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "#### 2.7 BAĞLAMA İPİ\n\n\nBağlama ipleri, güvenlik ağını ağ kurulan yapının üzerindeki ankraj noktalarına\nve/veya yapı elementlerine bağlar. Sahip olması gerektiği asgari çekme mukavemeti ipin\ntipine göre değişmektedir. Örneğin; L tipi veya M tipi ipin çekme mukavemeti 30 kN iken R\ntipi ip için bu değer 15 kN'dur. F tipi ip kullanılıyorsa asgari çekme mukavemeti 20 kN\nolmalıdır. (İplerle ilgili olarak; iplerin tipleri, asgari çekme mukavemetleri ve kullanıldıkları\ngüvenlik ağ sistemleri için TS EN 1263-1 Madde 4.3'den faydalanılabilir.)\n\nBağlama ipleri, TS EN 1263-1 Standardı Madde 7.5'e göre deneye tabi tutulmuş\nolmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "4",
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "#### 2.8 BİRLEŞTİRME İPİ\n\n\nBirleştirme ipi, korunması gereken alan için birden fazla güvenlik ağı gerekli\nolduğunda bu ağları bir araya getirir. Bu ipin asgari çekme mukavemeti 7,5 kN olmalıdır ve TS\nEN 1263-1 Standardı Madde 7.5'e göre deneye tabi tutulmuş olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "7",
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "#### 2.9 GÜVENLİK AĞI ETİKETİ\n\n\nGüvenlik ağları aşağıdaki hususları gösteren bir etikete sahip olmalıdır:\n\nİmalatçının veya ithalatçının adı veya ticarî markası\n\nTS EN 1263-1 Standardı madde 5'e göre kısa gösterim bilgileri\n(Örneğin; Güvenlik ağı EN 1263-1 - S - A 2 - Q 90 - 10 x 20 - M gibi)\n\nTS EN 1263-1 Standardı madde 6.1.5'e göre verilen deney ağ gözü ve ağın özdeş\nolduğunu gösteren numara\n\nAğın imal edildiği ay ve yıl\n\nDeney numunesinin asgarî enerji absorpsiyon kapasitesi\n\nİmalatçının kodu\n\nEK- B uygulanacaksa, sadece M seviye inceleme (muayene) için yetkili ve bağımsız\nkuruluşun onayı\n\nEtiket kalıcı olarak ağa iliştirilmeli ve ağın ömrü boyunca kalıcı olmalıdır.\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "5",
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "## 2.10 KULLANICI TALIMAT KİTABI\n\n\nGüvenlik ağlarının kullanımı ve uygulanması için, TS EN 1263-1 Madde 9'a göre bir\n(kılavuz) talimat kitabı, ağın her teslimatı ile birlikte verilmelidir. Bu kullanım talimatı,\nkullanıcının ana dilinde olmalıdır. Kullanım talimatı en azından aşağıdaki konularla ilgili\nbilgileri içermelidir:\n\nGerekli ankraj kuvvetleri\n\nAzami düşme yüksekliği\n\nAsgari yakalama genişliği\n\nGüvenlik ağı bağlantıları\n\nGüvenlik ağının altındaki asgari açıklık mesafesi\n\nDepolama\n\nİnceleme\n\nYenileme\n\nBu talimatlara ek olarak, ağın özel uygulamalarına bağlı olan özel kurulum talimatları\nda dikkate alınmalıdır. TS EN 1263-1 Standardı Madde 9'da talimat kitabının aşağıdaki\nbilgileri de içerek şekilde güvenlik ağı ile birlikte teslim edilmesi gerektiği belirtilmiştir:\n\nAğın kurulumu, kullanımı ve sökümü\n\nDepolama, bakım ve inceleme\n\nDeney ağ gözlerinin deneyi için tarihler\n\nKullanımdan kaldırma şartları\n\nİkaz edilmesi gereken tehlikeler (örneğin; Aşırı sıcaklık, kimyasal etkiler)\n\nTS EN 1263-1 Madde 10'da belirtilen uygunluğun açıklanması.\n\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "9",
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "## 2.11 SÖKÜLEBİLİR DENEY AĞ GÖZÜ\n\n\nGüvenlik ağları, UV ışınlar sebebiyle bozulmalara karşı en azından 12 ayda bir deneye\ntabi tutulmalıdır. Tüm güvenlik ağlarında deney zamanı sökülmek amacıyla gevşek şekilde\nörülmüş en az 1 adet ağ gözü bulunmalıdır. Her bir deney ağ gözü aynı numaraya sahip\nolmalı, aynı malzemeden yapılmalı ve iliştirildiği ağ ile aynı üretim yığınında bulunuyor\nolmalıdır.\n\n12 aydan daha eski olan tüm güvenlik ağlarında, ağın geçen 12 ay içinde deneye tabi\ntutulduğunu ve üreticinin asgari deney enerji absorpsiyon kapasitesini karşıladığını gösteren\nmevcut duruma ait bir deney etiketi olmalıdır. Deney etiketleri 12 ay geçerlidir ve ağ\nkurulurken etiketlerin süresi bitmiş olmamalıdır. Ağ sahibi, ağ deney sonuçlarını muhafaza\netmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "## 2.12 GÜVENLİK AĞLARININ BOYUTLARI\n\n\nTS EN 1263-2 Standardı alanı sadece 35 m2 üzerinde olan ve ağın en kısa kenarının en\naz 5 m uzunlukta olduğu sistem S güvenlik ağları ile sistem T, sistem U ve sistem V güvenlik\nağlarına uygulanmaktadır.\n\nTS EN 1263-2 Standardı kapsamı dikkate alındığında sistem S güvenlik ağları aşağıdaki\nkriterleri sağlamalıdır:\n\n@ 35 m2'den daha büyük alana sahip olmalı,\n\n@ En kısa kenarının uzunluğu en az 5 metre olmalı ve\n\n@ Azami sabitleme aralığı (ankraj noktaları arası mesafe) 2,5 metre olmalıdır.\n\nYükün 35 m2'den daha az büyüklükteki bir ağa düşmesi durumunda ise; daha büyük\nalana sahip ağlara kıyasla küçük ağ alanı sebebiyle daha az bir esneme ve daha kısıtlı bir\nenerji absorplama söz konusu olacaktır. Ağ alanı 35 m2'den daha az olduğunda, 4.4 kJ enerji\nsönümleme kapasitesine sahip B sınıfı ağ kullanımı tercih edilebilir.\n\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "## 2.13 DÜŞME YÜKSEKLİĞİ\n\n\nDüşme yüksekliği, kişinin çalışma platformundan güvenlik ağı üzerine düştüğü\nmesafedir. Düşme yüksekliği ne kadar büyükse, düşünce oluşacak etki de o kadar büyüktür.\n\n\n<figure>\n<figcaption>Şekil 7: Düşme yükseklikleri (Eğim ≤ 20°)</figcaption>\n\n≤20°\n\nH,\n\nHe\n\nHi\n\nHe\n\nH,\n\nHi\n\n2 m\n\na\n\na\n\n2 m\n\na\n\nb\n\nb\n\n</figure>\n\nHe, Hr, Hi : Düşme yükseklikleri, a: Güvenlik ağı, b : Yakalama genişliği\n\n\nDüşme yüksekliği, güvenlik ağı mümkün olduğunca uygulanabilir olacak şekilde\nçalışma platformuna yakın kurularak olabilecek en az mesafede tutulmalıdır. Mümkünse\ngüvenlik ağları çalışma platformunun altından itibaren 2 metre mesafeyi geçmemelidir. TS\nEN 1263-2 standardında izin verilen azami düşme yüksekliği 6 metredir. ( Bu durum çalışanın\nağırlık merkezi dikkate alındığında 7 metrelik bir nominal düşme yüksekliğini teşkil\netmektedir.) Şekil 7'de belirtilen He ve Hi düşme yüksekliklerinden her biri 6 metreyi\ngeçmemelidir.\n\nAğın dış kenarından itibaren 2 metrelik\nmesafe içinde, çalışma platformu ile ağ\narasındaki düşme yüksekliği (Hr) 3 metreden\nfazla olmamalıdır. Bu durumun sebebi; güvenlik\nağlarının köşelerde ve kenarlarda fazla\nesnememesidir. (TS EN 1263-2)\n\n\n<figure>\n<figcaption>Şekil 8: Düşme yüksekliği, Hr</figcaption>\n\nH, ≤ 3 m\n\nGüvenlik ağı\n\n2 m\n\n</figure>\n\n\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "### Çalışma platformunun eğimi 20° 'den daha fazla ise,\n\n\nÇalışma platformunun kenarı ile güvenlik ağının dış kenarının en düşük noktası\narasındaki mesafe 3 metreyi aşmamalıdır.\n\nHe : Düşme yüksekliği\n\nb : Yakalama genişliği\n\nc : Güvenlik ağı dış\nkenarının en alt\nnoktası\n\nt : Çalışma platformunun\nkenarı ile güvenlik\nağının dış kenarının en\ndüşük noktası\narasındaki mesafe\n\n\n<figure>\n<figcaption>Şekil 9: Düşme yüksekliği (Eğim ≥ 20°)</figcaption>\n\n\\> 20°\n\nHe\n\nt ≤ 3 m\n\nC\n\nb ≥3 m\n\nGüvenlik ağı\n\nb\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "## 2.14 YAKALAMA GENİŞLİĞİ\n\n\nÇalışan kişi hareket ettiği sırada bir yere takılırsa, aşağı doğru düşmenin yanı sıra\nöne/ileri doğru bir düşmeye de maruz kalır. İleri doğru düşmenin mesafesi düşme\nyüksekliğinden etkilenir. Diğer bir deyişle, düşme ne kadar yüksekse, ileri doğru hareket de o\nkadar fazladır. Çalışma platformunun kenarında koruma sağlayan güvenlik ağları düşen\nkişinin ileri doğru hareketini kapsayacak\nşekilde yeteri kadar geniş olmalıdır. Çalışma\nplatformunun kenarı ile güvenlik ağının dış\nkenarı arasındaki net genişliği yakalama\nDüşme\nyüksekliği\nGüvenlik\nağı\n(en çok 6 m)\ngenişliğini ifade etmektedir. TS EN 1263-2 Standardında belirtilen\nazami düşme yükseklikleri için asgari\nyakalama genişlikleri aşağıdaki tabloda\n(Tablo 3) gösterilmektedir. <figure>\n<figcaption>Şekil 10: Yakalama genişliği</figcaption>\n\nYakalama\ngenişliği\n\n7/////T. </figure>\n\n\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nBS 8411 rehberinde ise ek bir güvenlik faktörü olarak tabloda verilen değerlerin 1,5\nmetre daha uzatılması tavsiye edilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "liği\n\n7/////T. </figure>\n\n\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nBS 8411 rehberinde ise ek bir güvenlik faktörü olarak tabloda verilen değerlerin 1,5\nmetre daha uzatılması tavsiye edilmektedir. <table>\n<caption>Tablo 3: Yakalama genişlikleri</caption>\n<tr>\n<th>Azami düşme yüksekliği, He (m)</th>\n<th>TS EN 1263-2'ye göre asgari yakalama genişliği, b (m)</th>\n<th>BS 8411 tarafından tavsiye edilen yakalama genişliği (m)</th>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3,5</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2,5</td>\n<td>4</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3</td>\n<td>4,5</td>\n</tr>\n</table>\n\n\nÇalışma platformunun eğimi 20° den fazla ise:\n\n☒\nYakalama genişliği en az 3 metre olmalıdır. b : Yakalama genişliği\n\nt : Çalışma platformunun kenarı ile güvenlik ağının\ndış kenarının en düşük noktası arasındaki\nmesafe\n\n\n<figure>\n<figcaption>Şekil 11: Yakalama genişliği (Eğim &gt;20°)</figcaption>\n\n\\> 20°\n\nMesafe, t\n(en çok 3 m)\n\nGüvenlik ağı\n\nYakalama\n77777777, genişliği, b\n(en az 3 m)\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "## 2.15 BOŞLUK (AÇIKLIK) MESAFESİ\n\n\nÇalışan düştüğü zaman güvenlik ağının esneyebilmesi (deforme olabilmesi) için ağın\naltında yeterli açıklık mesafesi olmalıdır. Esneme miktarı düşme yüksekliğine ve ağın\ngenişliğine bağlıdır. Şekil 12'de sistem S güvenlik ağının üzerine bir nesne bindiğinde oluşan tipik\ndeformasyonlar görülmektedir. Deformasyonlar düşme yüksekliğine bağlıdır ve ağın altında\nolması gereken asgari açıklık mesafesinin hesaplanması için tablo 4'den faydalanılabilir. <!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 12: Güvenlik ağı azami deformasyon miktarları</figcaption>\n\n8\n\n1\n\n7\n\nh\n\nHi\n\n6\n\n[=20m\n\n€\n\nfo\n\n1=16m\n\n5\n\n2\n\nfmax, m\n\n[=12m\n\n4\n\nmax\n\n(=9m\n\nX\n\n6\n\n3\n\n1=5m\n\n5\n\n2\n\n3\n\n1\n\n4\n\n0\n\n1 2 3 4 5 6\n\nHi, m\n\n</figure>\n\n\n1: Çalışma seviyesi\n\n2: Ankraj seviyesi\n\n3: Açıklık mesafesi\n\n4: Zemin seviyesi ya da ağ altındaki engeller\n\n5: Kurulmuş güvenlik ağı\n\n6: Etki sonrası deforme olmuş güvenlik ağı\n\n‘: Güvenlik ağının en küçük kenarının açıklığı\n\nh: Güvenlik ağının ankraj noktası ile\nçalışma seviyesi arasındaki düşey\nmesafe\n\nfmax: Güvenlik ağının ağırlığı ve\ndinamik yük sebebiyle oluşan azami\ndeformasyon\n\nfo: Güvenlik ağının ağırlığı sebebiyle\noluşan deformasyon\n\nHi: Güvenlik ağı ile çalışma seviyesi\narasındaki düşey mesafe\n\nAşağıdaki tabloda güvenlik ağı ile çalışma seviyesi arasındaki düşey mesafe ve\ngüvenlik ağının en küçük kenarının açıklığına bağlı azami deformasyon miktarları yer\nalmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "arasındaki düşey mesafe\n\nAşağıdaki tabloda güvenlik ağı ile çalışma seviyesi arasındaki düşey mesafe ve\ngüvenlik ağının en küçük kenarının açıklığına bağlı azami deformasyon miktarları yer\nalmaktadır. <!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 4: Azami deformasyon miktarları</caption>\n<tr>\n<th></th>\n<th colspan=\"16\">€ (Güvenlik ağının en küçük kenarının açıklığı, m)</th>\n</tr>\n<tr>\n<th>Hi(m)</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>10</th>\n<th>11</th>\n<th>12</th>\n<th>13</th>\n<th>14</th>\n<th>15</th>\n<th>16</th>\n<th>17</th>\n<th>18</th>\n<th>19</th>\n<th>20</th>\n</tr>\n<tr>\n<td>0</td>\n<td>2,30</td>\n<td>2,46</td>\n<td>2,62</td>\n<td>2,79</td>\n<td>3,01</td>\n<td>3,17</td>\n<td>3,32</td>\n<td>3,46</td>\n<td>3,54</td>\n<td>3,62</td>\n<td>3,70</td>\n<td>3,63</td>\n<td>3,91</td>\n<td>4,18</td>\n<td>4,45</td>\n<td>4,87</td>\n</tr>\n<tr>\n<td>0,5</td>\n<td>2,47</td>\n<td>2,65</td>\n<td>2,83</td>\n<td>3,01</td>\n<td>3,24</td>\n<td>3,43</td>\n<td>3,62</td>\n<td>3,79</td>\n<td>3,91</td>\n<td>4,04</td>\n<td>4,17</td>\n<td>4,14</td>\n<td>4,40</td>\n<td>4,66</td>\n<td>4,92</td>\n<td>5,32</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2,59</td>\n<td>2,78</td>\n<td>2,97</td>\n<td>3,16</td>\n<td>3,41</td>\n<td>3,62</td>\n<td>3,82</td>\n<td>4,02</td>\n<td>4,18</td>\n<td>4,33</td>\n<td>4,49</td>\n<td>4,50</td>\n<td>4,75</td>\n<td>5,00</td>\n<td>5,25</td>\n<td>5,64</td>\n</tr>\n<tr>\n<td>1,5</td>\n<td>2,69</td>\n<td>2,89</td>\n<td>3,08</td>\n<td>3,28</td>\n<td>3,53</td>\n<td>3,76</td>\n<td>3,98</td>\n<td>4,20</td>\n<td>4,38</td>\n<td>4,56</td>\n<td>4,74</td>\n<td>4,78</td>\n<td>5,02</td>\n<td>5,27</td>\n<td>5,51</td>\n<td>5,89</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2,76</td>\n<td>2,97</td>\n<td>3,17</td>\n<td>3,38</td>\n<td>3,64</td>\n<td>3,87</td>\n<td>4,11</td>\n<td>4,34</td>\n<td>4,55</td>\n<td>4,75</td>\n<td>4,95</td>\n<td>5,01</td>\n<td>5,24</td>\n<td>5,48</td>\n<td>5,72</td>\n<td>6,09</td>\n</tr>\n<tr>\n<td>2,5</td>\n<td>2,83</td>\n<td>3,04</td>\n<td>3,25</td>\n<td>3,46</td>\n<td>3,72</td>\n<td>3,97</td>\n<td>4,22</td>\n<td>4,47</td>\n<td>4,69</td>\n<td>4,90</td>\n<td>5,12</td>\n<td>5,20</td>\n<td>5,43</td>\n<td>5,67</td>\n<td>5,90</td>\n<td>6,25</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2,88</td>\n<td>3,10</td>\n<td>3,31</td>\n<td>3,53</td>\n<td>3,79</td>\n<td>4,05</td>\n<td>4,31</td>\n<td>4,57</td>\n<td>4,81</td>\n<td>5,04</td>\n<td>5,27</td>\n<td>5,37</td>\n<td>5,60</td>\n<td>5,82</td>\n<td>6,05</td>\n<td>6,40</td>\n</tr>\n<tr>\n<td>3,5</td>\n<td>2,93</td>\n<td>3,15</td>\n<td>3,37</td>\n<td>3,59</td>\n<td>3,85</td>\n<td>4,12</td>\n<td>4,39</td>\n<td>4,67</td>\n<td>4,91</td>\n<td>5,16</td>\n<td>5,40</td>\n<td>5,51</td>\n<td>5,74</td>\n<td>5,96</td>\n<td>6,19</td>\n<td>6,53</td>\n</tr>\n<tr>\n<td>4</td>\n<td>2,97</td>\n<td>3,19</td>\n<td>3,42</td>\n<td>3,65</td>\n<td>3,91</td>\n<td>4,18</td>\n<td>4,46</td>\n<td>4,75</td>\n<td>5,01</td>\n<td>5,26</td>\n<td>5,52</td>\n<td>5,65</td>\n<td>5,87</td>\n<td>6,09</td>\n<td>6,31</td>\n<td>6,64</td>\n</tr>\n<tr>\n<td>4,5</td>\n<td>3,01</td>\n<td>3,23</td>\n<td>3,46</td>\n<td>3,69</td>\n<td>3,96</td>\n<td>4,24</td>\n<td>4,52</td>\n<td>4,82</td>\n<td>5,09</td>\n<td>5,36</td>\n<td>5,63</td>\n<td>5,76</td>\n<td>5,98</td>\n<td>6,20</td>\n<td>6,42</td>\n<td>6,74</td>\n</tr>\n<tr>\n<td>5</td>\n<td>3,04</td>\n<td>3,27</td>\n<td>3,50</td>\n<td>3,74</td>\n<td>4,00</td>\n<td>4,29</td>\n<td>4,58</td>\n<td>4,89</td>\n<td>5,17</td>\n<td>5,45</td>\n<td>5,72</td>\n<td>5,87</td>\n<td>6,09</td>\n<td>6,30</td>\n<td>6,52</td>\n<td>6,84</td>\n</tr>\n<tr>\n<td>5,5</td>\n<td>3,07</td>\n<td>3,30</td>\n<td>3,54</td>\n<td>3,78</td>\n<td>4,04</td>\n<td>4,34</td>\n<td>4,63</td>\n<td>4,96</td>\n<td>5,24</td>\n<td>5,53</td>\n<td>5,81</td>\n<td>5,97</td>\n<td>6,19</td>\n<td>6,40</td>\n<td>6,61</td>\n<td>6,92</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3.10</td>\n<td>3.34</td>\n<td>3.57</td>\n<td>3.81</td>\n<td>4.08</td>\n<td>4.38</td>\n<td>4.68</td>\n<td>5.01</td>\n<td>5.31</td>\n<td>5.60</td>\n<td>5.89</td>\n<td>6.07</td>\n<td>6.28</td>\n<td>6.49</td>\n<td>6.7</td>\n<td></td>\n</tr>\n</table>\n\n\nYukarıda geçen deformasyon miktarları ile ilgili kriterler aşağıdaki durumlarda geçerlidir:\n\nAğın alanı 35 m2 den büyüktür,\n\nAğın en küçük kenarı en az 5 metredir,\n\nİlk sarkma ağın en küçük kenarının %10'undan fazla değildir\n\nDüşme yüksekliği 6 metreden fazla değildir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "durumlarda geçerlidir:\n\nAğın alanı 35 m2 den büyüktür,\n\nAğın en küçük kenarı en az 5 metredir,\n\nİlk sarkma ağın en küçük kenarının %10'undan fazla değildir\n\nDüşme yüksekliği 6 metreden fazla değildir. BS 8411 uygulama esasları rehberi, güvenlik faktörü olarak ağın altına en az 0,5 metre ek\naçıklık eklenmesini tavsiye etmektedir. <!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\nÖrneğin; Çalışma seviyesinin 5 m altına kurulmuş, en kısa kenarı 9 m olan Standard\nkapsamındaki bir sistem S güvenlik ağının azami deformasyonu tablo 4'e göre 4 metredir. BS\n8411 Standardını da dikkate aldığımızda güvenlik ağının altında en az 4,5 metre açıklık\n(boşluk) bulunması muhtemel bir düşme neticesinde çalışanın sağlıklı bir şekilde kurtarılması\naçısından önem arz edecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "## 2.16 AĞ SARKMASI\n\n\nAğ sarkması ya da ilk sarkma ağın kendi ağırlığından kaynaklanan deformasyon\n(esneme) miktarıdır. Ağ sarkması ağın en kısa kenarının %5'i ile %10'u arasında olmalıdır.\n\nYeteri kadar ilk sarkmanın olması için, güvenlik ağı kaplayacağı alandan (her iki kenar\nboyunca) en az %10 daha büyük olmalıdır. Fazla ağ, yükü eşit şekilde dağıtmak ve ağ\ngözlerinde çok fazla stres oluşumundan kaçınmak için bağlama ipine ya da bağlama\nsistemine alta yuvarlama yapılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "## 2.17 AŞIRI GERİLME VE DÜŞÜK GERİLME\n\n\nGüvenlik ağları, esneyebilmeleri ve düşmenin etkisiyle oluşan enerjiyi absorbe\nedebilmeleri için aşırı gerilmiş olmamalıdır. Aşırı gerilmiş bir ağ ya da çok fazla sabitleme\nnoktası olan bir ağ yeterince esnemeyebilir. Her iki durumda da ağın üstüne düşen kişi\nüzerindeki etki artarken, ağ ve yapı üzerine uygulanan yük de artar.\n\nDüşük gerilmiş bir ağ ise çok fazla esneyebilir ve eğer ağın altında yeteri kadar açıklık\nyoksa düşen kişi bir engele ya da zemine çarpabilir.\n\n\n<figure>\n<figcaption>Şekil 13: Yük sonucu esneme</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "### 3. UYGULAMALAR\n\n\nGüvenlik ağları TS EN 1263-2 Standardında belirtilen kriterler dikkate alınarak\nkurulmalıdır. Ayrıca BS 8411 rehberinde geçen aşağıdaki hususların da dikkate alınması\nçalışmanın güvenli şekilde sürdürülmesi açısından faydalı olacaktır:\n\nGüvenlik ağları 6 metreye kadar olan düşmelerin enerjisini absorbe edecek şekilde\nüretilirler fakat mümkün olduğunca çalışma yüzeyine yakın kurulmalıdırlar. Güvenlik\nağları ile koruma altına alınmış boşlukların kapsamı açık şekilde belirtilmeli ve üst\ntarafta çalışanlar güvenlik ağının kapsamı dışına çıkmamaları konusunda\nuyarılmalıdırlar. 1\nGüvenlik ağları düşmeye karşı korumanın ilk basamağını oluşturuyorsa yani düşme\ndiğer yöntemlerle önlenememişse, güvenlik ağının çalışma seviyesinin altına tercihen\n2 metre mesafeyi geçmeyecek şekilde kurulması sağlanmalıdır. Güvenlik ağları sistem T dâhilinde kullanıldığında, normalde sadece düşmeye karşı\nkorumanın ikinci basamağı olarak yani örneğin korkulukların kullanımına ilaveten bir\nönlem olarak düşünülmelidir. Sistem T güvenlik ağları yatay olarak veya geriye doğru\nhafif bir eğimde olacak şekilde yerleştirilmelidir. A sınıfında yer alan ve sistem S dâhilinde kullanılan güvenlik ağları 2 metreden fazla\nbir düşmeye karşı kullanılıyorsa, ağların alanı 35 m2 den az olmamalı ve en kısa kenarı\nen az 5 metre olmalıdır. Bu iki kriterden herhangi birinin karşılanamadığı durumda\nise, B sınıfı güvenlik ağı kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "rşı kullanılıyorsa, ağların alanı 35 m2 den az olmamalı ve en kısa kenarı\nen az 5 metre olmalıdır. Bu iki kriterden herhangi birinin karşılanamadığı durumda\nise, B sınıfı güvenlik ağı kullanılmalıdır. Düşük alana sahip güvenlik ağları üreticiye\ndanışıldıktan sonra kurulmalıdır. Güvenlik ağı çalışma alanının kenarından düşen çalışanları korumak için\nkurulduğunda, güvenlik ağının kenardan düşen çalışanın muhtemel yatay hareketini\nde dikkate alacak şekilde yeterli bir yakalama genişliğine sahip olmasına dikkat\nedilmelidir. Uygulamada (yapılacak işte) kullanılacak olan ağın seçiminde; ağın enerji absorplama\nkapasitesi yaşa bağlı olarak azaldığından kullanım ömrü dikkate alınmalıdır. Ağlar bir\nyıl veya daha fazla bir süreyle kullanımda olacaksa, kullanım süresi boyunca\nyaşlanmanın ağın enerji absorplama kapasitesini sınıflandırıldığı seviyenin altına\ndüşürmediğini doğrulamak için kontroller yapılmalıdır. 24\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "#### 3.1 ÇATI İMALATI\n\n\nÇatı imalatı sırasında düşmeye karşı kullanılan güvenlik ağları, genellikle yapının çatı\nmakas/mertek gibi ana elemanları tarafından desteklenmeli ve çatı hizasını takip edecek\nşekilde kurulmalıdır. Saçaklarda çalışan düşmesine sebep olabilecek boşluklar oluşturan\nsapmalara karşı özellikle dikkat edilmelidir (Bkz. Şekil 14). Eğer saçak kirişi ankraj için uygunsa\nve 450'de 6 kN'luk karakteristik yüklemeyi taşıyabilecek kapasitede ise ağ kenarının\nbağlanması için kullanılabilir. (Saçak torbalamaya gerek yoktur).\n\nÇelik yapılarda; güvenlik ağları sıcak haddelenmiş makas ve merteklere doğrudan\nbağlanabilir. Ahşap yapılarda da çatı mertekleri ve üst plakalar bağlantı için tercih edilebilir.\nAhşap aşıklar ve çıtalar bağlantı için kullanılmamalıdır.\n\n\n<figure>\n<figcaption>Şekil 14: Sapmadan kaçınmak için saçak torbalama tekniği</figcaption>\n\nBağlama ipleri\n\nÇatı aşığı\n\nKesit görünüş\n\nGüvenlik ağı\n\nÇelik I-profil\n(Putrel)\n\nSaçak\ntorbası\n\nBağlama ipleri\n\nÜstten görünüş\n\nSaçak\ntorbası\n\nGüvenlikağı\n\nÇatı aşığı\n\n</figure>\n\n\nÇatı işinde kullanılan malzeme ve parçaların özellikle de çelik malzemelerin ağın\nüzerine düşmemesine dikkat edilmeli, malzemeler uygun şekilde yerleştirilerek ve\nsabitlenerek malzeme düşmesinin önüne geçilmelidir.\n\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "#### 3.2 TADİLAT İŞLERİ\n\n\nGüvenlik ağları genellikle yeni çatı imalatı ya da çatıların yenilenmesinde kullanılmaya\ndaha uygundur. Küçük tadilat veya yenileme işlerinde de ağ kullanımı tercih edilebilir fakat\nküçük işler için ağın kurulum zamanı ve maliyet dikkate alındığında bu korunma yönteminin\npek pratik olmadığı düşünülebilir. Mevcut yapılarda güvenlik ağı kullanımına karar\nverilmeden önce aşağıdaki hususlar dikkate alınmalıdır:\n\nYapının coğrafyası ağın güvenli şekilde kurulmasına olanak sağlamalıdır. Çevre güvenlik ağı kullanımına zarar verici nitelikte olmamalıdır. Örneğin, ağın\nperformansını etkileyecek aşındırıcı, yıpratıcı kimyasalların yakınında bulunmamalıdır. Yapılan işler ağın yapısına hasar vermemelidir. Örneğin; aşırı kıvılcım akışının olduğu\nsıcak işler. Ağın altında gerekli açıklık mesafesi vardır. Güvenlik ağının sabitlenmesi için uygun ankraj noktaları bulunmaktadır. Ankraj; ağın yükünü, herhangi bir çarpma etkisini ve düşen çalışanı karşılayacak\nnitelikte yeterli dayanım ve stabiliteye sahiptir. Ağ iş tamamlandıktan sonra güvenli bir biçimde sökülebilmektedir. Çalışmanın belirli bir bölge üzerinde yapıldığı durumlarda, çalışma seviyesinin altına\nkurulan güvenlik ağının yeterli bir yakalama genişliğine sahip olduğundan emin olunmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "de sökülebilmektedir. Çalışmanın belirli bir bölge üzerinde yapıldığı durumlarda, çalışma seviyesinin altına\nkurulan güvenlik ağının yeterli bir yakalama genişliğine sahip olduğundan emin olunmalıdır. Farklı bölgelerde yer alan ve değiştirilmesi ya da tadilatının yapılması gereken çatı kaplama\nmalzemeleri ile çalışırken, çatıda çalışanların kurulmuş olan güvenlik ağının kapsamı\nkonusunda yeterli şekilde bilgilendirildiğinden emin olunmalıdır. Güvenlik ağları ana yapı\nelemanları tarafından desteklenmeli ve çatı hizasını izlemelidir. <figure>\n<figcaption>Şekil 15: Çatı işinde güvenlik ağı kullanımı</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "#### 3.3 KALIP VE ÖN DÖKÜMLÜ BETON İŞLERİ\n\n\nBu uygulamada sırasında güvenlik ağı kullanılıyorsa; ağ ağır malzemelerin\ntutulmasında etkin olmayacağından prekast beton birimleri gibi ağır malzemelerin ağ üzerine\ndüşmemesine özellikle dikkat edilmelidir. Ağın üzerine ağır malzeme düştüğünde ise durum\nrapor edilmeli ve ağın incelenmesi sağlanmalıdır.\n\nBirçok kalıp sistemi ve prekast beton elemanları taşıyıcı yapı ile aynı hizada olacak\nşekilde yerleştirildiğinden güvenlik ağlarının destek elemanlarına bağlanması engellenebilir.\nBu durumlarda bağlama aygıtlarının kullanımı tercih edilmeli ya da bu sorun tasarım\naşamasında desteklerin üzerine uygun yerleştirme noktalarının (halka, delik vb.) tasarlanması\nile çözülmelidir. Aşağıdaki şekilde örnek bağlama aygıtları görülmektedir.\n\n\n<figure>\n<figcaption>Şekil 16: Bağlama aygıtları</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "#### 3.4 METAL KAPLAMA\n\n\nIsı oluşumu nedeniyle güvenlik ağı malzemelerinin erimesi ve böylece ağın\nperformans kriterlerini düşmesi nedeniyle ağın üst tarafında ya da bitişiğinde asla herhangi\nbir sıcak iş yapılmamalıdır. Bu tür hasarlar küçük bir alan üzerinde de oluşabileceğinden, rutin\nmuayene ve inceleme prosedürleri sırasında hasarın fark edilmesi zor olabilir.\n\nKaplama malzemesi üzerinde herhangi bir kesme işlemi yapılacaksa, bu malzemenin\ndaha önceden kaplanmış alan üzerine çekilmesi sağlanmalı ve kıvılcımların güvenlik ağının\nüzerine düşmesi engellenmelidir. Güvenlik ağları tüm sıcak işlerden yeterince uzakta\ndepolanmalıdır.\n\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "#### 3.5 KÖPRÜ İŞLERİ\n\n\nKöprü işleri sırasında güvenlik ağının kurulması gerekiyorsa, aşağıdaki hususların\nuygunluğuna özellikle dikkat edilmelidir.\n\nDüşme yüksekliği ve bu yükseklikle bağlantılı yakalama genişliği,\n☒\n\nBağlantı noktalarının konumları ve dayanımları,\n☒\n\n☒\nAğ altındaki açıklık mesafeleri, özellikle aşağıdan araçların geçtiği durumlarda,\n\nAğa düşen çalışanların kurtarılması için özel düzenlemeler.\n☒\n\nKöprü işlerinde ağın kurulumu için başvurulan erişim yöntemleri fiziksel zorluklardan\ndolayı daha karışık olabileceğinden uzman tavsiyelerine başvurulması faydalı olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "### 4. PLANLAMA VE SORUMLULUKLAR\n\n\nGüvenlik ağı kurulmadan önce kurulum planlanmalı ve planlama ağların tedarik,\nkurulum ve kullanım sürecine dâhil olan herkesi içermelidir. Planlama yapılırken aşağıdaki\nhususlar dikkate alınmalıdır:\n\n☒\nAğın kurulumunu yapan çalışanların yetkinliği ve tecrübesi\n\nKurulum ve söküm boyunca yapılacak işlerin türleri ve sıraları\n\n☒\nAnkraj noktalarının yerleri ve yeterlilikleri\nGüvenlik ağı altında doğru açıklık mesafesinin nasıl korunacağı,\n\nKurulum ve söküm için erişim yolları,\n\nİnceleme, geçici onarım işleri ve atıkların uzaklaştırılması için erişim yolları\n\n☒\nDaha alt seviyelerdeki kişiler korunması ve\n\n☒\nAğ üzerinde düşen çalışanların kurtarılması\n\nGüvenlik ağının tasarımı, güvenli şekilde kurulumu ile kullanımı ve diğer hususlarla\nalakalı olarak görev yapan çalışanların sorumlulukları BS 8411 rehberinde belirtilmiştir.\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "#### 4.1 TASARIMCININ SORUMLULUKLARI\n\n\nGüvenlik ağının kullanımı belirleyen ya da yapı işinde, tamirat ve tadilat işlerinde\nrisklerin kontrol altına alınması için güvenlik ağı kullanılacağına dair bilgilendirilen\ntasarımcı(lar) aşağıdaki hususları dikkate almalıdır:\n\nAğın kurulumunu zorlaştıran ya da tehlikeli kılan tasarım detaylarından kaçınmalıdır.\n(Güvensiz erişim, yeteri kadar geçici yük taşıyamayan yapılar, bağlantı için gerekli\nyerlerin yetersizliği vb.)\n\nGüvenlik ağının hızlı kurulumunu ve sökümünü kolaylaştıracak şekilde çizimler\nüzerinde uygun ankraj noktaları tasarlamalı ve bu noktaların karakteristik yüklemeleri\ntaşıyacağından emin olmalıdır.\n\nGüvenlik ağının kendi ağırlığından ve düşen çalışanın oluşturduğu etkiden\nkaynaklanan yapı üzerindeki muhtemel kuvvetleri hesaplamalı ve yapı üzerinde\noluşan etkiyi değerlendirmelidir.\n\nUygunsa ekstra çapraz kullanımı ya da diğer desteklerin kullanımını belirlemelidir.\n\nAğların uzun süre kullanıldığı durumlarda, yapılacak incelemeleri ve kurulum sırasını\nbelirlerken kurulum ve söküm işlemleri için ihtiyaç duyulacak erişim yollarını da\ndikkate almalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "#### 4.2 ÜRETİCİNİN SORUMLULUKLARI\n\n\nGüvenlik ağının imalatını yapan kişiler, ürünlerinin güvenli kullanımı ve depolanması\nile ilgili tüm bilgileri içeren kullanım talimatları sağlamalı ve bunları satış sırasında alıcıya\nteslim etmelidirler. Ayrıca ağın kullanım periyodu boyunca asgari enerji absorplama\nkapasitesinin yeterli olacağına dair teminat vermelidirler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "#### 4.3 KURULUMU YAPAN ÇALIŞANLARIN SORUMLULUKLARI\n\n\nKurulumu gerçekleştiren çalışanlar, kurulumdan önce aşağıdaki hususlar hakkında ana\nyükleniciye veya şantiye şefine bilgi vermelidir. Güvenlik ağının kurulumu ile ilgili olarak aldıkları eğitim ve yeterlilikleri,\n\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\nKullanmayı düşündükleri iş ekipmanları (Örneğin; Hareketli yükseltilebilir iş\nplatformları),\n\nAğların deneye tabi tutulması, bakımı ve kullanım periyodu boyunca sağlaması\ngereken enerji absorplama kapasiteleri,\n\nErişim için ihtiyaç duyulacak çalışmalar (Örneğin; Çalışma yüzeyinin hazırlanması),\n\nAnkraj noktaları ve sabitleme için gereksinimler ile bunların uygun ve yeterli\nolduğundan emin olmak için yapılacaklar,\n\n☒\nGüvenlik ağının altında yeterli açıklık mesafesinin devamlı olarak sürdürülmesi için\nihtiyaç duyulacak gereksinimler,\n\nKurtarma prosedürleri,\n\nAğın altında bulunan çalışanların nasıl korunacağı. Yukarıdaki hususların dışında, kurulumu yapan çalışanlar temin edilen tüm ağların\namaca uygun olduğundan ve proje boyunca amacına uygun şekilde kalacağından emin\nolmalıdırlar. Ayrıca aşağıdaki hususları da yerine getirmelidirler:\n\nAnkraj noktaları kontrol etmeli,\n\nAnkraj noktalarının yükler için uygun olduğundan emin olmalı,\n\nAğın amaca uygun olduğundan emin olmalı ve\n\nAğın altında yeterince açıklık olduğundan emin olmalıdırlar. Ağ kurulumu tamamlandıktan sonra ise, kurulumu yapan çalışanlar tarafından ana\nyükleniciye/şantiye şefine teslim belgesi verilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "ve\n\nAğın altında yeterince açıklık olduğundan emin olmalıdırlar. Ağ kurulumu tamamlandıktan sonra ise, kurulumu yapan çalışanlar tarafından ana\nyükleniciye/şantiye şefine teslim belgesi verilmelidir. Belge güvenlik ağı sisteminin amaca\nuygun olduğunu doğrulamalı ve aynı zamanda aşağıdaki hususlar hakkında yazılı talimatlar\niçermelidir:\n\nKurtarma prosedürleri,\n\nİnceleme prosedürleri,\n\nAğ üzerindeki atık malzemelerin uzaklaştırılması. 30\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "#### 4.4 ANA YÜKLENİCİ/ŞANTİYE ŞEFİNİN SORUMLULUKLARI\n\n\nAna yüklenici veya şantiye şefi, güvenlik ağı kurulumu ile ilgili hususların sağlık ve\ngüvenlik planında yer aldığından emin olmalı ve kurulumu yapan çalışanlar sahaya gelmeden\nönce aşağıdaki hususların yerine getirilmesini sağlamalıdırlar:\n\n☒\nKurulum için erişimin sağlanması,\n\n☒\nUygun ankraj noktalarının sağlanması,\n\n☒\nHareketli erişim ekipmanlarına ihtiyaç duyulan yerlerdeki zemin koşullarının uygun\nolduğundan emin olunması.\n\nAna yüklenici veya şantiye şefi aşağıdaki hususların yerine getirildiğinden ayrıca emin\nolmalıdır:\n\n☒\nÇalışanların kurtarma için eğitimli olduğundan,\n\n☒\nKurulumu yapan çalışanların teslim belgesini sağladığından,\n\n☒\nSahadaki tüm alt yüklenici ve çalışanların güvenlik ağının amacı ve fonksiyonları\nhakkında bilgilendirildiğinden,\n\n☒\nAğların üreticinin talimatları doğrultusunda muayenesinden ve kullanım boyunca\ntalimatlara uygun şekilde kalmasından sorumlu birisinin olduğundan,\n\n☒\nGüvenlik ağının altında yeterli açıklık mesafesinin sürdürülmesinden sorumlu birisinin\nolduğundan,\n\n☒\nAğların, çalışanları düşen atık malzemelere karşı korumak için veya atık malzemeleri\ndepolama alanı olarak kullanılmadığından.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "#### 5. KURULUM GEREKSİNİMLERİ\n\n\nGüvenlik ağları mutlaka üreticinin talimatları dikkate alınarak kurulmalıdır. Ağlar\nüreticinin ve sökülebilir deney ağ gözlerinin etiketlerine sahip olmalı, etiketleri olmayan ağlar\nkullanılmamalıdır.\n\nGüvenlik ağları kurulumdan önce hasar ve kusurlara karşı incelenmeli, hasar görmüş\nya da kusur içeren ağlar kullanılmamalıdır. Kurulum yapılan çevrede enerji hatları varsa ilgili\nkurumla irtibata geçilmeli ve yeterli mesafede olunduğu doğrulanmalıdır. Ayrıca güvenlik\nağları, gezer vinç ve diğer hareketli ekipmanların çok yakınına yerleştirilmemelidir.\n\n<!-- PageNumber=\"31\" -->\n<!-- PageBreak -->\n\nGüvenlik ağlarının bağlanması,\nsabitlenmesinde tek bir ağ gözü ipi\nkullanılmamalı, bağlantılar; çarpma yükünü\nabsorbe edecek birçok sayıda ağ gözü ipi ve\nkenar ipi kullanımını içeren yöntemlerle\nyapılmalıdır. Örneğin; kenar ipinin\nsabitlemede kullanılması ya da alta\nyuvarlama tekniğinden yararlanılması vb.\n\n\n<figure>\n<figcaption>Şekil 17: Güvenlik ağının sabitlenmesi</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "##### 5.1 GÜVENLİK AĞI KURULUM HİYERARŞİSİ\n\n\nGüvenlik ağının kurulumunda kullanılan genel yöntem hareketli yükseltilebilir iş\nplatformlarının kullanılmasıdır. Alternatif yöntemler de vardır. Uzaktan bağlama aygıtları, iple\nerişim teknikleri, düşük seviyedeki işler için portatif merdivenlerin kullanımı bu\nyöntemlerden bazılarıdır.\n\nEn uygun yöntem için risk değerlendirmesi sonuçları dikkate alınmalı ve kurulum\nhiyerarşisi ile kurulumu yapan çalışanların karşılaşabileceği riskler minimize edilmelidir.\n\nHiyerarşi düşük riskten yüksek riske doğru aşağıdaki gibi sıralanmaktadır.\n\nI. Zemin seviyesinde; uzaktan ankraj bağlaması yapılarak,\n\nII. Hareketli yükseltilebilir iş platformlarının kullanılmasıyla,\n\nIII. Kısa süreli işlerde merdiven kullanımıyla (fakat sadece risk değerlendirmesi\nneticesinde),\n\nIV. İple erişim tekniklerinin kullanılmasıyla. (İple erişim işi oldukça uzmanlık\ngerektirmektedir. Sadece eğitimli ve yetkin kişiler iple erişim işini yapmalıdır.)\n\n\n<figure>\n<figcaption>Şekil 18: Yükseltilebilir iş platformu aracılığıyla güvenlik ağı kurulumu</figcaption>\n</figure>\n\n\n32\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "##### 5.2 KURULUMDAN ÖNCE AĞLARIN İNCELENMESİ\n\n\nKurulumu gerçekleştiren çalışanlar kurulumdan önce aşağıdaki hususları yerine\ngetirmelidir:\n\n☒\nHasar veya kusurlara karşı güvenlik ağını iki taraftan da incelemeli,\n\n☒\nAğ etiketlerinin (üreticinin ve sökülebilir deney ağ gözünün) gösterildiğini ve mevcut\ndurumda geçerli olduğunu kontrol etmelidir.\n\nEğer kurulumu yapan çalışan herhangi bir hasar ya da kusur bulursa, ağ\nkullanılmamalıdır. Eğer hasar onarılabilir durumda ise, ağ onarılabilir. Aksi takdirde ise ağ\nkullanımdan çekilmelidir. Etiket iliştirilmemişse ya da etiket bilgileri okunaklı değilse, ağ\nkullanılmamalıdır.\n\nElektrik kabloları ya da üstten geçen enerji hatlarının yakınına güvenlik hatları\nkurmadan önce ilgili otoritelere başvurularak çalışma güvenli hale getirilmelidir.\n\nGüvenlik ağının kurulumu için uygun bir yer belirlenmeli, ağın mümkün olduğunca\nçalışma platformuna yakın olması sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "##### 5.3 GÜVENLİK AĞINA ERİŞİM\n\n\nGüvenlik ağı gerek kurtarma işlemi gerekse ağ üzerindeki cisim ve atık malzemelerin\ntemizlenebilmesi için kolayca erişilebilir olmalıdır.\nErişim aşağıdaki şekillerde sağlanabilir:\n\nAğların bir çalışma platformunun yakınına kurulmasıyla,\n☒\n\n☒\nAğların çalışma platformunun erişim noktasının yakınına kurulmasıyla,\n\nAğın yakınına bir erişim platformunun sağlanmasıyla.\n☒\n\nGüvenlik ağları atık malzeme veya çöp biriktirilmesi ve depolama için\nkullanılmamalıdır. Benzer şekilde çalışma platformu olarak ya da çalışma platformuna erişim\namacıyla kullanılmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "##### 5.4 ANKRAJ NOKTALARI\n\n\nGüvenlik ağları; bağlama ipleri, karabinalar veya diğer bağlantı aygıtları ile yapıya ya\nda yapı üzerinde özel olarak tasarlanmış ankraj noktalarına bağlanmaktadır.\n\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\nAzami düşme yüksekliğinin 6 metre ve varsayılan yük açısının yatay düzleme göre 45°\nolduğu durumda her bir ankraj noktası asgari 6 kN yük taşıma kapasitesine sahip olmalıdır.\nArdışık 3 ankraj noktası üzerinden yapıya uygulanan birleşik yük taşıma kapasiteleri ise en az\n4 kN, 6 kN ve 4 kN olmalıdır.\n\nTS EN 1263-2 Standardına göre ankraj noktaları arasındaki azami mesafe 2,5 metre\nolmalıdır. Güvenlik ağlarının bağlandığı yapı ve ankraj noktaları bağlama ipinin\nkesilmesine/yıpranmasına sebep olabilecek keskin kenarlara sahip olmamalıdır.\n\n\n<figure>\n<figcaption>Şekil 19: Ankraj noktalarının asgari yük taşıma kapasiteleri</figcaption>\n\nAnkraj noktası\n\nAzami 2,5 m\n\n4 kN\n\nAzami 2,5 m\n\n6 kN\n\n4 kN\n\nGüvenlik ağı\n\n45°\n\nYük açısı\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "##### 5.5 AĞ KENAR BOŞLUKLARI\n\n\nNormal şartlarda güvenlik ağı ile bitişik yapı arasında\nboşluk bırakılmamalıdır. Eğer bu durum kaçınılmazsa,\nboşlukların 100 mm'yi geçmemesi sağlanmalıdır (Örneğin;\nsabitleme noktaları arasındaki sapmalar sırasında). Engellerin\nolduğu istisnai durumlarda (örneğin; kolon etrafında vb.) ise\nbu boşluk en fazla 225 mm olabilir ancak bu mesafe hiçbir\nşekilde geçilmemelidir.\n\n\n<figure>\n<figcaption>Şekil 20: Sapma</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"34\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "## 5.6 AĞLARIN BİRLEŞTİRİLMESİ\n\n\nÇalışma alanının düşmelere karşı korunma altına alınması için birden fazla ağın\nkurulmasının gerektiği durumlarda ise ağlar birleştirme ipi kullanılarak ya da üst üste\nbindirilerek bir araya getirilmelidir. Ağlar birleştirme ipi kullanılarak bir araya getirilecekse, TS\nEN 1263-1 Standardında belirtilen O tipi ip kullanılmalıdır. Birleştirme ipi her iki sınır ipinin\netrafından ve iki ağ gözünde bir geçecek şekilde düzenlenmelidir. Birleştirme sırasında 100\nmm'den fazla boşluk olmamasına dikkat edilmelidir.\n\nAğlar üst üste bindirilerek bir araya getirilecekse, TS EN 1263-2 Standardına göre\nbindirme uzunluğu en az 2 metre olmalıdır. Eğer bu husus sağlanamıyorsa, üstteki ağın kenar\nipi alttaki ağın ağ gözlerine dikilerek tutturulmalı ve aynı şekilde alttaki ağın kenar ipi de\nüstteki ağın ağ gözüne tutturulmalıdır.\n\n\n<figure>\n<figcaption>Şekil 21: Ağların birleştirme ipi ile bir araya getirilmesi</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "### 5.7 DESTEK ÇATISI\n\n\nÖzgün ağ sistemleri üreticinin tavsiye ve talimatları doğrultusunda tasarlanmalıdır.\nÖzel bir destek çatısı içeren sistemlerde ise sadece o belirlenmiş destek çatısı kullanılmalıdır,\nçünkü destek çatısı bir bütün olarak enerji absorplama sisteminin tamamlayıcı parçasıdır.\nDestek çatısında yapılan herhangi bir değişiklik ağ sisteminin yeterliliğini ve performansını\netkileyebilir.\n\nGüvenlik ağını taşıyan ya de destekleyen destek çatısı ankraj veya bağlama konumları\nağ ile iç içe olabilir ya da bağımsız yapı elemanları şeklinde tasarlanabilir. Ağların, mümkün\nolduğunca çalışanların destek çatısının üzerine düşmeyeceği şekilde düzenlenmesine önem\nverilmelidir.\n\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->\n\nDestek çatılarının ağ ile iç içe olduğu durumlarda; bağlantı veya ankrajlar, sistemin\nyüklemeye birlikte güvenli bir şekilde tepki verdiğini göstermek için ağ ile birlikte deneye tabi\ntutulmalıdır.\n\n\n<figure>\n<figcaption>Şekil 22: Sistem T destek çatıları</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "## 5.8 BAĞLAMA VE KARABİNALAR\n\n\nBağlama ipleri ve karabinalar, ağ ya da ağ sistemini kenar ipi veya destek çatısı\nüzerinden ankraj noktasına bağlamak için kullanılabilir.\nİpler kullanıldığında, bunların ankraj noktasının içinden\nveya etrafından kenar ipi ve yanındaki ağ gözü ipinden\ngeçecek şekilde düğümlendiğinden veya bağlandığından\nemin olunmalıdır. Karabinalar kullanıldığında ise bunların\nkilitleme aygıtları olanları kullanılmalıdır.\n\n\n<figure>\n<figcaption>Şekil 23: Bağlama ipi</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "## 5.9 ALTA YUVARLAMA\n\n\nGüvenlik ağı koruma altına alınacak alandan (her iki kenar boyunca) en az %10 daha\nbüyük olmalıdır (Bkz. Ağ sarkması). Ağ boyutu uyacak şekilde alta yuvarlama yapılarak\nazaltılabilir. Alta yuvarlama, ağ üzerindeki yüklerin eşit şekilde dağıtılmasını sağlaması ve\nbağlama ipi veya diğer bağlantı sistemleri için dayanıklı kenar oluşturması sebebiyle ağ\nboyutunu azaltmak için tercih edilen bir yöntemdir.\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "## 5.10 SAÇAK TORBALAMA\n\n\nAnkraj noktaları arası geniş mesafeli olduğu zaman,\ngüvenlik ağının kenarı içe doğru çekilir (sapma oluşturur) ve\nbir boşluk oluşturarak çalışanın düşmesine neden olabilir.\nSapma olduğunda, yaklaşık iki metre uzunluğunda ağ üstten\ngeriye doğru katlanır ve daha sonra kenarlarından dikiş\natılarak yaklaşık bir metre derinliğinde torba (saçak torbası)\nelde edilmiş olunur.\n\n\n<figure>\n<figcaption>Şekil 24: Saçak torbalama</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": "## 5.11 T, U VE V GÜVENLİK AĞI SİSTEMLERİ\n\n\nDiğer sistemlerde olduğu gibi yapı çevresi boyunca kurulan sistem T güvenlik ağları da\nkullanıcı talimat kitabında belirtilen hususlar dikkate alınarak kurulmalıdır. Destek yapısı,\nmuhtemel bir düşme durumunda çalışana zarar gelmeyecek şekilde konumlanmalıdır. Sistem\nU güvenlik ağlarının kurulmasında TS EN 13374 Standardı dikkate alınmalıdır.\n\nSistem V güvenlik ağları,\nüst kenarı çalışma alanından en az\n1 metre yukarıda olacak şekilde\nyerleştirilmelidir.\n\nDestekler dönmeye karşı\nsabitlenmelidir.\n\nAğın binaya bağlantısı için\nkullanılan ankraj noktaları arası\nmesafe 50 cm'yi geçmemelidir.\n\nAnkraj noktaları ile bina\nkenarı arası mesafe en az 10 cm\nolmalıdır.\n\n\n<figure>\n<figcaption>Şekil 25: Sistem V güvenlik ağı</figcaption>\n\n≥ 10 cm\n\n7\n\nDestek yapılar\narası mesafe\n≤ 5 m\n\nÇalışma alanı\n\n≥ 1 m\n\n≤ 50 cm\n\nHe ≤ 6 m\n\nSehpanın yapıya\nsabitlenmesi\n\ng\n\n3\n\nKenaripi\n\n</figure>\n\n\n<!-- PageNumber=\"37\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "## 5.12 TESLİM BELGESİ\n\n\nAğ kurulduktan sonra kurulumu yapan çalışanlar ağı incelemeli ve ağın doğru şekilde\nkurulduğundan ve amaca uygun olduğundan emin olmalıdır. Daha sonra ana yükleniciye ya\nda şantiye şefine teslim belgesini vermelidir. Belge aşağıdaki hususları içerebilir.\n\nTüm güvenlik ağı bileşenlerinin TS EN 1263-1 Standardına uyduğunun teyidi,\n\nGüvenlik ağının TS EN 1263-2 Standardına uygun şekilde kurulduğunun teyidi,\n\nAğın geçmiş 12 ay içerisinde deneye tabi tutulduğuna dair kanıt,\n\nÇalışma için ilgili kişilere bırakılacak olan alanla ilgili açıklama,\n\nGüvenlik ağı ile ilgili kullanıcı talimat kitabı (Bkz. Kullanıcı talimat kitabı),\n\nKurtarma prosedürleri ile ilgili yazılı talimatlar,\n\nAğı inceleyen kişinin ismi, teslim etme tarihi ve teslim belgesini alan kişinin imzası.\n\nBelge proje boyunca ana yüklenici veya şantiye şefi tarafından sahada bulundurulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "## 5.13 AĞIN SÖKÜLMESİ\n\n\nSöküm yöntemi kurulum prosedürlerinin tersini takip edecek şekilde olmalıdır. Söküm\nişlemi güvenli bir çalışma platformu üzerinden yürütülmeli ve ağlar kontrolsüz bir biçimde\nyere atılmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "## 6. KURTARMA PLANI\n\n\nAğ üzerinde herhangi bir çalışma yapılmadan önce kurtarma planı hazırlanmış olmalı\nve kurtarma için gerekli olan ekipmanlar her durumda işyerinde hazır halde\nbulundurulmalıdır. Kurtarma operasyonu çalışma sahasına, düşmenin gerçekleştiği yere ve\ndüşen çalışanın yaralanma durumuna bağlı olarak değişmektedir. Kurtarma, sistemin kurulu\nolduğu yerin yüksekliğinden dolayı bazen karışık olabilir. Konut inşaatlarındaki kurtarma\nprosedürleri, yüksekliğin fazla olduğu endüstriyel çatı işlerine göre daha kolay olabilir. Ana\nyüklenici veya şantiye şefi aşağıdaki hususların yerine getirileceğinden emin olmalıdır:\n\nKurtarmanın başarılı bir şekilde yürütülebileceğinden ve\n\nSahadaki tum çalışanların kurtarma planının ne olduğunu ve gerektiğinde kendi\nrollerinin ne olduğunu bildiğinden.\n\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 71,
+      "content": "## 7. GÜVENLİK AĞININ BAKIM VE ONARIMI\n\n\nGüvenlik ağı düzenli olarak incelenmeli, bakım ve onarımına özen gösterilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 71,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 72,
+      "content": "### 7.1 AĞIN İNCELENMESİ\n\n\nGüvenlik ağı yetkin bir kişi tarafından düzenli aralıklarla görsel olarak incelenmeli ve\nyapılan inceleme sonuçları kayıt altına alınarak işyerinde muhafaza edilmelidir. Aşağıdaki\ntabloda ağların görsel incelemesinin hangi durumlarda ve kim tarafından yapılabileceğine\ndair hususlar verilmiştir.\n\n\n<table>\n<tr>\n<th>Ağın görsel olarak inceleneceği durumlar</th>\n<th>Görsel incelemenin kim tarafından yapılabileceği</th>\n</tr>\n<tr>\n<td>Ağ kurulduğu zaman</td>\n<td>Kurulumu yapan çalışan</td>\n</tr>\n<tr>\n<td>Her gün kullanımdan önce</td>\n<td>Kullanan çalışan</td>\n</tr>\n<tr>\n<td>Haftalık olarak</td>\n<td>Şantiye şefi</td>\n</tr>\n<tr>\n<td>Olumsuz hava koşullarından sonra</td>\n<td>Şantiye şefi</td>\n</tr>\n</table>\n\n\nGörsel incelemeler aşağıdaki hususların kontrol edilmesini içermelidir:\n\n@\nYanlış kurulum,\n\n@\nAğ gözünün aşınması,\n\n@\nAğ gözündeki kesik ve kertikler,\n\n@\nAğ gözünde ısı ya da sürtünme kaynaklı oluşabilecek hasarlar,\n\n@\nDikiş hasarları,\n\n@\nHasar görmüş ya da deforme olmuş bağlantı parçaları,\n\n@\nAğdaki moloz ve inşaat artıkları,\n\n@\nDüğümlü ağ gözü ise düğümdeki kusurlar,\n\n@\nUV bozulma\n\nAğın görsel muayeneyi geçemediği durumlarda kullanılması uygun değildir. Ağ\nonarılmalı veya kalıcı olarak kullanımdan kaldırılmalıdır.\n\nDevam eden asgari ağ inceleme gereksinimleri TS EN 1263-1, Ek B'de tanımlanmıştır.\n\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 72,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.614000"
+      }
+    },
+    {
+      "chunk_index": 73,
+      "content": "### 7.2 GENEL DENEYLER\n\n\nGenel deneyler aşağıdaki hususları içermektedir:\n\nGörsel incelemeler,\n\nAğ uzunluklarının ölçülmesi,\n\nAğ ağırlığının ölçülmesi.\n\nDeney metotları ve gereksinimler TS EN 1263-1 Standardı Madde 7'de tanımlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "7",
+        "chunk_index": 73,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 74,
+      "content": "### 7.3 UV BOZULMA DENEYLERİ\n\n\nGüvenlik ağları, UV bozulmanın miktarının belirlenmesi ve üreticinin asgari enerji\nabsorplama kapasitesinin gelecek 12 ay boyunca sürdürüleceğinden emin olunması için her\n12 ayda bir deneye tabi tutulmalıdır. (Bkz. 2.11 Sökülebilir Deney Ağ Gözü)\n\nGüvenlik ağına iliştirilmiş olan deney ağ gözlerinin yıllık deney için her seferinde bir\ntanesi sökülür. Deney ağ gözleri deney için gerekli olana kadar ağa iliştirilmiş olarak\nkalmalıdır.\n\n12 aydan fazla kullanımda olan güvenlik ağları, ağın en son yapılan deneyde üreticinin\nasgari enerji absorplama kapasitesini karşıladığını gösteren ağa iliştirilmiş mevcut deney\netiketini içermelidir.\n\nUV bozulma ile ilgili deney yöntemleri TS EN 1263-1 Standardı Madde 7.7'de\ntanımlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": "7",
+        "chunk_index": 74,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 75,
+      "content": "### 7.4 AĞ ÜZERİNE DÜŞEN CİSİMLER\n\n\nGüvenlik ağları düşen çalışanları yakalamalarının yanında düşen cisimleri de\nyakalayabilir. Düşen artık malzeme ve cisimler ağa zarar verebilir ve eğer ağ üzerinde\nbırakılırsa aşağıdaki sebeplerden dolayı tehlike\nyaratabilir.\n\nDüşen çalışan yaralanabilir,\n\nAğın aşırı yüklenmesine ve fazla\nesnemesine sebep olabilir,\n\nDüşme yüksekliğini arttırır.\n\n\n<figure>\n<figcaption>Şekil 26: Ağ üzerine düşen cisimler</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"40\" -->\n<!-- PageBreak -->\n\nAğın üzerine cisim (inşaat artıkları vb.) düştüğünde çalışma durdurulmalı, cisim ağ\nüzerinden alınmalı ve tekrar çalışmaya başlanılmadan önce ağ yetkili bir kişi tarafından\nincelenmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 75,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 76,
+      "content": "### 7.5 AĞ BAKIMI\n\n\nKullanımı ve depolanması boyunca ağlara zarar verilmemelidir. Zarar aşağıdaki\nsebeplerden kaynaklanabilir.\n\n☒\nUzun süre UV maruziyeti,\n\n☒\nKeskin nesneler,\n\n☒\nAşınma, yıpranma,\n\n☒\nKıvılcımlar ya da kaynak, taşlama veya yanmadan dolayı oluşan ısı maruziyeti,\n\n☒\nKuvvetli rüzgârlar gibi olumsuz hava koşulları,\n\n☒\nBüyük yük ya da etkiler.\n\nKurulum veya söküm sırasında ağlar ile çalışılırken; ağlar yerde sürüklenmemeli ve\nağların keskin kenarlara temas etmesinden kaçınılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 76,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 77,
+      "content": "### 7.6 ONARIM\n\n\nGüvenlik ağlarının onarımında ve devamlı kullanım için uygunluğunun\ndeğerlendirilmesinde üreticiye başvurulmalı ve onarım yetkili kişiler tarafından tercihen\ninşaat sahasından uzakta kontrollü bir çevrede, üretici talimatları dikkate alınarak\nyapılmalıdır.\n\nOnarım ağ gözü ipine benzer nitelikte ve üretici\ntarafından tavsiye edilen ağ ile uyumlu yeni malzemeler\nkullanılarak yapılmalıdır. Hasar görmüş kenar iplerinin\nonarımı en az 30 kN çekme dayanımı olan ipler kullanılarak\nyapılmalıdır. Bağlama iplerinin onarımı yapılmamalı, bunlar\nkullanımdan kaldırılmalıdır.\n\nAğ üzerinde onarım yapıldıktan sonra ağ üzerine\nonaran kişiyi ve onarımın tarihini gösteren bir etiket\nyerleştirilmelidir.\n\n\n<figure>\n<figcaption>Şekil 27: Ağın onarımı</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"41\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 77,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 78,
+      "content": "### 7.7 AĞLARIN DEPOLANMASI\n\n\nGüvenlik ağları kapalı ve kuru ortamlarda UV bozulmalara kaşı korunmuş olacak\nşekilde depolanmalıdır. Ayrıca ağlar; ısı kaynakları ve ağ üzerinde hasara sebep olabilecek\nasit, boya, çözücü ve yağ gibi malzemelerden uzak tutulmalıdır.\n\nEğer güvenlik ağı 12 aydan daha uzun bir süre depolanmışsa, ağ kullanılmadan önce\nincelenmeli ve UV bozulmaya karşı deneye tabi tutulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 78,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 79,
+      "content": "## 8. KONTROL LİSTESİ\n\n\nRehberde yer alan bazı önemli konulara dikkat çekmek için aşağıdaki kısa kontrol\nlistesi hazırlanmıştır.\n\n\n<table>\n<tr>\n<th>GÜVENLİK AĞI KONTROL LİSTESİ</th>\n<th>E/H</th>\n</tr>\n<tr>\n<td>Güvenlik ağının etiketleri var mıdır? Ve etiketler uygun mudur?</td>\n<td></td>\n</tr>\n<tr>\n<td>Mevcut etiketler geçerliliğini korumakta mıdır? (12 aylık süreden daha az)</td>\n<td></td>\n</tr>\n<tr>\n<td>Ankraj noktaları tam temas halinde ve uygun şekilde midir?</td>\n<td></td>\n</tr>\n<tr>\n<td>Ankraj noktaları arası mesafeler uygun mudur?</td>\n<td></td>\n</tr>\n<tr>\n<td>Ağ kurulum yöntemi belirlenmiş ve uygun ekipman seçimi yapılmış mıdır?</td>\n<td></td>\n</tr>\n<tr>\n<td>Ağ ve destek çatısı uygun şekilde yerleştirilmiş midir?</td>\n<td></td>\n</tr>\n<tr>\n<td>Çalışmaya başlamadan önce, ağ kurulumu tamamen bitirilmiş midir?</td>\n<td></td>\n</tr>\n<tr>\n<td>Kurulum tamamlandıktan sonra güvenlik ağı kontrol edilmiş midir?</td>\n<td></td>\n</tr>\n<tr>\n<td>Güvenlik ağı çalışana mümkün olduğunca yakın kurulmuş mudur?</td>\n<td></td>\n</tr>\n<tr>\n<td>Güvenlik ağı altında yeteri kadar açıklık mesafesi bırakılmış mıdır?</td>\n<td></td>\n</tr>\n<tr>\n<td>Güvenlik ağı, çevresinde ağa zarar verebilecek çalışmalara karşı güvenli midir?</td>\n<td></td>\n</tr>\n<tr>\n<td>Ağ çalışma boyunca düzenli olarak incelenmekte ve çalışma sonrası uygun</td>\n<td></td>\n</tr>\n<tr>\n<td>şartlarda depolanmakta mıdır?</td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"42\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 79,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    },
+    {
+      "chunk_index": 80,
+      "content": "# KAYNAKLAR\n\n\nTS EN 1263-1 Güvenlik Ağları - Bölüm 1: Güvenlik kuralları, deney metotları\n\nTS EN 1263-2 Güvenlik Ağları - Bölüm 2: Konumlandırma sınırları için güvenlik\nkuralları\n\nBS 8411 Code Of Practice For Safety Nets On Construction Sites And Other Works\n\nBest Practice Guidelines, Safe Use Of Safety Nets, WorkSafe NZ.\n\nResearch Report 302, A Technical Guide To Selection And Use Of Fall Prevention\nAnd Arrest Equipment, Glasgow Caledonian University.\n\nFall Arrest Safety Equipment Training (FASET), www.faset.org.uk\n\nInspecting Occupational Safety And Health In The Construction Industry,\nwww.elcosh.org\n\nGSE Safety Net Guide, www.higheraccesssolutions.co.uk\n\nBest Practice Guidelines For Working At Height In New Zealand.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "source_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "document_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "madde_number": null,
+        "chunk_index": 80,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "güvenlik-ağı-ile-çalışmalarda-iş-sağlığı-ve-güvenliği.pdf",
+        "guide_title": "Güvenlik Ağı Ile Çalışmalarda Iş Sağlığı Ve Güvenliği",
+        "collection_type": "guide",
+        "total_chunks": 81,
+        "processed_at": "2026-02-12T04:15:11.615000"
+      }
+    }
+  ]
+}

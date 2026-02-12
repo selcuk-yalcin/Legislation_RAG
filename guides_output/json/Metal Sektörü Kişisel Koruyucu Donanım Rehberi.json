@@ -1,0 +1,1214 @@
+{
+  "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+  "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+  "total_chunks": 67,
+  "exported_at": "2026-02-12T12:19:29.000687",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "# METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\n\n\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nPiyasa Gözetimi ve Denetimi Daire Başkanlığı\n\nAnkara, 2024\n\n<!-- PageBreak -->\n\nYayınlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü (İSGGM)\n2024\n\nHazırlayan\nAykut KARAKAVAK\nGonca Bayrakdar\nTayfun Gürlevik\n\nHer hakkı Çalışma ve Sosyal Güvenlik Bakanlığı, İş Sağlığı ve\nGüvenliği Genel Müdürlüğü'ne aittir. İzinsiz kopyalanamaz,\nçoğaltılamaz\n\n<!-- PageNumber=\"2\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "## İÇİNDEKİLER\n\n\nÖNSÖZ\nGRAFİKLER LİSTESİ\nŞEKİLLER LİSTESİ\nTABLOLAR LİSTESİ\nSİMGE VE KISALTMALAR\n\n1\\. GİRİŞ\n\n2\\. METAL SEKTÖRÜ\n\n3\\. METAL SEKTÖRÜNÜN TÜRKİYE'DEKİ DURUMU\n\n3.1. DÖKÜM\n\n3.2. TALAŞLI İMALAT\n\n3.3. KAYNAK\n\n4\\. METAL SEKTÖRÜNDEKİ TEHLİKE VE RİSKLER\n\n5\\. METAL SEKTÖRÜNDE KKD KULLANIMINA YÖNELİK MEVCUT DURUM ANALİZİ\n\n6\\. METAL SEKTÖRÜNDE KİŞİSEL KORUYUCU DONANIMLAR\n\n6.1. EL-KOL KORUYUCU DONANIMLAR\n\n6.2. SOLUNUM KORUYUCU DONANIMLAR\n\n6.3.\nGÖZ VE YÜZ KORUYUCU DONANIMLAR\n\n6.4.\nAYAK VE BACAK KORUYUCU DONANIMLAR\n\n6.5. KORUYUCU GİYECEKLER\n\n6.6.\nBAŞ KORUYUCU DONANIMLAR\n\n6.7. İŞİTME KORUYUCU DONANIMLAR\n\n6.8.\nYÜKSEKTEN DÜŞMEYE KARŞI KORUYUCU DONANIMLAR\n\n7\\. KAYNAKLAR\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## ÖNSÖZ\n\n\nDeğerli Paydaşlar,\n\nİş Sağlığı ve Güvenliğinin önemi dünyada ve ülkemizde her geçen gün artmaktadır. Çalışma\nve Sosyal Güvenlik Bakanlığı bu hususta mevzuat çalışmaları yapmanın yanı sıra mevzuatın\ndoğru uygulanması için sahaya yönelik faaliyetler ve projeler yürütmektedir. Bu çerçevede yürütülen \"İşyerlerinde Güvenli ve Uygun Kişisel Koruyucu Donanımların\nKullanılmasının Teşvik Edilmesine Yönelik Araştırma ve Destek Projesi\" kapsamında mobilya,\nmetal, boya, plastik ve maden sektörlerine odaklanılmıştır. Projede, çalışanların uygun ve\ngüvenli kişisel koruyucu donanım (KKD) kullanımının sağlanması amacıyla işyeri ziyaretleri\ngerçekleştirilmiş, KKD kullanımına ilişkin saha analizleri ile anket çalışmaları yapılarak,\nbilgilendirme seminerleri düzenlenmiştir. Ayrıca, söz konusu çalışmalar neticesinde elde edilen bilgiler ışığında Kişisel Koruyucu\nDonanım Kitabı ile yukarda belirtilen beş sektöre ait sektörel rehberler hazırlanmıştır. İş Sağlığı ve Güvenliğinde öncelik her zaman toplu koruma olmalıdır. Kişisel koruyucu\ndonanımlar ek ve geçici tedbirlerdir. KKD'lerin meslek hastalığı ve iş kazalarının zararlı\netkilerine karşı en son koruma olduğu unutulmamalıdır. Bu Rehberin İSG profesyonellerine, işveren ve çalışanlara faydalı olmasını diler;\nhazırlanmasına katkıda bulunan personelimize teşekkür ederiz. T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "ilerine karşı en son koruma olduğu unutulmamalıdır. Bu Rehberin İSG profesyonellerine, işveren ve çalışanlara faydalı olmasını diler;\nhazırlanmasına katkıda bulunan personelimize teşekkür ederiz. T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "## GRAFİKLER LİSTESİ\n\n\n\n<table>\n<tr>\n<th>Grafik</th>\n<th></th>\n</tr>\n<tr>\n<td>Grafik 5.1</td>\n<td>Çalışanların Sektörlerine Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.2</td>\n<td>Metal Sektöründe Çalışanların Mevcut İşyerinde Çalışma Sürelerine Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.3</td>\n<td>Metal Sektöründe Çalışanların Günlük Çalışma Sürelerine Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.4</td>\n<td>Metal Sektöründe Çalışanların İşyerindeki Riskler Hakkında Bilgi Sahibi Olma Durumlarına Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.5</td>\n<td>Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımlarının Muhafaza Edildiği Dolap/Yer Olma Durumlarına Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.6</td>\n<td>Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımları Kullanıp Kullanmadığını İşverenin Denetlemesi Durumlarına Göre Dağılımları.</td>\n</tr>\n<tr>\n<td>Grafik 5.7</td>\n<td>Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımların Koruma Sağladığına İnanma Durumlarına Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.8</td>\n<td>Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımların Kullanma Kılavuzunu Okuma Durumlarına Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.9</td>\n<td>Metal Sektöründe Çalışanların İşyerlerinde Kullanması İçin Verilen Kişisel Koruyucu Donanımlara Göre Dağılımları</td>\n</tr>\n<tr>\n<td>Grafik 5.10</td>\n<td>Metal Sektöründe Çalışanların Kendilerine Verilen Kişisel Koruyucu Donanımları Kullanım Durumlarına Göre Dağılımları</td>\n</tr>\n<tr>\n<",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "td>Grafik 5.11</td>\n<td>Metal Sektöründe Çalışanların Koruyucu Donanım Kullanmayan Çalışanların Kullanmama Nedenlerine Göre Dağılımları</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "## ŞEKİLLER LİSTESİ\n\n\nŞekil\n\nŞekil 6.1\nS EN 388 Mekanik Risklere Karşı Koruyucu Eldiven Piktogramı\n\nŞekil 6.2\nKoruyucu Eldivenlerin İşaretlemesi\n\nŞekil 6.3\nIsıl Risklere Karşı Koruyucu Eldivenler İçin Performans Değerleri\n\nŞekil 6.4\nTS 5560 EN 166 Farklı Kullanım Alanları için Çerçevelerin İşaretlemesi\nEmniyet Ayak Giyeceği Etiketi\n\nŞekil 6.5\nŞekil 6.6\nKoruyucu Giyeceklerin Kullanım Amacını Belirten Piktogramlar\n\nŞekil 6.7\nIsıl Etkilere Karşı Kullanılan Koruyucu Giyecekler için Piktogram\n\nŞekil 6.8\nKoruyucu Giyeceklerde Yer Alması Gereken İşaretleme\n\nŞekil 6.9\nGürültü Seviyesi Düşüş Grafiği\n\nŞekil 6.10\nParaşüt Tipi Emniyet Kemerinin İşaretlenmesi",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "## TABLOLAR LİSTESİ\n\n\nTablo\n\nTablo 4.1\nMetal Sektöründe En Sık Karşılaşılan Meslek Hastalıkları\n\nTablo 5.2\nÇalışmaya Katılanların Sektörel Bazda Lise ve Üstü Eğitim Oranları\n\nTablo 6.3\nToz Maskeleri ve Koruma Özellikleri\n\nTablo 6.4\nFiltre Koruma Kademeleri ve Harflerin Anlamları\n\nTablo 6.5\nMekanik Dayanımı ve Bazı Özellikleri Gösteren Semboller\n\nTablo 6.6\nKullanım Alanlarına Göre Semboller\n\nTablo 6.7\nKod Numaralarına Göre Semboller\n\nTablo 6.8\nGöz Korumasında İlgili Standartlara Göre İşaretleme\n\nTablo 6.9\nİlave Özellikler ve Sembolleri\n\nTablo 6.10\nEmniyet Ayakkabılarının İşaretleme Kategorileri\n\nTablo 6.11\nKoruyucu Ayakkabılarının İşaretleme Kategorileri\n\nTablo 6.12\nİş Ayakkabılarının İşaretleme Kategorileri\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "# SIMGELER VE KISALTMALAR\n\n\n\n<table>\n<tr>\n<th>AWS</th>\n<th>Amerikan Kaynak Cemiyeti</th>\n</tr>\n<tr>\n<td>Cr</td>\n<td>Krom</td>\n</tr>\n<tr>\n<td>Cu</td>\n<td>Bakır</td>\n</tr>\n<tr>\n<td>F</td>\n<td>Flor</td>\n</tr>\n<tr>\n<td>IARC</td>\n<td>Uluslararası Kanser Araştırmaları Ajansı</td>\n</tr>\n<tr>\n<td>K</td>\n<td>Potasyum</td>\n</tr>\n<tr>\n<td>KKD</td>\n<td>Kişisel Koruyucu Donanım</td>\n</tr>\n<tr>\n<td>Mn</td>\n<td>Mangan</td>\n</tr>\n<tr>\n<td>Na</td>\n<td>Sodyum</td>\n</tr>\n<tr>\n<td>Ni</td>\n<td>Nikel</td>\n</tr>\n<tr>\n<td>Os</td>\n<td>Osmiyum</td>\n</tr>\n<tr>\n<td>Ti</td>\n<td>Titanyum</td>\n</tr>\n<tr>\n<td>TS</td>\n<td>Türk Standardı</td>\n</tr>\n<tr>\n<td>UV</td>\n<td>Ultra Violet (Mor Ötesi)</td>\n</tr>\n<tr>\n<td>Va</td>\n<td>Vanadyum</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "## 1. GİRİŞ\n\n\nBu rehber, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yürütülen \"İşyerlerinde Güvenli\nve Uygun Kişisel Koruyucu Donanımların Kullanımının Teşvik Edilmesine Yönelik Araştırma ve\nDestek Projesi\" kapsamında hazırlanmıştır. Projede; Mobilya, Plastik, Boya, Maden ve Metal sektörlerinde faaliyet gösteren 125\nişyerinde, kişisel koruyucu donanımlara yönelik saha analizleri gerçekleştirilmiş ve\nçalışanlarla anket çalışması yapılmıştır. Proje kapsamında, işyerlerinde kullanılan KKD'ler\nriske, yapılan işe, kullanıcıya ve mevzuata uygunluk yönünden değerlendirilmiş, kullanım\ndüzeyini etkileyen faktörler araştırılmış, işyerine özgü çözümler geliştirilmiş ve ürün\nönerilerinde bulunulmuştur. Bu rehberde, metal sektörü kapsamında talaşlı imalat, kaynak\nve döküm işleri için elde edilen sonuçlar paylaşılmış, sektörel öneriler sunulmuştur. Kullanılacak kişisel koruyucu donanım seçiminde, risk analizi değerlendirmesi, mevcut\nönlemler ve kullanıcının özellikleri dikkate alınarak gerçekleştirilen saha analizi sonucuna\ngöre ürünler belirlenmiştir. Saha analizi, aşağıdaki adımlardan oluşmaktadır:\n\n1\\. İş akışına göre sahanın bölümlere ayrılması\n\n2\\. Çalışanların görevlerinin sınıflandırılması\n\n3\\. Sahanın gezilerek tehlike kaynaklarının belirlenmesi\n\n4\\. Mevcut durumda kullanılan KKD'lerin tespiti\n\n5\\. Risk değerlendirmesi ve ölçüm sonuçlarının incelenmesi\n\n6\\. Doğru koruma sınıfındaki KKD'lerin belirlenmesi\n\n7\\. Kullanılan KKD'lerin uygunluğunun belirlenmesi\n\n8\\.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "a kullanılan KKD'lerin tespiti\n\n5\\. Risk değerlendirmesi ve ölçüm sonuçlarının incelenmesi\n\n6\\. Doğru koruma sınıfındaki KKD'lerin belirlenmesi\n\n7\\. Kullanılan KKD'lerin uygunluğunun belirlenmesi\n\n8\\. Kişiye uygun ve birbiri ile uyumlu KKD seçimi\n\nUnutulmamalıdır ki; iş kazaları ve meslek hastalıklarının önlenmesi için riskler kaynağında\nalınacak önlemlerle ve toplu koruma önlemleri ile ortadan kaldırılmalı veya kabul edilebilir\ndüzeye indirilmelidir. Aksi takdirde KKD kullanımı gerekmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "## 2. METAL SEKTÖRÜ\n\n\nBu rehber, metal sektöründe yaygın olarak karşılaşılan; döküm işleri, talaşlı imalat ve\nbirleştirme işlemlerinden kaynaklı birleştirme konularında genel bilgiler sunmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "## 3. METAL SEKTÖRÜNÜN TÜRKİYE'DEKİ DURUMU\n\n\nMetal sektörü, dünyada olduğu kadar Türkiye'de de önemli bir sektör konumundadır. Mevcut\ndurum itibariyle Türkiye, dünyadaki 66 çelik üreten ülke arasında 10.sırada, Avrupa'daki çelik\nüreticileri arasında ise Almanya'dan sonra 2.sırada yer almaktadır [2]. Metal sektörü, Gayri Safi Milli Hâsılanın %3'üne, endüstriyel sektörlerdeki toplam istihdamın\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n%2'sine, toplam ihracatın %12'sine sahip bulunmaktadır, bu yönü ile sektör en çok ihracat\nyapan sektörler arasında, 3. sırada yer almaktadır [2]. İstanbul Sanayi Odası'nın yaptığı bir çalışmaya göre metal ürünleri, metal ve teçhizat, motorlu\nkara taşıtları, ana metal sanayi, elektrikli metal ve cihazlar, diğer ulaşım araçları, radyo, TV\nve haberleşme araçları gibi sektörlerde çalışanların toplam istihdam ve üretim içindeki payı\n%30 seviyesindedir. Sektörün teknolojik açıdan sürekli gelişme göstermesi, dünya ticaretindeki payının yüksekliği,\nbüyük işgücü istihdam etmesi, dünya genelinde toplam ekonomik faaliyetlerin artması ve\nülke ekonomilerindeki büyümenin bir yansıması olarak konuta olan ihtiyacın, otomobile ve\notomobil yan sanayine, makine ve ekipmanlara, beyaz eşyaya talebin artması olmak üzere\ndiğer demir çelik ürünleri talebinin her geçen gün büyük bir hızla artması dünya toplam çelik\nüretimini de artırmaktadır [2].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "sanayine, makine ve ekipmanlara, beyaz eşyaya talebin artması olmak üzere\ndiğer demir çelik ürünleri talebinin her geçen gün büyük bir hızla artması dünya toplam çelik\nüretimini de artırmaktadır [2]. Metal sektörü, çelik ürünlerin kullanım alanının hızla yaygınlaşması, tüketimin sürekli artması,\nimalat sanayisine ara mal üretmesi ve ihracat potansiyeli gibi niteliklerinden dolayı Türkiye\nekonomisi açısından büyük önem taşımaktadır. Metal sektörünün bileşenlerinden biri olan döküm sektörü katma değeri yüksek bir üretim\nalanıdır. Girdilerinin %70'inden fazlası yurt içi kaynaklıdır ve yüksek istihdam yaratmaktadır. Bununla beraber çıktıları birçok sanayi üretimi için temel olmaktadır. Bu duruma örnek\npompa ve vana üretimidir [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "### 3.1. DÖKÜM\n\n\nMetal döküm süreci kalıbın hazırlanmasıyla başlar. İhtiyaç olan malzemenin tersi olacak\nbiçimde şekillendirilerek hazırlanan kalıpların yapımında, örneğin kum gibi, refrakter maddeler\nkullanılır. Refrakter malzeme, metal bir fırında eriyene kadar ısıtılır ve eriyen metal potalardan\nkalıplara dökülür. Ergimiş metal oyuğun şeklini alır. Katılaşıncaya kadar oyuğun içinde kalan\nmetal malzemenin, son işlem olarak kalıptan sökümü gerçekleştirilir [4]. Döküm işlemi model yapımıyla başlar. Eğer dökülecek parçada iç boşluk bulunuyorsa\nmaça yapım işlemi ile devam eder. Daha sonra kalıp kumuna bu parçalar yerleştirilerek\nkalıplama süreci devam eder. Kalıplamada değişik türde kalıp kumları üretilecek malzemeye\ngöre kullanılır. Genellikle silis kumu kullanılan kalıplama işleminden sonra fırınlarda\nergitilen malzemenin potalarla kalıplara döküm işlemi gerçekleştirilir. Fırın tipi olarak kupol,\nindüksiyon veya elektrik ark ocağı kullanılmaktadır. Ergitilme işleminden sonra potalarla\ntaşınan malzemeler kalıplara dökülür ve soğuması beklenir. Soğuma işleminden sonra kalıp\nkumundan çıkarılan malzemeler döküm üzerinde bulunan yolluk gibi gereksiz parçaların\ngiderilmesi için talaş alma işlemine tabii tutulur. Değişik türde talaş alma ve çapak giderme\noperasyonları mevcuttur. Parçanın şekline göre giderilen gereksiz malzemelerden sonra\nnihai ürün üretilmiş olur. Bozulan kalıp kumları eğer katılaşma mevcutsa sarsak cihazıyla\nelenip tekrar kullanılır [4].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "syonları mevcuttur. Parçanın şekline göre giderilen gereksiz malzemelerden sonra\nnihai ürün üretilmiş olur. Bozulan kalıp kumları eğer katılaşma mevcutsa sarsak cihazıyla\nelenip tekrar kullanılır [4]. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "### 32. TALAŞLI İMALAT\n\n\nKısa zamanda gerçekleşmelerine rağmen, talaşsız imalat yöntemleri yüzey, boyut ve şekil\nbakımından parçada istenilen kaliteyi sağlayamamaktadır. Bu nedenle, bu şekilde imal\nedilen parçaların yüzeylerinin bir kısmı veya tamamı talaşlı imalat yöntemleri ile işlenmektedir. Günümüzde işleme endüstrisi ile elde edilen mamullerin büyük bir bölümü metallerin talaş\nkaldırılarak şekillendirilmesi yöntemine dayanmaktadır. Talaşlı imalat yöntemleri özellikle\notomotiv sanayi, makine ve yedek parça imalat sanayi, savunma sanayi gibi önemli endüstriyel\naktivitelerde kullanılmaktadır. Talaş kaldırma yöntemleri, nihai parça geometrisini elde etmek için bir başlangıç iş parçası\nüzerinden fazla malzemenin kaldırılması operasyonlarını içeren şekillendirme grubudur. Bu grubun en önemli dalı, istenen geometriyi elde etmek için malzemenin mekanik olarak\nkesilmesinde kesici takımların kullanıldığı geleneksel talaşlı imalattır. Üç temel geleneksel\ntalaşlı imalat yöntemi vardır. Bunlar; tornalama, matkap ile delik delme ve frezelemedir. Diğer talaşlı imalat operasyonları testere ile kesme, planyalama, broşlamadır. Aşındırıcı\nyöntemlerde, sert ve aşındırıcı parçacıkların mekanik olarak iş parçasına etki etmesiyle\nmalzeme kaldırılır. Aşındırıcı talaş kaldırma yöntemleri; taşlama, honlama, lepleme ve\nparlatma yöntemlerinden oluşur. Geleneksel olmayan yöntemlerde ise malzeme kaldırmak\niçin, kesici takım ve aşındırıcı parçacıklar yerine enerjinin çeşitli formları kullanılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "ama, honlama, lepleme ve\nparlatma yöntemlerinden oluşur. Geleneksel olmayan yöntemlerde ise malzeme kaldırmak\niçin, kesici takım ve aşındırıcı parçacıklar yerine enerjinin çeşitli formları kullanılır. Bu formlar;\nmekanik, elektrokimyasal, termal ve kimyasal olabilir. Genel olarak talaşlı imalat yöntemleri\nşu şekilde sınıflandırılabilir;\n\n· Geleneksel Talaşlı İmalat\n\n· Tornalama\n\n· Matkap ile Delme\n\n· Frezeleme\n\n· Diğer Talaşlı İmalat Operasyonları\n\n· Aşındırıcı Yöntemler\n\n· Taşlama Operasyonları\n\n· Diğer Aşındırıcı Operasyonlar\n\n· Geleneksel Olmayan Yöntemler\n\n· Mekanik Enerji Yöntemleri\n\n· Elektrokimyasal Yöntemler\n\n· Termal Enerji Yöntemleri\n\n· Kimyasal Yöntemler\n\nTalaşlı imalat yönteminde birçok farklı iş parçası malzemesi kullanılabilir. Genel olarak tüm katı\nmetaller işlenebilir. Bunun yanında plastikler ve plastik esaslı kompozitler de işlenebilmektedir. Seramikler, yüksek sertliklerinden ve gevrekliklerinden dolayı problem oluşturabilirler. Ancak\naşındırıcı talaş kaldırma yöntemleri ile başarılı bir şekilde işlenebilirler [5]. Talaşlı imalat işlemleri esnasında metal işlem akışkanı olarak mineral yağlar ve yağ emülsiyeleri\nkullanılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "ak\naşındırıcı talaş kaldırma yöntemleri ile başarılı bir şekilde işlenebilirler [5]. Talaşlı imalat işlemleri esnasında metal işlem akışkanı olarak mineral yağlar ve yağ emülsiyeleri\nkullanılmaktadır. Bu sıvılar işlenecek parçanın ve kesici takımın soğutulması, kesici takımın\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\nömrünün uzatılması, kesilecek yüzeyde sürtünmenin azaltılması, talaş kaldırma işleminde\nmeydana gelen talaşların ve metal tozlarının işleme yüzeyinden uzaklaştırılması, işlenecek\nparçanın yüzeyinin işlem için optimize edilmesi ve paslanmaya karşı parçanın korunması\namacıyla kullanılmaktadır [6].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "### 3.3. KAYNAK\n\n\nKaynak çoğu kez metal olan iki malzemenin sıcaklık, basınç ve metalürjik koşulların uygun bir\nbileşimi sayesinde kalıcı olarak birleştirilmesidir. Amerikan Kaynak Cemiyeti'ne (AWS) göre\nkaynak işlemi \"aynı ya da farklı metalürjik özellikteki malzemelerin dolgu maddesi kullanarak\nya da kullanmadan ısı ve/veya basınç altında sökülemeyecek şekilde birleştirilmesidir\" [7]. Kaynak teknolojisinin tarihsel gelişimine bakılacak olur ise karbon ark kaynağından lazer ışın\nkaynağına kadar son yüz elli yılda teknolojinin hızlı bir şekilde geliştiği görülmektedir. Metallerin kaynak yöntemleri enerjinin çeşidi ve büyüklüğüne göre ergitme kaynağı ve basınç\nkaynağı olarak ikiye ayrılabilir [8]. Sanayide en çok karşılaşılan kaynak yöntemi ise ergitme\nkaynağıdır. Metallere uygulanan ergitme kaynağında ısı enerjisinin türü ve kaynak bölgesinin\nkorunma biçimine göre değişiklik gösteren çeşitli yöntemler mevcuttur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "şılaşılan kaynak yöntemi ise ergitme\nkaynağıdır. Metallere uygulanan ergitme kaynağında ısı enerjisinin türü ve kaynak bölgesinin\nkorunma biçimine göre değişiklik gösteren çeşitli yöntemler mevcuttur. Günümüzde en sık\nkarşılaşılan ergitme kaynağı yöntemleri şu şekildedir:\n\n· Döküm ergitme kaynağı\n\n· Gaz ergitme kaynağı\n\n· Elektrik ark kaynağı\n\n( Karbon elektrot ile ark kaynağı (CAW - Carbon Arc Welding)\n\n( Çıplak tel elektrot ile kaynak\n\n( Örtülü elektrot ile kaynak (MMA/MMAW -Manuel Metal Arc Welding veya\nSMAW[Alan]- Shielded Metal Arc Welding)\n\n· Özlü elektrot ile kaynak (FCAW- Flux-Cored Arc Welding)\n\n( Toz altı kaynağı (SMAW- Submerged Metal Arc Welding)\n\n( Koruyucu gaz altında kaynak (gaz altı kaynağı)\n\n· TIG kaynağı (GTAW-Gas Tungsten Arc Welding)\n\n· MIG/MAG kaynağı (GMAW-Gas Metal Arc Welding)\n\n· Elektrik direnç ergitme kaynağı (elektro cüruf)\n\n· Elektron ışın kaynağı\n\n· Lazer ışın kaynağı\n\n· Termit kaynağı\n\nDüşük karbonlu çelik (MS), paslanmaz çelik (SS) ve alüminyum (Al) kaynağında kullanılan çok\nfarklı çeşitlerde kaynak yöntemi mevcut olmakla birlikte örtülü elektrot ile kaynak (MMA) ve\nmetal inert gaz (MIG) kaynağı en sık rastlanan kaynak çeşitleridir. Bunların dışında KOBİ'lerde\nTIG kaynağı ve oksi-asetilen kaynağına da sıklıkla rastlanmaktadır. Örtülü elektrotla ark kaynağı (MMA/SMAW): Bu yöntem kaynak yöntemleri içinde en geniş\nuygulama alanı bulan ark kaynak yöntemidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "de\nTIG kaynağı ve oksi-asetilen kaynağına da sıklıkla rastlanmaktadır. Örtülü elektrotla ark kaynağı (MMA/SMAW): Bu yöntem kaynak yöntemleri içinde en geniş\nuygulama alanı bulan ark kaynak yöntemidir. Kaynak için gerekli ısı örtü kaplı tükenen\nelektrot ile iş parçası arasında oluşan ark ile ortaya çıkmaktadır. Kaynak yapılan bölge örtü\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nmaddesinin yanması sonucu ortaya çıkan gazlar tarafından oksidasyona karşı korunur. MIG/MAG kaynağı: MIG kaynağı Metal Inert Gas\", MAG kaynağı ise \"Metal Active Gas\"\nİngilizce terimlerinin kısaltılmış şeklidir. Burada geçen aktif ve inert ifadeleri kullanılan\nkoruyucu gazı ifade etmekte, kaynak işlemlerinde aktif gaz olarak karbondioksit (CO2)\ninert gaz olarak ise Argon (Ar) veya Helyum (He) kullanılmaktadır. MIG kaynak yöntemi her\ntürlü metal alaşımının birleştirilmesi mümkünken MAG kaynak yönteminde kolay oksitlenen\nalüminyum ve paslanmaz çeliklerin birleştirilmesi gerçekleştirilmez. MAG kaynak yöntemi\ngenellikle düşük alaşımlı çeliklerin birleştirilmesinde kullanılmaktadır. Tungsten İnert Gaz (TIG) kaynağı: Bu gaz altı kaynak yönteminde kaynak için gerekli ısı\ntükenmeyen bir elektrot ile iş parçası arasında oluşan ark sayesinde ortaya çıkmaktadır. Gaz ergitme kaynağı: Bir yanıcı gaz ile oksijenin oluşturduğu alevin enerjisinden yararlanarak\ngerçekleştirilen ergitme kaynağıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "rot ile iş parçası arasında oluşan ark sayesinde ortaya çıkmaktadır. Gaz ergitme kaynağı: Bir yanıcı gaz ile oksijenin oluşturduğu alevin enerjisinden yararlanarak\ngerçekleştirilen ergitme kaynağıdır. Parçaların kaynaklanacak yüzeyleri alev yardımı ile ergitilir\nve gerektiğinde kaynak bölgesine ek kaynak metali de katılarak bir basınç uygulanmadan\nkatılaşmaya bırakılarak bağlantı gerçekleştirilir. Genellikle yanıcı gaz olarak asetilen\nkullanılması sebebiyle uygulamada oksi-asetilen kaynağı olarak anılmaktadır [8].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "## 4. METAL SEKTÖRÜNDEKİ TEHLİKE VE RİSKLER\n\n\nMetal sektöründe sıkça kullanılan endüstriyel yağlar ve metal işleme sıvıları; sıcak, toz, buhar,\nduman, metal tuzları, kimyasallar ve katkı maddelerinden kaynaklanan birçok risk taşır [10]. Fırınlar ve erimiş metalden kaynaklanan parlama ve kızılötesi radyasyon, gürültü, elektrik\ntehlikeleri, sırt ve üst ekstremite hasarları da bu sektör için sayılabilecek tehlikeler arasındadır\n[10]. Döküm işleminin çeşitli aşamalarında; kızılötesi ve UV radyasyon, gürültü, ahşap tozları, kum\ntozları, silika, kömür tozu, kil ve organik yapıştırıcılar, talk, grafit, organik çözücülerin\ntehlikelerinden kaynaklanan farklı sağlık sorunları söz konusudur. Döküm işlerinde en sık karşılaşılan sağlık problemleri; göz yaralanmaları, yanıklar, tekrarlanan\ngerilme hasarları, sırt, omuz ve üst ekstremitede kas iskelet sistemi olarak sıralanabilir. Dövme ve presleme işlemleri; çalışma koşullarından dolayı tekrarlanan gerilme hasarları, sırt,\nomuz ve üst ekstremite kas iskelet sistemi problemleri, titreşim ve gürültü, makine yağlarının\nbuharları gibi çeşitli sağlık tehlikelerini barındırır [10]. Metallerin işlenmesi sırasında, talaş kaldırılan bölgede yüksek kesme hızlarında (> 3500 d/\ndk) oluşan yüksek sıcaklıklar metal işleme sıvılarının ve metalin buharlaşmasına sebebiyet\nvermektedir. Talaş kaldırılan parçanın, kesici takımın ve kullanılan metal işleme sıvısının\nbileşimine bağlı olarak karmaşık bir buhar duman karışımı ortaya çıkmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "talin buharlaşmasına sebebiyet\nvermektedir. Talaş kaldırılan parçanın, kesici takımın ve kullanılan metal işleme sıvısının\nbileşimine bağlı olarak karmaşık bir buhar duman karışımı ortaya çıkmaktadır. Ayrıca metal\nişleme akışkanından kaynaklanan buğu içeriğindeki kimyasallar ve parçacıkların yapısına bağlı\nolarak solunum sistemi hastalıklarına sebebiyet vermektedir [11]. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nTornalama, frezeleme, delik delme ve taşlama gibi talaş kaldırma işlemlerinde metal işleme\nakışkanları nedeni ile buğu oluştuğu gibi büyük miktarlarda toz da oluşmaktadır. Metallerin\nve başka malzemelerin talaş kaldırma işlemleri farklı parçacık boyutlarında hava akımları ile\ntaşınabilen toz oluşturacak kabiliyette yüksek enerjili işlemlerdir. Tehlike genellikle iş parçası\nkaynaklı olmakta özellikle karbür çelik alaşımlar nikel, kobalt, krom, vanadyum ve tungsten\ngibi metalleri içermektedir [12]. Aşındırıcı malzeme silika içermese bile aşındırma ile talaş kaldırma yöntemleri sağlık\naçısından ciddi tehlike oluşturmaktadır. Taşlama işlemi için de aynı durum geçerli olmakla\nbirlikte bu işlem sırasında toksik metallere ciddi bir maruziyet söz konusu olabilmektedir [12]. Kaynak işleri sırasında ortaya çıkan metal dumanları, kıvılcımlar, çapaklar ve UV radyasyon\ngözler için son derece tehlikelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "da toksik metallere ciddi bir maruziyet söz konusu olabilmektedir [12]. Kaynak işleri sırasında ortaya çıkan metal dumanları, kıvılcımlar, çapaklar ve UV radyasyon\ngözler için son derece tehlikelidir. Aynı zamanda metal dumanlarının solunulması oldukça sık\ngörülen rahatsızlıkların ortaya çıkmasına neden olmaktadır [10]. Kaynak işlemleri sonucunda kaynak teli, elektrot kaplaması veya çekirdeğindeki bileşiklerin\nayrışması, ark bölgesindeki oksidasyon ve çözünme veya başka kimyasal reaksiyonlar ile\naerosoller dışında geniş yelpazede gaz kirleticiler de ortaya çıkmaktadır [13]. Kaynak dumanının değişken yapısı ve etkilendiği faktörlerin çokluğuna karşın, tüm dünyadaki\ntoplam maruziyetin %70'inden fazlasını oluşturan kaynak tekniği ve kaynak yapılan metal\nkombinasyonları ile duman içerikleri şunlardır [9]:\n\nMIG/AL: AL2O3, O3;\nMIG/Düşük Karbonlu Çelik (MAG/ Düşük Karbonlu Çelik): Fe203, Mn, Silikon, Cu, NO2;\nMIG/Paslanmaz Çelik: MIG/Düşük Karbonlu Çeliğe ek olarak Ni, Cr, OS;\nMMA/ Düşük Karbonlu Çelik: MIG/Düşük Karbonlu Çeliğe ek olarak Na, K, Mo, F, Ti, Ca,\nA/ vb;\nMMA/ Paslanmaz Çelik: MMA/Düşük Karbonlu Çeliğe ek olarak Cr, Ni, Va. Bir yanıcı gaz ve bir yakıcı gazın kullanıldığı gaz ergitme kaynağında oluşan ısı elektik ark\nkaynaklarındakine göre daha düşüktür. Yanıcı gazın oksijen ile yanması sonucu ortaya CO2\nçıkmakta, eksik yanma gerçekleştiği durumlarda da CO oluşmaktadır. Kuvvetli oksitleyici alev\nkullanılması durumunda ise azot oksitler (NOx) oluşabilmektedir [8].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "oksijen ile yanması sonucu ortaya CO2\nçıkmakta, eksik yanma gerçekleştiği durumlarda da CO oluşmaktadır. Kuvvetli oksitleyici alev\nkullanılması durumunda ise azot oksitler (NOx) oluşabilmektedir [8]. Ark kaynağında sıcaklık 3000 ℃'ye kadar çıkabilmektedir. Kaynak ısısının oluşturduğu UV\nradyasyonunun fotokimyasal etkisiyle ortamdaki oksijen (O2) ozona (O3) dönüşebilir. CO,\nC02'nin kimyasal redüksiyonuyla meydana gelir. Ayrıca UV etkisiyle azot oksitler oluşur (NO,\nNO2, N2O4). Metal yüzeyindeki trikloretilen vb. temizlik ve boya maddelerinin vaporizasyonu\nve UV radyasyon tarafından artırılan oksidasyonu ile de fosgen oluşabilmektedir [9]. Kaynak işlemlerinde tükenen elektrot ya da kaynak telinden salınan metal buharlarının\nhavadaki oksijen ile oksidasyonu sonucu oluşan metal oksitler kaynak dumanının ana\nbileşeni olmakla birlikte söz konusu metal oksitler toksisitelerine bağlı olarak ciddi sağlık\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->\n\nsorunlarına sebep olabilmektedir. Kaynak dumanında en sık rastlanan metaller ve sebep\noldukları sağlık sorunları şu şekildedir; hekzavalent Krom (Cr[VI]) ve Nikel/kanser, Demir\nsideroz, Mangan/nörotoksik, Floridler ve Kadmiyum/solunum sistemi hasarlanması,\nÇinko, Bakır ve Kadmiyum/metal dumanı ateşi. Toksik metallere ek olarak kaynakçılar gaz\nkirleticilere de maruz kalmaktadır (karbonmonokist, ozon, azot oksitler).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "Kadmiyum/solunum sistemi hasarlanması,\nÇinko, Bakır ve Kadmiyum/metal dumanı ateşi. Toksik metallere ek olarak kaynakçılar gaz\nkirleticilere de maruz kalmaktadır (karbonmonokist, ozon, azot oksitler). Azot oksitler ve ozon\nsolunum sisteminde pulmoner iritasyon, pulmoner ödem gibi zararlanmalara neden olmakta,\nkarbon monoksit maruziyeti ise karbonioksihemoglobin oluşumuna neden olarak kan yolu\nile dokulara oksijen iletimini engellemekte ve yüksek seviyelerde maruziyet durumlarında ise\nölüme sebebiyet vermektedir. Uluslararası Kanser Araştırmaları Ajansı (IARC) kaynak dumanını olası insan kanserojeni\nolarak sınıflandırmıştır. Kaynakçılık ve sıcak kesme işlemlerinin sağlık risk ve tehlikeleri genel olarak aşağıda\nverilmektedir. Yangın, yanıklar, radyant ısı (infrared radyasyon), metal dumanları ve diğer kirliliklerin\nsolunması,\n\n· Elektrik tehlikeleri, gürültü, ultraviyole radyasyon, ozon, azot dioksit, karbon\nmonoksit, floritler, basınçlı gaz silindirleri, patlamalar,\n\n· Fiziksel zorlanma, aşırı yorgunluk, kas iskelet hasarları,\n\n· Ultraviyole radyasyon: Ağrılı konjunktivit (foto-oftalmi) -kaynakçı gözü,\n\n· Metal dolgu veya elektrot çeliğinin nikel veya krom gibi çeşitli bileşenleri,\n\n· Kaynak telleri: kaplama çinko ve kadmiyum, galvanizde çinko, hafif çelik tellerde\nbakır,\n\n· Boyalar, gresler, metal yüzey kirlilikleri, karbon monoksit, karbon dioksit gibi gazlar,\ndumanlar, irritanların parçalanma ürünleri,\n\n· Kaynak teli kılıfları (örn.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "inko, hafif çelik tellerde\nbakır,\n\n· Boyalar, gresler, metal yüzey kirlilikleri, karbon monoksit, karbon dioksit gibi gazlar,\ndumanlar, irritanların parçalanma ürünleri,\n\n· Kaynak teli kılıfları (örn. inorganik florit),\n\n· Sıcak ve UV ışığın ortam havasıyla (azot dioksit, ozon) veya klorlu\nhidrokarbonlarla(fosgen) etkileşimi,\n\n· Koruyucu olarak inert gaz kullanımı (karbon dioksit, helyum, argon),\n\n· Metal dumanı ateşi,\n\n· Kapalı alanlar,\n\n· Gürültü\n\nYapılan metal eşyaların paslanmaması, aşınmaması, çürümemesi ve daha iyi görünmesi\nya da parlaması için metal yüzeyler, emek yoğun bazı işlemlere tabi tutulur. Elle kullanılan\nve sürekli sarsıntı yapan gereçlerle yapılan bu işlemler, Raynaud Sendromu'na sebebiyet\nverebilir [10]. Ayrıca Karpal Tünel Sendromuna ve eklemlerde bazı fonksiyonel bozulmalara\nda sıkça rastlanır. Metal yüzeylerine yapılan bu işlemler, akciğer kanseri, bronşit, pnömokonyoz silikoz, zatürre\nve yanık gibi rahatsızlıklara veya bir uzvun (kol veya bacağın) bir kısmının veya tamamının,\nkesilmesine veya kopmasına neden olabilir [10]. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nMetal sektöründe en sık karşılaşılan meslek hastalıkları ise Tablo 4.1'de verilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nMetal sektöründe en sık karşılaşılan meslek hastalıkları ise Tablo 4.1'de verilmiştir. Tablo 4.1 Metal Sektöründe En Sık Karşılaşılan Meslek Hastalıkları\n\nGürültüye bağlı işitme kaybı\n\nEl kol vibrasyonu sendromu ( Beyaz parmak hastalığı)\n\nKarpal tünel sendromu (KTS)\n\nBel rahatsızlıkları\n\nTozdan kaynaklanan mesleki akciğer hastalıkları\n\nKimyasallardan kaynaklanan meslek hastalıkları\n\nMesleki cilt hastalıkları\n\nMesleki astım\n\nKOAH\n\nMesleki kanser\n\nFotoelektriğe bağlı gelişen keratokonjonktivit",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "# 5. METAL SEKTÖRÜNDE KKD KULLANIMINA YÖNELİK MEVCUT DURUM ANALİZİ\n\n\n\"İşyerlerinde Güvenli ve Uygun Kişisel Koruyucu Donanımların Kullanımının Teşvik Edilmesine\nYönelik Araştırma ve Destek Projesi\" kapsamında metal sektöründe yer alan işyerleri ziyaret\nedilerek kişisel koruyucu donanımların kullanımı konusunda incelemelerde bulunulmuştur. Çalışma kapsamında gerçekleştirilen saha ziyaretlerinde anket sonuçlarında görülenden daha\ndüşük bir bilinç düzeyi ve kullanım oranı gözlenmiştir. Yetkililerle yapılan görüşmeler, KKD\nkullanımında çoğunlukla işe veya kullanıcıya özel bir seçim yapılmadığını ortaya\nkoymaktadır. Kişisel koruyucu donanım kullanımı, iş sağlığı ve güvenliği açısından tespit edilen veya\nöngörülen risklerle mücadelede alınması gereken nihai tedbir olmakla birlikte genel bir\nyaklaşım olarak işyerlerinde öncelikli bu ürünlerin kullanımına yönelindiği gözlenmiştir. Anket sonuçlarına uygulanan ki kare analizi sonucunda tüm sektörlerde kişisel koruyucu\ndonanımları nasıl kullanacağı ile ilgili eğitim alma durumu ile \"Yüz Koruyucuları\", \"Baş\nKoruyucuları\", \"İşitme Koruyucuları\" ve \"Ayak Koruyucuları\" kullanma durumları arasında\nistatistiksel olarak anlamlı ilişki bulunduğu tespit edilmiştir. Gerçekleştirilen çalışmaya metal sektöründen 68 kişi katılmıştır. Proje bazında bu oran\n%26,5'e tekabül etmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "durumları arasında\nistatistiksel olarak anlamlı ilişki bulunduğu tespit edilmiştir. Gerçekleştirilen çalışmaya metal sektöründen 68 kişi katılmıştır. Proje bazında bu oran\n%26,5'e tekabül etmektedir. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Grafik 5.1 Çalışanların Sektörlerine Göre Dağılımları</figcaption>\n\nMobilya\n21,5%\n\nPlastik\n19,5%\n\nBoya\n14,5%\n\nMetal\n26,5%\n\nMaden\n18,0%\n\n</figure>\n\n\nMetal sektöründe \"Yüz Koruyucuları\" verilen çalışanların oranı ile \"Göz ve İşitme Koruyucuları\" ve\n\"Ayak Koruyucuları\" kullananların oranının diğer sektörlerden anlamlı derecede daha fazla\nolduğu tespit edilmiştir. Metal sektöründe çalışanların %63,2 sinin lise ve üzeri eğitim seviyesine sahip olduğu\ngörülmüştür. Bu durum, eğitim durumu açısından çalışmada yer alan diğer sektörlere göre\noldukça yüksek bir düzeye işaret etmektedir. <table>\n<caption>Tablo 5.2. Çalışmaya katılanların sektörel bazda lise ve üstü eğitim oranları</caption>\n<tr>\n<th>Sektör</th>\n<th>Lise/Meslek L.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "rlere göre\noldukça yüksek bir düzeye işaret etmektedir. <table>\n<caption>Tablo 5.2. Çalışmaya katılanların sektörel bazda lise ve üstü eğitim oranları</caption>\n<tr>\n<th>Sektör</th>\n<th>Lise/Meslek L. Eğitimi</th>\n<th>Önlisans Lisans ve Lisansüstü Eğitimi</th>\n<th>Toplam</th>\n</tr>\n<tr>\n<td>Maden</td>\n<td>%21.7</td>\n<td>%2.2</td>\n<td>%23.9</td>\n</tr>\n<tr>\n<td>Plastik</td>\n<td>%40.8</td>\n<td>%8.1</td>\n<td>%48.1</td>\n</tr>\n<tr>\n<td>Boya</td>\n<td>%35.1</td>\n<td>%10.8</td>\n<td>%45.9</td>\n</tr>\n<tr>\n<td>Metal</td>\n<td>%48.5</td>\n<td>%14.7</td>\n<td>%63.2</td>\n</tr>\n<tr>\n<td>Mobilya</td>\n<td>%27.3</td>\n<td>%1.8</td>\n<td>%29.1</td>\n</tr>\n</table>\n\n\nAyrıca anket sonuçları, metal sektöründe çalışanların %61,7'sinin işyerinde 3 yıldan fazla\nçalışma süresine sahip olduğunu ortaya koymuştur. Bu oran, plastik ve boya sektöründen\nsonra üçüncü sırada yer almaktadır. Aynı işyerinde çalışma süresi, çalışma ortamından\nkaynaklı risklerin bilinmesi açısından önem arz etmektedir (Grafik 5.2). <!-- PageNumber=\"18\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Grafik 5.2 Metal Sektöründe Çalışanların Mevcut İşyerinde Çalışma Sürelerine Göre Dağılımları</figcaption>\n\n10 Yıl üzeri\n8,8%\n\n3 Yıl altı\n38,2%\n\n3-10 Yıl\n52,9%\n\n</figure>\n\n\nAnkete katılan çalışanların çalışma\nsürelerine bakıldığında ise çalışanların\n%89,6'sının 8 saat ve üzerinde çalıştığı\ngörülmektedir (Grafik 5.3).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "ri\n8,8%\n\n3 Yıl altı\n38,2%\n\n3-10 Yıl\n52,9%\n\n</figure>\n\n\nAnkete katılan çalışanların çalışma\nsürelerine bakıldığında ise çalışanların\n%89,6'sının 8 saat ve üzerinde çalıştığı\ngörülmektedir (Grafik 5.3). <figure>\n<figcaption>Grafik 5.3 Metal Sektöründe Çalışanların Günlük Çalışma Sürelerine Göre Dağılımları</figcaption>\n\n8 Saatten Az\n10,4%\n\n8 Saat\n6,0%\n\n8 Saatten\nFazla\n83,6%\n\n</figure>\n\n\nÇalışanlara işyerindeki riskler hakkında\nbilgi sahibi olup olmadıkları sorusu\nyöneltilmiş, çalışmaya katılanların %92,6'sı\nişyerlerindeki risklerin farkında olduklarını\nbelirtmiştir (Grafik 5.4). <figure>\n<figcaption>Grafik 5.4 Metal Sektöründe Çalışanların İşyerindeki Riskler Hakkında Bilgi Sahibi Olma Durumlarına Göre Dağılımları</figcaption>\n\nHayır\n7,4%\n\nEvet\n92,6%\n\n</figure>\n\n\nBu yüksek oran göz önünde\nbulundurularak; kişisel koruyucu donanım\nseçiminde görüşlerinin alınma oranının\n%91,2 olduğu; çalışanların KKD'lerin\nyenilenmesine ilişkin taleplerinin %100' lük\nbir oranda karşılık bulduğu belirtilmiştir. KKD'lerin muhafazası ve saklanmasında\nKKD'lere özel bir dolap bulunma oranının\n%26,5 olduğu görülmüştür (Grafik 5.5).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "nmesine ilişkin taleplerinin %100' lük\nbir oranda karşılık bulduğu belirtilmiştir. KKD'lerin muhafazası ve saklanmasında\nKKD'lere özel bir dolap bulunma oranının\n%26,5 olduğu görülmüştür (Grafik 5.5). <figure>\n<figcaption>Grafik 5.5 Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımlarının Muhafaza Edildiği Dolap/Yer Olma Durumlarına Göre Dağılımları</figcaption>\n\nHiçbiri\n25,0%\n\nKKD dolabı\n26,5%\n\nGiysi dolabı\n48,5%\n\n</figure>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımlarının\nkullanımının işveren tarafından denetimine\nilişkin olarak katılımcılarının %91,2'si\ndenetimlerin gerçekleştiğini belirtmiştir\n(Grafik 5.6). Ankete katılan çalışanların %95,6'lık bir\nbölümü KKD kullanımının koruma\nsağladığına inandıklarını belirtmiştir (Grafik\n5.7). <figure>\n\nHayır\n8,8%\n\nEvet\n91,2%\n\n</figure>\n\n\nGrafik 5.6 Metal Sektöründe Çalışanların\nKişisel Koruyucu Donanımları Kullanıp\nKullanmadığını İşverenin Denetlemesi\nDurumlarına Göre Dağılımları\n\n\n<figure>\n<figcaption>Grafik 5.7 Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımların Koruma Sağladığına İnanma Durumlarına Göre Dağılımları</figcaption>\n\nHayır\n4,4%\n\nEvet\n95,6%\n\n</figure>\n\n\nKişisel koruyucu donanımların doğru ve etkin kullanımına yönelik bir eğitim alınıp alınmadığı\nsorulduğunda katılımcılarca %94,1 oranında ilgili eğitimin alındığı belirtilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "vet\n95,6%\n\n</figure>\n\n\nKişisel koruyucu donanımların doğru ve etkin kullanımına yönelik bir eğitim alınıp alınmadığı\nsorulduğunda katılımcılarca %94,1 oranında ilgili eğitimin alındığı belirtilmiştir. KKD kullanımına\nilişkin eğitim alma oranı yüksek olmasına rağmen KKD'lerin kullanım kılavuzlarının katılımcılar\ntarafından okunma düzeyinin %52,9'da kaldığı görülmektedir (Grafik 5.8). <figure>\n<figcaption>Grafik 5.8 Metal Sektöründe Çalışanların Kişisel Koruyucu Donanımların Kullanma Kılavuzunu Okuma Durumlarına Göre Dağılımları</figcaption>\n\nHayır\n47,1%\n\nEvet\n52,9%\n\n</figure>\n\n\n<!-- PageFooter=\"MBTAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM RKEIBERİSEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBE19\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->\n\nProje kapsamındaki metal sektörüne işyerlerinde kullanılan kişisel koruyucu donanımların\ndağılımı Grafik 5.9'da görülmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "SEL KORUYUCU DONANIM REHBE19\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->\n\nProje kapsamındaki metal sektörüne işyerlerinde kullanılan kişisel koruyucu donanımların\ndağılımı Grafik 5.9'da görülmektedir. <figure>\n<figcaption>Grafik 5.9 Metal Sektöründe Çalışanların İşyerlerinde Kullanması İçin Verilen Kişisel Koruyucu Donanımlara Göre Dağılımları</figcaption>\n\n0% 10% 20% 30% 40% 50% 60% 70% 80% 90%100%\n\nAYAK KORUYUCULARI\n\n100,0%\n\nİŞİTME KORUYUCULARI\n\n98,4%\n\nEL KORUYUCULARI\n\n96,9%\n\nGÖZ\n\nKORUYUCULARI\n\n91,1%\n\nSOLUNUM KORUYUCULARI\n\n76,4%\n\nYÜZ KORUYUCULARI\n\n69,6%\n\nBAŞ KORUYUCULARI\n\n68,2%\n\nVÜCUT KORUYUCULARI\n\n66,7%\n\nYÜKSEKTEN DÜŞME\n\n28,6%\n\n</figure>\n\n\nÇalışma esnasında kişisel koruyucu donanımların kullanım durumu incelendiğinde,\nçalışanlara teslim edilen kişisel koruyucu donanımların kullanım oranlarının ürüne göre\ndeğiştiği görülmektedir. Özellikle baş koruyucular ve yüksekten düşmeye karşı koruyucu\ndonanımların kullanım oranları oldukça düşüktür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "en kişisel koruyucu donanımların kullanım oranlarının ürüne göre\ndeğiştiği görülmektedir. Özellikle baş koruyucular ve yüksekten düşmeye karşı koruyucu\ndonanımların kullanım oranları oldukça düşüktür. <figure>\n<figcaption>Grafik 5.10 Metal Sektöründe Çalışanların Kendilerine Verilen KKD'leri kullanım durumlarına göre dağılımları</figcaption>\n\n0% 10% 20% 30% 40% 50% 60% 70% 80% 90%100%\n\nAYAK KORUYUCULARI\n\n93,8%\n\nEL KORUYUCULARI\n\n93,7%\n\nGÖZ\n\nKORUYUCULARI\n\n92,2%\n\nİŞİTME KORUYUCULARI\n\n86,9\n\nVÜCUT KORUYUCULARI\n\n34,29\n\nYÜZ KORUYUCULARI\n\n78,9%\n\nSOLUNUM KORUYUCULARI\n\n76,6\n\nBAŞ KORUYUCULARI\n\n€3,9%\n\nYÜKSEKTEN DÜŞME\n\n37,5\n\n</figure>\n\n\n<!-- PageNumber=\"20\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımların türlerine göre kullanılmama nedenleri Grafik 5.11'de\ngörülmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "mber=\"20\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımların türlerine göre kullanılmama nedenleri Grafik 5.11'de\ngörülmektedir. <figure>\n<figcaption>Grafik 5.11 Metal Sektöründe Çalışanların Koruyucu Donanım Kullanmayan Çalışanların Kullanmama Nedenlerine Göre Dağılımları</figcaption>\n\n0%\n\n20%\n\n40%\n\n60%\n\n80%\n\n100%\n\nGÖZ\n\nKORUYUCULARI\n\n100,0%\n\n33.3%\n\nYÜZ KORUYUCULARI\n\n33.3%\n\n33,3%\n\n57,1%\n\nBAŞ KORUYUCULARI\n\n14.3%\n\n28,6%\n\n50,0%\n\nEL KORUYUCULARI\n\n50,0%\n\nRahat ve hızlı\nhareket\n\n57,1%\n\nİŞİTME KORUYUCULARI\n\n14.3%\n\nedemiyorum\n\n28,6%\n\nVücuduma\nuygun değil\n\n50,0%\n\n16,7%\n\nGerek\ngörmüyorum\n\nSOLUNUM KORUYUCULARI\n\n33,3%\n\nKullanmam\ngerektiğini\nbilmiyorum\n\n100,0%\n\nAYAK KORUYUCULARI\n\nVÜCUT KORUYUCULARI\n\n50.0%\n\n50,0%\n\nYÜKSEKTEN DÜŞME\n\n20,0%\n\n80,0%\n\n</figure>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "# 6. METAL SEKTÖRÜNDE KİŞİSEL KORUYUCU DONANIMLAR\n\n\nİşyerindeki risklerin toplu korunmayı sağlayacak teknik önlemlerle veya iş organizasyonu\nve çalışma yöntemleriyle önlenemediği, tam olarak sınırlandırılamadığı durumlarda kişisel\nkoruyucu donanımlar kullanılır. Kişisel koruyucu donanımlar, işveren tarafından ücretsiz verilir, imalatçı tarafından sağlanacak\nkullanım kılavuzuna uygun olarak bakım, onarım ve periyodik kontrolleri yapılır, ihtiyaç duyulan\nparçaları değiştirilir, hijyenik şartlarda muhafaza edilir ve kullanıma hazır bulundurulur. İşveren, KKD'lerin hangi risklere karşı kullanacağı konusunda çalışanı bilgilendirmelidir. İşveren, KKD' lerin kullanımı konusunda uygulamalı olarak eğitim verilmesini sağlamakla\nyükümlüdür. KKD'lerin kullanım şartları ve özellikle kullanılma süreleri; riskin derecesi,\nmaruziyet sıklığı, her bir çalışanın iş yaptığı ortamın özellikleri ve kişisel koruyucu donanımın\nperformansı dikkate alınarak belirlenmelidir. Kişisel koruyucu donanımlar, çalışanların kolayca erişebilecekleri yerlerde ve yeterli\nmiktarlarda bulundurulmalı ve talimatlara uygun olarak kullanılmalıdır. İşveren, yapılacak risk\ndeğerlendirmesi sonucu alınacak iş sağlığı ve güvenliği tedbirleri ile kullanılması gereken\nKKD'yi belirlemelidir. Metal sektöründe karşılaşılan risklere ilişkin genel bilgiler önceki bölümlerde sunulmuştur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "ndirmesi sonucu alınacak iş sağlığı ve güvenliği tedbirleri ile kullanılması gereken\nKKD'yi belirlemelidir. Metal sektöründe karşılaşılan risklere ilişkin genel bilgiler önceki bölümlerde sunulmuştur. Bukapsamda risklerin çeşidine göre çalışanların; el-kol koruyucular, ayak-bacak koruyucular,\ngöz ve yüz koruyucular, solunum koruyucular, koruyucu giysiler, yüksekten düşmeye\nkarşı koruyucu donanımlar ve işitme koruyucu donanımlardan biri veya birkaçını aynı anda\nkullanmaları gerekmektedir. Bu bölümde KKD'lerin haiz olması gereken özellikler genel olarak verilmekle birlikte\nkullanılacak ürünlerin seçimi; gerçekleştirilecek risk değerlendirmesi, ortam ölçümleri ile\nkişisel maruziyet ölçümleri sonuçlarına göre işverence yapılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "## 6.1. EL-KOL KORUYUCU DONANIMLAR\n\n\nEllerin, keskin metal yüzeyler ile teması çokça karşılaşılan bir durum olup çalışanın kesilmeye\nkarşı dayanıklı koruyucu eldiven kullanmasını gerektirmektedir. Burada önemli olan TS EN\n388 standardına göre kesilme performans değerinin yüksek olmasıdır. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 6.1 TS EN 388 Mekanik risklere karşı koruyucu eldiven piktogramı</figcaption>\n\nEN 388:2016\n\n4544FP\n\n1.Aşınma (1-4)\n\n2\\. Kesilme Coup Testi (1-5)\n\n3.Yırtılma (1-4)\n\n4.Delinme (1-4)\n\n5\\. Kesilme TDM-100 Testi (A-F)\n6.Darbe (P)\n\n</figure>\n\n\nBununla birlikte metal işlemede kullanılan kimyasallarla temasın önlenmesi için ise TS EN\n374 standardına uygun ve kullanılan kimyasala göre seçilecek bir eldiven kullanılmalıdır. Eğer hem mekanik hem de kimyasal risklere karşı ellerin korunması isteniyor ise seçilecek\neldivenin belirtilen iki standarda da uygun olmasına dikkat edilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "eçilecek bir eldiven kullanılmalıdır. Eğer hem mekanik hem de kimyasal risklere karşı ellerin korunması isteniyor ise seçilecek\neldivenin belirtilen iki standarda da uygun olmasına dikkat edilmelidir. <figure>\n<figcaption>Şekil 6.2 Örnek koruyucu eldiven işaretlemesi</figcaption>\n\nCE- işareti ve Onaylanmış Kuruluşun\nnumarasi\n\nCE 0121\n\nTip-, model numarası\nPiktogram, birlikte standard ve\nseviyeler\n\nEN374\n\nEN 374\n\nEN388\n\n1\n\nJKL\n\n1101\n\nIsim, adres veya Üreticinin sembolü\nBoyut ve şekil\nEldiven adi veya ürün numarası\nKullanıcı bilgilerine not\n\ni\n\n</figure>\n\n\nIsıl risklerin mevcut olduğu çalışma ortamlarında ellerin korunması için kullanılacak\neldivenlerin TS EN 407 standardına uygun olması ve işin gerektirdiği performans seviyelerine\nsahip olması gerekmektedir. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\n3\n\n2\n\n1\n\nx\n☒\n\nx\n☒\n\nx\n☒\n\nSınırlı alev yayılımı\n\nTemas ISısı\n\nTaşıma ISısı\n\nIşıma ISısı\n\nErimiş küçük metal damlalar\n\nBüyük miktarda erimiş metal\n\n</figure>\n\nBir sayı yerine X işareti kullanmak, \"eldiven, ilgili deneyin kapsadığı kullanım için tasarımlanmamıştır\"\n☒\nanlamına gelir. Şekil 6.3 Isıl risklere karşı koruyucu eldivenler için performans değerleri\n\nKaynakçılar tarafından kullanılacak eldivenler hem TS EN 407 standardına hem de TS EN\n388 standardına ya da kaynakçılar için koruyucu eldivenler ile ilgili TS EN 12477 standardına\nuygun olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "## 62. SOLUNUM KORUYUCU DONANIMLAR\n\n\nÖncelikle, ortam ve kişisel maruziyet ölçümü sonuçlarına göre hangi koruma seviyesinde\n(P1,P2 ya da P3) toz maskesi seçileceğine karar verilmelidir. Uygun koruma seviyesi\nbelirlendikten sonra tek kullanımlık ya da tekrar kullanılabilir maskeler seçilmelidir. Solunum\nkoruyucu ilgili standardına uygun olmalıdır. <table>\n<caption>Tablo 6.3 Toz maskeleri ve koruma özellikleri</caption>\n<tr>\n<td colspan=\"2\">FF: Face Filter (Yüz maskesi)</td>\n</tr>\n<tr>\n<td>P1</td>\n<td>Toksik içermeyen tozlar.</td>\n</tr>\n<tr>\n<td>P2</td>\n<td>Kansere yol açabilecek tüm tozlar, aerosoller, demir tozları, talaş tozları, sunta tozları, mdf tozları.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"30\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>P2 özel</td>\n<td>Su ve yağ bazlı toksik toza, neme ve dumana karşı, asit gazlar, zarar organik sızıntılara karşı kullanılır. Zararlı partikülerin yanısıra ortamda bulunan düşük seviyelerdeki belirli gazların ve buharların rahatsız edici etkilerinden kurtulmak için tasarlanmışlardır.</td>\n</tr>\n<tr>\n<td>P3</td>\n<td>Tüm toksik tozlar, virüsler, bakteriler, enzimler.</td>\n</tr>\n</table>\n\n\nÇalışanların kimyasallara maruziyeti durumunda ortam ve kişisel maruziyet ölçüm sonuçlarına göre\nilgili standartlara uygun filtre seçimi yapılarak tam ya da yarım yüz maskesi kullanılmalıdır. Riske\ngöre gözlerin ve yüzün de korunması gerekiyor ise tam yüz maskesi kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "sonuçlarına göre\nilgili standartlara uygun filtre seçimi yapılarak tam ya da yarım yüz maskesi kullanılmalıdır. Riske\ngöre gözlerin ve yüzün de korunması gerekiyor ise tam yüz maskesi kullanılmalıdır. <table>\n<caption>Tablo 6.4 Filtre koruma kademeleri ve harflerin anlamları</caption>\n<tr>\n<td>Kahverengi</td>\n<td>AX</td>\n<td>Organik bileşenlere ait gaz ve buharlar, kaynama derecesi &lt; 65°℃</td>\n</tr>\n<tr>\n<td>Kahverengi</td>\n<td>A</td>\n<td>Organik bileşenlere ait gaz ve buharlar, kaynama derecesi &gt; 65°℃</td>\n</tr>\n<tr>\n<td>Gri</td>\n<td>B</td>\n<td>İnorganik gazlar ve buharlar, Klor, hidrojensülfür, hidrosiyanikasit, vb.</td>\n</tr>\n<tr>\n<td>Sarı</td>\n<td>E</td>\n<td>Sülfürdioksit, Hidrojenklorür</td>\n</tr>\n<tr>\n<td>Yeşil</td>\n<td>K</td>\n<td>Amonyak içeren uygulamalar</td>\n</tr>\n<tr>\n<td>Kırmızı</td>\n<td>Hg</td>\n<td>Civa buharı</td>\n</tr>\n<tr>\n<td>Siyah</td>\n<td>CO</td>\n<td>Karbonmonoksit</td>\n</tr>\n<tr>\n<td>Mavi</td>\n<td>NO</td>\n<td>Nitrojenmonoksit dahil nitroz gazları</td>\n</tr>\n<tr>\n<td>Beyaz</td>\n<td>P</td>\n<td>Partiküller</td>\n</tr>\n</table>\n\n\nOrtamdaki oksijen oranının %19.5'in altına düşmesi veya ortam atmosferindeki kirleticilerin\nçok yoğun olması durumunda filtreleme prensibine göre çalışan solunum koruyucular\nkullanılmaz. Bunların yerine \"Kapalı devre solunum cihazları\" olarak tanımlanan ve ortam\natmosferinden bağımsız bir şekilde, kullanana temiz hava tedarik eden sistemler kullanılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "solunum koruyucular\nkullanılmaz. Bunların yerine \"Kapalı devre solunum cihazları\" olarak tanımlanan ve ortam\natmosferinden bağımsız bir şekilde, kullanana temiz hava tedarik eden sistemler kullanılır. Solunum koruyucular Kişisel Koruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğe\ngöre Kategori III olarak sınıflandırıldığından söz konusu ürünlerin üzerinde CE işaretinin\nyanında dört haneli onaylanmış kuruluş numarasının da bulunması gerekmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Solunum koruyucular Kişisel Koruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğ",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "## 6.3. GÖZ VE YÜZ KORUYUCU DONANIMLAR\n\n\nMetal sektöründe kullanılan göz ve yüz koruyucular özellikle; darbe (sıçrama, çarpma vb),\noptik radyasyon (kaynak ışıması, lazer radyasyon vb), toz ve gaz (kaynak dumanı, zararlı\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\nkimyasallar vb), sıçramalar (sıvı maddelerin taşınması, boşaltılması, işlenmesi vb), ergimiş\nmetaller ve sıcak yüzeyler (döküm gibi metalle yapılan işlemlerde vb) gibi tehlikelerden\nkorunmak için kullanılmaktadır. Göz koruyucular (lazer göz koruyucuları, genel kullanıma yönelik güneş gözlükleri hariç) TS\n5560 EN 166 standardında belirtilen temel performans gerekliliklerini karşılamalıdır. Göz koruyucuların kullanım alanları, mekanik dayanımları ve diğer özellikleri ilgili standardında\nbelirtilen semboller ile açıklanmaktadır. Göz koruyucular seçilirken yapılan işin doğası göz\nönünde bulundurulmalı ve ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan ilgili\nstandardında belirtilen sembollerin açıklamaları dikkate alınmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "seçilirken yapılan işin doğası göz\nönünde bulundurulmalı ve ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan ilgili\nstandardında belirtilen sembollerin açıklamaları dikkate alınmalıdır. <table>\n<caption>Tablo 6.5 Mekanik dayanımı ve bazı özellikleri gösteren semboller</caption>\n<tr>\n<th>Sembol</th>\n<th>Mekanik dayanım özelliği</th>\n</tr>\n<tr>\n<td>Sembolsüz</td>\n<td>En az sağlamlık</td>\n</tr>\n<tr>\n<td>S</td>\n<td>Artırılmış sağlamlık</td>\n</tr>\n<tr>\n<td>F</td>\n<td>Düşük enerjili darbe</td>\n</tr>\n<tr>\n<td>B</td>\n<td>Orta enerjili darbe</td>\n</tr>\n<tr>\n<td>A</td>\n<td>Yüksek enerjili darbe</td>\n</tr>\n<tr>\n<td>K</td>\n<td>Küçük parçacıkların oluşturduğu yüzey hasarına direnç</td>\n</tr>\n<tr>\n<td>N</td>\n<td>Okülerlerin buğulanma direnci</td>\n</tr>\n<tr>\n<td>O</td>\n<td>İmalatçı okülerin orijinal veya değiştirilmiş olduğunu tanımlamak amacıyla O (orijinal) veya değiştirilmiş sembollerini kullanabilir.</td>\n</tr>\n<tr>\n<td>T</td>\n<td>Uç sıcaklıkta yüksek hızdaki parçacıklara direnç (FT, BT veya AT harflerinin takip ettiği darbe sembollerden biriyle işaretlenmelidir.)</td>\n</tr>\n<tr>\n<td>H</td>\n<td>Küçük kafaya uyacak şekilde tasarlanmış çerçeveler</td>\n</tr>\n<tr>\n<td colspan=\"2\">Not - - S ve F sembolü, her tipteki göz koruyucularına uygulanabilir. · B sembolü, sadece koruma gözlükleri ve yüz siperlerine uygulanabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "lde tasarlanmış çerçeveler</td>\n</tr>\n<tr>\n<td colspan=\"2\">Not - - S ve F sembolü, her tipteki göz koruyucularına uygulanabilir. · B sembolü, sadece koruma gözlükleri ve yüz siperlerine uygulanabilir. · A sembolü, sadece yüz siperlerine uygulanabilir.</td>\n</tr>\n</table>\n\n\n<table>\n<caption>Tablo 6.6 Kullanım Alanlarına Göre Semboller</caption>\n<tr>\n<th>Sembol</th>\n<th>Gösteriliş</th>\n<th>Kullanım alanının tarifi</th>\n</tr>\n<tr>\n<td>Sembolsüz</td>\n<td>Temel kullanım</td>\n<td>Belirtilmemiş mekanik tehlikeler ve mor ötesi, görülebilir, kızıl ötesi ve güneş ışınımından kaynaklanan tehlikeler</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Sıvılar</td>\n<td>Sıvılar (damlacıklar veya sıçramalar)</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"30\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 6.7 Kod Numaralarına Göre Semboller</caption>\n<tr>\n<td>4</td>\n<td>Büyük toz parçacıkları</td>\n<td>Parçacık büyüklüğü &gt; 5 um olan toz</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Gaz ve küçük toz parçacıkları</td>\n<td>Gazlar, buharlar, spreyler, duman ve parçacık büyüklüğü &lt; 5 um olan toz</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Kısa devre elektrik arkı</td>\n<td>Elektrikli donanımdaki kısa devreden kaynaklanan elektrik arkı</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Ergimiş metaller ve sıcak katılar</td>\n<td>Ergimiş metallerin sıçramaları ve sıcak katıların nüfuz etmesi</td>\n</tr>\n</table>\n\n\n<table>\n<tr>\n<td colspan=\"2\">Kod Numarası</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Ultraviyole (UV)</td>\n</tr>\n<tr>\n<td>2C ya da 3</td>\n<td>İyi renk ayrımlı (UV)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>İnfrared (IR)</td>\n</tr>\n<tr>\n<td>5</td>\n<td>IR özelliksiz güneş ışığı filtresi</td>\n</tr>\n<tr>\n<td>6</td>\n<td>IR özellikli güneş ışığı filtresi</td>\n</tr>\n</table>\n\n\n<figure>\n<figcaption>Şekil 6.4 TS EN ISO 16321 farklı kullanım alanları için çerçevelerin işaretlemesi</figcaption>\n\nİmalatçının tanıtımı\n\nBu standardın numarası\n\nKullanım alanı/alanları (uygulanabilir olan yerlerde)\n\nYüksek hızlı parçacıklara/ sıcaklık uç değeri\ndirenç sembolü\n(uygulanabilir olan yerlerde)\n\nGöz koruyucunun küçük bir kafaya uyması için\ntasarlandığını gösteren sembol (Uygulanabilirse)\n\nÇerçeveyle uyumlu en yüksek oküler ölçek numarası (Uygulanabilirse)\n\n</figure>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\nTablo 6.8 Göz korumasında ilgili standartlara göre işaretleme",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "# TS EN ISO 16321 - Kişisel Göz Koruması\n\n\n\n<table>\n<tr>\n<td colspan=\"8\">Okülerlerin İşaretlemesi (Sırasıyla):</td>\n</tr>\n<tr>\n<td>(Sadece Filtreler) Ölçek Numarası</td>\n<td>İmalatçının Tanımı</td>\n<td>Optik Sınıf (Koruyucu ekranlar hariç)</td>\n<td>Dayanım (Uygulanabilir olan Mekanik yerlerde)</td>\n<td>Kullanım Alanı (Kısa devre elektrik etmesine direnç sembolü) arkına direnç-ergimiş metallere yapışmama ve sıcak katıların nüfuz</td>\n<td>Küçük parçacıkların oluşturduğu sembolü(uygulanabilir olan yerlerde) yüzey hasarına direnç</td>\n<td>(uygulanabilir olan yerlerde) Buğulanma direnci sembolü</td>\n<td>(Radyant Is1) (uygulanabilir olan yerlerde) Güçlendirilmiş yansıtma için sembol</td>\n</tr>\n</table>\n\n\nÇerçeve İşaretlemesi (Sırasıyla)\n\n\n<table>\n<tr>\n<th>Üreticininin</th>\n<th>Standart Numarası</th>\n<th>Kullanım</th>\n<th>Mekanik</th>\n</tr>\n<tr>\n<td>İşareti</td>\n<td>(TS EN ISO 16321)</td>\n<td>Alanı</td>\n<td>Dayanım</td>\n</tr>\n</table>\n\n\nÖlçek Numarası: Bir filtrenin geçirgenlik özellikleri ölçek numarası ile temsil edilir. Ölçek numarası, aralarında bir kısa çizgi bulunan kod numarası ile filtrenin gölge numarasının birleşi-\nminden oluşur. Kaynakçı gözlüklerinde kod numarası bulunmaz. Örneğin: Standartta IR filtreler için kod numarası 4' dür. Bu durumda 4 gölge numaralı bir IR\nfiltresi4-4 şeklinde ifade edilecektir. Kaynak Filtreleri\nEN TS EN ISO 16321 ve\nEN ISO 16321\nstandartlarına bakınız.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "tandartta IR filtreler için kod numarası 4' dür. Bu durumda 4 gölge numaralı bir IR\nfiltresi4-4 şeklinde ifade edilecektir. Kaynak Filtreleri\nEN TS EN ISO 16321 ve\nEN ISO 16321\nstandartlarına bakınız. 1.2 ve 16 arasında gölge numarası\n\n\n<table>\n<tr>\n<td colspan=\"2\">Tablo 6.8</td>\n</tr>\n<tr>\n<td>UV Filtreleri TS EN ISO 16321 Standardına bakınız.</td>\n<td>Kod numarası: 2- ve 3- (Renk ayırt etme özelliğine göre) Gölge Numarası: 1.2 ve 5 arası</td>\n</tr>\n<tr>\n<td>IR Filtreleri TS EN ISO 16321 Standardına bakınız</td>\n<td>Kod Numarası: 4- Gölge Numarası: 1.2 ve 10 arası</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\nGüneş ışığına karşı\nkoruma sağlayan\nFiltreler\nFiltreler için\nEN 172 standardına\nbakınız. (Not: Güneş gözlükleri\niçin EN ISO 12312-1\nstandardına bakınız.)\n\nKod Numarası: 5- veya 6- (IR özelliğine göre)\nGölge Numarası: 1.1 ve 4.1 arası\n\n\n<table>\n<tr>\n<td colspan=\"2\">Optik Sınıf: 1,2 ve 3 (Okülerlerin optik özelliklerini belirtir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "-1\nstandardına bakınız.)\n\nKod Numarası: 5- veya 6- (IR özelliğine göre)\nGölge Numarası: 1.1 ve 4.1 arası\n\n\n<table>\n<tr>\n<td colspan=\"2\">Optik Sınıf: 1,2 ve 3 (Okülerlerin optik özelliklerini belirtir. Optik sınıf 1 en iyi özelliğe sahiptir.)</td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n</tr>\n<tr>\n<td colspan=\"2\">Mekanik Dayanım - Çerçeve ve/veya Oküler işaretlenmeli</td>\n</tr>\n<tr>\n<td rowspan=\"4\"></td>\n<td>S - Artırılmış sağlamlık (sadece oküler)</td>\n</tr>\n<tr>\n<td>F - Yüksek hızlı parça, düşük enerjili darbe (gözlük, koruyucu gözlük, yüz siperi)</td>\n</tr>\n<tr>\n<td>B - Yüksek hızlı parça, orta enerjili darbe (koruyucu gözlük ve yüz siperi)</td>\n</tr>\n<tr>\n<td>A - Yüksek hızlı parça, yüksek enerjili darbe (sadece yüz siperi)</td>\n</tr>\n<tr>\n<td colspan=\"2\">Kullanım Alanı</td>\n</tr>\n<tr>\n<td rowspan=\"4\">Çerçeve</td>\n<td>3 - Sıvılar (damlacıklar -koruyucu gözlük veya sıçramalar- kafes tipi hariç yüz siperi)</td>\n</tr>\n<tr>\n<td>4 - İri toz (Parçacık büyüklüğü &gt; 5 um olan toz)</td>\n</tr>\n<tr>\n<td>5 - Gaz ve ince toz parçacıkları (Gazlar, buharlar, spreyler, duman ve parçacık büyüklüğü &lt; 5 um olan toz)</td>\n</tr>\n<tr>\n<td>9 - Ergimiş metaller ve sıcak katılar</td>\n</tr>\n<tr>\n<td>Oküler</td>\n<td>8 - Kısa devre elektrik arkı (sadece yüz siperi)</td>\n</tr>\n<tr>\n<td></td>\n<td>9 - Ergimiş metaller ve sıcak katılar (sadece koruyucu gözlük ve yüz siperi)</td>\n</tr>\n<tr>\n<td colspan=\"2\">Diğer Oküler İşaretlemeleri</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>K - Küçük parçacıkların oluşturduğu yüzey hasarına direnç</td>\n</tr>\n<tr>\n<td>N - Buğulanma direnci</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">TS EN1731 - KİŞİSEL GÖZ KORUMASI - KAFES TİPİ GÖZ VE YÜZ KORUYUCULAR</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">İşaretleme (Sırasıyla- uygulanabilir olduğu durumda)</td>\n</tr>\n<tr>\n<td>İmalatçının Tanımı</td>\n<td>TS EN ISO 16321 Mekanik Dayanım</td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n</tr>\n<tr>\n<td colspan=\"2\">Mekanik Dayanım: S, F, B veya A - EN 166' da belirtildiği üzere</td>\n</tr>\n</table>\n\n\nGözlerle birlikte yüzün de korunması gerekiyor ise vizör kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "pan=\"2\"></td>\n</tr>\n<tr>\n<td colspan=\"2\">Mekanik Dayanım: S, F, B veya A - EN 166' da belirtildiği üzere</td>\n</tr>\n</table>\n\n\nGözlerle birlikte yüzün de korunması gerekiyor ise vizör kullanılmalıdır. Kaynak işlerinde sıkça karşılaşılan kaynakçı siperlerinin TS 6860 EN 175 standardına uygun\nolması gerekmektedir. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "## 6.4. AYAK VE BACAK KORUYUCU DONANIMLAR\n\n\nMetal sektöründe özelikle ayaklara parça düşmesi, ayakların sıkışması, ayağa cisim batması\nve kayma gibi riskler çalışanların yaralanmasına sebebiyet vermektedir. Kaynakçılar için\nayrıca diz çökme pozisyonunda kaynak yaptıkları durumlarda diz koruyucuların da kullanımı\nyaralanmalar ve eklem rahatsızlıklarının önlenmesinde önem arz etmektedir. Kişisel koruyucu donanım kapsamına giren ayak koruyucular ve ilgili standartları; Emniyet\nAyakkabıları (TS EN ISO 20345), Koruyucu Ayakkabılar(TS EN ISO 20346), İş Ayakkabıları\n(TS EN ISO 20347) ve Diz Koruyucuları (TS EN 14404) olarak sıralanmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "cular ve ilgili standartları; Emniyet\nAyakkabıları (TS EN ISO 20345), Koruyucu Ayakkabılar(TS EN ISO 20346), İş Ayakkabıları\n(TS EN ISO 20347) ve Diz Koruyucuları (TS EN 14404) olarak sıralanmaktadır. <table>\n<caption>Tablo 6.9 İlave Özellikler ve Sembolleri</caption>\n<tr>\n<td>P</td>\n<td>Nüfuziyet direnci (Penetration resistance)</td>\n</tr>\n<tr>\n<td>C</td>\n<td>Elektriksel özellikler (İletken ayakkabılarda) (conductive footwear)</td>\n</tr>\n<tr>\n<td>A</td>\n<td>Elektriksel özellikler (Antistatik ayakkabılarda) (antistatic footwear)</td>\n</tr>\n<tr>\n<td>HI</td>\n<td>Tabanın sıcağa karşı yalıtımı (heat insulation)</td>\n</tr>\n<tr>\n<td>CI</td>\n<td>Tabanın soğuğa karşı yalıtımı (cold insulation)</td>\n</tr>\n<tr>\n<td>E</td>\n<td>Ayak topuğunun basma bölgesinin enerji soğurması (Energy absorption of seat region)</td>\n</tr>\n<tr>\n<td>WR</td>\n<td>Su direnci (Water resistance)</td>\n</tr>\n<tr>\n<td>M</td>\n<td>Tarak koruyucu (Metatarsal protection)</td>\n</tr>\n<tr>\n<td>AN</td>\n<td>Bilek koruyucu (Ankle protection)</td>\n</tr>\n<tr>\n<td>CR</td>\n<td>Kesilme direnci (Cut resistance)</td>\n</tr>\n<tr>\n<td>WRU</td>\n<td>Su nüfuziyeti ve soğurması (Water penetration and absorption)</td>\n</tr>\n<tr>\n<td>HRO</td>\n<td>Sıcak temas direnci (Resistance to hot contact)</td>\n</tr>\n<tr>\n<td>FO</td>\n<td>Fuel oil direnci (Resistance to fuel oil)</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 6.10 Emniyet ayakkabılarının işaretleme kategorileri</caption>\n<tr>\n<th>Kategori</th>\n<th>Sınıf</th>\n<th>İlave özellikler</th>\n</tr>\n<tr>\n<td>SB</td>\n<td>I veya II</td>\n<td></td>\n</tr>\n<tr>\n<td>S1</td>\n<td>I</td>\n<td>Kapatılmış ayak topuğunun ökçeye basma bölgesi Antistatik özellikler Ayak topuğunun ökçeye basma bölgesinin enerji soğurumu Fuel oil'e karşı direnç</td>\n</tr>\n<tr>\n<td>S2</td>\n<td>I</td>\n<td>S1 + Su nüfuziyeti ve su soğurumu</td>\n</tr>\n<tr>\n<td>S3</td>\n<td>I</td>\n<td>S2 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n<tr>\n<td>S4</td>\n<td>II</td>\n<td>S3 + Kapatılmış ayak topuğunun ökçeye basma bölgesi Antistatik özellikler Ayak topuğunun ökçeye basma bölgesinin enerji soğurumu Fuel oil'e karşı direnç</td>\n</tr>\n<tr>\n<td>S5</td>\n<td>II</td>\n<td>S4 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n</table>\n\n\n<table>\n<caption>Tablo 6.11 Koruyucu ayakkabılarının işaretleme kategorileri</caption>\n<tr>\n<th>Kategori</th>\n<th>Sınıf</th>\n<th>İlave özellikler</th>\n</tr>\n<tr>\n<td>SB</td>\n<td>I veya II</td>\n<td></td>\n</tr>\n<tr>\n<td>P1</td>\n<td>I</td>\n<td>Topuğun yere basma bölgesinin kapalı olması Antistatik özellikler Topuğun yere basma bölgesinin enerji soğurumu Fuel oil'e karşıdirenç</td>\n</tr>\n<tr>\n<td>P2</td>\n<td>I</td>\n<td>P1 + Su nüfuziyeti ve su soğurumu</td>\n</tr>\n<tr>\n<td>P3</td>\n<td>I</td>\n<td>P2 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n<tr>\n<td>P4</td>\n<td>II</td>\n<td>P3 + Topuğun yere basma bölgesinin kapalı olması Antistatik özellikler Topuğun yere basma bölgesinin enerji soğurumu Fuel oil'e karşı direnç</td>\n</tr>\n<tr>\n<td>P5</td>\n<td>II</td>\n<td>P4 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 6.12 İş ayakkabılarının işaretleme kategorileri</caption>\n<tr>\n<th>Kategori</th>\n<th>Sınıf</th>\n<th>İlave özellikler</th>\n</tr>\n<tr>\n<td>OB</td>\n<td>I veya II</td>\n<td></td>\n</tr>\n<tr>\n<td>O1</td>\n<td>I</td>\n<td>Topuğun yere basma bölgesinin kapalı olması Antistatik özellikler Ayak topuğunun ökçeye basma bölgesinin enerji soğurumu</td>\n</tr>\n<tr>\n<td>O2</td>\n<td>I</td>\n<td>O1 + Su nüfuziyeti ve su soğurumu</td>\n</tr>\n<tr>\n<td>O3</td>\n<td>I</td>\n<td>O2 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n<tr>\n<td>O4</td>\n<td>II</td>\n<td>O3 + Topuğun yere basma bölgesinin kapalı olması Antistatik özellikler Ayak topuğunun ökçeye basma bölgesinin enerji soğurumu Fuel oil'e karşı direnç</td>\n</tr>\n<tr>\n<td>O5</td>\n<td>II</td>\n<td>O4 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n</table>\n\n\nAyak ve bacak koruyucular işyeri ortamındaki risklere göre seçilmeli ve ilgili standardına\nuygun olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": ">\n<td>O5</td>\n<td>II</td>\n<td>O4 + Nüfuziyet direnci + Dişli dış taban</td>\n</tr>\n</table>\n\n\nAyak ve bacak koruyucular işyeri ortamındaki risklere göre seçilmeli ve ilgili standardına\nuygun olmalıdır. Ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan ve ilgili\nstandardında belirtilen sembollerin açıklamaları dikkate alınarak kullanılacak ayak ve bacak\nkoruyucu seçilmelidir. <figure>\n<figcaption>Şekil 6.5 Emniyet Ayak Giyeceği Etiketi</figcaption>\n\n29\n\n3427\n\n03362 024477\n\nCE\n\n10001\n\n0321\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "## 6.5. KORUYUCU GİYECEKLER\n\n\nKişisel giyecekleri örten veya bunların yerine geçen ve bir veya birden fazla tehlikeye karşı\n(ısı, soğuk, nem, toksik, kimyasallar, asitler, aşındırıcı maddeler, elektrik, biyolojik ve fiziksel\ntehlikeler) koruma sağlayacak şekilde tasarımlanmış koruyucuları ihtiva eden giyeceklerdir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "e karşı\n(ısı, soğuk, nem, toksik, kimyasallar, asitler, aşındırıcı maddeler, elektrik, biyolojik ve fiziksel\ntehlikeler) koruma sağlayacak şekilde tasarımlanmış koruyucuları ihtiva eden giyeceklerdir. <!-- PageNumber=\"32\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 6.6 Koruyucu giyeceklerin kullanım amacını belirten piktogramlar</figcaption>\n\nHareketli parçalara dolanma riskinin\nolduğu yerlerde kullanılan koruyucu\ngiyecekler\n\nSoğuğa karşı kullanılan\nkoruyucu giyecekler\n\nSıvı aerosoller ve katı parçacıklar\ndâhil sıvı ve gaz hâlindeki kimyasal\nmaddelere karşı kullanılan\nkoruyucu giyecekler\n\nYağmura karşı koruyucu\ngiyecekler\n\nStatik elektriğe karşı kullanılan\nkoruyucu giyecekler\n\nZincirli el testeresi kullananlar\niçin koruyucu giyecekler\n\nIsı ve aleve karşı kullanılan koruyucu\ngiyecekler\n\nÇakılarla kesmeye ve delmeye\nkarşı koruyucu giyecekler\n\nRadyoaktif kirlenmeye karşı\nkullanılan koruyucu giyecekler\n\nMikrobiyal tehlikelere karşı\nkullanılan koruyucu giyecekler\n\nKaynak ve ilgili işlemlerde\nkullanılan koruyucu giyecekler\n\nYüksek görülebilirlik uyarısı olan\nkoruyucu giyecekler\n\nİtfaiyeciler için koruyucu\ngiyecekler\n\nTanecikli aşındırıcılar kullanılarak\nyapılan aşındırıcı püskürtme için\nkoruyucu giyecekler\n\n</figure>\n\n\nYüksek sıcaklıklar; yüksek sıcaklıkta ergimiş metal veya sıvı sıçramaları; makine, malzeme\nve araç-gereç kaynaklı etkiler ve tehlikeli kimyasallara karşı koruma sağlayan koruyucu\ngiyecekler mevcuttur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "Yüksek sıcaklıklar; yüksek sıcaklıkta ergimiş metal veya sıvı sıçramaları; makine, malzeme\nve araç-gereç kaynaklı etkiler ve tehlikeli kimyasallara karşı koruma sağlayan koruyucu\ngiyecekler mevcuttur. İşverenler, çalışanlarının yalnızca vücutlarının olası yaralanmalara maruz kalabilecek kısımları için\nkişisel koruyucu donanım kullandıklarından emin olmalıdır. Zehirli maddeler veya zararlı\nfiziksel ajanlar gibi tehlikeler karşısında tüm vücudu koruyacak koruyucu giyeceklerin\nkullanılması gerekebilir. Özellikle dökümhanelerde ısıya, aleve, ergimiş metallerin sıçramalarına, radyant ısıya karşı\nkoruma sağlayan TS EN ISO 11612 standardına sahip koruyucu elbiseler kullanılmalıdır. EN ISO 11612\n\n\n<figure>\n<figcaption>Şekil 6.7 Isıl etkilere karşı kullanılan koruyucu giyecekler için piktogram</figcaption>\n</figure>\n\n\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 6.8 Koruyucu giyeceklerde yer alması gereken işaretleme</figcaption>\n\nÜreticinin adi ve adresi\nKKD'nin adı ve sembolü\n\nCE\n\nDxxx\n\nEN ISO 11612:2008\n\ni\n\nA2 B2 C2 D1 E3\n\n85\n\nP\n☐\n\n... max 50\n\n</figure>\n\n\nKesilme, yırtılma, aşınma ve metal sıçramaları gibi etkilere karşı mekanik etkilere karşı\nkoruma sağlayan koruyucu giysiler kullanılmalıdır. Özellikle hareketli araçların yanında ve karanlık alanlarda kolayca fark edilmek amacı ile TS\nEN ISO 20471 standardına uygun yüksek görünürlük sağlayan giyecekler kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "## 6.6. BAŞ KORUYUCU DONANIMLAR\n\n\nMetal sektörü gibi çalışma alanının dar olduğu veya birçok faaliyetin aynı anda ve aynı yerde\nyürütüldüğü işkollarında, çalışanların baş yaralanmalarıyla karşılaşma riskleri yüksektir. Bu\nsebeple olası bir iş kazası sonucu meydana gelebilecek baş yaralanmalarını önlemek veya\netkilerini en aza indirmek amacıyla baş koruyucu donanımlar kullanılması gerekmektedir. İşverenlerce en sık yapılan hatalardan biri daha ucuz olması sebebi ile çalışanlarına baret\nyerine darbe başlığı (koruyucu şapka - bump cap) kullandırmaktır. Darbe başlıkları baretin\nsahip olduğu koruma seviyesini sağlayamadığı için baret yerine kullanılamaz. Bu ürünler başın,\nsabit durumdaki sert cisimlere çarpma sonucu oluşan yaralanmalara karşı korunmasında\nkullanılırlar ve TS EN 812 standardına uygun olurlar. Baretler ise düşen objelerden, çarpma ve darbelerden, elektrik çarpmalarından, ergimiş\nmetal sıçramalarından ve yanma gibi durumlardan korunmak amacıyla kullanılmaktadır. Tek\nçeşit baretle yukarıda bahsedilen bütün tehlike ve risklere karşı koruma sağlanamamaktadır. Dolayısıyla baretler sağladıkları koruma çeşidine göre endüstriyel baretler (TS EN 397)ve\nyüksek performanslı endüstriyel baretler (TS EN 14052) olarak ikiye ayrılabilir. Yapılan işin doğası, ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan ve ilgili\nstandardında belirtilen sembollerin açıklamaları dikkate alınarak kullanılacak baş koruyucuya\nkarar verilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "işin doğası, ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan ve ilgili\nstandardında belirtilen sembollerin açıklamaları dikkate alınarak kullanılacak baş koruyucuya\nkarar verilmelidir. Baş koruyucular organik solventlerle değil sabunlu su ile temizlenmelidir. <!-- PageNumber=\"34\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "## 6.7. İŞİTME KORUYUCU DONANIMLAR\n\n\nMetal sektörü yapılan işlerin doğası gereği gürültünün bulunduğu sektörlerin başında\ngelmektedir. Sürekli olarak yüksek düzeyde gürültüye maruz kalınması çalışanların işitme\nsistemi içindeki dokularının zarar görmesine bu da işitme kayıplarına neden olabilmektedir.\n\nİşitme koruyucu donanımlar; kulak tıkaçları (TS EN 352-2), kulaklıklar (TS EN 352-1), barete\ntakılabilir kulaklıklar (TS EN 352-3) olmak üzere üç çeşittir.\n\nİşitme koruyucu kullanan bir çalışanın maruz kaldığı gürültü seviyesi, koruyucunun tipine ve\ngürültü düşürme seviyesine (SNR), ne kadar düzgün takıldığına ve kulağa uygunluğuna göre\ndeğişiklik gösterir.\n\nİşitme koruyucu seçimi yapılırken ortamdaki gürültü seviyesine göre SNR değeri uygun\nolanlar tercih edilmelidir. TS EN ISO 4869 standardında belirtilen SNR değeri dB (A) olarak\nfarklı ürünlerin potansiyel gürültü azaltma yeteneklerini kıyaslamada kullanılır.\n\n\n<figure>\n<figcaption>Şekil 6.9 Gürültü seviyesi düşüş grafiği</figcaption>\n\nYetersiz Düşüş\n\n80\n\nKorunmakta\nolan bir kulakta\ngürültü seviyesi\ndB(A)\n\n75\n\nİyi Düşüş\n\n70\n\n65\n\nFazla Düşüş\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "## 6.8. YÜKSEKTEN DÜŞMEYE KARŞI KORUYUCU DONANIMLAR\n\n\nYüksekten düşmeye karşı koruyucu donanımlar; paraşüt tipi emniyet kemeri (tam vücut\nkuşağı), çalışma konumlama kemeri, enerji absorblayıcılar (soğurucular), bağlama tertibatı -\nhalatlar (lanyard), geri sarmalı tipte düşmeyi önleme tertibatları şeklinde sınıflandırılmaktadır. Yüksekte çalışırken ne türde bir çalışma yapılacağı, çalışanın hangi kişisel koruyucu donanımı\nkullanması gerektiğini belirlemekteki en önemli kıstastır. Düşüş durdurma, kurtarma,\npozisyon alma, askıda çalışma ve ya düşüş engelleyici sistem ile çalışma durumlarının\nbelirlenmesinden sonra ürün seçimi yapılmalıdır. Yüksekte çalışırken düşme tehlikesinin olduğu yerlerde düşüş durdurmak için paraşüt tipi\nemniyet kemeri ve enerji absorblayıcı (şok emici) birlikte kullanılırken; pozisyon alma\ndurumunda amaç çalışanı belirli bir alanda sabitlemektir; bu durumda pozisyon alma kemerli\n(çalışma konumlama kemerli) paraşüt tipi emniyet kemeri kullanılması gerekmektedir. <!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\nParaşüt tipi emniyet kemeri (TS EN 361), çalışma konumlama kemeri, lanyard, enerji\nabsorblayıcı, geri sarmalı tipte düşme önleyicilerle birlikte de bir sistem olarak kullanılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "!-- PageBreak -->\n\nParaşüt tipi emniyet kemeri (TS EN 361), çalışma konumlama kemeri, lanyard, enerji\nabsorblayıcı, geri sarmalı tipte düşme önleyicilerle birlikte de bir sistem olarak kullanılabilir. <figure>\n<figcaption>Şekil 6.10 Paraşüt tipi emniyet kemerinin işaretlemesi</figcaption>\n\nFULL-BODY HARNESS\nTAM KORUMALI VUCUT KUŞAĞI\n\nP-453Y\n\nMAT +%100POLYESTER\n\nSERIE :\n\nP.DATE : 0 2005 0 2006 0 2007\n\nSIZE : 06/7 CL/ML\n\nCE 0123\nEN 813 ISO9001\n\nEN 358 EN 361\n\n</figure>\n\n\nKonumlandırma sistemi, bir düşüş durdurma sistemi değildir. Bu nedenle çalışan, mutlaka bir\ndüşüş durdurma sistemi ile kendini emniyet altına almış olmalıdır. Bel desteği olan paraşüt tipi\nemniyet kemerleri, ihtiyaç duyulduğunda çalışma konumlama (bel tipi kemer) kemeri görevi\nde görebilmesi ve düşme halinde beli daha iyi desteklemesi sebebiyle tercih edilmelidir. Bu\nürünlerin üzerinde hem paraşüt tipi emniyet kemeri (TS EN 361) hem de çalışma konumlama\nkemeri standartlarının (TS EN 358) ikisinin de yer almasına gerekmektedir. Bağlama tertibatı- Lanyardlar TS EN 354 standardına uygun olmalıdır. Kendiliğinden kilitlenme\nfonksiyonu, otomatik germe sistemi ve geri sarmalı bağlama tertibatı olan geri sarmalı tipte\ndüşüş durdurucular ise TS EN 360 standardına uygun olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "ına uygun olmalıdır. Kendiliğinden kilitlenme\nfonksiyonu, otomatik germe sistemi ve geri sarmalı bağlama tertibatı olan geri sarmalı tipte\ndüşüş durdurucular ise TS EN 360 standardına uygun olmalıdır. Hasar görmüş veya düşme sonucu direnci azalmış kişisel koruyucu donanımların tekrar\nkullanılmayacağı hiçbir zaman unutulmamalı, yüksekten düşmeye karşı koruyucuların\nkullanım limitlerine ve özelliklerine üreticinin beyanı doğrultusunda azami dikkat edilmelidir. <!-- PageNumber=\"36\" -->\n<!-- PageFooter=\"METAL SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "# 7. KAYNAKLAR\n\n\n[1]\nweb.itu.edu.tr. [2]\nİş Teftiş Kurulu Başkanlığı, \"Metal Sektöründe Çalışan İşçilerin Çalışma Koşullarının\nİyileştirilmesi Programlı Teftişi Sonuç Raporu,\" Çalışma ve Sosyal Güvenlik Bakanlığı\n, Ankara, 2011. [3]\nYunus KISA, Çalışma ve Sosyal Güvenlik Bakanlığı Uzmanlık Tezi, Döküm\nAtölyelerindeki İş Sağlığı ve Güvenliği Koşullarının Çok Ölçütlü Karar Verme\nYöntemleriyle Değerlendirilmesi, 2014. [4]\nProf. Dr. İ. ARAN, İstanbul Teknik Üniversitesi, Döküm teknolojisi ve İmal Usulleri\nDers Notları., 2007. [5]\nMikell P. Groover, Fundamentals of Modern Manucafturing: Materials, Processes\nand Systems .: John Wiley & Sons, 2010. [6]\nTürkiye'de Sanayiden Kaynaklanan Tehlikeli Atıkların Yönetiminin İyileştirilmesi\n\\- Metal Sektörü Rehber Dökümanı .: Çevre ve Şehircilik Bakanlığı, Çevre Yönetimi\nGenel Müdürlüğü. [7]\nAykut KARAKAVAK, Çalışma ve Sosyal Güvenlik Bakanlığı Uzmanlık Tezi, Talaşlı\nİmalat ve Kaynak İşlerinde Meslek İle İlgili Solunum Sistemi Hastalıklarının\nÖnlenmesinde Endüstriyel Havalandırma. [8]\nKaynak Teknolojisi El Kitabı Cilt-1 .: MMO, 2004. [9]\nCebrail ŞİMŞEK, \"Göğüs Hastalıkları; Kaynakçı Akciğeri\". [10]\nİş Sağlığı ve Güvenliği Genel Müdürlüğü, Meslek Hastalıkları ve İş İle İlgili Hastalıklar\nTanı Rehberi. Ankara, 2011. [11]\n] Helmi A. Youssef, Hassan A. El-Hofy, and Mahmoud H. Ahmed, Manufacturing\nTechnology: Materials, Processes, and Equipment .: CRC Press, 2012.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "ş İle İlgili Hastalıklar\nTanı Rehberi. Ankara, 2011. [11]\n] Helmi A. Youssef, Hassan A. El-Hofy, and Mahmoud H. Ahmed, Manufacturing\nTechnology: Materials, Processes, and Equipment .: CRC Press, 2012. [12] WHO/SDE/OEH/99.14, Hazard Prevention and Control in the Work Environment:\nAirborne Dust. [13] World Health Organization - International Agency for Research on Cancer, IARC\nMonographs on the Evaluation of Carcinogenic Risks to Humans, Chromium Nickel\nand Welding. Lyon, France: IARC, 1990",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "metal-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Metal Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 67,
+        "processed_at": "2026-02-12T04:31:09.998000"
+      }
+    }
+  ]
+}

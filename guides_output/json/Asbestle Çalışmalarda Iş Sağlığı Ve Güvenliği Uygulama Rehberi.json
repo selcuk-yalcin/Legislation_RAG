@@ -1,0 +1,1772 @@
+{
+  "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+  "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+  "total_chunks": 98,
+  "exported_at": "2026-02-12T12:18:54.776229",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "# T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI İŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ\n\n\nASBESTLE ÇALIŞMALARDA İŞ SAĞLIĞI VE GÜVENLİĞİ\nUYGULAMA REHBERİ\n\n<!-- PageFooter=\"ANKARA, 2024\" -->\n<!-- PageBreak -->\n\nREHBER HAZIRLIK KOMİSYONU\n\nAhmet Serdar SEVINÇ\nDamla AZKESKİN\nDilan ATALAY\nEbru KORKMAZ\nFatih DEĞER\nİsmail Görkem GÖNENÇ\nKadir KADİROĞULLARI\nKağan YÜCEL\nPınar ATABEK\nŞehmus ÜNVERDİ\n\n<!-- PageBreak -->\n\nAsbestle Çalışmalarda İş Sağlığı ve Güvenliği Uygulama Rehberi T.C. Çalışma ve Sosyal\nGüvenlik Bakanlığı, İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır.\nHazırlanan bu rehberdeki hususlar tavsiye niteliğindedir.\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "## TEŞEKKÜR\n\n\nBu rehbere sağladıkları katkı için Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'ndan Jeoloji\nMühendisi Bahattin Murat Demir'e teşekkür ederiz. Ayrıca rehberin ana başlıkları ve içeriğinin\noluşturulması aşamasında bizimle görüşlerini paylaşan Asbest Söküm Uzmanları, Cemal\nBaşkaya, Cengiz Alpar, Kenan Yıldız, Osman Malkoç, Rahmi Baysal, Utku Önen ve Yahya\nKemal Kösalı'ya teşekkür ederiz.\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<td colspan=\"2\">İÇİNDEKİLER</td>\n<td>i</td>\n</tr>\n<tr>\n<td></td>\n<td>TABLOLAR LİSTESİ</td>\n<td>iii</td>\n</tr>\n<tr>\n<td></td>\n<td>ŞEKİLLER LİSTESİ.</td>\n<td>iv</td>\n</tr>\n<tr>\n<td colspan=\"2\">SİMGE VE KISALTMALAR</td>\n<td>vi</td>\n</tr>\n<tr>\n<td>1.</td>\n<td>GİRİŞ</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2.</td>\n<td>ASBEST TANIMI VE TÜRLERİ</td>\n<td>2</td>\n</tr>\n<tr>\n<td></td>\n<td>2.1. ASBEST NEDİR</td>\n<td>2</td>\n</tr>\n<tr>\n<td></td>\n<td>2.2. ASBESTİN FİZİKSEL VE KİMYASAL ÖZELLİKLERİ.</td>\n<td>3</td>\n</tr>\n<tr>\n<td></td>\n<td>2.3. ASBEST TÜRLERİ</td>\n<td>3</td>\n</tr>\n<tr>\n<td></td>\n<td>2.4. Türkiye'deki Asbest Kullanımı</td>\n<td>6</td>\n</tr>\n<tr>\n<td></td>\n<td>2.5. İKAME MADDELER</td>\n<td>6</td>\n</tr>\n<tr>\n<td>3.</td>\n<td>ASBEST KAYNAKLARI</td>\n<td>8</td>\n</tr>\n<tr>\n<td>4.</td>\n<td>ASBEST MARUZİYETİ</td>\n<td>10</td>\n</tr>\n<tr>\n<td></td>\n<td>4.1. JEOJENİK/ÇEVRESEL MARUZİYET</td>\n<td>10</td>\n</tr>\n<tr>\n<td></td>\n<td>4.2. ENDÜSTRIYEL/MESLEKİ MARUZİYET</td>\n<td>10</td>\n</tr>\n<tr>\n<td>5.</td>\n<td>ASBESTİN NEDEN OLDUĞU HASTALIKLAR</td>\n<td>12</td>\n</tr>\n<tr>\n<td>6.</td>\n<td>ASBEST ÖLÇÜMLERİ VE SINIR DEĞER</td>\n<td>13</td>\n</tr>\n<tr>\n<td></td>\n<td>6.1. ASBEST ÖLÇÜMÜ VE NUMUNE ALMA</td>\n<td>13</td>\n</tr>\n<tr>\n<td></td>\n<td>6.2. SINIR DEĞER</td>\n<td>15</td>\n</tr>\n<tr>\n<td>7.</td>\n<td>ASBESTLE ÇALIŞMALARDA SAĞLIK GÖZETİMİ</td>\n<td>16</td>\n</tr>\n<tr>\n<td>8.</td>\n<td>ASBESTLE ÇALIŞMALARDA RİSK DEĞERLENDIRMESİ.</td>\n<td>18</td>\n</tr>\n<tr>\n<td></td>\n<td>8.1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "</tr>\n<tr>\n<td>7.</td>\n<td>ASBESTLE ÇALIŞMALARDA SAĞLIK GÖZETİMİ</td>\n<td>16</td>\n</tr>\n<tr>\n<td>8.</td>\n<td>ASBESTLE ÇALIŞMALARDA RİSK DEĞERLENDIRMESİ.</td>\n<td>18</td>\n</tr>\n<tr>\n<td></td>\n<td>8.1. MALZEME DEĞERLENDIRME ALGORİTMASI</td>\n<td>20</td>\n</tr>\n<tr>\n<td></td>\n<td>8.2. ASBEST RİSK ANALİZİ</td>\n<td>21</td>\n</tr>\n<tr>\n<td></td>\n<td>.3. AZ RİSKLİ ASBEST SÖKÜM İŞLERİ (YEŞİL BÖLGE)</td>\n<td>22</td>\n</tr>\n<tr>\n<td></td>\n<td>8.4. ORTA RİSKLİ ASBEST SÖKÜM İŞLERİ (SARI BÖLGE)</td>\n<td>22</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"i\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td colspan=\"2\">8.5. YÜKSEK RİSKLİ ASBEST SÖKÜM İŞLERİ (KIRMIZI BÖLGE)</td>\n<td>22</td>\n</tr>\n<tr>\n<td colspan=\"2\">8.6. GÜVENLİ BÖLGE</td>\n<td>22</td>\n</tr>\n<tr>\n<td>9.</td>\n<td>ASBESTTEN KORUNMA YÖNTEMLERİ</td>\n<td>23</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1. ÇALIŞMA ÖNCESİ HAZIRLIKLAR VE PLANLAMA</td>\n<td>23</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.1. Çalışanların Bilgilendirilmesi</td>\n<td>24</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.2. İşaretleme</td>\n<td>24</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.3. Karantinanın Oluşturulması</td>\n<td>25</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.4. Negatif Basınç Ünitesi (NBU)</td>\n<td>27</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.5. Karantinaya Giriş (Hava Kilidi)</td>\n<td>30</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.6. Gözlem Paneli</td>\n<td>34</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.7. Alan Hazırlığı</td>\n<td>34</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.8. Duman Testi</td>\n<td>35</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "td>\n<td>9.1.6. Gözlem Paneli</td>\n<td>34</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.7. Alan Hazırlığı</td>\n<td>34</td>\n</tr>\n<tr>\n<td></td>\n<td>9.1.8. Duman Testi</td>\n<td>35</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2. ÇALIŞMA SONRASI HAZIRLIK</td>\n<td>36</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2.1. H Tipi Süpürge</td>\n<td>36</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2.2. Bağlayıcı Madde</td>\n<td>37</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2.3. Hijyenik Tertibatlar</td>\n<td>37</td>\n</tr>\n<tr>\n<td></td>\n<td>9.2.4. Kişisel Koruyucu Donanım</td>\n<td>37</td>\n</tr>\n<tr>\n<td colspan=\"2\">10. ASBESTLİ ATIKLARIN YÖNETİMİ VE BERTARAFI</td>\n<td>40</td>\n</tr>\n<tr>\n<td colspan=\"2\">11. MEVZUAT</td>\n<td>43</td>\n</tr>\n<tr>\n<td colspan=\"2\">12. KAYNAKLAR</td>\n<td>46</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"ii\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "## TABLOLAR LİSTESİ\n\n\n\n<table>\n<tr>\n<th>Tablo</th>\n<th>Sayfa</th>\n</tr>\n<tr>\n<td>Tablo 1. Asbest türleri</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Tablo 2. İnsan yapımı mineral liflere ait sınır değerler</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Tablo 3. İlgili parametrelerin metotlara göre karşılaştırılması</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Tablo 4. Malzeme değerlendirme algoritması</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Tablo 5. Asbest risk analizi</td>\n<td>21</td>\n</tr>\n<tr>\n<td>Tablo 6. Asbest içeren atıklar</td>\n<td>41</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"iii\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "### ŞEKİLLER LİSTESİ\n\n\n\n<table>\n<tr>\n<th>Şekil</th>\n<th>Sayfa</th>\n</tr>\n<tr>\n<td>Şekil 1. Krizotil asbest</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Şekil 2. Krokidolit asbest</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Şekil 3. Amosit asbest</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Şekil 4. Tremolit asbest</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Şekil 5. Antofilit asbest</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Şekil 6. Aktinolit asbest</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Şekil 7. Bir binada karşılaşılabilecek asbest noktaları</td>\n<td>9</td>\n</tr>\n<tr>\n<td>Şekil 8. Bazı asbest türlerine ait elektron mikroskobu görüntüleri</td>\n<td>14</td>\n</tr>\n<tr>\n<td>Şekil 9. Uyarı İşaretleri (Çalışma alanı uyarı levhaları; Asbest içeren paket etiketi)</td>\n<td>24</td>\n</tr>\n<tr>\n<td>Şekil 10. Karantina alanı</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Şekil 11. Açık alanın köpükle kapatılması</td>\n<td>26</td>\n</tr>\n<tr>\n<td>Şekil 12. Karantina alanının elemanları</td>\n<td>27</td>\n</tr>\n<tr>\n<td>Şekil 13. İdeal negatif basınç ünitesi pozisyonu</td>\n<td>28</td>\n</tr>\n<tr>\n<td>Şekil 14. Farklı yapılar için uygun hava akışı</td>\n<td>29</td>\n</tr>\n<tr>\n<td>Şekil 15. Farklı yapılar için uygun hava akışı</td>\n<td>29</td>\n</tr>\n<tr>\n<td>Şekil 16. Zayıf hava akışı</td>\n<td>30</td>\n</tr>\n<tr>\n<td>Şekil 17. Geçiş sistemlerinde hava kilitlerinin kullanımı</td>\n<td>31</td>\n</tr>\n<tr>\n<td>Şekil 18. Duş ünitesinin karantina alanına direkt bağlanması</td>\n<td>31</td>\n</tr>\n<tr>\n<td>Şekil 19. Atık kabini dizaynı</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Şekil 20.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "ımı</td>\n<td>31</td>\n</tr>\n<tr>\n<td>Şekil 18. Duş ünitesinin karantina alanına direkt bağlanması</td>\n<td>31</td>\n</tr>\n<tr>\n<td>Şekil 19. Atık kabini dizaynı</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Şekil 20. Sınırlı alan için hijyen ünitesi, atık kabini dizaynı</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Şekil 21. Sınırlı alan için hava kilidi / atık kabini dizaynı</td>\n<td>33</td>\n</tr>\n<tr>\n<td>Şekil 22. Geçiş sisteminin gerektiği yerlerde hava kilidi ve atık kabini dizaynı</td>\n<td>33</td>\n</tr>\n<tr>\n<td>Şekil 23. Gözlem paneli</td>\n<td>34</td>\n</tr>\n<tr>\n<td>Şekil 24. Taşınmaz malların kaplanması</td>\n<td>35</td>\n</tr>\n<tr>\n<td>Şekil 25. Duman testi ve duman testi için ışık kontrolü</td>\n<td>36</td>\n</tr>\n<tr>\n<td>Şekil 26. H Tipi Süpürge</td>\n<td>36</td>\n</tr>\n<tr>\n<td>Şekil 27. Bağlayıcı madde</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 28. Kişisel koruyucu tulum</td>\n<td>38</td>\n</tr>\n<tr>\n<td>Şekil 29. Solunum koruyucu maske</td>\n<td>38</td>\n</tr>\n<tr>\n<td>Şekil 30. Motorlu solunum koruyucular</td>\n<td>39</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"iv\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>Şekil 31. Bağcıksız çizme</td>\n<td>39</td>\n</tr>\n<tr>\n<td>Şekil 32. Koruyucu eldiven</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Şekil 33. II. Sınıf düzenli depolama tesisi</td>\n<td>43</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"v\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "## SİMGE VE KISALTMALAR\n\n\n\n<table>\n<tr>\n<th>℃</th>\n<th>Santigrat derece</th>\n</tr>\n<tr>\n<td>um</td>\n<td>Mikro metre</td>\n</tr>\n<tr>\n<td>ACGIH</td>\n<td>American Conference of Governmental Industrial Hygienists (Amerikan Hükümeti Endüstri Hijyenistleri Birliği)</td>\n</tr>\n<tr>\n<td>AYY</td>\n<td>Atık Yönetimi Yönetmeliği</td>\n</tr>\n<tr>\n<td>cm3</td>\n<td>Santimetre küp</td>\n</tr>\n<tr>\n<td>DSÖ</td>\n<td>Dünya Sağlık Örgütü (World Health Organization)</td>\n</tr>\n<tr>\n<td>FTI</td>\n<td>Fourier Transform Infrared Spektroscopy</td>\n</tr>\n<tr>\n<td>HTİYAKY</td>\n<td>Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği</td>\n</tr>\n<tr>\n<td>ILO</td>\n<td>International Labour Organization (Uluslararası Çalışma Örgütü)</td>\n</tr>\n<tr>\n<td>İSGGM</td>\n<td>İş Sağlığı ve Güvenliği Genel Müdürlüğü</td>\n</tr>\n<tr>\n<td>İSGÜM</td>\n<td>İş Sağlığı ve Güvenliği Araştırma ve Geliştirme Enstitüsü Başkanlığı</td>\n</tr>\n<tr>\n<td>KKD</td>\n<td>Kişisel Koruyucu Donanım</td>\n</tr>\n<tr>\n<td>m3</td>\n<td>Metre küp</td>\n</tr>\n<tr>\n<td>mg</td>\n<td>Mili gram</td>\n</tr>\n<tr>\n<td>MoTAT</td>\n<td>Mobil Tehlikeli Atık Takip Sistemi (Atık Yönetimi Programı)</td>\n</tr>\n<tr>\n<td>NIOSH</td>\n<td>National Institute of Occupational Safety and Health (Ulusal Mesleki Güvenlik ve Sağlık Enstitüsü)</td>\n</tr>\n<tr>\n<td>PLM</td>\n<td>Polarized Light Microscope ( Polarize Işık Mikroskobu)</td>\n</tr>\n<tr>\n<td>REL</td>\n<td>Recommended Exposure Limit (Tavsiye Edilen Maruziyet Limiti)</td>\n</tr>\n<tr>\n<td>SEM</td>\n<td>Scanning El",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Atık Yönetimi Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "ectron Microscope (Taramalı Elektron Mikroskobu)</td>\n</tr>\n<tr>\n<td>TEM</td>\n<td>Transmission Electron Microscope (Transmisyon Elektron Mikroskobu)</td>\n</tr>\n<tr>\n<td>TLV</td>\n<td>Thershold Limit Value (Eşik Sınır Değeri)</td>\n</tr>\n<tr>\n<td>TWA</td>\n<td>Time Weighted Average (Zaman Ağırlıklı Ortalama)</td>\n</tr>\n<tr>\n<td>ZAOD</td>\n<td>Zaman Ağırlıklı Ortalama Değeri</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"vi\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "## 1. GİRİŞ\n\n\nAntik çağdan bu yana insanlık tarafından sıkça kullanılmış olan asbest, kimyasal ve fiziksel\nözellikleri sebebiyle inşaat, gemi, otomotiv, tekstil ve diğer sanayi alanlarında tercih edilen bir\nürün olmuştur. 20 nci yüzyıl başlarından itibaren yaygın bir şekilde endüstride kullanılan\nasbestin üç binden fazla kullanım alanı vardır. 2010 yılına kadar Türkiye'de de kullanılan asbest; marley, boru, levha, fren ve debriyaj balatası,\nconta ve asbestli iplik üretiminde kullanılmıştır. Asbest lifleri havada solunur hale geldiklerinde tehlikelidir, öldürücüdür. Solunan lifler\nakciğerlerde birikir ve zarar verir. Bu durumda akciğerde zedelenmeler başlar ve bu da\nakciğerin çalışmasını engeller ve kansere yol açar. Asbestli malzemelerin gerek üretiminde\ngerekse sökümünde çalışanlar, gerekli önlemlerin alınmaması durumunda, farkında olmadan\nbu maddeye maruz kalabilirler. Asbest yüzyıllar boyu ve yaygın bir şekilde kullanıldığı halde, meydana getirdiği sağlık\nsorunları yirminci yüzyılın başında anlaşılmaya başlanmıştır. Bunun sebebi, bazı vakalarda\nolumsuz sağlık etkilerinin 40 yıl sonra dahi ortaya çıkabilmesi ve eski dönemlerde insanların\nşimdikinden çok kısa yaşamalarıdır. Oluşturduğu sağlık riskleri nedeniyle günümüzde başta\nAB olmak üzere dünyanın birçok ülkesinde asbestin üretilmesi ve endüstride kullanılması\nyasaklanmış; birçok ülkede ise ciddi kısıtlamalar getirilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "rduğu sağlık riskleri nedeniyle günümüzde başta\nAB olmak üzere dünyanın birçok ülkesinde asbestin üretilmesi ve endüstride kullanılması\nyasaklanmış; birçok ülkede ise ciddi kısıtlamalar getirilmiştir. Türkiye'de ise gerek çalışma hayatında gerekse toplumsal düzeyde asbest güvenliği bilinci ve\nfarkındalığı günden güne artmaya başlamıştır. Bu süreçte, yabancı ülkelerden gelen gemilerin\nasbest söküm işlerinin ülkemizde yapılmaya başlanması kadar özellikle son dönemde\n31/05/2012 tarih ve 28309 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6306 sayılı\nAfet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun ile başlayan kentsel dönüşüm\nprojelerindeki bina yıkımları etkili olmuş; konuyu kamuoyu gündemine taşımıştır. Son 10 yıllık\ndönemde alınan kararlarla asbest yasaklanmış ve asbest söküm işinin temel koruyucu önlemleri\nmevzuat hükmü haline getirilmiştir. Ülkemizde yapılan bir araştırmada en az 1.2 Milyon ton asbest hammaddesinin gerek ithalat\ngerekse çok kısıtlı bir miktarda olsa da yerli üretim yoluyla hayatımıza giriş yaptığı, ulusal\nsanayinin değişik sektörlerinde kullanıldığı belirtilmiştir [1]. Genel olarak, üretilen ve tüketilen\n\"170 ton asbestin yaratacağı maruziyetin bir mezotelyoma vakasına neden olabileceği\" gerekli\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->\n\nönlemler alınamadığı takdirde, ülkemizde tüketilen bu miktarda asbestin de yaklaşık 7.000\nvakaya neden olabileceği öngörülmektedir [2].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "labileceği\" gerekli\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->\n\nönlemler alınamadığı takdirde, ülkemizde tüketilen bu miktarda asbestin de yaklaşık 7.000\nvakaya neden olabileceği öngörülmektedir [2]. Dünya genelinde ise, hali hazırda 125 milyon insanın işyerinde asbeste maruz kaldığı tahmin\nedilmektedir. Dünya Sağlık Örgütü (DSÖ) verilerine göre, her yıl 90.000'den fazla insanın\nişyerinde asbest maruziyeti sonucu asbeste bağlı Akciğer Kanseri, Mezotelyoma ve\nAsbestoz'dan öleceği tahmin edilmektedir. Mesleki kanserden meydana gelen her üç ölümden\nbirinin asbest nedenli olduğu tahmin edilmektedir [3]. Sonuç olarak, asbest, hakkındaki birçok yasaklama kararına karşın, ülkemizde ve dünyada,\nhayatta varlığını sürdürmeye devam eden ve böylece hem iş hem de halk sağlığı açısından\nyaşamsal risk oluşturan bir faktördür. Bu nedenle başta Bakanlığımız olmak üzere konuyla ilgili\nkurumlar asbest maruziyetiyle mücadeleyi kendilerine hedef edinmiş; asbest kontrol\nprogramlarını oluşturmuş ve bu programların mevzuat alt yapısını geliştirmiştir. Bu rehber, kamu yönetiminin genel hedefine uygun olarak, ulusal ve uluslararası düzeydeki\nmevzuat ve uygulamalar ışığında, asbestin tanımlanmasından sökümü ve bertarafına kadar her\naşamasındaki iş ve işlemlere yönelik açıklayıcı ve güncel bilgileri içerecek şekilde\nhazırlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "üzeydeki\nmevzuat ve uygulamalar ışığında, asbestin tanımlanmasından sökümü ve bertarafına kadar her\naşamasındaki iş ve işlemlere yönelik açıklayıcı ve güncel bilgileri içerecek şekilde\nhazırlanmıştır. Bu rehberin hem asbest söküm sektöründe hizmet kalitesini yükseltilerek iş ve\nçevre sağlığının korunması hem de asbest tehlike ve risklerine karşı kamuoyu farkındalığının\nartırılması sürecinde, yol gösterici bir doküman olmasını dileriz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "### 2.1. ASBEST NEDİR\n\n\nAsbest, ticari adıyla amyant, jeolojik olarak lifsi kristal yapısına sahip silikat (magnezyum\nsilikat, kalsiyum-magnezyum silikat, demir-magnezyum silikat) bileşimindeki bir grup\nmineralin ortak adıdır. Asbest sahip olduğu fiziksel ve kimyasal özelliklerinin bir sonucu olarak\ngösterdiği izolasyon özelliği nedeniyle çok uzun yıllardır kullanılmış ve \"sihirli mineral\"\nolarak bilinmiştir. Dünyada asbest kaynakları en zengin ülkeler arasında Kanada, Rusya, Güney Afrika\nbulunmaktadır. Asbest yataklarında cevher genellikle açık işletme yöntemi ile çıkarılmakla\nbirlikte yeraltı madenciliği ile de çıkarılabilir. Yeraltı madenciliğinde blok çökertme metodu\nkullanılarak üretim yapılır. Çıkarılan cevher genellikle büyük kayaç parçalarıdır. Cevheri\n\n<!-- PageNumber=\"2\" -->\n<!-- PageBreak -->\n\nbunlardan ayırmak için ufak parçalara kırma, çıkan lifleri iri kum ve tozlardan ayırmak için\neleme, çıkan lifleri emme, toplanan lifleri açma ve sınıflandırma işlemleri uygulanır. Asbest antik çağdan bu yana, dünyanın birçok bölgesinde iyi bilinmekte ve kullanılmaktaydı. Asbestin üretimi ve endüstride kullanımı 19 uncu yüzyılın sonlarına kadar uzanmaktadır. Özellikle 20 nci yüzyılın başlarında asbest liflerinin çimentoya karıştırılarak asbestli çimento\nüretilmesi ile asbest kullanımı tüm dünyaya yayılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "19 uncu yüzyılın sonlarına kadar uzanmaktadır. Özellikle 20 nci yüzyılın başlarında asbest liflerinin çimentoya karıştırılarak asbestli çimento\nüretilmesi ile asbest kullanımı tüm dünyaya yayılmıştır. Fakat 20 nci yüzyılın ikinci yarısından\nsonra insan sağlığına önemli zararlar veren kanserojen bir madde olduğunun tespit edilmesi ile\nasbest maddesi için öldürücü toz tanımlaması yapılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "### 2.2. ASBESTİN FİZİKSEL VE KİMYASAL ÖZELLİKLERİ\n\n\nYüksek derecede ısıya, aşınma ve paslanmaya karşı dayanıklıdır. Erime noktası 1.200 ℃'nin\nüzerinde, asitlere ve bazlara karşı dirençli, kimyasal tepkimelere girmeyen inert bir maddedir.\nAyrıca elektrik geçirgenliği çok azdır. Bunun yanı sıra yüksek elastikiyet ve yüksek\nsertleşebilirlik özelliği taşır. Ek olarak çimento ve benzeri malzemelerle karışım özelliğine\nsahiptir.\n\nYatay eksenleri boyunca mukavemetleri (gerilme mukavemeti) çok fazladır, dikey eksenleri\nboyunca ise sayılamayacak kadar çok parçaya bölünebilirler. Bu özelliğinden dolayı çimentoyu\nçelik bir kafes gibi sararak üretilen malzemenin dayanımını arttırır.\n\nIsıyı ve elektriği az iletmesi, ateşte özelliklerinin değişmemesi ve mikroorganizmalara karşı\ndirençli olması asbesti ideal bir yalıtım malzemesi haline getirmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "### 2.3. ASBEST TÜRLERİ\n\n\nAsbest lifleri mineralojik özelliklerine göre Serpantin ve Amfibol olmak üzere iki gruba ayrılır.\n\n\n<table>\n<caption>Tablo 1. Asbest türleri</caption>\n<tr>\n<th>SERPANTİN GRUBU</th>\n<th>AMFİBOL GRUBU</th>\n</tr>\n<tr>\n<td rowspan=\"5\">1. Krizotil Asbest (Beyaz Asbest)</td>\n<td>1. Krokidolit (Mavi Asbest)</td>\n</tr>\n<tr>\n<td>2. Amosit (Kahverengi Asbest)</td>\n</tr>\n<tr>\n<td>3. Tremolit</td>\n</tr>\n<tr>\n<td>4. Antofilit</td>\n</tr>\n<tr>\n<td>5. Aktinolit</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "#### 2.3.1. Serpantin Grubu\n\n\nKrizotil Asbest: Beyaz, lifsi yapıda, yumuşak ve ipeksi parlaklığındadır. Kullanım alanı geniş\nbir türdür. Diğer asbest türlerine göre daha esnektir. Dayanıklı ve ipeksidir. Erime noktası\n\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\nyüksektir. Dokunarak veya bükülerek kumaşla birlikte kullanılır. Ateşe dayanıklı kumaş\nyapımında genellikle krizotil asbest kullanılır.\n\nBugün hala ev ve işyerlerinin çatılarında, tavanlarında, duvarlarında bulunmaktadır. Krizotil\nasbest ısıya karşı dayanıklılığından dolayı boru izolasyonunda, kazanlarda kullanılmaktadır.\n\n\n<figure>\n<figcaption>Şekil Hata! Belgede belirtilen stilde metne rastlanmadı.1. Krizotil asbest [4, 5]</figcaption>\n\n(a)\n\n(b)\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "#### 2.3.2. Amfibol Grubu\n\n\nAmfibol lifleri serpantin liflerine göre daha kısa ve serttir. İğneye benzer görünüşlüdür. Neme\nve kimyasallara karşı dirençlidirler. Amfibol grubu asbest türleri çok küçük çapa sahiptir. Böylelikle insan dokularına daha kolay\nnüfuz edebilir. Bu nedenle de bu grupta bulunan asbest türleri serpantin grubuna göre daha\ntehlikeli olarak kabul edilir. Krokidolit Asbest: Mavi asbest olarak da bilinir. Liflere mavi rengi veren yüksek soda oranı ve\nana kayaçtan gelen demir bileşikleridir. <figure>\n<figcaption>Şekil 2. Krokidolit asbest [6]</figcaption>\n</figure>\n\n\nAmosit Asbest: Kahverengi asbest olarak da bilinir. Krizotilden sonra inşaat uygulamalarında\nikinci derecede yaygın olarak kullanılan asbest türüdür. Yüksek çekme dayanımına sahiptir ve\nısıya dayanıklıdır. Bu yüzden özellikle boru izolasyonunda, izolasyon panellerinde, kaplama ve\ndöşemelerde kullanılmaktadır. <!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3. Amosit asbest [7]</figcaption>\n</figure>\n\n\nTremolit Asbest: Bu asbest türü genellikle vermikulit ve krizotil asbestle beraber bulunur. Genellikle çatı yalıtımında kullanılmaktadır. <figure>\n<figcaption>Şekil 4. Tremolit asbest [8]</figcaption>\n</figure>\n\n\nAntofilit Asbest: Asbest yatağı en az olan mineraldir. Diğer Asbest türlerine göre en az\nkullanılan türdür. <figure>\n<figcaption>Şekil 5. Antofilit asbest [9]</figcaption>\n</figure>\n\n\nAktinolit Asbest: Asbestin bu formu diğerlerine göre daha sert dokuya sahiptir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "best türlerine göre en az\nkullanılan türdür. <figure>\n<figcaption>Şekil 5. Antofilit asbest [9]</figcaption>\n</figure>\n\n\nAktinolit Asbest: Asbestin bu formu diğerlerine göre daha sert dokuya sahiptir. Ticari olarak\nkullanılmamıştır. <figure>\n<figcaption>Şekil 6. Aktinolit asbest [10]</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "##### Türkiye'deki Asbest Kullanımı\n\n\nTürkiye asbest rezervleri bakımından oldukça zengin olup sahip olduğu yaklaşık 29.646.000\nton rezerv ile asbest bakımından en zengin ilk 10 ülke içinde yer almaktadır[11]. Sivas,\nErzincan, Tokat (Turhal), Bursa (Orhangazi), Hatay ve Bitlis'te krizotil, Eskişehir\n(Mihalıççık)'de ise amfibol türü asbest yatakları bulunmaktadır. Ülkemiz zengin rezervlere sahip olmasına karşın asbest madenciliğinde uzun yıllardan beri hiç\nbir gelişme sağlanamamış ve üretim tesisleri kurulmuş olsa da Türkiye'de asbest madenciliğinin\npilot işletme seviyesini geçememiştir [11]. 2000'li yıllarda dünyadaki yasaklama eğilimi\nsonucu asbest madenciliği tümüyle gündemden çıkmıştır. Türkiye'de 1993 yılına kadar asbest ithalatı ile ilgili herhangi bir kısıtlama ve kriter\nbulunmamaktadır, bu nedenle neredeyse tamamı asbestli mamul üreticisi olan ithalatçı\nfirmaların Mülga Hazine ve Dış Ticaret Müsteşarlığı'na (Ekonomi Bakanlığı) verdikleri bir\ntaahhütname ile istenilen miktarda ve cinste asbest ithal etmeleri mümkün olmuştur. Asbestin kontrolsüz kullanılmasının insan sağlığı üzerine olumsuz etkilerinin tartışılmasını\nmüteakip dünyada olduğu gibi Türkiye'de de asbest ile ilgili hukuki düzenlemeler yapılmaya\nbaşlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "r. Asbestin kontrolsüz kullanılmasının insan sağlığı üzerine olumsuz etkilerinin tartışılmasını\nmüteakip dünyada olduğu gibi Türkiye'de de asbest ile ilgili hukuki düzenlemeler yapılmaya\nbaşlanmıştır. Mülga Hazine ve Dış Ticaret Müsteşarlığı (Ekonomi Bakanlığı) ve Sağlık\nBakanlığının önerileri ve Çalışma ve Sosyal Güvenlik Bakanlığı'nın onayı ile asbestin\nTürkiye'ye ilk girişinde kontrolü, doğru kullanılmasının sağlanması ve gerekli tedbirlerin\nzamanında alınmasının Çalışma ve Sosyal Güvenlik Bakanlığı, İş Sağlığı ve Güvenliği\nAraştırma ve Geliştirme Enstitüsü Başkanlığı (İSGÜM) tarafından yapılması kabul edilmiştir. Türkiye'de asbestli mamul üretimi yapan işyerleri krizotil asbest kullanmışlardır. Bu sebeple\nithalatın tamamı krizotil asbest olmuştur. Sadece asbestli çimento boru üretimi yapan 2\nfabrikada 01/01/1996 tarihine kadar krizotil türü asbeste %3 ila %10 oranında krokidolit asbest\nkatılarak imalat yapılmıştır. İthal edilen asbestin önemli bir bölümü ise asbestli çimento\nsektöründe, asbestli çimento boru-levha imalinde tüketilmiş, bunu asbestli balata conta ve\nasbestli tekstil sektörü takip etmiştir [12].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "### 2.4. İKAME MADDELER\n\n\nAsbest içermeyen lifler; doğal organik lifler (pamuk ve saç), sentetik organik lifler (aramid,\npolyester ve rayon), doğal oluşan mineral lifler (wollastonit, diatom parçaları) ve insan yapımı\nmineral liflerdir. <!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\nAsbestin insan sağlığı üzerine olan etkilerinin saptanması asbest yerine kullanılabilecek\nmaddelerin araştırılması konusundaki çabalara hız vermiş olup, insan yapımı bazı mineral lifler\nendüstride kullanılmaya başlanmıştır. İnsan yapımı mineral lifler, lifli inorganik bileşiklerdir. Kaya, kil, cüruf ve camdan üretilirler. 3 ana grupta sınıflandırılırlar [13]. 1\\. Cam Lifi (Fiberglass): Cam Yünü ve Cam İplik (Cam Elyaf)\n\n2\\. Mineral Yün: Kaya Yünü ve Cüruf Yünü\n\n3\\. Ateşe Dayanıklı Seramik Lifler\n\nCam elyaf, cam ipliğidir. Silisli kum, kireçtaşı, asitborik, alüminyum ve magnezyum\nkarışımından elde edilir. Yapılarda sıcak su ve buhar kazanları ve borularında, teknelerde hafif\nyapılı plastik gövdeleri sağlamlaştırmak amacıyla kullanılır. Cam yünü, silis kumunun 1200 - 1250 ℃'de ergitilerek elyaf haline getirilmesi sonucu\noluşmaktadır. Dış duvarlarda her türlü duvar ve betonarme elemanların iç yüzeylerinde, iç\nbölme ve komşu duvarlarda, merdiven ve asansör boşluklarına bitişik duvarlarda, her türlü\nahşap oturtma çatılar, metal çatılar ve sandviç çatılarda, ahşap karkas binaların içten ısı ve ses\nyalıtımı uygulamalarında kullanılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "iven ve asansör boşluklarına bitişik duvarlarda, her türlü\nahşap oturtma çatılar, metal çatılar ve sandviç çatılarda, ahşap karkas binaların içten ısı ve ses\nyalıtımı uygulamalarında kullanılmaktadır. Kaya Yünü, yalıtıma en uygun kaya tipi olan bazalt kayadan üretilir. Isı yalıtımı, yangın\nyalıtımı, ses yalıtımı, asma tavanlarda ve rutubet ve nemi engellemek amacıyla kullanılır. Seramik lifler, metalik olmayan inorganik malzemelerdir. Oksitler, nitritler ve karbitler seramik\nmalzemelerin esasını oluştururlar. Cam lifinin kullanıldığı yerlerde uygulama alanı bulurlar. <!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 2. İnsan yapımı mineral liflere ait sınır değerler [14]</caption>\n<tr>\n<th></th>\n<th>NIOSH (REL-TWA)*</th>\n<th>ACGIH (TLV-TWA) **</th>\n<th>Tozla Mücadele Yönetmeliği</th>\n</tr>\n<tr>\n<td>Cam Yünü</td>\n<td>3 lif/cm3 5 mg/m3</td>\n<td>1 lif/cm3 Grup 3 ***</td>\n<td>3 lif/cm3 5 mg/m3</td>\n</tr>\n<tr>\n<td>Cam İplik</td>\n<td>3 lif/cm3 5 mg/m3</td>\n<td>1 lif/cm3 5 mg/m3 Grup 2B ****</td>\n<td></td>\n</tr>\n<tr>\n<td>Kaya Yünü</td>\n<td>3 lif/cm3 5 mg/m3</td>\n<td>1 lif/cm3 Grup 3 ***</td>\n<td>3 lif/cm3 5 mg/m3</td>\n</tr>\n<tr>\n<td>Cüruf Yünü</td>\n<td>3 lif/cm3 5 mg/m3</td>\n<td>1 lif/cm3 Grup 3 ***</td>\n<td>3 lif/cm3 5 mg/m3</td>\n</tr>\n<tr>\n<td>Seramik Lifler</td>\n<td></td>\n<td>0.2 lif/cm3 Grup 2B ****</td>\n<td></td>\n</tr>\n</table>\n\n\\*\nREL-TWA: NIOSH Tarafından Tavsiye Edilen Maruziyet Limitleri\n\nTLV-TWA: ACGIH Tarafından Tavsiye Edilen Maruziyet Limitleri.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "td>\n<td></td>\n<td>0.2 lif/cm3 Grup 2B ****</td>\n<td></td>\n</tr>\n</table>\n\n\\*\nREL-TWA: NIOSH Tarafından Tavsiye Edilen Maruziyet Limitleri\n\nTLV-TWA: ACGIH Tarafından Tavsiye Edilen Maruziyet Limitleri. ***\nGrup 3: İnsanlar için kanserojen olarak sınıflandırılmaz\n\nGroup 2B: İnsanlar için kanserojen olabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "## 3. ASBEST KAYNAKLARI\n\n\nAsbest, tutuşmazlık, sıcaklığa ve pasa mukavemet, ısı izolasyonu, yüksek mekanik dayanıklılık,\nçimento ve diğer benzerleri ile yakınlık kurabilme vb. gibi özellikleri olması nedeniyle birçok\nalanda kullanılmaktadır. Bu kullanım alanlarından en öne çıkan inşaat/yapı sektörü olmaktadır\n[15]. <!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 7. Bir binada karşılaşılabilecek asbest noktaları [16]</figcaption>\n\n18\n\n1\n\n14\n\n2\n\n17\n\n15\n\n5\n\n13\n\n16\n\n6\n\n5\n\nFIRE\nDOOR\n\n8\n\n7\n\n3\n\n12\n\n6\n\n9\n\n4\n\nFIRE\nDOOR\n\nD\n\n11\n\n0\n\n4\n\n10\n\n</figure>\n\n1\\)\nTavanlar, duvarlar, kirişler ve kolonlar üzerine püskürtme asbest\n\n2\\)\nAsbest Çimentolu Su Tankı\n\n3\\)\nGevşek Dolgu İzolasyon\n\n4\\)\nKazan ve Borularda Kaplama\n\n5\\)\nTavan Kaplaması\n\n6\\)\nKlozet\n\n7\\)\nBölme Duvar\n\n8\\)\nYangın Kapısı\n\n9\\)\nAsbestli Halatlar ve Contalar\n\n10\\)\nMarleyler\n\n11\\)\nKazanın Etrafındaki Asbestli Paneller\n\n12\\)\nYangın Battaniyesi\n\n13\\)\nDuvar ve Tavanlarda Dekorasyon Amaçlı Kaplamalar\n\n14\\)\nEternit\n\n15\\)\nAsbestli Çimento Paneller\n\n16\\)\nAsbest Çimento Olukları ve Boruları\n\n17\\)\nÜst Eşik\n\n18\\)\nAsbestli Çimento Bacası\n\n19\\)\nDiğerleri: Sigorta kutusunda, Havalandırma Sisteminde\n\n\nÜlkemizde inşaat/yapı sektöründe asbestin ne kadar kullanıldığına dair veriler oldukça sınırlı\nolmakla birlikte gerek bina gerekse endüstriyel birçok yapının üretim süreçlerinde kullanıldığı\nbilinmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "izde inşaat/yapı sektöründe asbestin ne kadar kullanıldığına dair veriler oldukça sınırlı\nolmakla birlikte gerek bina gerekse endüstriyel birçok yapının üretim süreçlerinde kullanıldığı\nbilinmektedir. Bu nedenle bu yapıların yıkımı ve tadilatı gündeme geldiğinde, faaliyete\nbaşlamadan önce asbestin bulunup bulunmadığına ilişkin gerekli analizlerin yapılması ve asbest\nmaruziyetinin önlenmesi gerekmektedir. <!-- PageNumber=\"9\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "## 4. ASBEST MARUZİYETİ\n\n\nYapılan araştırmalara göre asbest maruziyeti iki şekilde meydana gelebilmektedir. Birincisi\n\"Jeojenik/Çevresel Asbest Maruziyeti\" olarak adlandırılan ve jeolojik koşullardan kaynaklanan\nmaruziyettir. İkincisi ise işyeri koşullarından meydana gelebilen, Endüstriyel/Mesleki Asbest\nMaruziyeti'dir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "### 4.1. JEOJENİK/ÇEVRESEL MARUZİYET\n\n\nJeojenik/Çevresel Asbest Maruziyeti, yaşam çevremizde jeolojik olarak kaya ve toprak\nniteliğinde var olan asbest oluşumlarından ve/veya bunların yapı malzemesi olarak\nkullanılmasından kaynaklanan maruziyetlerdir. Özellikle Türkiye'de asbest maruziyeti\naçısından mesleki temastan önce çevresel asbest maruziyetinden bahsetmek gerekmektedir.\nÇünkü çok sayıda yerleşim biriminde yaşayanlarda çevresel asbest maruziyetine bağlı kanser\ngörülme sıklığı açısından Türkiye, dünyada önde gelen ülkeler arasında yer almaktadır.\n\nÜlkemizde gerçekleştirilen Tıbbi Jeolojik araştırmalara göre, üzerine kurulu olduğu veya\nçevresindeki zeminlerde jeolojik olarak asbest oluşumları bulunan çok sayıdaki yerleşim\nbiriminde yaşayanlar ev içi ve dışı ortamlarda asbest liflerinin solunması yoluyla asbest\nmaruziyeti ile karşı karşıyadır [17]. Asbestli toprak, Anadolu'da; ak toprak, çorak toprak, ceren\ntoprağı, çelpek veya höllük gibi isimlerle bilinmekte ve bu toprak köylerde kireç, sıva, çatı ve\nzemin malzemesi olarak hatta bebek beşiğinde kullanılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "### 4.2. ENDÜSTRİYEL/MESLEKİ MARUZİYET\n\n\nEndüstriyel/Mesleki Maruziyet, sanayide asbest üretim ve kullanımı ile asbestli malzemelerin\nsöküm, yıkım ve tadilatı süreçlerinde gerçekleşmektedir. Bu maruziyet birincil olarak asbest\nmadenleri ve ocaklarında olur. İkincil düzeyde; inşaat ve otomotiv sanayi, gemi yapımı, tamiri,\nizolasyon işleri, çimento üretimi, kiremit, kalıp, döküm, panel, asbestli balata imalatı, tamiri ve\nkullanımı, plastik yer karosu (marley) yapımı, döşenmesi ile yapı yıkım ve sökümü sırasında\nolur. Üçüncül düzeyde ise kontaminasyon yoluyla indirek maruziyetlerdir. Asıl maruziyet\nikincil yolla olmaktadır.\n\nAsbest ile ilgili en önemli toplantı Finlandiya'nın önderliğinde Helsinki'de 22 Ocak 1997'de\nyapılmıştır. Bu toplantı sonucu Helsinki kriterleri olarak isimlendirilen asbest kullanımı\nkonusunda bir konsensüs oluşmuştur.\n\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\nAsbest maruziyeti için Helsinki Kriterleri aşağıdaki maddelerde belirtilmiştir:\n\n1\\.\nEn az 1 yıl, asbestli çimento fabrikası, asbest içeren binaların yıkım işleri veya asbestle\ndoğrudan çalışma gibi büyük maruziyet öyküsü\n\n2\\.\n5-10 yıl süreyle tersanede kapalı alanda çalışmak, düzenli olarak asbestli çimentoyla\nçalışmak, asbest maruziyeti olan tesisatçılık, balata tamirciliği gibi, genellikle kapalı\nortamlarda, asbeste direkt maruz kalınan orta derecede maruziyet öyküsü\n\n3\\.\nYa da ortam ölçümlerinde en az 25 lif/cm3 bulunması [18].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "#### 4.2.1. Yıkım Kaynaklı Asbest Maruziyeti\n\n\n2012 yılında 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un\nyayımlanması ile birlikte Ülkemizde kentsel dönüşüm projeleri hız kazanmış ve önümüzdeki\n20 yılda yaklaşık 6.5 Milyon bağımsız birimin yıkılarak dönüştürülmesi gündeme gelmiştir. Bu\nyoğunluktaki yıkım faaliyetinde gerekli \"asbest güvenliği tedbirlerinin alınamaması\"\ndurumunda önemli risklerle karşı karşıya gelinebileceği açıktır. Yıkım kaynaklı asbest\nmaruziyeti, asbestli yapı malzemelerinin yıkım öncesinde usulüne uygun olarak sökülerek\nyıkım mahallinden uzaklaştırılmaması koşullarında gerçekleşmektedir. Asbestli malzeme\niçeren yapıların bu şekilde yıkılması durumunda ortaya çıkacak tozların asbest lifleri içermesi\nve bu liflerin solunması maruziyet oluşturacaktır. Bu nedenle birçok ülke kendi yıkım prosedürlerinde, yıkım öncesi \"asbest envanteri\nyapılmasını\" zorunlu hale getirmiştir. Bu prosedürler sadece yapının tamamen yıkılması\nişlemleri için değil, asbestli malzemeyi içeren yapı parçalarının herhangi bir nedenle\nkaldırılması (asbestli çatı kaplamalarının veya vinil kaplamaların değiştirilmesi, asbestli panel\nduvarların sökümü vb.) işlemleri için de geçerli kılınmıştır. Öte yandan yıkımlarda asbest\nmaruziyeti, sadece yıkım mahallindeki kontrolsüz girişimler ile oluşacak \"asbest tozuması\" ile\nçalışanların karşı karşıya kalacağı maruziyet ile sınırlı değildir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Yıkım Kaynaklı Asbest Maruziyeti\n\n\n2012 yılında 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "nmıştır. Öte yandan yıkımlarda asbest\nmaruziyeti, sadece yıkım mahallindeki kontrolsüz girişimler ile oluşacak \"asbest tozuması\" ile\nçalışanların karşı karşıya kalacağı maruziyet ile sınırlı değildir. Gerekli önlemlerin alınmaması\nsonucu gerek yıkım faaliyeti sırasında gerekse asbestli atıkların taşınması sürecinde etrafa\nyayılacak asbest lifli tozlar çevredeki yerleşimlerde yaşayanlar için \"asbest maruziyeti\" riskini\noluşturabilecektir. Ulusal mevzuatımızda 18/03/2004 tarihli ve 25406 sayılı Resmi Gazete'de yayımlanan Hafriyat\nToprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği'nin Yıkım İşlemleri başlıklı 19\nuncu maddesinde \"Çalışanların sağlığını ve güvenliğini korumak amacıyla, asbest içeren\nmalzemelerin kullanıldığı binaların yıkımı, sökümü, tamiratı ve tadilatı sırasında Çalışma ve\nSosyal Güvenlik Bakanlığı tarafından hazırlanan ve 26/12/2003 tarihli ve 25328 sayılı Resmî\n\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nGazete'de yayımlanan Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında\nYönetmelik esaslarına uyulur\" hükmü yer almaktadır. Ayrıca 13/10/2021 tarihli ve 31627 sayılı\nResmi Gazete'de yayımlanan Binaların Yıkılması Hakkında Yönetmeliğin Seçici yıkım başlıklı\n15 inci maddesi ile Yıkımda asbest ve diğer tehlikeli atıkların tespiti ve sökümü başlıklı 16 ncı\nmaddelerinde \"yıkım öncesinde varsa tehlikeli atıkların ayıklanarak ayrılmasını, ...",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "ci yıkım başlıklı\n15 inci maddesi ile Yıkımda asbest ve diğer tehlikeli atıkların tespiti ve sökümü başlıklı 16 ncı\nmaddelerinde \"yıkım öncesinde varsa tehlikeli atıkların ayıklanarak ayrılmasını, ... , kontrollü\nve aşamalı olarak Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliğine göre\nseçici yıkım uygulanır.\", \"Seçici yıkım, asbest ve diğer tehlikeli atıkların; kapı ve pencerelerin,\nlavabo, küvet gibi sıhhi tesisat gereçleri ve benzeri ... malzemelerin ayrılması ... aşamalarını\nkapsar.\", \"Yıkıma başlanılmadan önce asbestli imalatın var olup olmadığı, varsa asbest içeren\nimalatlar için asbestin türünü, miktarını ve yerini belirlemeye yönelik envanter çalışması\nyapılması zorunludur. Envanter çalışması sırasında katı numune alma ve analiz işlemleri,\nÇalışma ve Sosyal Güvenlik Bakanlığı tarafından katı numunede asbest tür tayini\nparametresinden yetkilendirilmiş bir laboratuvar tarafından yapılır. Asbest ve diğer tehlikeli\nmaddeleri içeren imalatlar, yıkım faaliyetinden önce belirlenerek sökülür, ayrı olarak toplanır\nve Atıkların Düzenli Depolanmasına Dair Yönetmelik hükümlerine göre bertaraf edilir.\",\n\"Asbest söküm işlemleri, TS 13895 Asbest İçeren Malzemelerin Sökümü ve Asbest Bertaraf\nYöntemleri Kılavuzuna uygun olarak yapılır.\" ve \"Yıkım ve söküm işlemleri sırasında,\n25/1/2013 tarihli ve 28539 sayılı Resmî Gazete'de yayımlanan Asbestle Çalışmalarda Sağlık\nve Güvenlik Önlemleri Hakkında Yönetmeliğe uyulur\" hükümleri yer almaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "## 5. ASBESTİN NEDEN OLDUĞU HASTALIKLAR\n\n\nAsbeste maruz kalınması sonucunda oluşan meslek hastalıkları aşağıdaki gibidir.\n\n1\\.\nAsbestoz: İlk olarak tersane işlerinde çalışanlarda tespit edilen asbestoz, asbest liflerini\nçözmeye çalışan vücut tarafından üretilen asidin akciğer zarında oluşturduğu yaralardır. Bu\nhastalığın kendini göstermesi 10-20 yılı bulmaktadır.\n\n2\\.\nPlevral Reaksiyonlar\n\n· Plevral plaklar, benign asbest plörezisi ve diffüz plevral kalınlaşma\n\n3\\.\nParenkimal Akciğer Hastalıkları:\n\n· Rounded atelektazi ve transpulmoner bantlar\n\n4\\.\nAsbestin Neden Olduğu Dermatozlar\n\n5\\. Kanserler\n\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\n· Malign mezotelyoma: Asbestin yol açtığı en önemli hastalık akciğer zarı ve karın zarı\nkanseri, yani mezotelyomadır. Batı ülkelerinde yılda her bir milyon kişinin 1-2'sinde\nsaptanan mezotelyoma, ülkemizde yılda en az 500 kişide görülmektedir.\nMezotelyoma'ya ait en sık rastlanan yakınmalar, ağrı ve ilerleyici nefes darlığıdır.\nAkciğer röntgeni ve tomografide tipik bulgular saptanabilirse de, kesin tanı için\nbaşvurulan standart yöntem akciğer zarı biyopsisidir. Mezotelyoma, erken dönemde\ntanınıp uygun cerrahi girişim uygulanamadığında, ilaç ya da ışın tedavisine iyi cevap\nvermeyen ve hastayı kısa zamanda ölüme götüren bir hastalıktır.\n\n· Akciğer kanseri: Asbest, akciğer, gırtlak ve sindirim sistemi kanserlerine yol\naçmaktadır.\n\n· Diğer tümörler (GİS, böbrek, larinks vs.)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "### 6. Diğerleri\n\n\n· Hava yolu obstrüksiyonu, immünolojik değişiklikler, perikardiyal sıvı-kalınlaşma, üst\nzon değişiklikleri, retroperitoneal fibrozis vs.\n\nDSÖ tarafından yıllık küresel 107.000 ölümün mezotelyoma, asbeste bağlı akciğer kanseri ve\nasbestoz nedenli olduğu tahmin edilmektedir [19]. 2005 yılında mesleki asbest maruziyetinin\nmezotelyoma ilişkili 43.000 ölüme [20] ve dünya genelinde asbestoz ilişkili 7.000 ölüme neden\nolduğu tahmin edilmektedir [21,22]. Mezotelyoma nedenli ölümlerin 7.000'i Avrupa'ya\natfedilmiştir [20] .\n\n2010 Çevre ve Sağlık konulu Parma Deklarasyonu sayesinde, DSÖ Avrupa Bölge Ofisi Üye\nDevletleri asbeste bağlı hastalıkların ortadan kaldırılması gereği üzerinde mutabakata\nvarmışlardır [23]. 2015 yılında Çevre ve Sağlık konulu Parma Deklarasyonu'nun\nuygulanmasında kilometre taşı olması yönünden [23], DSÖ ve Uluslararası Çalışma Örgütü\n(ILO) özellikle her bir devleti asbeste bağlı gelişen hastalıkların ortadan kaldırılması amacıyla\nulusal bir program hazırlanması ve ulusal asbest profilinin geliştirilmesi yönünde teşvik etmiştir\n[24].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "### 6.1. ASBEST ÖLÇÜMÜ VE NUMUNE ALMA\n\n\nAsbestin yapı malzemelerinden fren balatalarına, tencere kulplarından askeri ekipmanlara\nkadar çok değişik sektörlerde kullanımı sözkonusu olduğundan birçok endüstriyel üründe\nkarşımıza çıkmaktadır. Yapılarda yapılan söküm, yıkım, tamir, bakım ve uzaklaştırma\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nçalışmalarında ve gemi söküm sırasında çalışanlar, asbest ile temasa geçebilir. Bu tür\nçalışmalar, dikkatsiz ve uygunsuz uygulamalarda, yüksek lif yayılımlarına neden olabilir ve\nçalışanlara ve üçüncü şahıslara zarar verebilir. Söküm, yıkım, tamir, bakım ve uzaklaştırma\nişlerinde asbestli malzemenin bina, gemi veya diğer yapıların neresinde olacağının tespiti\nuzman biri tarafından yapılmalıdır. Ancak tehlikeli madde durumunun açıklığa\nkavuşturulmasıyla birlikte doğru koruyucu tedbirler uygulanabilir ve tüm çalışanların güvenli\nbir şekilde çalışması sağlanabilir. Asbest ölçüm ve numune alma işlemleri iki şekilde yapılır. Birincisi; söküm, yıkım, tamir, bakım ve uzaklaştırma çalışmalarına başlamadan önce,\nyapılarda asbest olup olmadığı ve var ise hangi tür asbest olduğunun belirlenmesi\ngerekmektedir. Bunun belirlenmesi için, uzman biri tarafından, yapının asbest olduğundan\nşüphelenilen bölümünden katı (bulk) numune alınır. Alınan numune içerisinde asbest olup\nolmadığı, var ise hangi tür asbest olduğunu saptamak amacıyla analiz yapılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "afından, yapının asbest olduğundan\nşüphelenilen bölümünden katı (bulk) numune alınır. Alınan numune içerisinde asbest olup\nolmadığı, var ise hangi tür asbest olduğunu saptamak amacıyla analiz yapılır. Bu şekilde alınan\nnumunelerin analizi, Polarize Işık Mikroskobu (PLM), Taramalı Elektron Mikroskobu (SEM),\nTransmisyon Elektron Mikroskobu (TEM) veya Fourier Transform Infrared Spektroskopisi\n(FTIR) ile yapılabilir. Analiz sonucunda numunede asbest bulunması durumunda, sökümü\nyapılacak asbestin türü ve miktarına ait bilgiler, iş planı ile birlikte, işe başlamadan önce\nişyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlüğüne yapması gereken bildirimde\nbulunmalıdır [25]. <figure>\n<figcaption>Şekil 8. Bazı asbest türlerine ait elektron mikroskobu görüntüleri [26]</figcaption>\n\nKRİZOTİL\n\nKROKİDOLİT\n\nANTOFİLİT\n\nTREMOLİT\n\n</figure>\n\n\nİkincisi ise; çalışanın kişisel maruziyetinin belirlenmesi için çalışma ortamında çalışanın\nsolunum seviyesinden alınan hava numunesidir. Alınan numunenin analizi (sayımı) Faz\nKontrast Mikroskobu (PCM), Taramalı Elektron Mikroskobu (SEM) veya Transmisyon\nElektron Mikroskobu (TEM) ile yapılabilir. Analiz sonucu, çalışanın sekiz saatlik çalışma\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nsüresi boyunca maruz kaldığı lif konsantrasyonunu (lif/cm3) verecek şekilde hesaplanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "M) ile yapılabilir. Analiz sonucu, çalışanın sekiz saatlik çalışma\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nsüresi boyunca maruz kaldığı lif konsantrasyonunu (lif/cm3) verecek şekilde hesaplanır. Mevzuatımıza göre, bu şekilde yapılan asbest ölçüm ve numune alma işlemleri, akredite olmuş\nve İş Sağlığı ve Güvenliği Genel Müdürlüğü'nce (İSGGM) yetkilendirilmiş laboratuvarca\nyapılır [25]. Katı (bulk) numune analizini yapacak laboratuvarın bakanlıktan yetki almış olması\ngerekmemektedir. Ancak, TÜRKAK tarafından akredite edilmiş laboratuvarların tercih\nedilmesi tavsiye edilir. Asbest tespit edildikten sonra çalışanların asbest maruziyetini tespit\nedecek laboratuvarların ise, yukarıda belirtildiği üzere, mutlaka yetki almış olması\ngerekmektedir. <table>\n<caption>Tablo 3.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "ir. Asbest tespit edildikten sonra çalışanların asbest maruziyetini tespit\nedecek laboratuvarların ise, yukarıda belirtildiği üzere, mutlaka yetki almış olması\ngerekmektedir. <table>\n<caption>Tablo 3. İlgili parametrelerin metotlara göre karşılaştırılması [27]</caption>\n<tr>\n<th>Mikroskop Çeşidi</th>\n<th>Sayım Yapılan Büyütme Oranı</th>\n<th>Sayılabilir Lifin Tanımlanması Uzunluk, u Genişlik, g</th>\n<th>Sayım Yapılan Büyütmede, Görülebilecek Yaklaşık En Küçük Lif Genişliği</th>\n<th>Tür Tanımlaması</th>\n</tr>\n<tr>\n<td>PCM</td>\n<td>400-500</td>\n<td>u/g: Minimum 3,0 u &gt; 5,0 um g &lt;3,0 um</td>\n<td>0,2 um</td>\n<td>Yapılamaz</td>\n</tr>\n<tr>\n<td>SEM</td>\n<td>2 000</td>\n<td>u/g: Minimum 3,0 u &gt; 5,0 um g &lt;3,0 um</td>\n<td>0,2 um</td>\n<td>Kimyasal bileşimine göre</td>\n</tr>\n<tr>\n<td rowspan=\"2\">TEM</td>\n<td>20 000</td>\n<td>u/g: Minimum 5,0 u:Minimum 0,5 um</td>\n<td>0,01 um</td>\n<td rowspan=\"2\">Kristal yapısı ve kimyasal bileşimine göre</td>\n</tr>\n<tr>\n<td>5 000</td>\n<td>u/g: Minimum 3,0 u:Minimum 5,0 um g: 0,2 pm - 3,0 um</td>\n<td>0,01 um</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "### 6.2. SINIR DEĞER\n\n\nMevzuatımıza göre, asbestle çalışmalarda çalışanların maruz kaldığı havadaki asbest\nkonsantrasyonunun, sekiz saatlik zaman ağırlıklı ortalama değeri (ZAOD-TWA) 0,1\nlif/cm3'dür [25,28]. Her ne kadar bu sınır değer konsantrasyon cinsinden ifade ediliyor olsa da,\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->\n\naslında çalışanın maruz kaldığı lif konsantrasyonunun 8 saat zaman ağırlıklı ortalaması\nolduğuna dikkat edilmelidir. Lif konsantrasyonu 0,8 lif/cm3 olan bir çalışma ortamında, eğer\nkonsantrasyon mühendislik önlemleri ile düşürülemiyorsa, maruziyet değeri çalışma süresinin\n1 saate çekilmesi yoluyla düşürülebilir. Diğer bir deyişle, 0,8 lif/cm3 konsantrasyon bulunan\nbir çalışma ortamında kişinin en fazla 1 saat çalışmasına izin verilebilir. Ayrıca, sınır değerle karşılaştırma yapmak için bakanlıkça yetkilendirilmiş bir laboratuvar\ntarafından gerçekleştirilen ölçümün sonucunun o günün çalışma şartlarını yansıttığını göz\nönüne almak gerekir. Dolayısıyla, sınır değerin yarısını aşan bir sonuç elde edildiğinde,\nçalışmanın ilerleyen safhalarında sınır değeri aşma ihtimalinin yüksek olduğu değerlendirmesi\nyapılmalı ve maruziyeti düşürücü tedbirler tasarlanmalı ve uygulanmalıdır. Elde edilen\nmaruziyet değerinin sadece çalışma ortamı koşullarına ve teknik önlemlere değil, çalışan\nkişilerin iş uygulama biçimlerine de bağlı olduğu unutulmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "tasarlanmalı ve uygulanmalıdır. Elde edilen\nmaruziyet değerinin sadece çalışma ortamı koşullarına ve teknik önlemlere değil, çalışan\nkişilerin iş uygulama biçimlerine de bağlı olduğu unutulmamalıdır. Dolaysıyla, maruziyetin\nartmasını engelleyecek tedbirlerin uygulanması ve çalışma alanının temiz ve düzenli tutulması\nkonuları çalışanlara mümkün olduğunca sık bir şekilde hatırlatılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "## 7. ASBESTLE ÇALIŞMALARDA SAĞLIK GÖZETİMİ\n\n\nAsbestle çalışmalarda, çalışanların sağlık gözetiminin nasıl yapılması gerektiği \"Asbestle\nÇalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik\"in 16 ncı maddesinde\naşağıdaki gibi belirtilmiştir. \"(1) Çalışanlar aşağıdaki hususlar göz önünde bulundurularak sağlık gözetimine tabi\ntutulur. a) Bu Yönetmelik kapsamındaki işleri ilk defa yapacak kişinin, önce işyeri hekimi\ntarafından genel sağlık durumu değerlendirilir ve Ek-I'de belirtildiği şekilde, özellikle\nsolunum sistemi muayeneleri başta olmak üzere genel sistemik fizik muayene ile diğer\ntetkik ve kontrolleri yapılır. İşyeri hekimi, risk değerlendirmesi ve ölçüm sonuçlarını\ndikkate alarak çalışanların sağlık durumlarını değerlendirir ve değerlendirme sonucuna\ngöre akciğer radyografilerini uygun sürelerle tekrarlar, bu süre 2 yılı aşamaz. b) Sağlık gözetiminden sorumlu işyeri hekimi; muayene ve tetkiklerin sonucuna göre,\nçalışanın asbeste maruz kalacağı işlerde çalıştırılmaması da dahil her türlü koruyucu ve\nönleyici tedbirleri belirleyerek işverene önerilerde bulunur. <!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nc) Çalışanlara maruziyetin sona ermesinden sonra da yapılması gereken sağlık\ndeğerlendirmeleri ile ilgili bilgi verilir. Hekim, maruziyetin bitmesinden sonra sağlık\ngözetiminin devam etmesi gereken süreyi belirleyebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle\nÇalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "iyetin sona ermesinden sonra da yapılması gereken sağlık\ndeğerlendirmeleri ile ilgili bilgi verilir. Hekim, maruziyetin bitmesinden sonra sağlık\ngözetiminin devam etmesi gereken süreyi belirleyebilir. ç) Çalışan ve/veya işveren sağlık muayene ve tetkiklerinin yeniden yapılmasını isteme\nhakkına sahiptir.\"\n\nAsbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik'in Ek-I'i\naşağıda yer almaktadır. \"(1) Bu Yönetmeliğin 16 ncı maddesinde belirtilen sağlık gözetimleri ile ilgili hususlar\nşunlardır:\n\na) Mevcut bilgilere göre serbest asbest liflerine maruziyet aşağıdaki hastalıklara sebep\nolabilir. 1\\) Asbestoz\n\n2\\) Mezotelyoma\n\n3\\) Akciğer kanseri (bronşiyal karsinom)\n\n4\\) Mide-bağırsak kanseri\n\nb) İşyeri hekimi ve/veya diğer sağlık personeli, asbeste maruz kalan çalışanların her\nbirinin maruz kalma durumunu ve çalışma şartlarını izlemekle yükümlüdür. c) Çalışanların sağlık muayeneleri, iş sağlığı prensip ve uygulamalarına uygun şekilde\nyapılır ve en az aşağıdaki hususları içerir. 1\\) Çalışanın mesleki ve tıbbi özgeçmişi ile ilgili kayıtlarının tutulması,\n\n2\\) Her çalışanın genel sistemik fizik muayenesi ve özellikle solunum sistemi muayenesini,\n\n3\\) Yukarıda belirtilen muayeneler yapılırken gerekli gizlilik esasına dikkat edilmesi,\n\n4\\) 35x35 standart akciğer radyografisinin veya dijital akciğer radyografisinin çekilmesi,\n5\\) Solunum fonksiyon testinin yapılması (Solunan havanın hacmi ve hızı).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Bu Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "gizlilik esasına dikkat edilmesi,\n\n4\\) 35x35 standart akciğer radyografisinin veya dijital akciğer radyografisinin çekilmesi,\n5\\) Solunum fonksiyon testinin yapılması (Solunan havanın hacmi ve hızı). ç) Uygun olarak yapılan sağlık gözetimi sonucunda, çalışanın sağlığında şüpheli durum\nsaptandığında, hekim mevzuata uygun olarak çalışanın ileri tetkiklerinin yapılmasını ve\nilgili uzman tarafından değerlendirilmesini isteyebilir. Ayrıca çalışana sağlık durumu ile\nilgili bilgi verilir. Benzer biçimde maruz kalan diğer çalışanların sağlık durumu da\ngözden geçirilir. d) Yapılan sağlık gözetimi ile ilgili olarak her çalışanın kişisel sağlık kaydı tutulur ve\ngüncellenir. Bu kayıtlar gizlilik esasına uygun olarak ve gerektiğinde incelenebilecek\nşekilde saklanır. <!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\ne) İşyeri hekimi, iş sağlığındaki gelişmeleri göz önüne alarak balgam sitoloji testi,\nbilgisayarlı tomografi, tomodansitometri gibi daha ileri tetkikler isteyebilir.\"",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "## 8. ASBESTLE ÇALIŞMALARDA RİSK DEĞERLENDİRMESİ\n\n\nÜlkemizde,\n\n· Asbestin her türünün çıkarılması, işlenmesi, satılması ve ithalatı,\n\n· Asbest içeren her türlü ürünün ithalatı ve satılması,\n\n· Asbest ürünlerinin veya asbest ilave edilmiş ürünlerin üretimi ve işlenmesi yasaktır. Asbestle çalışmaya artık sadece söküm, yıkım, tamir, bakım, uzaklaştırma ve bertaraf\nçalışmaları kapsamında izin verilmektedir. İleride oluşabilecek asbest kaynaklı hastalıkların\nengellenebilmesi için asbest içeren ürünlerin çalışmanın başında belirlenmesi ve güvenli olarak\nbu çalışmaların yürütülmesi önemlidir. Asbestli malzemenin durumunun değerlendirilmesi\nkonusunda söküm yapılacak yerdeki malzemelerin durumunu anlamak için aşağıdaki sorular\nyanıtlanmalıdır:\n\n· Malzemenin yüzeyi hasarlı, yıpranmış veya çizilmiş mi? · Yüzey dolguları soyulmaya/kırılmaya başlamış mı? · Malzeme tutunduğu yüzeyden ayrılmaya başlamış mı? · Malzemeyi koruyan kaplamalarda eksik ya da hasar var mı? · Malzemenin yakınlarında asbestli toz/artık var mı? Asbest içeren yapılardaki, yıkım, söküm, onarım ve bakım çalışmaları sırasındaki koruyucu\ntedbirlerin seçimi sırasında da iki grup dikkate alınır:\n\n· Zayıf bağlı ürünler (Hacim yoğunluğu 1000 kg/m3 altında)\n\nZayıf bağlı asbest yapılarının hacim yoğunluğu esasen 1000 kg/m3 altındadır, yani yüksek\nasbest oranı olmakla birlikte düşük bağlayıcılığa sahiptir. Asbest payı , %60'dan fazladır. Kısmen amfibol asbestten oluşmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "yapılarının hacim yoğunluğu esasen 1000 kg/m3 altındadır, yani yüksek\nasbest oranı olmakla birlikte düşük bağlayıcılığa sahiptir. Asbest payı , %60'dan fazladır. Kısmen amfibol asbestten oluşmaktadır. Zayıf bağlı asbest ürünleri aşağıdaki gibidir:\n\n\\- Püskürtme asbest\n\n\\- Asbest içeren sıva\n\n\\- Asbest içeren hafif yapı levhaları, yangın koruyucu levhalar\n\n\\- Asbest iplikleri, halatları ve contalar\n\n\\- Asbest karton\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n\\- Asbest içeren macun ve dolgu maddesi\n\n\\- Zemin kaplamaları için asbest içeren yapıştırıcılar\n\n\\- Yangın kapakları, yangın kapılarının dolgu maddesi\n\n\\- Asbest içeren gece elektriği depolama cihazı\n\n\\- Dolgu maddesi olarak dökme halde asbest\n\n· Güçlü bağlı ürünler (Hacim yoğunluğu 1400 kg/m3 üzerinde)\n\nGüçlü bağlı asbest ürünlerinin hacim yoğunluğu esasen 1400 kg/m3 üzerindedir, yani düşük\nasbest oranı olmakla birlikte yüksek bağlayıcılığa sahiptir. Güçlü bağlı ürünler asbestli çimento\nolarak düşünülebilir. Örneğin:\n\n\\- Asbestli çimento oluklu levhalar; örneğin çatı kaplamaları, cephe kaplamaları\n\n\\- Asbestli çimento levhalar; örneğin duvar elemanları, cephe levhaları\n\n\\- Asbestli çimento borular/kanallar; örneğin atık su boruları, havalandırma kanalları\n\n\\- Asbestli çimento-kalıp parçaları\n\nBunun dışında asbeste; flex levhalar, vinil kaplamalar gibi zemin kapmalarında da güçlü bağlı\nşekilde rastlanmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "in atık su boruları, havalandırma kanalları\n\n\\- Asbestli çimento-kalıp parçaları\n\nBunun dışında asbeste; flex levhalar, vinil kaplamalar gibi zemin kapmalarında da güçlü bağlı\nşekilde rastlanmaktadır. Sökümden kaynaklanacak risklerin değerlendirilmesi hususunda ise, aşağıdaki soruların\ncevaplandırılması sökümün tehlikelerini gösterecektir;\n\n· Malzemenin yeri neresi, miktarı ve durumu ne? · Malzemeye erişim kolay mı? · İnsanlarla malzemenin etkileşimi ne düzeyde? · Malzeme tozuma yaparsa insanları etkileyebilecek yakınlıkta mı? · Malzemenin yakınlarında kaç kişi bulunuyor? · Malzemenin yakınlarında tamir/bakım/ tadilat faaliyetleri var mı? Bu soruları kapsayan malzeme değerlendirme algoritması ve asbest risk analizi aşağıdaki\nbaşlıklarda anlatılmıştır. <!-- PageNumber=\"19\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "Malzeme değerlendirme algoritması</caption>\n<tr>\n<th>Değerlendirme Kriteri</th>\n<th>Puan</th>\n<th></th>\n<th>Örnekler</th>\n</tr>\n<tr>\n<td rowspan=\"3\">Ürün Tipi</td>\n<td>1</td>\n<td colspan=\"2\">Güçlendirilmiş asbestli kompozitler (plastik, reçine, mastik, keçe, marley, asbestli çimento vb.)</td>\n</tr>\n<tr>\n<td>2</td>\n<td colspan=\"2\">Asbest izolasyon panelleri, mukavva/panel, asbestli tekstil, conta, ip, asbestli kağıt.</td>\n</tr>\n<tr>\n<td>3</td>\n<td colspan=\"2\">Termal izolasyon (boru, kazan kaplama), sprey asbest, gevşek yalıtım</td>\n</tr>\n<tr>\n<td rowspan=\"4\">Hasar Durumu</td>\n<td>0</td>\n<td colspan=\"2\">İyi durum -görünür hasar olmaması</td>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td>Az hasar-birkaç çizik, kırılmış uçlar vs.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Orta</td>\n<td>hasar - dikkate değer kırılmalar veya liflerin gözle görülecek şekilde ortaya çıkması</td>\n</tr>\n<tr>\n<td>3</td>\n<td colspan=\"2\">Yüksek Hasar- yerlerde asbest molozu görülmesi vs.</td>\n</tr>\n<tr>\n<td rowspan=\"4\">Yüzey Durumu</td>\n<td>0</td>\n<td colspan=\"2\">Kompozit malzemeler- güçlendirilmiş plastik, reçine, marley</td>\n</tr>\n<tr>\n<td>1</td>\n<td colspan=\"2\">Kapalı yerdeki sprey ve yalıtım, asbestli çimento</td>\n</tr>\n<tr>\n<td>2</td>\n<td colspan=\"2\">Açıkta duran panel, örtülmüş (kaplamalı) sprey ve yalıtım</td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td>Açıkta duran kaplama ve sprey</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Asbest Tipi</td>\n<td>1</td>\n<td></td>\n<td>Krizotil</td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td>Amfiboller (krosidolit hariç)</td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td>Krosidolit</td>\n</tr>\n<tr>\n<td>Toplam Puan</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">Puan</td>\n<td></td>\n<td>Asbest Lif Yayma Potansiyeli</td>\n</tr>\n<tr>\n<td>10 ve üzeri</td>\n<td></td>\n<td></td>\n<td>Yüksek</td>\n</tr>\n<tr>\n<td>7-9</td>\n<td></td>\n<td></td>\n<td>Orta</td>\n</tr>\n<tr>\n<td>5-6</td>\n<td></td>\n<td></td>\n<td>Az</td>\n</tr>\n<tr>\n<td>4 ve aşağısı</td>\n<td></td>\n<td></td>\n<td>Çok Az</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "Asbest risk analizi</caption>\n<tr>\n<th>Değerlendirme Faktörü</th>\n<th>Puan</th>\n<th>Puan Değişkenleri</th>\n</tr>\n<tr>\n<td rowspan=\"3\">Faaliyet Tipi</td>\n<td>0</td>\n<td>Çok nadir rahatsızlık (depo vb.)</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Nadir rahatsızlık (ofis aktiviteleri)</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Periyodik rahatsızlık (endüstriyel ve araçların olduğu alanlar)</td>\n</tr>\n<tr>\n<td></td>\n<td>3</td>\n<td>Yüksek seviyede rahatsızlık (asbestli panele sahip kapı)</td>\n</tr>\n<tr>\n<td colspan=\"3\">Rahatsız etme ihtimali</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Açık hava</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Yer</td>\n<td>1</td>\n<td>Geniş odalar ve iyi havalandırılan yerler</td>\n</tr>\n<tr>\n<td>2</td>\n<td>100 m2 ye kadar olan odalar</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Kapalı alanlar</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Ulaşılamaz</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Ulaşılabilirlik</td>\n<td>1</td>\n<td>Zor ulaşılabilir</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Kolaylıkla ulaşılabilir</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Düzenli ulaşılan</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Az (conta)</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Miktar</td>\n<td>1</td>\n<td>10 m2 den az ya da 10 m borudan kısa</td>\n</tr>\n<tr>\n<td>2</td>\n<td>10 m2 ila 50 m2 arası ya da 10 m ila 50 m boru</td>\n</tr>\n<tr>\n<td></td>\n<td>3</td>\n<td>50 m2 den fazla ya da 50 m 'den uzun boru</td>\n</tr>\n<tr>\n<td colspan=\"3\">Maruziyet Potansiyeli</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Yok</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Kullanıcı Sayısı</td>\n<td>1</td>\n<td>1-3</td>\n</tr>\n<tr>\n<td>2</td>\n<td>4-10</td>\n</tr>\n<tr>\n<td>3</td>\n<td>10 dan çok</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Nadiren</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Kullanılma Sıklığı</td>\n<td>1</td>\n<td>Aylık</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Haftalık</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Günlük</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Günlük Kullanım Süresi</td>\n<td>0</td>\n<td>1 saatten az</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1 ila 3 saat</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3 ila 6 saat</td>\n</tr>\n<tr>\n<td></td>\n<td>3</td>\n<td>6 saatten fazla</td>\n</tr>\n<tr>\n<td colspan=\"3\">Bakım Faaliyeti</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Çok az rahatsızlık</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Bakım Tipi</td>\n<td>1</td>\n<td>Az rahatsızlık (asma tavanda ampul değişimi vb.)</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Orta rahatsızlık (1-2 tane asbesti panelleri bir yere ulaşmak için yerinden kaldırma)</td>\n</tr>\n<tr>\n<td></td>\n<td>3</td>\n<td>Yüksek rahatsızlık (pek çok paneli ya da malzemeyi yerinden oynatmak)</td>\n</tr>\n<tr>\n<td></td>\n<td>0</td>\n<td>Rahatsız edilmeyecek asbest</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Bakım Sıklığı</td>\n<td>1</td>\n<td>Yılda 1 den az</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Yılda 1 den fazla</td>\n</tr>\n<tr>\n<td></td>\n<td>3</td>\n<td>Ayda 1 den fazla</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\nAsbest risk analizi puanları ile 8,1 başlığında anlatılan malzeme değerlendirme algoritmasının\npuanlarının toplamı sonucunda elde edilen sayılar, yapılarda yapılacak asbestle çalışmaların\nönceliklendirilmesinde kullanılabilecek sayısal bir değer olmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "malzeme değerlendirme algoritmasının\npuanlarının toplamı sonucunda elde edilen sayılar, yapılarda yapılacak asbestle çalışmaların\nönceliklendirilmesinde kullanılabilecek sayısal bir değer olmaktadır. Örnek vermek gerekirse,\ntoplam puanı 25 çıkan bir durum ile 18 çıkan bir durumu kıyasladığımızda 25 olan durum daha\nrisklidir ve daha fazla önlem alınması gereklidir. (Referans: HSG 264, The Survey Guide)\n\nBu kapsamda; bu çalışmaların düzenlenmesi ve kategorileştirilmesi amacıyla farklı bir\nyaklaşım daha uygulanmaktadır. Bu değerlendirme söküm işlerini az riskli, orta riskli ve çok\nriskli olmak üzere 3 kategoriye ayırır. Buna \"Trafik Lambası Modeli\" denmektedir [29].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "### 8.3. AZ RİSKLİ ASBEST SÖKÜM İŞLERİ (YEŞİL BÖLGE)\n\n\nYeşil bölge olarak nitelendirilen az riskli çalışmalar, asbestin güçlü bağlı durumda bulunduğu\nmalzemelerin görsel kontrollerinin yapılması, tozuma yapmayacak şekilde sökülmüş parçaların\nelle taşınması, eternit olarak bilinen çatıların merdivenine tırmanılması ve asbest levhalarının\nelle taşınması gibi asbeste maruziyetin en az olduğu işleri belirlemek için kullanılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "### 8.4. ORTA RİSKLİ ASBEST SÖKÜM İŞLERİ (SARI BÖLGE)\n\n\nSarı bölge olarak nitelendirilen orta riskli çalışmalara; güçlü bağlı asbestle yapılmış çalışma\nyerinin temizlenmesi, büyük miktarların elle taşınması, asbestli çimento çatılarının çatı\noluklarının temizlenmesi, yumuşak bir fırça veya süngerle yapılan temizlik, hasar vermeden\nyapılan söküm çalışması gibi örnekler verilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "### 8.5. YÜKSEK RİSKLİ ASBEST SÖKÜM İŞLERİ (KIRMIZI BÖLGE)\n\n\nKırmızı bölge olarak nitelendirilen yüksek riskli çalışmalara örnek olarak; tüm riskli yıkım,\nsöküm işleri, yüksek basınçlı suyla temizlik, asbestli tozun kuru bir nesneyle silinmesi,\nparçalamayla söküm çalışmaları, açılı taşlama makinesi ile kesme çalışmaları verilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "### 8.6. GÜVENLİ BÖLGE\n\n\nAsbest veya asbestli malzeme tozuna maruziyet riski bulunan çalışmalarda aşağıdaki önlemler\nalınır.\n\na) Asbest olduğu belirlenen çalışma alanlarında;\n\n· Gerekli işaretlemeler yapılır ve uyarı levhaları konulur.\n\n· Görevli olanlar dışındaki çalışanların girmesi önlenir.\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n· Sigara içilmesi yasak olan alanlar belirlenir.\n\n· Yeme içme için ayrılan yerler, asbest tozu ile kirlenme riski bulunan yerlerin dışında\nseçilir.\n\nb) Asbestle çalışılan işyerlerinde;\n\n· Çalışanlara koruyucu giysi, solunum cihazları gibi yapılan işe uygun kişisel koruyucu\ndonanım (KKD) verilir.\n\n· KKD işyeri dışına çıkarılmaz. Koruyucu giysiler işyerinde veya temizlik işlerinin\nyapıldığı yerlerde temizlenir ve işyerinden yalnızca kapalı kaplar içerisinde çıkarılır.\n\n· Koruyucu giysiler ile çalışanların kendilerine ait giysileri ayrı ayrı yerlerde muhafaza\nedilir.\n\n· Çalışanlara uygun el ve yüz yıkama yerleri, tozlu işlerde ise duş imkânı sağlanır.\n\n· Tek kullanımlık olmayan KKD'ler, özel olarak belirlenmiş yerlerde saklanır, her\nkullanımdan sonra kontrol edilip temizlenir, tamir ve bakımı yapılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "### 9. ASBESTTEN KORUNMA YÖNTEMLERİ\n\n\nAsbest liflerine solunum yoluyla maruz kalındığında ölümcül hastalıklara neden olabildiğinden\nasbest ile ilgili çalışmaların son derece dikkatli yürütülmesi gerekmektedir. Asbestle\nçalışmalardan, zorunluluk halleri dışında kaçınılmalıdır. Önlemlerin eksiksiz olarak alınmadığı\nbir çalışmada ortama çok fazla asbest lifinin salınması söz konusudur.\n\n25/01/2013 tarihli ve 28539 sayılı Resmi Gazete'de yayımlanan Asbestle Çalışmalarda Sağlık\nve Güvenlik Önlemleri Hakkında Yönetmelik hükümlerine göre asbestle ilgili yalnızca söküm,\nyıkım, tamir, bakım ve uzaklaştırma işlerine izin verilmektedir ve bu işler yalnızca gerekli\neğitimleri almış yetkili uzman ve çalışanlarca yapılabilmektedir. Bu nedenle bu başlıkta,\nasbestle çalışmalarda sadece yukarıda bahsedilen işler yapılırken asbestin solunum yoluyla\nmaruziyetinden korunma yöntemleri anlatılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "### 9.1. ÇALIŞMA ÖNCESİ HAZIRLIKLAR VE PLANLAMA\n\n\nÇalışma yapılacak bir yerde asbest olduğu bilgisi kayıtlardan ulaşılabilir. Ancak pek çok zaman\nbu mümkün olmayabilir. Böyle durumlarda asbestli malzemenin varlığından şüphelenildiğinde\nçalışma alanını temsil edebilecek gerekli numunelerin alınıp laboratuvarda incelendiği bir\nenvanter çalışması yapılmalıdır. Envanter çalışması sonucunda asbest tespit edilmesi\ndurumunda risk analizi yapılmalıdır.\n\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "#### 9.1.1. Çalışanların Bilgilendirilmesi\n\n\n· Asbest ve/veya asbestli malzemeden yayılan tozun neden olabileceği sağlık riskleri\n\n· Yönetmelikte belirtilen sınır değerler ve ortam havasında sürekli yapılması gereken\nölçümler\n\n· Sigara içilmemesi de dahil uyulması gereken hijyen kuralları\n\n· KKD kullanımı ve alınacak önlemler\n\n· Asbest maruziyetini en aza indirmek için tasarlanmış özel önlemler\n\n· Asbestli atıkların depolanacağı yerler ve bu yerlere kadar atıkların nakliyesinin nasıl\nyapılacağı hakkında bilgi verilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "#### 9.1.2. İşaretleme\n\n\nAsbest içeren malzemelerin kullanıldığı çalışma alanları ile söküm sonrası asbest atığının\ntaşınmasında kullanılan paketlerin üzerinde gerekli işaretlemenin yer alması gerekmektedir.\nGüvenli çalışma alanının oluşması için \"Dur, Yetkisiz Giriş Yasak\" levhaları ile işaretlenme\nyapılırken Zararlı Madde ve Karışımların Kısıtlanması ve Yasaklanması Hakkında Yönetmelik\n(ZMKKYHY) Ek 2'de ölçülendirilmiş örneğe uygun etiket bulunmalıdır.\n\n\n<figure>\n<figcaption>Şekil 9. Uyarı İşaretleri (Çalışma alanı uyarı levhaları; Asbest içeren paket etiketi)</figcaption>\n\na\n\nh2=% 40\n\nSiyah zemin üzerine\nbeyaz \"a\"\n\nH\n\nYETKİSİZ\nPERSONEL\nGİREMEZ\n\nDİKKAT\nASBEST\nİÇERİR\n\nAsbest tozunun\nsolunması sağlık\niçin tehlikelidir.\nGüvenlik\ntavsiye lerini\nincele yin.\n\nKırmızı zemin üzerine\nbeyaz veya siyah\nstandard kelimeler ile\nyazılacak\n\nh2% 60\n\n</figure>\n\n\n<!-- PageNumber=\"24\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "levhaları ile işaretlenme\nyapılırken Zararlı Madde ve Karışımların Kısıtlanması ve Yasaklanması Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "#### 9.1.3. Karantinanın Oluşturulması\n\n\nYüksek lif konsantrasyonlarının olması muhtemel çalışma alanlarında (siyah alan), asbest\nsökümünün kontrollü yapılabilmesi için karantina kurulması zorunludur. Bu karantina alanı,\nasbest söküm işleri, atık paketleme ve söküm yerinin temizliği işlemleri sırasında asbest\nliflerinin etrafa yayılmasını engelleyerek, çevredeki diğer insanların ve çalışanların asbeste\nmaruziyetini önlemektedir. Karantina alanı Şekil 10'da gösterilmektedir. <figure>\n<figcaption>Şekil 10. Karantina alanı</figcaption>\n\nKaplama/izolasyon (Not: Hava emici ünite çalışırken\nkaplama duvarları negatif basınçtan dolayı içeri doğru\nçekilir.)\n\nAsbest lifleri içeren ortam\nhavası ünite tarafından\nçekilir. Asbetten arındırılacak\nolan malzeme\n\nHEPA\nfiltre\n\nMotorlu fan\n\nTek yönlü vana\n\n3 bölmeden oluşan hava geçirmeyen\ntampon bölge (Not: Bölme kapakları\nnegatif basıncın etkisiyle içeriye\ndoğru çekilir.)\n\nHava emici ünite çalışırken,\nkaplamada herhangi bir\nsızıntı/kaçak olması halinde temiz\nhava dışarıdan içeriye girecektir. Kaplama içerisinde negatif\nbasınç üretmek için\nkullanılan filtreli hava emici\nünite\n\nFiltreden geçen\ntemiz havanın\ntahliyesi\n\n</figure>\n\n\nKarantinalar, asbest sökümü yapılacak alanda sökümün rahatlıkla yapılabileceği büyüklükte\ndizayn edilmelidir. Boyutların belirlenmesinde çalışan sayısı ve kullanılacak ekipmanların\nbüyüklüğü göz önünde tutulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "sbest sökümü yapılacak alanda sökümün rahatlıkla yapılabileceği büyüklükte\ndizayn edilmelidir. Boyutların belirlenmesinde çalışan sayısı ve kullanılacak ekipmanların\nbüyüklüğü göz önünde tutulmalıdır. Örneğin bir makas asansör veya bir iskele kullanılacaksa\nekipmanın rahat kullanımı sağlayacak büyüklükte olmalıdır. Karantina alanın gereğinden\nbüyük olması ise asbestin yayılma alanını artırır bu sebeple karantina alanının büyüklüğü\noptimum seviyede tutulmalıdır. Karantinalar için en yaygın kullanılan malzeme polietilen kaplamadır. Bu malzeme esnek ve\ngeçirimsiz olduğundan çok tercih edilmektedir. Bu kaplama karantinanın aşınmasına ve\nyıpranmasına dayanacak kadar kalın olmalıdır. Çoğu durumda 1000 gauge (250 mikron)\nkaplama yeterlidir. Santrallerde veya proses fabrikası gibi yangın tehlikesinin mevcut olduğu\n\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\nyerlerde, yangın geciktirici polietilen kaplama kullanılmalıdır. Açıkta kalan yerlerde, rüzgar\ngibi dış faktörlerden dolayı polietilen kaplama, yeterli mukavemete sahip olmayabilir, bu\nnedenle, dokuma naylon örgüyle takviye edilmiş polivinil klorür (PVC) levha gibi alternatif\nmalzemeler düşünülebilir. Kaplama malzemesini desteklemek için en yaygın kullanılan araç ise kereste çerçevelerdir. Metal veya plastik boru gibi özel olarak tasarlanmış çerçeveler de kullanılabilir. Kullanılan\ntahta çubuklar için 50 mm x 50 mm ahşap genişliği yeterlidir. Kaplama zımba teli, bant ve sprey\nyapıştırma kullanılarak çubuklara sabitlenmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "tasarlanmış çerçeveler de kullanılabilir. Kullanılan\ntahta çubuklar için 50 mm x 50 mm ahşap genişliği yeterlidir. Kaplama zımba teli, bant ve sprey\nyapıştırma kullanılarak çubuklara sabitlenmelidir. Karantina alanı hava sızdırmaz olmalıdır. Tüm kaçaklar tespit edilmeli ve kapatılmalıdır. Tüm\nköşeler, pencere kenarları, kapılar, negatif basınç ünitesinin etrafı gibi hava kaçışının\nolabileceği yerler düzgünce bantlanmalı veya uygun köpük malzemesiyle kapatılmalıdır. Köpük kullanıldığı takdirde, sıkıldıktan sonra fazlalık kısmı Şekil 11'deki gibi fazlalık kısımları\nkırpılmalıdır. <figure>\n<figcaption>Şekil 11. Açık alanın köpükle kapatılması</figcaption>\n</figure>\n\n\nÇok kapalı ve sıcak alanlarda, bazı köpüklerin ve yapıştırıcıların kullanılması boru hatları veya\nnefes alanına yakın olması, yüksek konsantrasyonlarda zararlı olmasına neden olabilir. Bu\ndurumdan kaçınılmalıdır. Bunlar yapıldığı takdirde sızdırmazlığın önüne geçilemiyorsa ilave önlemler alınmalıdır. Bunlar şu şekilde olabilir;\n\na) Negatif basınç ünitesinin performansı artırılabilir,\n\nb) Glovebag kullanılabilir,\n\nc) Karantinanın içinde mini karantinalar kurulabilir. <!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\nŞekil 12'de bir karantinada olması gereken sistemler gösterilmiştir. Karantinalar, asbestli ürüne\nenjeksiyon iğnelerinin yerleştirilmesi de dahil olmak üzere herhangi bir çalışma yapılmadan\nönce kurulmalıdır ve kaplama malzemesi tek kullanımlık olmalıdır. <figure>\n<figcaption>Şekil 12.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "estli ürüne\nenjeksiyon iğnelerinin yerleştirilmesi de dahil olmak üzere herhangi bir çalışma yapılmadan\nönce kurulmalıdır ve kaplama malzemesi tek kullanımlık olmalıdır. <figure>\n<figcaption>Şekil 12. Karantina alanının elemanları</figcaption>\n\nKarantina\n\nGözlem Panelleri\n\nNegatif Basınç Ünitesi- NBU\n\nDuş Üniteleri\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "#### 9.1.4. Negatif Basınç Ünitesi (NBU)\n\n\nKarantina ne kadar iyi dizayn edilse de hava geçirmeyeceği garanti edilemez. Bir dereceye\nkadar sızıntı olabilir. Bu nedenle, karantinanın içindeki hava basıncının atmosferik basıncın\nbiraz altında olması sağlamalıdır. Bu, karantina içerisindeki herhangi bir sızıntıya maruz kalan\nhava akımının dışarıya değil, içeriye doğru ilerlemesini sağlar, böylece asbest tozu karantina\niçinde kalır. Bununla birlikte çıkan havanın yerine yeterli temiz hava sağlamalıdır. Bu hava duş\nkabinleri veya hava kilitleri ile kontrollü bir şekilde karantinaya girmelidir. Bu şekilde\nkarantinanın havalandırması düzenlenir ve asbest çalışanlarına temiz hava sağlanır. Prensipte\nNBU, hava kilitlerinin karşısında yer almalıdır. İdeal pozisyon Şekil 13'te gösterilmektedir. Bununla birlikte NBU için en uygun yer, karantinanın şekli ve üniteyi yerleştirmek için\nduvarların erişilebilirliği veya duvarın uygunluğu dahil olmak üzere çeşitli faktörlere bağlıdır. İyi ve kötü hava akışı yönetimi örnekleri Şekil 14-16'da verilmektedir. Hava kilidi tek başına\nküçük veya basit bir karantina için yeterli temiz hava sağlayabilir; ancak daha büyük veya\nkompleks tesisler için ek hava girişleri gerekebilir. Bu hava girişlerinde filtrasyon (ön filtre)\nbulunmalı ve etrafı bantlanarak sızdırmazlık sağlanmalıdır. NBU normal olarak karantinanın\ndışında bulunmalı ve sadece ön filtre içeride görülmelidir. Bu durum, erişime ve mevcut alana\ngöre değişmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "nmalı ve etrafı bantlanarak sızdırmazlık sağlanmalıdır. NBU normal olarak karantinanın\ndışında bulunmalı ve sadece ön filtre içeride görülmelidir. Bu durum, erişime ve mevcut alana\ngöre değişmektedir. Karantina içinde ana HEPA filtre ile ön filtre arasında esnek boru tesisatı\ngerekebilir bu durumda bu esnek hortum korunmalı ve düzenli olarak denetlenmelidir. Karantina alanının içerisinde yeteri kadar negatif basınç oluşturulmalıdır ve bu basınç karantina\nalanına mümkün olduğunca eşit dağılmalıdır. Negatif basınç ünitesinin konumu karantina ve\n\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\nhava kilitlerinde etkin hava akışı sağlamalıdır. Hava kilitleri ve atık kabinleri negatif basınca\nalternatif olarak görülmemelidir. Karantinadaki basınç farkı, negatif basınç ünitesinin debisine, karantinanın şekline, sızıntı\ndurumuna ve dış hava koşullarına bağlıdır. Söküm yapılacak alan çok büyükse, uzun borular\nmevcutsa tek bir karantina kurmaktansa orada küçük karantinalar kurulabilir. Büyük\nkarantinalarda çalışma alanının yakınında kurulan NBU'lar yeterli bir negatif basınç\nsağlayamasa bile hava akışına yardımcı olurlar. Ayrıca çalışma alanının karmaşık olduğu veya bir dizi odadan oluştuğu (Örn. Ofis bloklarında\nveya otellerde) yerlerde eşit negatif basınç oluşmasında zorluklar olacaktır. Bu durumlarda\nkarantina sayısı arttırılabilir. Bazı durumlarda ise NBU'nun gücü artırılabilir ama bu durum\nkarantinanın kaplamasına zarar vermeyecek seviyede olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "luşmasında zorluklar olacaktır. Bu durumlarda\nkarantina sayısı arttırılabilir. Bazı durumlarda ise NBU'nun gücü artırılabilir ama bu durum\nkarantinanın kaplamasına zarar vermeyecek seviyede olmalıdır. Bunlara ek olarak eğer asbest\nsökümü tavan kaplamalarını veya bölme duvarlarının söküm işini kapsıyorsa negatif basıncın\ndebisi yeni alana göre hesaplanmalıdır. <figure>\n<figcaption>Şekil 13. İdeal negatif basınç ünitesi pozisyonu</figcaption>\n\nHava Kilidi\n\nKarantina\n\nNBU\n\nAtık Kabini\n\n</figure>\n\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 14. Farklı yapılar için uygun hava akışı</figcaption>\n\nEk Kanal\n\nDuvar\n\nNBU\n\n€\n\nHava\n\nKilidi\n\nDuvar\n\nDuvar\n\nAtık Kabini\n\nDuvar\n\nNBU\n\n</figure>\n\n\nŞekil 14 ve 15'te duvarlardan dolayı hava kilitlerinin karşısına NBU yerleştirilememiştir. Bu\nyüzden dolayı ek kanal oluşturularak NBU'nun verimi artırılmıştır. Bu şekilde karantina\nalanının her noktasına hava akımı sağlanmıştır. <figure>\n<figcaption>Şekil 15. Farklı yapılar için uygun hava akışı</figcaption>\n\nEk Kanal\n\nDuvar\n\nNBU\n\nHava Kilidi\n\nDuvar\n\nAtık Kabini\n\nNBU\n\n</figure>\n\n\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 16. Zayıf hava akışı</figcaption>\n\nNBU\n\nHava Kilidi\n\nAtık Kabini\n\nKarantina\n\nNBU\n\n</figure>\n\n\nŞekil 16'da iki tane negatif basınç ünitesi olmasına rağmen yanlış yerlere konumlandırıldığı\niçin karantina içinde yeterli hava akışı sağlanamamıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "#### 9.1.5. Karantinaya Giriş (Hava Kilidi)\n\n\nKarantina için en önemli özellik duş kabinleri veya hava kilitleridir. Hava kilitleri sayesinde\npersonelin, ekipmanın ve atıkların giriş ve çıkışları kontrol altına alınmaktadır. Hava kilitleri\nve atık kabinleri en az 1 m x 1 m x 2 m (yükseklik) olmalıdır. Boru hatları veya tahta parçaları\ngibi daha büyük atıkların atıldığı durumlarda daha büyük olmalıdır. Tek bir yönde, örneğin bir\nkoridor boyunca sınırlandığı yerlerde, hava kilitleri ve atık kabinleri diğer yönde (örn., 0,8 m x\n2 m x 2 m) uzatılmalıdır. Alanın izin verdiği yerlerde ayrı hava kilidi ve atık kabini\nkullanılmalıdır. Hava kilitleri kabinler arasında geçişlerde asbest tozunun geçişini önleyecek\nşekilde dizayn edilmelidir. Bu genelde kabinler arasındaki kaplama dikey olarak kesilerek elde\nedilir. Bu açıklıklar dışardan havanın içeri girişini içerdeki havanında dışarı çıkmasını engeller. Hava akışını kontrol altına alabilmek için iç yarığın dip kısmına plastik veya tahta çubuklarla\nağırlıklandırılmalıdır. Karantina içine yeterli miktarda yedek hava sağlanması esastır. <!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\nPersonel temizliği için dizayn edilen sisteme hijyen ünitesi denilmektedir. Hijyen ünitesi\nkarantinaya bitişik olmalıdır bu mümkün değilse hava kilitleri kullanılmalıdır. Hava kilitleri,\nasbest tozunu çevreye yaymayacak şekilde tasarlanmalıdır. Geçiş sisteminin kullanılması\nistenilmeyen bir durumdur mümkün olduğunca bu durumdan kaçınılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": "ilitleri kullanılmalıdır. Hava kilitleri,\nasbest tozunu çevreye yaymayacak şekilde tasarlanmalıdır. Geçiş sisteminin kullanılması\nistenilmeyen bir durumdur mümkün olduğunca bu durumdan kaçınılmalıdır. Duş ünitelerinin\ndirekt karantinaya bağlanması veya hava kilitlerine bağlanması tercih edilmelidir. Hava kilidi\nve atık kabinlerinin amacı ek kontrol sağlamaktır. Kaza sonucu sızıntılar, personel hareketi ve\natık transferleri sırasında hava hareketini kontrol etmek için karantinanın bitişiğine\nkurulmalıdır. <figure>\n<figcaption>Şekil 17. Geçiş sistemlerinde hava kilitlerinin kullanımı</figcaption>\n</figure>\n\n\n<figure>\n<figcaption>Şekil 18. Duş ünitesinin karantina alanına direkt bağlanması</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"31\" -->\n<!-- PageBreak -->\n\nAtıkların transferi için kullanılan kabinlere atık kabini denir. Atık kabinlerinin dizaynı Şekil\n19'da gösterilmektedir. <figure>\n<figcaption>Şekil 19. Atık kabini dizaynı</figcaption>\n\nKarantina\n\nDış Ortam\n\n3\n\n€\n\n2\n\n1\n\nKapalı\nAtık\nTorbaları\n\n</figure>\n\n\nBir numaralı kabinde atık torbalarının dışı silinerek temizlenir. İki numaralı kabinde ise atık\ntorbası ikinci atık torbasına geçirilir. Üç numaralı kabinde ise atıklar geçici olarak muhafaza\nedilir ve dışardan bir kişi buradan atık torbasını alır geçici atık depolama tesisine taşır. Atıkların\nçıkışı hijyen ünitesinden asla yapılmamalıdır. Aşağıda farklı alanlar için atık kabini dizaynları\ngösterilmiştir.(Şekil 20-22)\n\n\n<figure>\n<figcaption>Şekil 20.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "atık depolama tesisine taşır. Atıkların\nçıkışı hijyen ünitesinden asla yapılmamalıdır. Aşağıda farklı alanlar için atık kabini dizaynları\ngösterilmiştir.(Şekil 20-22)\n\n\n<figure>\n<figcaption>Şekil 20. Sınırlı alan için hijyen ünitesi, atık kabini dizaynı</figcaption>\n\nTemiz\nAlan\n\nDuş\n\nKirli\nAlan\n\nTünel\n\nKabin\n\nKarantina\n\nNBU\n\nDuş ünitesi\n\nAtık Kabini\n\n</figure>\n\n\n<!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 21. Sınırlı alan için hava kilidi / atık kabini dizaynı</figcaption>\n\nHava Kilidi\n\nKarantina\n\nNBU\n\nAtık Kabini\n\n</figure>\n\n\n<figure>\n<figcaption>Şekil 22. Geçiş sisteminin gerektiği yerlerde hava kilidi ve atık kabini dizaynı</figcaption>\n\nHava Kilidi\n\nAtık Kabini\n\nKarantina\n\nNBU\n\n</figure>\n\n\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "#### 9.1.6. Gözlem Paneli\n\n\nAsbest Söküm Uzmanı içeri girmek zorunda kalmadan içeride neler olduğunu görebilmesi için\ngörüntüleme panelleri (kamera sistemi vb.) karantinanın duvarlarına takılmalıdır. Bu panellerin\nsayısı ve yeri karantinanın yeri, boyutu ve karmaşıklığına bağlıdır. Şeffaf plastik gözlem\npanelleri, karantinanın yapımı sırasında kaplamaya yerleştirilmelidir. Paneller her iki taraftan\nbantlanmalıdır. Paneller yerden 1,5 m yükseklikte en az 60 cm x 30 cm olmalıdır. Gözlem\npanellerinin hava kilidi ve atık kabinlerinde de olması gerekir. Panellerden görüntülenmesinin\npratik olmadığı yerlerde, uzmanlar karantinadaki gelişmeleri gözlemlemek ve izlemek için\nalternatif olarak kamere sistemi kullanılabilir. Temizleme kolaylığı için kamera sistemi\nkorunmalıdır. Şekil 23'te karantina alanının gözlem panelinden gözetlenmesi gösterilmiştir.\n\n\n<figure>\n<figcaption>Şekil 23. Gözlem paneli</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "#### 9.1.7. Alan Hazırlığı\n\n\nİşletmede işe başlamadan önce karantina da dahil olmak üzere hijyen ünitesi alınmalı ve\nkurulmalıdır. Karantinanın ilk kurulumu sırasında kullanılacak olan KKD ler belirlenmelidir. Sökülecek alan kontrol edilmelidir. Bunun amacı çıkarılacak eşyaları belirlemek ve temizlikte\nzorlanmamak için dışarıya çıkartılamayan eşyaları kaplamaktır. Çalışma alanı mümkün\nolduğunca bitki, ekipman ve mobilyadan arındırılmış olmalıdır. Elektrikli teçhizat gibi geriye\nkalan tüm ekipmanlar önceden temizlenmeli ve daha sonra polietilen kaplama ile kaplanmalı\nve kontaminasyonu önlemek için sıkıca bantlanmalıdır. Karantina içinde kazanlar veya bacalar\nvarsa dumanlardan dolayı asbestin yayılmasını önlemek için kazan ve bacaların kapatılmış\nolması gerekir. <!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\nEğer söküm alanında herhangi bir asbestli malzeme varsa bir ön temizlik yapılmalıdır. Bunun\niçin karantina kurulmadan önce tüm gevşek malzemeler kaldırılmalıdır. Ön temizlik, H tipi bir\nelektrikli süpürge ile vakumlama, yüzey silme, polivinil asetat (PVA) ile geçici kapsülleme,\nbant veya yapışkan film, sprey ıslatma ve torbalama dâhil olmak üzere uygun toz önleme ve\nkontrol tedbirleri kullanılarak gerçekleştirilmelidir. Ayrıca, asbestsiz toz ve atıklar mevcut ise\nbunun için de ön temizlemenin yapılması tavsiye edilir. Bu atıklar normal atık gibi\ndüşünülebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 71,
+      "content": "ve\nkontrol tedbirleri kullanılarak gerçekleştirilmelidir. Ayrıca, asbestsiz toz ve atıklar mevcut ise\nbunun için de ön temizlemenin yapılması tavsiye edilir. Bu atıklar normal atık gibi\ndüşünülebilir. Aksi halde iş başladıktan sonra, atıklar asbestli atık olarak kabul edilecek ve\ntehlikeli atık olarak atılması gerekecektir. Şekil 24'te mutfak dolabının polietilen kaplama ile\nkaplanması gösterilmiştir. <figure>\n<figcaption>Şekil 24. Taşınmaz malların kaplanması</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 71,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 72,
+      "content": "#### 9.1.8. Duman Testi\n\n\nKarantina içinde söküm başlamadan önce negatif basınç ünitesi çalışmazken duman\njeneratöründen duman basılarak karantinanın sızdırmazlığı test edilmelidir.\n\nAçıklık olan alanlarda duman belirecektir. Bazı durumlarda, dumanın ortaya çıkması biraz\nzaman alabilir örneğin kompleks binalarda veya muhafaza duvarlarının karmaşık veya çok katlı\nolması durumunda. Büyük kaçaklar kolayca belli olacaktır; fakat küçük kaçaklar için biraz\nbeklenmelidir. Bu küçük kaçaklar söküm sırasında çevreye asbest yayılmasına sebep olabilir.\nKaçak dumanı kontrol etmenin en kolay yolu fenerle ışık tutmaktır. Herhangi bir sızıntıyla\nkarşılaşıldığında o alan tekrardan gözden geçirilmeli ve o kısım bantlanmalıdır.\n\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 25. Duman testi ve duman testi için ışık kontrolü</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 72,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 73,
+      "content": "#### 9.2.1. H Tipi Süpürge\n\n\nAsbest sökümünde etrafa yayılan küçük parçaların temizlenmesinde ve kıyafetlere yapışıp\nkalmış liflerin vakumlanarak uzaklaştırılması için EN 6035-2-69 uyarınca H toz sınıfında ve\nasbest içeren tozlara uygun endüstriyel süpürgeler kullanılmalıdır.\n\n\n<figure>\n<figcaption>Şekil 26. H Tipi Süpürge</figcaption>\n\n05 3\n\n138\n\n38\n\n</figure>\n\n\nBinalardaki çalışmalar sırasında çalışma alanında, emiş tertibatları yardımıyla düşük basınç\nsağlanmalıdır. Bu sayede, sızıntının olduğu durumlarda dışarıdan temiz havanın çalışma\nalanına girişi ve asbestli havanın da çalışma alanından dışarı çıkmaması sağlanır.\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 73,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 74,
+      "content": "#### 9.2.2. Bağlayıcı Madde\n\n\nAsbest içeren yapıların sökümü sırasında, yapı parçalarına yapışık liflerin uçması ve solunum\nhavasına karışması riski söz konusu olur. Bu nedenle yüzeylerin, basınçsız olarak püskürtülen\nlif bağlayıcı maddelerle (örneğin; sıva sabitleyici) kaplanması gerekmektedir. Bu sayede lifler,\nyapı parçasına iyice yapışır.\n\n\n<figure>\n<figcaption>Şekil 27. Bağlayıcı madde</figcaption>\n\ne\n\na\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 74,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 75,
+      "content": "#### 9.2.3. Hijyenik Tertibatlar\n\n\nÇalışanların yemekten önce veya sigara kullanmadan önce yüzlerini ve ellerini yıkayabilmesi\niçin tüm asbestli çalışma alanlarında yıkama tertibatları bulunmalıdır. Asbest içeren yapılardaki\nkapsamlı çalışmalar sırasında duşlarla ayrılmış ve günlük kıyafetler ile iş elbiselerinin ayrı\nsaklanmasına imkân veren bir geçiş alanı gereklidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 75,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 76,
+      "content": "#### 9.2.4. Kişisel Koruyucu Donanım\n\n\nKoruyucu Kıyafet\n\n· Koruyucu kıyafet için anti-statik özelliğe sahip partiküllere karşı koruyucu tek kullanımlık\nvücut koruyucu tulum alınmalıdır.\n\n· Kirli alana her giriş için yeni bir tane kullanılmalıdır.\n\n<!-- PageNumber=\"37\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 28. Kişisel koruyucu tulum</figcaption>\n</figure>\n\n\nKullanılan tulumlar TS EN ISO 13982-1'e göre Tip 5 havada uçuşan katı partiküller\nstandardına ve TS EN 13034 'e göre Tip 6: Sıçrayan sıvı partiküllere karsı limitli koruma\nstandardına sahip tulumlar olabilir.\n\n· Koruyucu giysiler ile çalışanların kendilerine ait giysileri ayrı ayrı yerlerde muhafaza edilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 76,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 77,
+      "content": "#### Solunum Koruyucu Maske\n\n\n· Tam yüz koruyucu, tehlikeye uygun olan filtresiyle donatılmalıdır.\n\n· Solunum koruyucunun uygunluğu kullanımdan önce test edilmeli ve fiziksel ölçülerinin\nkullanıcıya uygunluğu tespit edilmelidir.\n\n· Uygun olmayan solunum koruyucu çok az koruma sağlayacaktır.\n\n\n<figure>\n<figcaption>Şekil 29. Solunum koruyucu maske</figcaption>\n</figure>\n\n\nUygun bir solunum koruyucunun belirlenmiş koruma faktörü minimum 20 veya daha fazla\nolması gerekmekle birlikte 50 veya daha fazla olması önerilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 77,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 78,
+      "content": "#### Tek kullanımlık solunum koruyucular:\n\n\n· TS EN 149+A1 uyumlaştırılmış standardı ile EN149:2001+A1:2009 standardına göre\nFFP3 koruma seviyesine sahip 50 veya daha fazla koruma faktörü ile partiküllere karşı\nkoruyucu kullanılabilir.\n\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 78,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 79,
+      "content": "#### Tam Yüz Maskesi:\n\n\n· TS EN 143 uyumlaştırılmış standardı ile EN143+A1/AC standardına göre P3 koruma\nseviyesine sahip partikül filtresi ile tam yüz maskesi kullanılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 79,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 80,
+      "content": "#### Motorlu solunum koruyucular:\n\n\n· Solunum, baş, göz, işitme ve yüz koruma ile ilgili seçilen koruma sınıfına uygun\nstandartlara sahip olmakla birlikte batarya vb. motorlu kısım için EN 12941 standardına sahip\nkombine bir koruyucu kullanılabilir.\n\n\n<figure>\n<figcaption>Şekil 30. Motorlu solunum koruyucular</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 80,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 81,
+      "content": "##### İş Güvenliği Ayakkabısı:\n\n\n· Bağcıksız, tokasız direk ayağa geçirilebilecek şekilde olacaktır ve kayma riski içerdiğinden\nbotlar / çizmeler galoşlara göre öncelikli tercih edilmelidir.\n\n· Kullanım sonrası yıkanabilir botlar / çizmeler tercih edilebilir.\n\n\n<figure>\n<figcaption>Şekil 31. Bağcıksız çizme</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"İş Güvenliği Eldiveni:\" -->\n\n\n<figure>\n<figcaption>Şekil 32. Koruyucu eldiven</figcaption>\n\nWL-CHN\n\nNKJ-TM\n20101121\n\n<< 120-1121\n\\-\n\n</figure>\n\n\nTek kullanımlık eldivenler kullanılmalıdır. Yapılan işe göre mekanik direnci yüksek, elektrik\ndirenci yüksek ya da kimyasala karşı bir eldiven kullanılacak ise bu eldivenlerin içine kavrama\nkabiliyeti yüksek ince hijyen eldivenleri kullanılabilir. Her asbest söküm işleminden, çalışan\nkirlenmiş alanı terk ettikten sonra, eldiven uygun şekilde mühürlü asbest atık torbalarına\nkonulmalıdır.\n\nKirlenmiş alana her girişte yeni bir çift iş güvenliği eldiveni giyilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 81,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 82,
+      "content": "## 10. ASBESTLİ ATIKLARIN YÖNETİMİ VE BERTARAFI\n\n\nAsbestli atıkların yönetimi konusu sadece söküm ve yıkım işleri tamamlandıktan sonra ele\nalınacak bir konu olarak düşünülmemelidir. Asbest içeren atıklar, her gün mesai bitiminde\ntoplanmalı, asbest işareti taşıyan poşetlere konulmalı ve işyerinde düzenli biçimde\ndepolanmalıdır. Atık prosedürleri ile ilgisi olmayan personelin atıklara erişimini engellemek\niçin gerekli uyarı ve koruyucular yerleştirilmeli, ayrıca asbest depolanan konumlara\ngirilmemesi gerektiği tüm çalışanlara bildirilmelidir. Depolanan malzemenin poşetlerde delik\naçması ihtimali varsa (örn, sivri uçlu, sert atıklar) çift poşet kullanılmalıdır. Atık poşetlerinin\nlif bağlayıcı solüsyonla ıslatılması da tavsiye edilmektedir. Yıkım, söküm projesi sona\nerdiğinde veya atıklar taşınması ekonomik olacak miktarda biriktiğinde, Çevre ve Şehircilik\nBakanlığından lisanslı atık taşıma firması ile ve yetkili atık bertaraf kuruluşu ile sözleşme\nimzalanarak atıkların mevzuata uygun şekilde taşınması ve bertarafı gerçekleştirilmelidir. Atıkların düzenli depolama tesislerinde depolanması ile ilgili mevzuat hususlarına da bu\nbölümün devamında yer verilmiştir. Gemi, bina veya endüstriyel bir yapıdan söküm sonucu ortaya çıkartılan asbest, \"atık\"\nniteliğinde olup \"atık mevzuatı\" hükümlerine göre taşınması ve bertarafı gerekmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 82,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 83,
+      "content": "devamında yer verilmiştir. Gemi, bina veya endüstriyel bir yapıdan söküm sonucu ortaya çıkartılan asbest, \"atık\"\nniteliğinde olup \"atık mevzuatı\" hükümlerine göre taşınması ve bertarafı gerekmektedir. Çevre\nKanunu'nun 11'inci maddesine göre; üretim, tüketim ve hizmet faaliyetleri sonucunda oluşan\n\n<!-- PageNumber=\"40\" -->\n<!-- PageBreak -->\n\natıklarını alıcı ortamlara doğrudan veya dolaylı vermeleri uygun görülmeyen tesis ve işletmeler\nile yerleşim birimleri atıklarını yönetmeliklerde belirlenen standart ve yöntemlere uygun olarak\narıtmak ve bertaraf etmekle veya ettirmekle ve öngörülen izinleri almakla yükümlüdürler. Tüm\natıkların tabi olduğu bu hüküm asbest atıklarının bertaraftı için de geçerlidir. Çevre ve Şehircilik Bakanlığı tarafından 02/04/2015 tarih ve 29314 sayılı Resmî Gazete'de\nyayımlanan Atık Yönetimi Yönetmeliği'nin (AYY) EK-4 atık listesindeki, asbest içeren atıklar\naşağıda belirtildiği şekilde kodlanarak tanımlanmıştır [30]. <table>\n<caption>Tablo 6.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Çevre\nKanunu",
+        "madde_number": null,
+        "chunk_index": 83,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 84,
+      "content": "yılı Resmî Gazete'de\nyayımlanan Atık Yönetimi Yönetmeliği'nin (AYY) EK-4 atık listesindeki, asbest içeren atıklar\naşağıda belirtildiği şekilde kodlanarak tanımlanmıştır [30]. <table>\n<caption>Tablo 6. Asbest içeren atıklar</caption>\n<tr>\n<th>ATIK KODU</th>\n<th>ATIK KODU TANIMI</th>\n<th>AÇIKLAMA</th>\n</tr>\n<tr>\n<td>06 07 01*</td>\n<td>Elektrolizden kaynaklanan asbest içeren atıklar</td>\n<td>M ***</td>\n</tr>\n<tr>\n<td>06 13 04*</td>\n<td>Asbest işlenmesinden kaynaklanan atıklar</td>\n<td>A **</td>\n</tr>\n<tr>\n<td>10 13 09*</td>\n<td>Asbestli çimento üretiminden kaynaklanan asbest içeren atıklar</td>\n<td>M</td>\n</tr>\n<tr>\n<td>10 13 10</td>\n<td>10 13 09 dışındaki asbestli çimento üretimi atıkları</td>\n<td></td>\n</tr>\n<tr>\n<td>15 01 11*</td>\n<td>Boş basınçlı konteynırlar dahil olmak üzere tehlikeli gözenekli katı yapılı (örneğin asbest) metalik ambalajlar</td>\n<td>A</td>\n</tr>\n<tr>\n<td>16 01 11*</td>\n<td>Asbest içeren fren balataları</td>\n<td>M</td>\n</tr>\n<tr>\n<td>16 02 12*</td>\n<td>Serbest asbest içeren ıskarta ekipman</td>\n<td>A</td>\n</tr>\n<tr>\n<td>17 06</td>\n<td>Yalıtım Malzemeleri ve Asbest İçeren İnşaat Malzemeleri</td>\n<td></td>\n</tr>\n<tr>\n<td>17 06 01*</td>\n<td>Asbest içeren yalıtım malzemeleri</td>\n<td>M</td>\n</tr>\n<tr>\n<td>17 06 05*</td>\n<td>Asbest içeren inşaat malzemeleri</td>\n<td>M</td>\n</tr>\n</table>\n\n\\*\n\\* işaretliler tehlikeli atık olarak belirtilmiştir. **\nA işaretli atıklar, tehlikeli atık konsantrasyonuna bakılmaksızın tehlikeli atık sınıfına girer.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "de\nyayımlanan Atık Yönetimi Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 84,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 85,
+      "content": "malzemeleri</td>\n<td>M</td>\n</tr>\n</table>\n\n\\*\n\\* işaretliler tehlikeli atık olarak belirtilmiştir. **\nA işaretli atıklar, tehlikeli atık konsantrasyonuna bakılmaksızın tehlikeli atık sınıfına girer. ***\nM işaretli atıkların tehlikelilik özelliklerinin belirlenmesi amacıyla konsantrasyon değeri ve özelliklerine\nbakılır. <!-- PageNumber=\"41\" -->\n<!-- PageBreak -->\n\nKanserojen özellikleri dikkate alındığında, asbest içeren inşaat atıkları ve diğer asbest atıkları;\nyakılarak bertaraf edilmesi ya da malzeme geri kazanımının uygun olmaması nedeniyle, AYY\nEK-2/Ada yer alan D5 \"Özel mühendislik gerektiren düzenli depolama (çevreden ve her biri\nayrı olarak izole edilmiş ve örtülmüş hücresel depolama ve benzeri)\" bertaraf yöntemiyle nihai\nbertarafının gerçekleştirilmesi gerekmektedir. Söz konusu asbestli atıklar, 26/03/2010 tarihli ve 27533 sayılı Resmi Gazete'de yayımlanan\nAtıkların Düzenli Depolanmasına Dair Yönetmelik'in \"Özel durumların göz önüne alınmasını\ngerektiren atıklar\" başlıklı 30'uncu maddesinde belirtilen hükümler çerçevesinde; II. sınıf\ndepolama tesislerinde; test edilmeksizin depolanabilirler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 85,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 86,
+      "content": "netmelik'in \"Özel durumların göz önüne alınmasını\ngerektiren atıklar\" başlıklı 30'uncu maddesinde belirtilen hükümler çerçevesinde; II. sınıf\ndepolama tesislerinde; test edilmeksizin depolanabilirler. Güvenli depolamadaki hususlar\naşağıdaki gibi sıralanabilir;\n\n1\\) Asbest liflerinin dağılıp tesise yayılmasını engellemek için depolanan atıkların bulunduğu\nhücrenin; yapılacak olan her sıkıştırma işleminden önce ve her gün uygun malzeme ile\nkapatılması,\n\n2\\) Ambalajlı değilse atıkların düzenli olarak ıslatılması,\n\n3\\) Asbest liflerinin tesise yayılmasının engellenmesi amacıyla; depolama tesisinin ve lotların\nüzerinin en son üst örtü ile kapatılması,\n\n4\\) Depolama tesisinde veya lotlarda; asbest liflerinin etrafa yayılmasına sebep olacak sondaj ve\nbenzeri hiçbir çalışma yapılmaması,\n\n5\\) Kapatma sonrasında; depolama tesisinin ve asbest liflerinin depolandığı hücrenin tam olarak\nyerini gösteren koordinatları da içeren bir plan hazırlanması,\n\n6\\) Depolama tesisinin kapatılmasından sonra arazinin olası kullanımında asbestin insanlarla\ntemasını engellemek amacıyla gerekli önlemlerin alınması gerekir. <!-- PageNumber=\"42\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 33. II.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 86,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 87,
+      "content": "sonra arazinin olası kullanımında asbestin insanlarla\ntemasını engellemek amacıyla gerekli önlemlerin alınması gerekir. <!-- PageNumber=\"42\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 33. II. Sınıf düzenli depolama tesisi [31]</figcaption>\n\nToplama\nÇukuru\n\nGaz Toplama Borusu\n\nKATI\nATIK\n\nGaz Kuyusu\n\nAyırma duvarı\n\nYeraltı suyu drenaj\nborusu\n\nTaban Kesidi\n\nperformed\nGasno pipe\n\nKatı Atık\n\nÇAKIL\n\nMİNERAL TABAKA\nTABAN DOLGUSU\n\nGeotekstil Fiber\nPlastik membran\n\nYeraltı Suyu Drenajı\n\nGeotekstil Fiber\n\nKİL\n\n</figure>\n\n\nUlusal çevre mevzuatımız gereğince asbestli atıkların lojistiği, özel hükümler çerçevesinde\ngerçekleştirilir. Öncelikle ortaya çıkan ve paketlenen asbest atığı için atık üreticisi tarafından\nMoTAT sistemi üzerinden atığın bulunduğu yerden depolama tesisine kadar gerçekleştirilecek\ntaşıma işlemlerinin kayıt altına alınması gerekmektedir. Öte yandan söz konusu asbest\natıklarının taşıma işleminin, diğer tehlikeli atıklarda olduğu gibi lisanslı araçlarla\ngerçekleştirilmesi zorunludur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 87,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 88,
+      "content": "## 11. MEVZUAT\n\n\nTürkiye'de asbest kullanımına ilişkin kurallar farklı Bakanlıkların bünyelerindeki yönetmelik,\ntebliğ ve standartlarla düzenlenmektedir. 1993 ile 2015 yılları arasında, asbestle ilgili çıkarılan yönetmelik, tebliğ ve standartlar sırasıyla\naşağıdaki gibidir;\n\nEkonomi Bakanlığı tarafından 1993 ile 2010 yılları arasında yayımlanan İşçi Sağlığını ve İş\nGüvenliğini Etkileyen Bazı Maddelerin İthaline İlişkin Tebliğ ile 25.24.00.13 gümrük tarife\nistatistik pozisyonlu amyantın ithalatında yetkili makamlarca aranacak Uygunluk Yazısı ve\nUygunluk Belgesi'nin İSGÜM tarafından verilmesi hususu yürürlüğe girmiştir. Çevre ve Şehircilik Bakanlığı tarafından; 11/07/1993 tarihli ve 21634 sayılı Resmi Gazete'de\nyayımlanan ve 11/07/1994 tarihinde yürürlüğe girmiş olan Zararlı Kimyasal Madde ve\nÜrünlerin Kontrolü Yönetmeliği ile 01/01/1996 tarihinden itibaren amfibol grubu asbest\nliflerinin çıkarılması, üretilmesi, satışı ve piyasaya arzı yasaklanmıştır. <!-- PageNumber=\"43\" -->\n<!-- PageBreak -->\n\nÇalışma ve Sosyal Güvenlik Bakanlığı tarafından; 26/12/2003 tarihli ve 25328 sayılı Resmî\nGazete'de yayımlanan Mülga Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında\nYönetmelik ile çalışanların asbest tozuna maruziyetlerinin önlenmesi ve bu maruziyetten\ndoğacak sağlık risklerinden korunması, sınır değerlerin ve diğer özel önlemlerin belirlenmesi\nkonularında düzenlemeler yapılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Ekonomi Bakanlığı tarafından 1993 ile 2010 yılları arasında yayımlanan İşçi Sağlığını ve İş\nGüvenliğini Etkileyen Bazı Maddelerin İthaline İlişkin Tebliğ",
+        "madde_number": null,
+        "chunk_index": 88,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 89,
+      "content": "şanların asbest tozuna maruziyetlerinin önlenmesi ve bu maruziyetten\ndoğacak sağlık risklerinden korunması, sınır değerlerin ve diğer özel önlemlerin belirlenmesi\nkonularında düzenlemeler yapılmıştır. Çevre ve Şehircilik Bakanlığı tarafından; 18/01/2008 tarihli ve 26760 sayılı Resmî Gazete'de\nyayımlanan Tehlikeli Kimyasallar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik\nve Bazı Tehlikeli Maddelerin, Müstahzarların ve Eşyaların Üretimine, Piyasaya Arzına ve\nKullanımına İlişkin Kısıtlamalar Hakkında Yönetmelik (26/12/2008 tarihli ve 27092 sayılı\nResmî Gazete) ile serpantin grubu asbest lifi olarak tanımlanan krizotil türü asbestin, CAS\nNo:12001-29-5 (Beyaz asbest);\n\n· Oluklu levhaların, levhaların, panoların ve karoların,\n\n· Contalık levhaların, contaların,\n\n· Debriyaj ve fren balatası üretiminde kullanılan iplerin,\n\n· Balata hammaddesinin ve balataların,\n\nüretiminde kullanılması ve krizotil türü asbest liflerinin kullanım hükümlerine uymayan\nürünlerin kullanım amacıyla piyasaya arzı yasaklanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "de\nyayımlanan Tehlikeli Kimyasallar Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 89,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 90,
+      "content": "ılan iplerin,\n\n· Balata hammaddesinin ve balataların,\n\nüretiminde kullanılması ve krizotil türü asbest liflerinin kullanım hükümlerine uymayan\nürünlerin kullanım amacıyla piyasaya arzı yasaklanmıştır. Bazı Tehlikeli Maddelerin, Müstahzarların ve Eşyaların Üretimine, Piyasaya Arzına ve\nKullanımına İlişkin Kısıtlamalar Hakkında Yönetmeliğinde Değişiklik Yapılmasına Dair\nYönetmelik (29/08/2010 tarihli ve 27687 sayılı Resmî Gazete) (Yürürlüğe Giriş: 31.12.2010)\nile serpantin grubu asbest lifi olarak tanımlanan;\n\nKrizotil asbest (beyaz asbest), CAS No: 12001-29-5, CAS No: 132207-32-0, liflerinin\nçıkarılması, üretilmesi, herhangi bir ürünün üretiminde ve üretim dışında herhangi bir amaçla\nkullanılması, satış ve kullanım amacıyla piyasaya arz edilmesi yasaklanmıştır. Mülga Dış Ticaret Müsteşarlığı (Ekonomi Bakanlığı) tarafından 31/12/2009 tarihli ve 27449\nsayılı Resmi Gazete'de yayımlanan İşçi Sağlığını ve İş Güvenliğini Etkileyen Bazı Maddelerin\nİthaline İlişkin Tebliğ'e göre; Asbest (GTİP No: 25.24) ve iplik, dokunmuş veya örme mensucat\n(GTİP No: 6812) tebliğden çıkarılarak ithalatları yasaklanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Piyasaya Arzına ve\nKullanımına İlişkin Kısıtlamalar Hakkında Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 90,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 91,
+      "content": "İş Güvenliğini Etkileyen Bazı Maddelerin\nİthaline İlişkin Tebliğ'e göre; Asbest (GTİP No: 25.24) ve iplik, dokunmuş veya örme mensucat\n(GTİP No: 6812) tebliğden çıkarılarak ithalatları yasaklanmıştır. <!-- PageNumber=\"44\" -->\n<!-- PageBreak -->\n\nÇalışma ve Sosyal Güvenlik Bakanlığı tarafından; 25/01/2013 tarihli ve 28539 sayılı Resmi\nGazete'de yayımlanan Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında\nYönetmelik ile çalışanların asbest söküm, yıkım, tamir, bakım, uzaklaştırma çalışmalarında\nasbest tozuna maruziyetlerinin önlenmesi ve bu maruziyetten doğacak sağlık risklerinden\nkorunması, sınır değerlerin ve diğer özel önlemlerin belirlenmesi konularında düzenlemeler\nyapılmıştır. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından; 05/11/2013 tarihli ve 28812 sayılı Resmi\nGazete'de yayımlanan Tozla Mücadele Yönetmeliği ile işyerlerinde tozdan kaynaklı ortaya\nçıkabilecek risklerin önlenebilmesi amacıyla iş sağlığı ve güvenliği yönünden tozla mücadele\netmek ve bu işlerde çalışanların tozun etkilerinden korunmalarını sağlamak için alınması\ngerekli tedbirlere dair usul ve esaslar belirlenmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "İş Güvenliğini Etkileyen Bazı Maddelerin\nİthaline İlişkin Tebliğ",
+        "madde_number": null,
+        "chunk_index": 91,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 92,
+      "content": "macıyla iş sağlığı ve güvenliği yönünden tozla mücadele\netmek ve bu işlerde çalışanların tozun etkilerinden korunmalarını sağlamak için alınması\ngerekli tedbirlere dair usul ve esaslar belirlenmiştir. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından; 29/06/2015 tarihli ve 28692 sayılı Resmi\nGazete'de yayımlanan Asbest Sökümü İle İlgili Eğitim Programlarına İlişkin Tebliğ ile asbest\nsöküm, yıkım, tamir, bakım, uzaklaştırma çalışmalarında görev alacak asbest söküm\nuzmanlarının nitelikleri, eğitimleri, eğitim programları ve eğitim sonunda yapılacak sınavlar ile\nasbest söküm çalışanlarının eğitimleri, eğitim programları ve bunların belgelendirilmelerine\nilişkin usul ve esaslar belirlenmiştir. Ülkemizde asbestli atıkların yönetimine ilişkin hususlar Çevre Mevzuatı ile düzenlenmiştir. Mevzuatımız gereğince asbestli atıklar \"tehlikeli atık\" kapsamında değerlendirilmekte ve\npaketlenmesi, taşınması ve depolanarak bertarafı konuları bu çerçevede gerçekleştirilmesi\ngerekmektedir. İlgili mevzuat aşağıda sunulmuştur;\n\n-02/04/2015 tarihli ve 29314 sayılı Resmi Gazete'de yayımlanan Atıkların Yönetimi\nYönetmeliği\n\n-26/03/2010 tarihli ve 27533 sayılı Resmi Gazete'de yayımlanan Atıkların Düzenli\nDepolanmasına Dair Yönetmelik\n\n-13/10/2021 tarihli ve 31627 sayılı Resmi Gazete'de yayımlanan Binaların Yıkılması Hakkında\nYönetmelik\n\nAyrıca Türk Standartları Enstitüsü tarafından TS 13895 Asbest İçeren Malzemelerin Sökümü\nve Asbest Bertaraf Yöntemleri Kılavuzu yayımlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "de yayımlanan Asbest Sökümü İle İlgili Eğitim Programlarına İlişkin Tebliğ",
+        "madde_number": null,
+        "chunk_index": 92,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 93,
+      "content": "e'de yayımlanan Binaların Yıkılması Hakkında\nYönetmelik\n\nAyrıca Türk Standartları Enstitüsü tarafından TS 13895 Asbest İçeren Malzemelerin Sökümü\nve Asbest Bertaraf Yöntemleri Kılavuzu yayımlanmıştır. <!-- PageNumber=\"45\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "de yayımlanan Binaların Yıkılması Hakkında\nYönetmelik",
+        "madde_number": null,
+        "chunk_index": 93,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 94,
+      "content": "## 12. KAYNAKLAR\n\n\n[1] Demir, B. M., Kentsel Dönüşümde Asbest Islah Çalışmaları ve İlgili Mevzuat,\n1.Uluslararası Katılımlı Mezotelyama Tıbbi Jeoloji Sempozyumu, 2015. [2] Allen, L. K., Asbestos and Mesothelioma: Worldwide Ttrends, Elsevier, Lung Cancer\n(2005) 49S1, 53-58, 2005. [3] WHO, http://www.who.int/occupational_health/publications/asbestosrelateddisease/en/\n\n[4] BOHS, http://www.rexbishopandson.co.uk/wp-content/uploads/2013/10/asbestos-fibres.jpg\n\n[5] BBC, http://www.bbc.com/news/uk-scotland-29804424\n\n[6] Flickr, https://www.flickr.com/photos/asbestos pix/7179620684\n\n[7] Flickr, https://www.flickr.com/photos/asbestos pix/5541903077\n\n[8] Flickr, https://www.flickr.com/photos/asbestos_pix/5559366085\n\n[9] Mindat, http://www.mindat.org/min-254.html\n\n[10] Mindat, https://commons.wikimedia.org/wiki/File:Actinolite-247713.jpg\n\n[11] Sekizinci Beş Yıllık Kalkınma Planı Madencilik Özel İhtisas Komisyonu Raporu, DPT:\n2618 - ÖİK: 629, Sayfa 9,10,12, Ankara, 2001. [12] Ulusoy, L., Dinkçioğlu, M., Asbest, T.C. Çalışma ve Sosyal Güvenlik Bakanlığı İSGÜM,\nİSGÜM Basımevi 1999, Sayfa 27, Ankara. [13] OSHA, https://www.osha.gov/SLTC/syntheticmineralfibers/index.html\n\n[14] OSHA, https://www.osha.gov/SLTC/syntheticmineralfibers/table.htm\n\n[15] HSE, http://www.hse.gov.uk/asbestos/building.htm\n\n[16] HSE, (http://www.hse.gov.uk/asbestos/building.htm)\n\n[17] Atabey, E, Türkiye Asbest Haritası (Çevresel Asbest Maruziyeti Akciğer Kanseri-\nMezotelyoma), Tuberk Toraks; 63(3):199-219, 2014.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 94,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 95,
+      "content": "ing.htm\n\n[16] HSE, (http://www.hse.gov.uk/asbestos/building.htm)\n\n[17] Atabey, E, Türkiye Asbest Haritası (Çevresel Asbest Maruziyeti Akciğer Kanseri-\nMezotelyoma), Tuberk Toraks; 63(3):199-219, 2014. [18] T.C. Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı ve Güvenliği Genel Müdürlüğü,\nMeslek Hastalıkları ve İş İle İlgili Hastalıklar Tanı Rehberi, Sayfa 199, Ankara, 2011. [19] WHO, Asbestos: elimination of asbestos-related diseases. Fact sheet Nº343. Geneva:\nWorld Health Organization; 2010. (http://www.who.int/mediacentre/factsheets/fs343/en/index.html) [Erişim tarihi: 28-05-2013]. [20] Driscoll T, Nelson DI, Steenland K, Leigh J, Concha-Barrientos M, Fingerhut M, et al. The global burden of disease due to occupational carcinogens. Am J Ind Med. 2005;48(6):419-\n31. (http://dx.doi.org/10.1002/ajim.20209 pmid: 16299703). <!-- PageNumber=\"46\" -->\n<!-- PageBreak -->\n\n[21] Driscoll T, Nelson DI, Steenland K, Leigh J, Concha-Barrientos M, Fingerhut M, et al. The global burden of non-malignant respiratory disease due to occupational airborne exposures. Am J Ind Med. 2005;48(6):432-45. (http://dx.doi.org/10.1002/ajim.20210 pmid: 16299701). [22] Fingerhut, M., Driscoll, T., Contribution of occupational risk factors to the global burden\nof disease - a summary of findings, SJWEH Suppl., 1; 58-61, 2005. [23] WHO, Parma declaration on environment and health. Copenhagen: World Health\nOrganization Regional Office for Europe; 2010.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 95,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 96,
+      "content": "burden\nof disease - a summary of findings, SJWEH Suppl., 1; 58-61, 2005. [23] WHO, Parma declaration on environment and health. Copenhagen: World Health\nOrganization Regional Office for Europe; 2010. (http://www.euro.who.int/en/who-we-\nare/policy-documents/parma-declaration-on-environment-and-health [Erişim tarihi: 25-11-\n2015]. [24] WHO, ILO, Outline for the development of national programmes for the elimination of\nasbestos-related diseases. Geneva: International Labour Organization/World Health\nOrganization; 2007. (http://www.who.int/occupational_health/publications/Out_NPEAD_ENG.pdf [Erişim tarihi:\n25-11-2015]. [25] 25/01/2013 tarih ve 28539 sayılı Resmi Gazete'de yayımlanan Asbestle Çalışmalarda\nSağlık ve Güvenlik Önlemleri Hakkında Yönetmelik. [26] USGS Denver Microbeam Laboratory, http://usgsprobe.cr.usgs.gov/picts2.html\n\n[27] EN ISO 16000-7:Indoor air - Part 7: Sampling strategy for determination of airborne\nasbestos fibre concentrations Anex B:Table B-1. [28] 05/11/2013 tarih ve 28812 sayılı Resmî Gazete'de yayımlanan Tozla Mücadele\nYönetmeliği.( EK-1:Özelliği Olan Kayaç veya Mineraller Maruziyet Eşik Sınır Değerleri)\n\n[29] Asbestos-containing Materials (ACMs) in Workplaces, Practical Guidelines on ACM\nManagement and Abatement, 2013. [30] 02/04/2015 tarih ve 29314 sayılı Resmî Gazete'de yayımlanan Atık Yönetimi\nYönetmeliği.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 96,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    },
+    {
+      "chunk_index": 97,
+      "content": "estos-containing Materials (ACMs) in Workplaces, Practical Guidelines on ACM\nManagement and Abatement, 2013. [30] 02/04/2015 tarih ve 29314 sayılı Resmî Gazete'de yayımlanan Atık Yönetimi\nYönetmeliği. [31] Türkiye Belediyeler Birliği, http://www.tbb.gov.tr/duzenli-depolama-sahalarinin-tasarimi-\nyer-secimi-ve-vahsi-depolama-alanlarinin-islahi.pdf\n\n<!-- PageNumber=\"47\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "source_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "document_title": "de yayımlanan Atık Yönetimi\nYönetmeliği",
+        "madde_number": null,
+        "chunk_index": 97,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "asbestle-çalışmalarda-iş-sağlığı-ve-güvenliği-uygulama-rehberi.pdf",
+        "guide_title": "Asbestle Çalışmalarda Iş Sağlığı Ve Güvenliği Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 98,
+        "processed_at": "2026-02-12T04:04:40.323000"
+      }
+    }
+  ]
+}

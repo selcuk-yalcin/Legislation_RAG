@@ -37,17 +37,19 @@ class MongoDBVectorStore:
         
         print(f"✅ MongoDB Vector Store hazır! Model: {self.embedding_model}")
     
-    def similarity_search(self, query, k=10, filter_dict=None, search_web=True):
+    def similarity_search(self, query, k=10, filter_dict=None, search_web=True, search_guides=True):
         """
-        HYBRID MongoDB Vector Search - Searches BOTH collections:
-        1. documents (manual uploads)
-        2. web_search (Serper + Azure DI + Voyage)
+        HYBRID MongoDB Vector Search - Searches THREE collections:
+        1. documents (manual uploads - kanun/yönetmelik)
+        2. web_search (Serper + Azure DI + Voyage - dynamic web content)
+        3. guides (klavuzlar - Azure DI parsed guides)
         
         Args:
             query (str): Arama sorgusu
             k (int): Döndürülecek döküman sayısı
             filter_dict (dict): MongoDB query format metadata filtreleri (opsiyonel)
             search_web (bool): web_search collection'ını da ara (default: True)
+            search_guides (bool): guides collection'ını da ara (default: True)
             
         Returns:
             list: Document objelerinin listesi (score'a göre sıralı)
@@ -57,6 +59,7 @@ class MongoDBVectorStore:
         print(f"   • K: {k}")
         print(f"   • Filter: {filter_dict if filter_dict else 'None'}")
         print(f"   • Search web_search: {search_web}")
+        print(f"   • Search guides: {search_guides}")
         
         # 1. Sorguyu Voyage AI ile vektöre çevir (bir kez, her iki search için)
         result = self.voyage_client.embed([query], model=self.embedding_model, input_type="query")
@@ -124,8 +127,24 @@ class MongoDBVectorStore:
                 print(f"   ⚠️  web_search skipped (index not ready): {str(e)[:80]}")
                 print(f"   💡 Create 'web_vector_index' in MongoDB Atlas to enable web search")
         
-        # 5. Merge results and sort by score
-        all_results = docs_results + web_results
+        # 5. Search in GUIDES collection (Kılavuzlar - Azure DI parsed)
+        guides_results = []
+        if search_guides:
+            print(f"   📚 Searching 'guides' collection...")
+            try:
+                guides_results = _search_in_collection(
+                    collection_name="guides",
+                    index_name="guides_vector_index",  # ⚠️ INDEX MUST EXIST IN ATLAS
+                    limit=k
+                )
+                print(f"   ✅ guides: {len(guides_results)} results")
+            except Exception as e:
+                # If index doesn't exist yet, skip guides search
+                print(f"   ⚠️  guides skipped (index not ready): {str(e)[:80]}")
+                print(f"   💡 Run upload_klavuzlar_with_azure.py to populate guides")
+        
+        # 6. Merge results and sort by score
+        all_results = docs_results + web_results + guides_results
         all_results.sort(key=lambda x: x.get('score', 0), reverse=True)
         
         # Take top-k from merged results
@@ -160,13 +179,48 @@ class MongoDBVectorStore:
         return [(doc, doc.score) for doc in docs]
     
     def get_collection_stats(self):
-        """Koleksiyon istatistiklerini döndür"""
-        count = self.collection.count_documents({})
-        return {
-            "total_documents": count,
+        """
+        Tüm collection'ların istatistiklerini döndür.
+        
+        Returns:
+            dict: Stats for documents, web_search, and guides collections
+        """
+        stats = {
             "database": MONGO_DB_NAME,
-            "collection": MONGO_COLLECTION_NAME
+            "documents": {
+                "collection": MONGO_COLLECTION_NAME,
+                "count": self.collection.count_documents({})
+            }
         }
+        
+        # Web search stats
+        try:
+            web_collection = self.db["web_search"]
+            stats["web_search"] = {
+                "collection": "web_search",
+                "count": web_collection.count_documents({})
+            }
+        except Exception:
+            stats["web_search"] = {"count": 0, "status": "not_available"}
+        
+        # Guides stats
+        try:
+            guides_collection = self.db["guides"]
+            stats["guides"] = {
+                "collection": "guides",
+                "count": guides_collection.count_documents({})
+            }
+        except Exception:
+            stats["guides"] = {"count": 0, "status": "not_available"}
+        
+        # Total
+        total = sum(
+            s["count"] for s in [stats["documents"], stats.get("web_search", {}), stats.get("guides", {})]
+            if isinstance(s.get("count"), int)
+        )
+        stats["total_documents"] = total
+        
+        return stats
     
     def health_check(self):
         """MongoDB bağlantısını kontrol et"""

@@ -1,0 +1,836 @@
+{
+  "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+  "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+  "total_chunks": 46,
+  "exported_at": "2026-02-12T12:19:34.955305",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\nDESTEK\n\nKKD\n\n</figure>\n\n\nT.C.\nÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\nİŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\n\n\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nPiyasa Gözetimi ve Denetimi Daire Başkanlığı\n\nAnkara, 2024\n\n<!-- PageBreak -->\n\nYayınlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü (İSGGM)\n2024\n\nHazırlayan\nAhmet ERSOY\nD.Eylül GÜNDOĞDU\nOnur ÖZEN\nTuğçe EKİCİ\n\nHer hakkı Çalışma ve Sosyal Güvenlik Bakanlığı, İş Sağlığı ve\nGüvenliği Genel Müdürlüğü'ne aittir. İzinsiz kopyalanamaz, çoğaltılamaz\n\n<!-- PageNumber=\"2\" -->\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## İÇİNDEKİLER\n\n\nÖNSÖZ\nGRAFİKLER LİSTESİ\nŞEKİLLER LİSTESİ\nTABLOLAR LİSTESİ\nSİMGE VE KISALTMALAR\n\n1\\. GİRİŞ",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "#### 2.1. PLASTİK İŞLEME TEKNİKLERİ\n\n\n2.1.1.\nEnjeksiyon Kalıplama\n\n21.2 Basınçlı Kalıplama\n\n2.1.3. Plastik Ekstrüzyon\n\n2.1.4. Kalandırlama\n\n2.1.5.\nŞişirme Kalıplama\n\n2.1.6.\nRotasyonel Kalıplama\n\n2.1.7. Dökme Film\n\n2.1.8.\nTermoform (Isıyla Şekillendirme)\n\n3\\. PLASTİK SEKTÖRÜNÜN TÜRKİYE'DEKİ DURUMU\n\n4\\. PLASTİK SEKTÖRÜNDEKİ BAŞLICA TEHLİKELER\n\n4.1. FİZİKSEL TEHLİKELER\n\n4.2.\nKİMYASAL TEHLİKELER\n\n4.3.\nMAKİNE VE EL ALETLERİNDEN KAYNAKLANAN\nTEHLİKELER\n\n5\\. PLASTİK SEKTÖRÜNDE KKD KULLANIMINA YÖNELİK MEVCUT DURUM\nANALİZİ\n\n6\\. PLASTİK SEKTÖRÜNDE KULLANILAN KİŞİSEL KORUYUCU DONANIMLAR\n\n6.1. EL- KOL KORUYUCU DONANIMLAR\n\n6.2.\nSOLUNUM KORUYUCU DONANIMLAR\n\n6.3. AYAK VE BACAK KORUYUCU DONANIMLAR\n\n6.4.\n4. İŞİTME KORUYUCU DONANIMLAR\n\n6.5.\nBAŞ KORUYUCU DONANIMLAR",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "### 7. KAYNAKLAR\n\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "## ÖNSÖZ\n\n\nDeğerli Paydaşlar,\n\nİş Sağlığı ve Güvenliğinin önemi dünyada ve ülkemizde her geçen gün artmaktadır. Çalışma ve Sosyal Güvenlik Bakanlığı bu hususta mevzuat çalışmaları yapmanın yanı\nsıra mevzuatın doğru uygulanması için sahaya yönelik faaliyetler ve projeler\nyürütmektedir. Bu çerçevede \"İşyerlerinde Güvenli ve Uygun Kişisel Koruyucu Donanımların\nKullanılmasının Teşvik Edilmesine Yönelik Araştırma ve Destek Projesi\" kapsamında\nmobilya, metal, boya, plastik ve maden sektörlerine odaklanılmıştır. Projede,\nçalışanların uygun ve güvenli kişisel koruyucu donanım (KKD) kullanımının sağlanması\namacıyla işyeri ziyaretleri gerçekleştirilmiş, KKD kullanımına ilişkin saha analizleri ile\nanket çalışmaları yapılarak, bilgilendirme seminerleri düzenlenmiştir. Ayrıca, söz konusu çalışmalar neticesinde elde edilen bilgiler ışığında Kişisel Koruyucu\nDonanım Kitabı ile yukarıda belirtilen beş sektöre ait sektörel rehberler hazırlanmıştır. İş Sağlığı ve Güvenliğinde öncelik her zaman toplu koruma olmalıdır. Kişisel koruyucu\ndonanımlar ek ve geçici tedbirlerdir. KKD'lerin meslek hastalığı ve iş kazalarının zararlı\netkilerine karşı en son koruma olduğu unutulmamalıdır. Bu Rehberin İSG profesyonellerine, işveren ve çalışanlara faydalı olmasını diler;\nhazırlanmasına katkıda bulunan personelimize teşekkür ederiz. T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "ilerine karşı en son koruma olduğu unutulmamalıdır. Bu Rehberin İSG profesyonellerine, işveren ve çalışanlara faydalı olmasını diler;\nhazırlanmasına katkıda bulunan personelimize teşekkür ederiz. T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "### Grafik\n\n\nGrafik 5.1\nPlastik sektöründe çalışanların eğitim düzeylerine göre dağılımları\n\nGrafik 5.2\nPlastik sektöründe çalışanların yaşlarına göre dağılımları\n\nGrafik 5.3\nPlastik sektöründe çalışanların işyerlerinde kullanması için verilen\nkişisel koruyucu donanımlara göre dağılımları\n\nGrafik 5.4\nPlastik sektöründe çalışanların iş yaparken kullandıkları kişisel\nkoruyucu donanım durumlarına göre dağılımları\n\nGrafik 5.5\nPlastik sektöründe kişisel koruyucu donanım kullanmayan çalışanların\nkullanmama nedenlerine göre dağılımları\n\nGrafik 5.6\nPlastik sektöründe çalışanların kişisel koruyucu donanımları üzerinde\nCE işareti olma durumlarına göre dağılımları\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "## ŞEKİLLER LİSTESİ\n\n\nŞekil\n\nSayfa\n\nŞekil 3.1\nTürkiye'deki plastik üreticisi firmaların alt sektör bazında dağılımı\n\nŞekil 3.2\nTürkiye'de üretilen plastik miktarı (milyon ton)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "## TABLOLAR LİSTESİ\n\n\nTablo\n\nSayfa\n\nTablo 4.1 Plastikler ve en üst proses sıcaklığının üzerine çıkarıldıklarında dumanda tespit edilen\nbileşenler\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "## SİMGE VE KISALTMALAR\n\n\n\n<table>\n<tr>\n<td>C</td>\n<td>Karbon</td>\n</tr>\n<tr>\n<td>H</td>\n<td>Hidrojen</td>\n</tr>\n<tr>\n<td>O</td>\n<td>Oksijen</td>\n</tr>\n<tr>\n<td>N</td>\n<td>Azot</td>\n</tr>\n<tr>\n<td>PE</td>\n<td>Polietilen</td>\n</tr>\n<tr>\n<td>PP</td>\n<td>Polipropilen</td>\n</tr>\n<tr>\n<td>PVC</td>\n<td>Polivinil klorür</td>\n</tr>\n<tr>\n<td>PET</td>\n<td>Polietilentetraftalat</td>\n</tr>\n<tr>\n<td>PS</td>\n<td>Polistiren</td>\n</tr>\n<tr>\n<td>DYPE</td>\n<td>Düşük yoğunluklu polietilen</td>\n</tr>\n<tr>\n<td>YYPE</td>\n<td>Yüksek yoğunluklu polietilen</td>\n</tr>\n<tr>\n<td>KOBİ</td>\n<td>Küçük ve orta boy (ölçekli) işletme</td>\n</tr>\n<tr>\n<td>AB</td>\n<td>Avrupa Birliği</td>\n</tr>\n<tr>\n<td>CE</td>\n<td>Conformité Européenne (Avrupa Normlarına Uygunluk)</td>\n</tr>\n<tr>\n<td>KKD</td>\n<td>Kişisel Koruyucu Donanım</td>\n</tr>\n<tr>\n<td>dB</td>\n<td>Desibel</td>\n</tr>\n<tr>\n<td>TS</td>\n<td>Türk Standartları</td>\n</tr>\n<tr>\n<td>EN</td>\n<td>European Norm (Avrupa Standardı)</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "### 1. GİRİŞ\n\n\nBu rehber, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yürütülen \"İşyerlerinde\nKişisel Koruyucu Donanımların (KKD) Kullanılmasının Teşvik Edilmesine İlişkin\nAraştırma ve Destek Projesi\" kapsamında hazırlanmıştır. Projede, Mobilya, Plastik, Boya, Maden ve Metal sektörlerinde faaliyet gösteren\n125 işyerinde, kişisel koruyucu donanımlara yönelik saha analizi gerçekleştirilmiş\nve çalışanlara anket uygulanmıştır. Proje kapsamında, mevcut durumda kullanılan\nKKD'ler riske, yapılan işe, kullanıcıya ve mevzuata uygunluk yönünden\ndeğerlendirilmiş, kullanım düzeyini etkileyen faktörler araştırılmış, işyerine özgü\nçözümler ve ürün önerileri yapılmış ve sektörel rehberler hazırlanmıştır. İşyerlerinde kullanılan kişisel koruyucu donanımların, KKD Yönetmeliğine uygun\nolması, CE işareti taşıması ve Türkçe kullanım kılavuzunun bulunması zorunludur. İşyerlerinde iş kazaları ve meslek hastalıklarını önlemek için riskler kaynakta\nalınacak önlemler ve toplu koruma önlemleri ile ortadan kaldırılamıyor veya kabul\nedilebilir düzeye indirilemiyor ise KKD kullanımı gerekmektedir. Kullanılacak kişisel koruyucu donanım seçiminde, yapılan risk değerlendirmesi\nsonuçları, mevcut önlemler ve kullanıcının özellikleri dikkate alınarak saha analizi\nsonucuna göre ürünler belirlenmiştir. Saha analizi, aşağıdaki adımlardan\noluşmaktadır:\n\n1\\. İş akışına göre sahanın bölümlere ayrılması\n\n2\\. Çalışanların görevlerinin sınıflandırılması\n\n3\\. Saha gezilerek tehlike kaynaklarının belirlenmesi\n\n4\\.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "nalizi, aşağıdaki adımlardan\noluşmaktadır:\n\n1\\. İş akışına göre sahanın bölümlere ayrılması\n\n2\\. Çalışanların görevlerinin sınıflandırılması\n\n3\\. Saha gezilerek tehlike kaynaklarının belirlenmesi\n\n4\\. Mevcut durumda kullanılan KKD'lerin tespiti\n\n5\\. Risk değerlendirmesi ve ölçüm sonuçlarının incelenmesi\n\n6\\. Doğru koruma sınıfında KKD belirlenmesi\n\n7\\. Kullanılan KKD'lerin uygunluğunun belirlenmesi\n\n8\\. Kişiye uygun ve birbiri ile uyumlu KKD seçimi\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "### 2. PLASTİK SEKTÖRÜ HAKKINDA GENEL BİLGİLER\n\n\nPlastik; karbon (C), hidrojen (H), oksijen (O), azot (N) ve diğer organik ya da\ninorganik elementlerin oluşturduğu monomer adı verilen; basit yapıdaki moleküllü\ngruplardaki bağın koparılarak polimer adı verilen uzun ve zincirli bir yapıya\ndönüştürülmesi ile elde edilen malzemelere verilen isimdir [1]. Plastikler, petrol\nve doğalgaz gibi doğal kaynaklardan elde edilen hidrokarbonlar kullanılarak\nüretilir. Polimer molekülün yapısı ve büyüklüğü o plastiğin özelliklerini belirler. Termoplastik ve termoset olmak üzere iki temel tipte plastik vardır. Termoplastikler başta ambalaj, inşaat, otomotiv, elektronik olmak üzere birçok\nsektörde dayanıklı ve dayanıksız tüketim mallarının üretiminde kullanılmaktadır\n[2]. Termoplastikler birçok kez yumuşatılıp sertleştirilerek biçimlendirilebilirler. Dünyada üretilen plastiğin %80-90'ı bu tür plastiklerden oluşmaktadır. Termoplastiklerin başlıcaları şunlardır: Düşük yoğunluklu polietilen (DYPE), Yüksek\nyoğunluklu polietilen (YYPE), Polistiren (PS), Polipropilen (PP),\nPolietilentetraftalat (PET), Polivinilklorür (PVC) [2]. Termoset plastikler ise çapraz bağlarla sertleştirildiklerinden dolayı ısıtıldıklarında\nçözünmez ve erimezler. Bunlar termoplastikler gibi ısıtılarak tekrar tekrar\nkullanılamazlar. Ancak; yeniden üretim sürecine sokulabilirler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "raz bağlarla sertleştirildiklerinden dolayı ısıtıldıklarında\nçözünmez ve erimezler. Bunlar termoplastikler gibi ısıtılarak tekrar tekrar\nkullanılamazlar. Ancak; yeniden üretim sürecine sokulabilirler. Termoset\nplastiklerin başlıcaları şunlardır: Fenolik reçineler, Furan reçineler, Aminoplastlar,\nAlkitler, Doymamış asit poliesterleri, Epoksi reçineler, Poliüretanlar ve Silikonlar\n[2]. Yukarıda tanımlanan plastiklerin kullanıldığı plastik endüstrisi iki büyük sektöre\nayrılmıştır. İlk sektör, polimerleri ve aslında kendilerinin de üretebileceği yarı\nmamullerden kalıba dökülen bileşikleri üreten hammadde tedarikçilerini kapsar. Yatırılan sermaye bakımından bu genellikle iki sektörün büyük olanıdır. İkinci\nsektör, hammaddeleri ekstrüzyon ve enjeksiyon kalıplama gibi çeşitli proseslerle\nsatılabilir malzemeler haline dönüştüren imalatçılardan oluşmaktadır [3]. Plastik\nhammaddelerden çeşitli plastik işleme makineleri kullanılarak oluşturulan nihai\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\nürün çeşitleri kalıplanmış parçalar, ekstrüzyonla elde edilen kesitler, filmler ince\nlevhalar, tel gibi ürünlerin üzerine yalıtkan kaplamalar gibi örneklendirilebilir [4].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "\"10\" -->\n<!-- PageBreak -->\n\nürün çeşitleri kalıplanmış parçalar, ekstrüzyonla elde edilen kesitler, filmler ince\nlevhalar, tel gibi ürünlerin üzerine yalıtkan kaplamalar gibi örneklendirilebilir [4]. Plastik işleme tekniklerinden en çok sektörde kullanılanlar aşağıda detaylı şekilde\naçıklanmaktadır [4]:\n\n· Enjeksiyon kalıplama\n\n· Basınçlı kalıplama\n\n· Plastik ekstrüzyon\n\n· Kalandırlama\n\n· Şişirme kalıplama\n\n· Rotasyonel kalıplama\n\n· Dökme film\n\n· Termoform kalıplama (ısıl şekillendirme)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "##### 21.1. Enjeksiyon Kalıplama\n\n\nBu proseste, plastik granül veya tozlar, kalıptan ayrı olan bir silindirde (kovan),\nısıtılırlar. Malzeme sıvılaşıncaya kadar ısıtılır; bu sırada helisel bir vida tarafından\nkovan içinde taşınır ve soğuyup katılaştığı kalıbın içine doğru sıkıştırılır. Kalıp\nmekanik olarak açılır ve şekil almış malzemeler çıkarılır. Bu proses, plastik\nendüstrisindeki en önemli proseslerden biridir. Kapsamlı bir şekilde geliştirilmiş\nolup karmaşıklığı çok yüksek olan malzemeleri çok düşük maliyetle imal\nedebilmektedir. Transfer ve enjeksiyon kalıplama prensipte aynı olsa da kullanılan\nmakine çok farklıdır. Transfer kalıplama, normalde termoset malzemelerle\nsınırlıyken enjeksiyon kalıplama termoplastiklerle sınırlıdır [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "##### 2.1.2. Basınçlı Kalıplama\n\n\nGranül veya toz halinde olabilen bir plastik malzemenin basınç altındaki bir\nkalıpta ısıtılmasıdır. Malzeme \"plastik\" hale geldiğinde basınç, malzemeyi kalıbın\nşeklini almaya zorlamaktadır. Plastik, ısı altında katılaşan tipte ise oluşan\nmalzeme kısa bir ısınma süresinden sonra pres açılarak dışarı çıkarılır. Plastik, ısı\naltında katılaşan tipte değilse, pres açılmadan önce soğumanın gerçekleşmiş\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nolması zorunludur. Basınçlı kalıplama ile imal edilenler arasında şişe kapakları,\nkavanoz kapakları, elektrik fişleri ve prizleri, klozetler ve tepsiler bulunmaktadır.\nBasınçlı kalıplama, aynı zamanda daha sonra vakumla şekil verme prosesinde\nşekillendirmek üzere veya tanklar ve büyük konteynerlere kaynak yaparak\nbirleştirilmek veya mevcut metal tanklara kaplama yapmak için kullanılırlar [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "##### 2.1.3. Plastik Ekstrüzyon\n\n\nBu proseste bir makine plastiği yumuşatıp bir kalıbın içinden geçecek şekilde\nsıkıştırmakta ve plastik soğuyunca yeni şeklini korumaktadır. Ekstrüzyon ürünleri,\nkesitleri neredeyse her şekli alabilen borular veya çubuklardır. Endüstriyel veya ev\ntipi kullanım amaçlı borular bu yöntemle imal edilir, fakat ilâve prosesler ile diğer\nmalzemeler de imal edilebilir. Örneğin, borular kesilip iki tarafı kapatılarak\nkesecikler ve ince cidarlı esnek borular kesilip bir ucu kapatılarak torbalar imal\nedilebilir. Ekstrüzyon prosesinin iki önemli tipi vardır. Birinde, düz bir levha imal\nedilir. Bu levha, vakumla şekillendirme gibi diğer prosesler tarafından faydalı\nmalzemelere dönüştürülebilir. İkincisi, içinde çekme borunun şekillendiği ve henüz\nsıcakken boru içinde muhafaza edilen hava basıncıyla büyük oranda genleştiği\nprosestir. Bu, çapı birkaç metre olan çok ince cidarlı bir boru oluşturur.\nDilimlenmesi halinde, bu boru ambalaj endüstrisinde çok yaygın olarak kullanılan\nbir film malzemeye dönüşmektedir. Alternatif olarak boru katlanıp iki-tabakalı\nlevha haline getirilip kesme ve birleştirme işlemleriyle basit torbalar yapmak\nüzere kullanılabilir [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "##### 2.1.4. Kalandırlama\n\n\nBu proseste, plastik iki veya daha fazla sıcak merdaneye beslenir ve bir nip\niçinden geçerek benzer iki merdane arasında levha oluşturmaya zorlanır ve sonra\nsoğutulur. Filmden daha kalın levha bu şekilde imal edilir. Bu şekilde imal edilen\nlevha, endüstriyel, ev tipi uygulamalarda ve konfeksiyon, oyuncak gibi şişirilen\nmalların hammaddesi olarak kullanılır [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "##### 2.1.5. Şişirme Kalıplama\n\n\nBu proses, ekstrüzyon ve ısıyla şekillendirmenin birleşimi olarak düşünülebilir.\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\nAçılmış bir kalıbın içinde aşağı doğru bir boru çekilir; tabana ulaştığında kalıp\nçevresini kapatır ve boru hava basıncıyla genleşir. Böylece plastik, kalıbın\nkenarlarına doğru sıkıştırılır ve üstü ve altı birleştirilir. Soğuyunca, malzeme\nkalıptan çıkarılır. Bu proses ile en önemlileri şişeler olmak üzere içi boş\nmalzemeler üretilir. Şişirme kalıplama yöntemiyle imal edilen bazı plastiklerin\nbasınç ve darbe mukavemeti, germe-şişirme kalıplama teknikleri kullanılarak\nönemli ölçüde arttırılabilir. Bir preform üretilip daha sonra hava basıncıyla\ngenleştirilmesi ve iki eksende gerilmesi yoluyla buna ulaşılır. Bu, PVC şişelerinin\npatlama basıncına karşı mukavemetini arttırarak karbonatlı içecekler için\nkullanılabilecek hale getirir [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "##### 21.6. Rotasyonel Kalıplama\n\n\nBu proses, yerçekimi sayesinde kalıbın iç yüzüne toz veya sıvının hassas bir şekilde\ndağılabilmesi için dönen boş bir kalıbın ısıtılıp soğutulması yöntemiyle kalıplı\nparça oyuncak üretiminde kullanılır. Bu yöntemle üretilen malzemeler arasında\nfutbol topları, bebekler ve benzeri diğer malzemeler vardır [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "##### 2.1.7. Dökme Film\n\n\nEkstrüzyon prosesi haricinde, film malzemeler sıcak bir polimeri çok iyi cilalanmış\nmetal tambur üzerine çekerek imal edilebilir veya bir polimer çözeltisi bir\nkonveyör üzerine sıkılabilir. Bu tür plastiklerin önemli bir uygulama alanı kağıt\nkaplamadır. Bu işlemde, erimiş plastik bir film, plastiğin kağıda yapışabileceği\nkoşullarda kağıt üzerinde çekilir. Karton da aynı şekilde kaplanabilir. Bu şekilde\nkaplanmış kağıt ve karton ambalaj sektöründe yaygındır ve karton koli imalatında\nkullanılır [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "##### 21.8. Termoform (Isıyla Şekillendirme)\n\n\nBu başlık altında çok sayıda proses toplanmaktadır; plastik malzemeden\nçoğunlukla termoplastik olan bir levha, genelde bir fırında ısıtılır ve çeperinden\nkenetlendikten sonra mekanik olarak çalışan pistonlar, basınçlı hava veya buharla\noluşan basınçla önceden tasarlanmış bir kalıba sıkıştırılır. Çok büyük malzemeler\niçin \"kauçuk benzeri\" sıcak levha, kalıpçıların kol gücüyle maşalarla hareket\nettirilir. Bu şekilde imal edilen ürünler arasında harici aydınlatma armatürleri,\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nreklam ve yol tabelaları, küvetler ve diğer tuvalet malzemeleri ile kontak lensler\nyer alır [3].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "### 3. PLASTİK SEKTÖRÜNÜN TÜRKİYE'DEKİ DURUMU\n\n\nPlastik sektörü, özellikle son yıllarda oldukça gelişme göstermekte olup sektörün\nüretim kapasitesi gün geçtikçe artmaktadır. Plastik sektörü Türkiye'de 350 bin\nkişiye istihdam sağlarken ekonomiye yılda ortalama 14 milyar dolar katma değer\nyaratmaktadır. PAGEV'in Türkiye Plastik Sektör İzleme Raporu 2022/3 Raporu'na\ngöre; 10 milyon tonu geçen toplam üretimi, 40 milyar dolar civarındaki cirosu, 7\nmilyar doları geçen direkt ihracatı ve son 10 yılda GSMH büyümesini aşan yıllık\nbüyümesiyle plastik sektörünün Türkiye ekonomisine katkısı giderek\nbüyümektedir. Plastik sektörü , ulaştığı üretim kapasitesiyle Avrupa'da 2.,\nDünya'da ise 6.'lığa yükselmiştir [6]. PAGEV tarafından yapılan son araştırmaya göre; Türkiye plastik sektöründe\nfaaliyet gösteren firmaların başlıca alt sektörler bazında dağılımında ambalaj\nmalzemeleri üretimi önde gelmektedir. İnşaat malzemeleri onu takip ederken,\nplastik mamul üretiminde sıralama elektrik-elektronik, tarım, tekstil, otomotiv ve\nhammadde üretimi olarak devam etmektedir[6].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "zemeleri üretimi önde gelmektedir. İnşaat malzemeleri onu takip ederken,\nplastik mamul üretiminde sıralama elektrik-elektronik, tarım, tekstil, otomotiv ve\nhammadde üretimi olarak devam etmektedir[6]. <figure>\n<figcaption>Şekil 3.1 Türkiye'deki plastik üreticisi firmaların alt sektör bazında dağılımı (1000 ton) [6]</figcaption>\n\nDiğerleri\n\n312\n\nOtomotiv\n\n170\n\nTekstil\n\n198\n\nTarım\n\n113\n\nE/E\n\n283\n\nİnşaat\n\n567\n\nAmbalaj\n\n1.190\n\n</figure>\n\n\n<!-- PageNumber=\"14\" -->\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n2021 yılı itibariyle bitmiş mamul üretimi 10.3 milyon ton, değeri ise 40.3 milyar\ndolar civarındadır [6]. <figure>\n<figcaption>Şekil 3.2 Türkiye'de üretilen plastik miktarı (milyon ton-milyar dolar) [6]</figcaption>\n\nMilyon Ton Milyar $\n\n46,5\n\n40,3\n\n10,1\n\n10,3\n\n11,6\n\n11,3\n\n2,7\n\n2,8\n\n2021/3\n\n2021\n\n2022/3\n\n2022/T\n\n</figure>\n\n\nTürk plastik sektöründe faaliyet gösteren bu firmaların %63'ü plastik mamul\nüreticisi olup, bunu %16 ile makine ve ekipman ve %12 ile hammadde ve yardımcı\nmadde üreticileri takip etmektedir. Türkiye'de plastik tüketiminin ağırlığını PE\n(Polietilen), PP (Polipropilen), PVC (Polivinil Klorür), PS (Polistiren) plastikler\noluşturmaktadır. Türkiye'de plastik tüketimini yönlendiren başlıca sektörler ise\ndünyada ve AB'de olduğu gibi ambalaj ve inşaat malzemeleri sektörleridir [5]. <!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "### 4. PLASTİK SEKTÖRÜNDEKİ BAŞLICA TEHLİKELER\n\n\nGerek literatür taramasında gerekse saha gözlemlerinde plastik sektöründe tespit\nedilen başlıca tehlikeler fiziksel, kimyasal ve mekanik tehlikeler başlıkları altında\nincelenmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "#### 4.1. FİZİKSEL TEHLİKELER\n\n\nGürültü, toz, aydınlatma, titreşim, sıcaklık, nem, hava akımı gibi fiziksel\nfaktörler; iş kazalarının ve meslek hastalıklarının meydana gelmesinde etkili olan\nçevresel faktörlerdir. Çevresel faktörlerin iş kazalarının meydana gelmesi\nüzerindeki etkilerine yönelik araştırmalar; çalışma koşulları kötü ise (gürültü vb.)\nkazaların doğrudan nedeni olabildiğini ve dolaylı olarak da çalışanların psikolojik\ndurumları üzerinde etkili olduğunu göstermiştir. Plastik sektörüne bakıldığında ise\ngürültü ve tozun bu sektörde ön plana çıkan tehlikeler olduğu görülmektedir [5]. İşitme kaybı pek çok plastik işleme operasyonu için yaygın bir sağlık tehlikesi\noluşturmaktadır. Plastik kırma makineleri (granülatörler) çalışırken oldukça fazla\nses çıkartırlar. Bazen bu makinelerin yanında çalışanlar ve bu makineleri idare\nedenlerde geçici ya da sürekli işitme kayıpları gelişmektedir. Bunun yanında\nenjeksiyon kalıplama makineleri, ekstruderler, termoform makinelerinde de\nbenzer şekilde ortalama olarak 90 dB(A) ile 105 dB(A) arasında değişen gürültü\noluşmaktadır. Bu tehlikelerden korunmak için öncelikle gürültünün kaynağında yok\nedilmesi gerekmektedir. Bu kapsamda; granülatörler için makinenin çalışma\nortamından izole edilmesi, operatörün yüksek gürültülü bölgelerden\nuzaklaştırılarak besleme konveyörü kullanılması, uzaktan veya otomatik besleme\nsağlanması gibi mühendislik tedbirleri alınabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "şma\nortamından izole edilmesi, operatörün yüksek gürültülü bölgelerden\nuzaklaştırılarak besleme konveyörü kullanılması, uzaktan veya otomatik besleme\nsağlanması gibi mühendislik tedbirleri alınabilir. Bu tedbirlerin uygulanamaması\ndurumunda ise doğru koruma sınıfında işitme koruyucu kullanılması gerekmektedir\n[5]. Plastik ürün imalatı yapan işyerlerinde hammadde kırma makinesi ile çalışan kişi\ntoza da maruz kalmaktadır. Bunun için toz ürünün boşaltılması kapalı sistemle\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nyapılmalıdır. Ekstrüzyon hatlarında helezon besleme noktalarında geri dönüşüm\ntozlarının biriktirildiği yöntem nedeniyle yine çalışanların toz maruziyeti söz\nkonusudur. İşveren tozdan kaynaklanan maruziyetin önlenmesinde ikame yöntemi\nkullanmalı, riski kaynağında önlemeli, toz çıkışını önlemek için mühendislik\nönlemlerini almalı, işyerinin çalışma şekli ve yapılan işe göre yeterli temiz havanın\nbulunmasını sağlamalı ve alınan toplu korunma önlemleri yeterli değilse uygun\nKKD'yi (toz maskesi vb.) çalışana temin etmelidir [5].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "#### 4.2. KİMYASAL TEHLİKELER\n\n\nPlastikler genellikle pelet, granül veya toz şeklinde işlenir. Bunların içinde\nihtiyaca göre değişen dolgu, boya maddeleri, yangın geciktirici ve stabilizatörler\ngibi katkı maddeleri vardır. İmalat esnasında malzemenin ısıtılmasıyla ortaya\nçıkan plastik dumanı içinde solunum yolunda hassasiyet, irritasyon yapan ve\nkarsinojen maddeler olabilmektedir. Dumanın tam bileşimi değişebilmektedir. Ani\netkileri arasında gözler, burun ve akciğerlerde şiddetli imitasyon vardır. Bazı\ndurumlarda, bu etkiler uzun vadeli ve geri dönülemez olabilir [5]. Plastik enjeksiyon makinelerinde kullanılan plastik hammaddenin ısınması ve belli\nbir süre sabit koşullarda kalması sonucunda ortamdaki oksijen ile reaksiyona\ngirerek ortaya çıkan uçucu kimyasal gazlar insan sağlığı için çok tehlikeli olup,\nölümcül akciğer rahatsızlıklarına sebebiyet verebilmektedir [2]. Aşağıdaki tabloda\ngenelde imalatı yapılan plastikler ve bunların tavsiye edilen en üst proses\nsıcaklığının üzerine çıkarıldıkları zaman dumanda tespit edilen bileşenlerden\nörnekler vermektedir [5].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "]. Aşağıdaki tabloda\ngenelde imalatı yapılan plastikler ve bunların tavsiye edilen en üst proses\nsıcaklığının üzerine çıkarıldıkları zaman dumanda tespit edilen bileşenlerden\nörnekler vermektedir [5]. <!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 4.1 Plastikler ve en üst proses sıcaklığının üzerine çıkarıldıklarında dumanda tespit edilen bileşenler [5]</caption>\n<tr>\n<th>Plastik</th>\n<th>Dumandaki bileşenler</th>\n</tr>\n<tr>\n<td>PVC</td>\n<td>Hidrojen klorür</td>\n</tr>\n<tr>\n<td>Ağır yanan ABS</td>\n<td>Stiren, fenol, bütadien</td>\n</tr>\n<tr>\n<td>Polipropilen</td>\n<td>Formaldehit, akrolein, aseton</td>\n</tr>\n<tr>\n<td>Asetaller</td>\n<td>Formaldehit</td>\n</tr>\n<tr>\n<td>Polietilen (yoğunluğu düşük)</td>\n<td>Bütan, diğer alkanlar, alkenler</td>\n</tr>\n<tr>\n<td>Polistiren</td>\n<td>Stiren, aldehitler</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "## 5. PLASTİK SEKTÖRÜNDE KKD KULLANIMINA YÖNELİK MEVCUT DURUM ANALİZİ\n\n\nSektörler ile iş yerinden kişisel koruyucu donanım verilme durumu arasındaki ilişki\nincelendiğinde plastik sektöründe yüz koruyucuları ve vücut koruyucuları kullanımı\ndiğer sektörlerden daha düşüktür. Eğitim düzeylerine göre çalışanların\ndağılımları incelendiğinde ortaokul-\nilköğretim mezunu %32,7 ile en\nyüksek, yüksekokul mezunu %2 olarak\nen düşük oranda görülmüştür (grafik\n5.1.)\n\n\n<figure>\n<figcaption>Grafik 5.1 Plastik sektöründe çalışanların eğitim düzeylerine göre dağılımları</figcaption>\n\nYüksekokul\n2,0%\n\nÜniversite ve\nÜstü\n6,1%\n\nİlkokul\n18,4%\n\nMeslek Lisesi\n14,3%\n\nLise\n26,5%\n\nOrtaokul /\nİlköğretim\n32,7%\n\n</figure>\n\n\nÇalışanların %77,6'sının evli,\n%22,4'ünün bekar olduğu görülmüştür. Sektörde çalışanların yaşa göre dağılımı\nGrafik 5.2'de gösterilmektedir. <figure>\n<figcaption>Grafik 5.2. Plastik sektöründe çalışanların yaşlarına göre dağılımları</figcaption>\n\n40 Yaş üzeri\n30,0%\n\n30 Yaş ve altı\n26,0%\n\n31-40 Yaş\n44,0%\n\n</figure>\n\n\nMevcut işyerinde çalışma sürelerine göre dağılımlarına bakıldığında %56'sının 3-10\nyıl arasında çalıştığı, %22'sinin 10 yıl; %22'sinin ise 3 yıldan az süredir çalıştığı\ngörülmüştür. Plastik sektöründe 8 saatten fazla çalışma oranı %64, 8 saatten az çalışma oranı\n%26, 8 saat çalışma oranı ise %10'dur. Çalışanların %95,6'sı işyerindeki riskler\nhakkında bilgi sahibi olduğunu belirtmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "k sektöründe 8 saatten fazla çalışma oranı %64, 8 saatten az çalışma oranı\n%26, 8 saat çalışma oranı ise %10'dur. Çalışanların %95,6'sı işyerindeki riskler\nhakkında bilgi sahibi olduğunu belirtmiştir. Çalışanların %98'i kişisel koruyucu donanım seçimi sırasında görüşlerinin alındığını\nve KKD yenilenme taleplerini ilgililere iletebildiklerini belirtmişlerdir. Çalışanların %55,1'i kişisel koruyucu donanımlarını giysi dolabında, %32,7'si KKD\ndolabında muhafaza ettiğini, %12,2'si ise muhafaza için herhangi bir depolama\nalanı kullanmadığını belirtmiştir. <!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımların kullanım durumunun işveren tarafından denetlenme\noranı %94'tür. Çalışanların %92'si kişisel koruyucu donanımları kullanma eğitimi\naldığını belirtilmiştir. Çalışanların tamamı KKD kullanımın kendilerine fayda\nsağladığını ifade etmiştir. Kişisel koruyucu donanımların kullanma kılavuzu okunma oranı %62'dir. Çalışanlara verilen KKD dağılımı aşağıdaki grafikte görülmektedir (5.3). Çalışanlara\nayak, el ve işitme koruyucularının en yüksek oranlarda verildiği belirtilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "nma kılavuzu okunma oranı %62'dir. Çalışanlara verilen KKD dağılımı aşağıdaki grafikte görülmektedir (5.3). Çalışanlara\nayak, el ve işitme koruyucularının en yüksek oranlarda verildiği belirtilmiştir. <figure>\n<figcaption>Grafik 5.3 Plastik sektöründe çalışanların işyerlerinde kullanması için verilen kişiselkoruyucu donanımların dağılımı</figcaption>\n\n0%\n\n10%\n\n20%\n\n30%\n\n40%\n\n50%\n\n60%\n\n70%\n\n80%\n\n90%\n\n100%\n\nAYAK KORUYUCULARI\n\n100,0%\n\nEL KORUYUCULARI\n\n97,7%\n\nİŞİTME KORUYUCULARI\n\n94,7%\n\nSOLUNUM KORUYUCULARI\n\n86,1%\n\nGÖZ\n\nKORUYUCULARI\n\n72,4%\n\nVÜCUT KORUYUCULARI\n\n41,2%\n\nBAŞ KORUYUCULARI\n\n40,0%\n\nYÜKSEKTEN DÜŞME\n\n13,3%\n\nYÜZ KORUYUCULARI\n\n11,8%\n\n</figure>\n\n\n<!-- PageNumber=\"20\" -->\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımların kullanım sıklığı incelendiğinde en sık el, ayak ve\nişitme koruyucuların kullanıldığı gözlenmiştir (Grafik 5.4).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\nKişisel koruyucu donanımların kullanım sıklığı incelendiğinde en sık el, ayak ve\nişitme koruyucuların kullanıldığı gözlenmiştir (Grafik 5.4). <figure>\n<figcaption>Grafik 5.4 Plastik sektöründe çalışanların iş yaparken kullandıkları kişisel koruyucu donanım durumlarına göre dağılımları</figcaption>\n\n0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 10\n\n100%\n\nEL KORUYUCULARI\n\n88,4%\n\nAYAK KORUYUCULARI\n\n84,4%\n\nİŞİTME KORUYUCULARI\n\n78,9%\n\nGÖZ KORUYUCULARI\n\n70,8%\n\nSOLUNUM KORUYUCULARI\n\n65,6%\n\nVÜCUT KORUYUCULARI\n\n58,3%\n\nBAŞ KORUYUCULARI\n\n46,2%\n\nYÜZ KORUYUCULARI\n\n22,2%\n\nYÜKSEKTEN DÜŞME\n\n11,1%\n\n</figure>\n\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nGrafik 5.5.'te KKD kullanmama sebepleri olarak rahat ve hızlı hareket edememe ve\nKKD kullanımına gerek görülmemesi ön plana çıkmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "NANIM REHBERİ\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nGrafik 5.5.'te KKD kullanmama sebepleri olarak rahat ve hızlı hareket edememe ve\nKKD kullanımına gerek görülmemesi ön plana çıkmaktadır. <figure>\n</figure>\n\n\n<table>\n<tr>\n<th rowspan=\"5\">GÖZ KORUYUCULARI YÜZ KORUYUCULARI BAŞ KORUYUCULARI</th>\n<th colspan=\"5\">0% 20% 40% 60% 80% 100%</th>\n</tr>\n<tr>\n<th>20,0%</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td>80,0%</td>\n<td></td>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td></td>\n<td>100,0%</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>100,0%</td>\n<td>Rahat ve hızlı hareket</td>\n</tr>\n<tr>\n<td rowspan=\"4\">EL KORUYUCULARI İŞİTME KORUYUCULARI</td>\n<td></td>\n<td></td>\n<td>80,0%</td>\n<td></td>\n<td>edemiyorum</td>\n</tr>\n<tr>\n<td>20,0%</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>14,3%</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"3\">85,7%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"5\">SOLUNUM KORUYUCULARI AYAK KORUYUCULARI VÜCUT KORUYUCULARI YÜKSEKTEN DÜŞME</td>\n<td>18,2%</td>\n<td></td>\n<td></td>\n<td></td>\n<td rowspan=\"2\">Gerek görmüyorum</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>81,8%</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>100,0%</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>100,0%</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>100,0%</td>\n<td></td>\n</tr>\n</table>\n\n\nGrafik 5.5 Plastik sektöründe kişisel koruyucu donanım kullanmayan çalışanların kullanmama\nnedenlerine göre dağılımları\n\nPlastik sektöründe kullanılan KKD'ler incelendiğinde yüz koruyucuları ve yüksekten\ndüşmeye karşı koruyucuların yarısında CE işaretinin olmadığı görülmüştür (Grafik\n5.6).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "nedenlerine göre dağılımları\n\nPlastik sektöründe kullanılan KKD'ler incelendiğinde yüz koruyucuları ve yüksekten\ndüşmeye karşı koruyucuların yarısında CE işaretinin olmadığı görülmüştür (Grafik\n5.6). <!-- PageNumber=\"26\" -->\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Grafik 5.6 Plastik sektöründe çalışanların kişisel koruyucu donanımları üzerinde CE işareti olma durumlarına göre dağılımları</figcaption>\n\n0%\n\n% 10% 20% 30% 40% 50% 60% 70% 80% 90% 10\n\n100%\n\nİŞİTME KORUYUCULARI\n\n100,0%\n\nAYAK KORUYUCULARI\n\n100,0%\n\nEL KORUYUCULARI\n\n97,4%\n\nSOLUNUM KORUYUCULARI\n\n96,3%\n\nGÖZ\n\nKORUYUCULARI\n\n94,7%\n\nBAŞ KORUYUCULARI\n\n85,7%\n\nVÜCUT KORUYUCULARI\n\n85,7%\n\nYÜZ KORUYUCULARI\n\n50,0%\n\nYÜKSEKTEN DÜŞME\n\n50,0%\n\n</figure>\n\n\nKişisel koruyucu donanımların kullanım kılavuzunun okunması oranı arttıkça yüz,\nbaş ve işitme koruyucuların kullanım oranının arttığı tespit edilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "## 6. PLASTİK SEKTÖRÜNDE KULLANILAN KİŞİSEL KORUYUCU DONANIMLAR\n\n\n\"İşyerlerinde Güvenli ve Uygun Kişisel Koruyucu Donanımların Kullanımının Teşvik\nEdilmesine Yönelik Araştırma ve Destek Projesi\" kapsamında metal sektöründe yer\nalan işyerleri ziyaret edilerek kişisel koruyucu donanımların kullanımı konusunda\nincelemelerde bulunulmuştur. Çalışma kapsamında gerçekleştirilen saha ziyaretlerinde anket sonuçlarında\ngörülenden daha düşük bir bilinç düzeyi ve kullanım oranı gözlenmiştir. Yetkililerle yapılan görüşmeler, KKD kullanımında çoğunlukla işe veya kullanıcıya\nözel bir seçim yapılmadığını ortaya koymaktadır. Kişisel koruyucu donanım kullanımı, iş sağlığı ve güvenliği açısından tespit edilen\nveya öngörülen risklerle mücadelede alınması gereken nihai tedbir olmakla\nbirlikte genel bir yaklaşım olarak işyerlerinde öncelikli bu ürünlerin kullanımına\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\nyönelindiği gözlenmiştir. Anket sonuçlarına uygulanan \"Ki Kare Analizi\" sonucunda\ntüm sektörlerde kişisel koruyucu donanımları nasıl kullanacağı ile ilgili eğitim alma\ndurumu ile \"Yüz Koruyucuları\", \"Baş Koruyucuları\", \"İşitme Koruyucuları\" ve\n\"Ayak Koruyucuları\" kullanma durumları arasında istatistiksel olarak anlamlı ilişki\nbulunduğu tespit edilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "eğitim alma\ndurumu ile \"Yüz Koruyucuları\", \"Baş Koruyucuları\", \"İşitme Koruyucuları\" ve\n\"Ayak Koruyucuları\" kullanma durumları arasında istatistiksel olarak anlamlı ilişki\nbulunduğu tespit edilmiştir. Belirlenen risklerin toplu koruma yöntemleriyle önlenemediği veya alınan teknik\nönlemlere rağmen istenilen düzeye indirilemediği hallerde kişisel koruyucu\ndonanımlar kullanılmalıdır. Saha gözlemi neticesinde plastik sektöründe\nkullanılması için KKD'lerde bulunması gereken temel özellikler ve tavsiye\nedilebilecek KKD'ler aşağıda belirtilmiştir. KKD'nin üzerinde marka, model, CE işareti ve gerekli işaretlemelerin bulunması\ngerekmektedir. Ürünlerle birlikte Türkçe kullanım kılavuzunun da bulunması\ngerekir. CE işareti olmayan ya da güvenliğinden şüphe duyulan ürünler\nkullanılmamalıdır. Kişisel koruyucu donanımın taşıması gereken asgari güvenlik\nkoşulları hakkında kullanım kılavuzundan bilgi edinilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "### 6.1. EL- KOL KORUYUCU DONANIMLAR\n\n\nMakine ve el aletleri ile çalışmalarda kesilme ve batma risklerine karşı seçilecek\nkoruyucu eldiven, kesilme ve delinmeye karşı yüksek performans göstermeli ve TS\nEN 388 standardına uygun olmalıdır. Makinelerin sıcak bölgelerine temas ve sıcak\nmalzeme sıçraması tehlikelerine karşı çalışanlar TS EN 407 standardına uygun ısıl\nrisklere karşı koruyucu eldiven kullanmalıdır. Hammadde hazırlanması, boyar\nmadde eklenmesi (masterbech) ve benzeri kimyasal etkenlere çalışanların maruz\nkalması durumunda ise ilgili TS EN ISO 374 standardına uygun kimyasal risklere\nkarşı koruyucu eldiven kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "### 6.2. SOLUNUM KORUYUCU DONANIMLAR\n\n\nYapılan ortam ve kişisel maruziyet ölçümlerine göre solunum koruyucunun\nçeşidine ve koruma seviyesine öncelikle karar verilmelidir. Solunum koruyucu,\nilgili uyumlaştırılmış standarda uygun olmalıdır. Solunum koruyucular Kişisel\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\nKoruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğe göre Kategori III\nolarak sınıflandırıldığından söz konusu ürünlerin CE işaretinin yanında dört haneli\nonaylanmış kuruluş numarasının da ürünün üzerinde bulunması gerekmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Koruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğ",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "### 6.3. AYAK VE BACAK KORUYUCU DONANIMLAR\n\n\nKayıp düşme ve cisim düşmesi riskine karşı uygun standartta ve özellikte ayak\nkoruyucu kullanması gerekmektedir. Ürün üzerindeki işaretlemeler ile kullanım\nkılavuzunda sunulan ve ilgili standardında belirtilen sembollerin açıklamaları\ndikkate alınarak kullanılacak ayak ve bacak koruyucu seçilmelidir.\n\nKişisel koruyucu donanım kapsamına giren ayak koruyucular ve ilgili standartları;\nEmniyet Ayakkabıları (TS EN ISO 20345), Koruyucu Ayakkabılar (TS EN ISO 20346),\nİş Ayakkabıları (TS EN ISO 20347) ve Diz Koruyucuları (TS EN 14404) olarak\nsıralanmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "### 6.4. İŞİTME KORUYUCU DONANIMLAR\n\n\nİşyerlerinde gürültü ölçümü yapıldıktan sonra kullanılacak olan işitme koruyucu\niçin uygun SNR değeri belirlenmelidir ve belirlenen SNR değerine göre seçilen\nişitme koruyucular kullanılmalıdır. İşitme koruyucu donanımlar, kulak tıkaçları (TS\nEN 352- 2), kulaklıklar (TS EN 352-1), barete takılabilir kulaklıklar (TS EN 352-3)\nolmak üzere üç çeşittir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "### 6.5. BAŞ KORUYUCU DONANIMLAR\n\n\nÇalışma alanının dar olduğu veya birçok faaliyetin aynı anda ve aynı yerde\nyürütüldüğü işkollarında, çalışanların baş yaralanmalarıyla karşılaşma riskleri\nyüksektir. Bu sebeple olası bir iş kazası sonucu meydana gelebilecek baş\nyaralanmalarını önlemek veya etkilerini en aza indirmek amacıyla baş koruyucu\ndonanımların kullanılması gerekmektedir. <!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\nİşverenlerce en sık yapılan hatalardan biri daha ucuz olması sebebi ile\nçalışanlarına baret yerine darbe başlığı (koruyucu şapka - bump cap)\nkullandırmaktır. Darbe başlıkları baretin sahip olduğu koruma seviyesini\nsağlayamadığı için baret yerine kullanılamaz. Bu ürünler başın, sabit durumdaki\nsert cisimlere çarpma sonucu oluşan yaralanmalara karşı korunmasında\nkullanılırlar ve TS EN 812 standardına uygun olurlar. Baretler ise düşen objelerden, çarpma ve darbelerden, elektrik çarpmalarından,\nergimiş metal sıçramalarından ve yanma gibi durumlardan korunmak amacıyla\nkullanılmaktadır. Tek çeşit baretle yukarıda bahsedilen bütün tehlike ve risklere\nkarşı koruma sağlanamamaktadır. Dolayısıyla baretler sağladıkları koruma çeşidine\ngöre endüstriyel baretler (TS EN 397) ve yüksek performanslı endüstriyel baretler\n(TS EN 14052) olarak ikiye ayrılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "şı koruma sağlanamamaktadır. Dolayısıyla baretler sağladıkları koruma çeşidine\ngöre endüstriyel baretler (TS EN 397) ve yüksek performanslı endüstriyel baretler\n(TS EN 14052) olarak ikiye ayrılabilir. Yapılan işin doğası, ürün üzerindeki işaretlemeler ile kullanım kılavuzunda sunulan\nve ilgili standardında belirtilen sembollerin açıklamaları dikkate alınarak\nkullanılacak baş koruyucuya karar verilmelidir. <!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "## 7. KAYNAKLAR\n\n\n[1]\nhttps://tr.wikipedia.org/wiki/Plastik\n\n[2]\nKurt, B, Plastik Ürün İmalatı Yapan Kobi'lerde İSG Uygulamaları ve Plastik Enjeksiyon\nMakinelerinde Oluşan Tehlikelerin Tanımlanması ve Önlenmesi, İş Sağlığı ve\nGüvenliği Uzmanlık Tezi, T.C. Çalışma ve Sosyal Güvenlik Bakanlığı, Ankara, 2012\n\n[3]\nGlass, B., Small Enterprises And Occupational Health And Safety, Encyclopaedia\nof Occupational Health and Safety (Edited By: Stellman, J.M.) (Fourth Edition),\nInternational Labour Office, Sayfa: 77.24 , Geneva, 1998\n\n[4]\nVural, Doç. Dr. M., Üretim Yöntemleri İstanbul Teknik Üniversitesi, http://web.itu.\nedu.tr/gulmezt/IMAL%20USULLERI/ch13-Plastik%20isleme.pdf\n\n[5]\nÖzen, T, Plastik Ambalaj Ürün İmalatında İş Kazalarının İrdelenmesi, İş Sağlığı ve\nGüvenliği Uzmanlık Tezi, T.C. Çalışma ve Sosyal Güvenlik Bakanlığı, Ankara, 2016\n\n[6]\nPlastik Sanayicileri Federasyonu, Türkiye Plastik Sektör İzleme Raporu, 2022/3\n\n<!-- PageBreak -->\n\n<!-- PageFooter=\"PLASTİK SEKTÖRÜ KİŞİSEL KORUYUCU DONANIM REHBERİ\" -->\n<!-- PageNumber=\"28\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "source_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "document_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "plastik-sektörü-kişisel-koruyucu-donanım-rehberi.pdf",
+        "guide_title": "Plastik Sektörü Kişisel Koruyucu Donanım Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 46,
+        "processed_at": "2026-02-12T04:35:02.401000"
+      }
+    }
+  ]
+}

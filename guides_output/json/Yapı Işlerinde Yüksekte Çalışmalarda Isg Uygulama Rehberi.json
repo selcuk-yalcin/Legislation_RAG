@@ -1,0 +1,1682 @@
+{
+  "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+  "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+  "total_chunks": 93,
+  "exported_at": "2026-02-12T12:19:46.249106",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\n* *** **\n* * * * * * *\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nYAPI İŞLERİNDE YÜKSEKTE ÇALIŞMALARDA\nİŞ SAĞLIĞI VE GÜVENLİĞİ UYGULAMA REHBERİ\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n2018\n\n<!-- PageBreak -->\n\n<!-- PageBreak -->\n\n\n<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\nYAPI İŞLERİNDE\nYÜKSEKTE ÇALIŞMALARDA\nİŞ SAĞLIĞI VE GÜVENLİĞİ UYGULAMA\nREHBERİ\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nYapı İşlerinde Yüksekte Çalışmalarda İş Sağlığı ve Güvenliği Uygulama Rehberi T.C. Çalışma ve\nSosyal Güvenlik Bakanlığı, İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır.\nHazırlanan bu rehberdeki hususlar tavsiye niteliğindedir.\n\n<!-- PageBreak -->\n\nYayına Hazırlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nEmek Mahallesi, Naci Ayvalıoğlu Cad. No:13\n06520 Çankaya / ANKARA\n\nTelefon: 0 312 296 60 00\nFaks: 0 312 215 50 28\nwww.isggm.gov.tr -www.guvenliinsaat.gov.tr\nT.C. Çalışma ve Sosya Güvenlik Bakanlığı\nMart 2018 (Revizyon: 2024)\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<td>ŞEKİLLER</td>\n<td>V</td>\n</tr>\n<tr>\n<td>TABLOLAR</td>\n<td>vii</td>\n</tr>\n<tr>\n<td>1. GİRİŞ</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1.1. AMAÇ VE KAPSAM</td>\n<td>2</td>\n</tr>\n<tr>\n<td>1.2. İLGİLİ MEVZUAT</td>\n<td>2</td>\n</tr>\n<tr>\n<td>1.3. SORUMLULUKLAR</td>\n<td>3</td>\n</tr>\n<tr>\n<td>1.4. EĞİTİM VE BİLGİLENDİRME</td>\n<td>4</td>\n</tr>\n<tr>\n<td>2. YÜKSEKTEN DÜŞME</td>\n<td>6</td>\n</tr>\n<tr>\n<td>2.1. YÜKSEKTE ÇALIŞMA PLANI</td>\n<td>9</td>\n</tr>\n<tr>\n<td>2.2. KONTROL HİYERARŞİSİ</td>\n<td>10</td>\n</tr>\n<tr>\n<td>3. DÜŞMEYE KARŞI KORUYUCU SİSTEMLER</td>\n<td>14</td>\n</tr>\n<tr>\n<td>3.1. DÜŞMEYİ ÖNLEYİCİ SİSTEMLER</td>\n<td>14</td>\n</tr>\n<tr>\n<td>3.1.1. Geçici Kenar Koruma Sistemleri</td>\n<td>14</td>\n</tr>\n<tr>\n<td>3.1.2. Kapak Sistemleri</td>\n<td>20</td>\n</tr>\n<tr>\n<td>3.1.3. Hareketi Kısıtlayıcı Sistemler (HKS)</td>\n<td>20</td>\n</tr>\n<tr>\n<td>3.2. ÇALIŞMA KONUMLAMA SİSTEMLERİ</td>\n<td>21</td>\n</tr>\n<tr>\n<td>3.3. DÜŞMEYİ DURDURUCU SİSTEMLER</td>\n<td>21</td>\n</tr>\n<tr>\n<td>3.3.1. Güvenlik Ağları</td>\n<td>21</td>\n</tr>\n<tr>\n<td>3.3.2. Hava Yastıkları</td>\n<td>23</td>\n</tr>\n<tr>\n<td>3.3.3. Yakalama Platformları</td>\n<td>25</td>\n</tr>\n<tr>\n<td>3.3.4. Kişisel Düşmeyi Durdurucu Sistemler</td>\n<td>25</td>\n</tr>\n<tr>\n<td>4. YÜKSEKTE ÇALIŞMA EKİPMANLARI</td>\n<td>30</td>\n</tr>\n<tr>\n<td>4.1. İSKELELER</td>\n<td>30</td>\n</tr>\n<tr>\n<td>4.2. MERDİVENLER</td>\n<td>32</td>\n</tr>\n<tr>\n<td>4.3. YÜKSELTİLEBİLEN SEYYAR İŞ PLATFORMLARI</td>\n<td>34</td>\n</tr>\n<tr>\n<td>4.4.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": ">30</td>\n</tr>\n<tr>\n<td>4.1. İSKELELER</td>\n<td>30</td>\n</tr>\n<tr>\n<td>4.2. MERDİVENLER</td>\n<td>32</td>\n</tr>\n<tr>\n<td>4.3. YÜKSELTİLEBİLEN SEYYAR İŞ PLATFORMLARI</td>\n<td>34</td>\n</tr>\n<tr>\n<td>4.4. SÜTUNLU ÇALIŞMA PLATFORMLARI</td>\n<td>36</td>\n</tr>\n<tr>\n<td>4.5. ERİŞİM KULELERİ</td>\n<td>37</td>\n</tr>\n<tr>\n<td>5. İYİ UYGULAMA ÖRNEKLERİ</td>\n<td>38</td>\n</tr>\n<tr>\n<td>6. EKLER</td>\n<td>42</td>\n</tr>\n<tr>\n<td>EK-1: Kişisel Koruyucu Donanımlar</td>\n<td>43</td>\n</tr>\n<tr>\n<td>EK-2: Tehlike Kaynakları - Önemli Hususlar.</td>\n<td>48</td>\n</tr>\n<tr>\n<td>KAYNAKLAR</td>\n<td>49</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"iv\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "# ŞEKİLLER\n\n\n\n<table>\n<tr>\n<td>Şekil 1.1. Yüksekte çalışma</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Şekil 2.1. Düşme riski</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Şekil 2.2. Kontrol önlemleri hiyerarşisi</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Şekil 2.3. Tehlikeyi kaynağında yok etme</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Şekil 2.4. Güvenli erişim</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Şekil 2.5. Kişisel koruyucu tedbirler</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Şekil 3.1. Kenar koruma tipleri</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Şekil 3.2. Kenar koruma sistemi</td>\n<td>17</td>\n</tr>\n<tr>\n<td>Şekil 3.3. Kenar koruma uygulamaları</td>\n<td>18</td>\n</tr>\n<tr>\n<td>Şekil 3.4. Kenar koruma eğimi</td>\n<td>19</td>\n</tr>\n<tr>\n<td>Şekil 3.5. Kenar koruma sistemi örnekleri</td>\n<td>19</td>\n</tr>\n<tr>\n<td>Şekil 3.6. Kapak sistemi</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Şekil 3.7. Hareketi kısıtlayıcı sistem</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Şekil 3.8. Korkuluk ve HKS ile düşmeye karşı koruma</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Şekil 3.9. Çalışma konumlama sistemi</td>\n<td>21</td>\n</tr>\n<tr>\n<td>Şekil 3.10. Güvenlik ağı</td>\n<td>21</td>\n</tr>\n<tr>\n<td>Şekil 3.11. Güvenlik ağı sistem tipleri</td>\n<td>22</td>\n</tr>\n<tr>\n<td>Şekil 3.12. İzin verilen düşme yükseklikleri (Eğim ≤ 20°)</td>\n<td>22</td>\n</tr>\n<tr>\n<td>Şekil 3.13. Yakalama genişliği</td>\n<td>23</td>\n</tr>\n<tr>\n<td>Şekil 3.14. Hava yastığı sisteminin bir inşaatta kullanımı</td>\n<td>23</td>\n</tr>\n<tr>\n<td>Şekil 3.15. Hava yastığı sistemi</td>\n<td>24</td>\n</tr>\n<tr>\n<td>Şekil 3.16.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "</td>\n<td>23</td>\n</tr>\n<tr>\n<td>Şekil 3.14. Hava yastığı sisteminin bir inşaatta kullanımı</td>\n<td>23</td>\n</tr>\n<tr>\n<td>Şekil 3.15. Hava yastığı sistemi</td>\n<td>24</td>\n</tr>\n<tr>\n<td>Şekil 3.16. Yakalama platformu</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Şekil 3.17. Kişisel düşmeyi durdurucu sistemin temel bileşenleri</td>\n<td>26</td>\n</tr>\n<tr>\n<td>Şekil 3.18. Tam vücut tipi emniyet kemeri, bağlama tertibatı ve enerji emici</td>\n<td>28</td>\n</tr>\n<tr>\n<td>Şekil 3.19. Geri sarmalı tipte düşme önleme tertibatı</td>\n<td>28</td>\n</tr>\n<tr>\n<td>Şekil 3.20. Salınım tehlikesi</td>\n<td>29</td>\n</tr>\n<tr>\n<td>Şekil 4.1. Cephe iskelesi</td>\n<td>30</td>\n</tr>\n<tr>\n<td>Şekil 4.2. Merdivenle erişim</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Şekil 4.3. Merdivende 3 nokta kuralı</td>\n<td>33</td>\n</tr>\n<tr>\n<td>Şekil 4.4. Merdivende 4'e 1 oranı</td>\n<td>33</td>\n</tr>\n<tr>\n<td>Şekil 4.5. Yükseltilebilen seyyar iş platformları</td>\n<td>34</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"v\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>Şekil 4.6. Platformda doğru çalışma</td>\n<td>35</td>\n</tr>\n<tr>\n<td>Şekil 4.7. Sütunlu çalışma platformunun bileşenleri</td>\n<td>36</td>\n</tr>\n<tr>\n<td>Şekil 4.8. Erişim kulesi bileşenleri</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 4.9. Erişim kulesi ile çalışma</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.1. Hareketi kısıtlayıcı sistem ile düşmeye karşı koruma</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.2. Platformlu merdivende çalışma</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.3.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "</td>\n</tr>\n<tr>\n<td>Şekil 5.1. Hareketi kısıtlayıcı sistem ile düşmeye karşı koruma</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.2. Platformlu merdivende çalışma</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.3. Merdivenin yerleştirilmesi</td>\n<td>37</td>\n</tr>\n<tr>\n<td>Şekil 5.4. İnşaat kalıp çalışmasında düşmeye karşı koruma</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Şekil 5.5. Araç üzerinde düşmeye karşı koruma</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Şekil 5.6. Kazı kenarında düşmeye karşı koruma</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Şekil 5.7. Çatı çalışmasında düşmeye karşı koruma</td>\n<td>41</td>\n</tr>\n<tr>\n<td>Şekil 5.8. Yaşam hattı ile düşmeye karşı koruma</td>\n<td>41</td>\n</tr>\n<tr>\n<td>Şekil 5.9. İskele kurulumunda düşmeye karşı koruma</td>\n<td>42</td>\n</tr>\n<tr>\n<td>Şekil 5.10. Güvenlik ağı ile düşmeye karşı koruma</td>\n<td>42</td>\n</tr>\n<tr>\n<td>Şekil 5.11. Kat merdivenlerinde düşmeye karşı koruma</td>\n<td>42</td>\n</tr>\n<tr>\n<td>Şekil 6.1. Tam vücut kemer sistem örneği</td>\n<td>44</td>\n</tr>\n<tr>\n<td>Şekil 6.2. Görsel inceleme</td>\n<td>45</td>\n</tr>\n<tr>\n<td>Şekil 6.3. Şerit inceleme</td>\n<td>45</td>\n</tr>\n<tr>\n<td>Şekil 6.4. Tam vücut kemerin giyilmesi</td>\n<td>46</td>\n</tr>\n<tr>\n<td>Şekil 6.5. Çeşitli lanyard tipleri</td>\n<td>47</td>\n</tr>\n<tr>\n<td>Şekil 6.6. Enerji emici aparat</td>\n<td>47</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"vi\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "## TABLOLAR\n\n\n\n<table>\n<tr>\n<td>Tablo 2.1 Düşme ile oluşan hız ve mesafeler</td>\n<td>6</td>\n</tr>\n<tr>\n<td>Tablo 3.1. Asgari yakalama genişlikleri</td>\n<td>23</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"vii\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "## 1. GİRİŞ\n\n\nÇalışma hayatında çalışanlar tarafından yürütülmekte olan çeşitli iş ve faaliyetler, çalışanların\ngenel olarak açık ve kapalı ortamlarda özel olarak ise ofis ortamında, yerin altında, yüksek\nyerlerde, su üstünde veya altında vb. farklı şart ve koşullarda çalışmasını gerektirebilmektedir. Birçok sektörde yürütülmekte olan işlerin doğası gereği ortaya çıkardığı olumsuz çalışma\nkoşullarının en yaygın olanlarından birisi de şüphesiz ki çalışanların düşme riskine maruz\nkaldıkları yüksekte çalışmalardır. Ülkemiz mevzuatında yüksekte çalışma \"seviye farkı\nbulunan ve düşme sonucu yaralanma ihtimalinin oluşabileceği her türlü alanda yapılan\nçalışma\" şeklinde tanımlanmaktadır [1]. Mevzuatımızda belirtilen tanımın konuyu geniş yelpazede değerlendirdiği ve bir faaliyetin\nyüksekte çalışma olarak dikkate alınabilmesi için iki hususun aynı anda bir araya gelmesi\ngerektiği görülmektedir. Bu hususlar seviye farkı ve yaralanma ihtimalidir. Seviye farkı yani yükseklik ile ilgili olarak bazı Avrupa Birliği ülkeleri, Amerika Birleşik\nDevletleri, Avustralya gibi ülkelerde farklı sınır değerleri yer almaktadır. Mevzuatımızda ise\nbir rakamsal sınırlamaya gidilmemiş ve kapsam daha geniş tutulmuştur. <figure>\n<figcaption>Şekil 1.1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "şik\nDevletleri, Avustralya gibi ülkelerde farklı sınır değerleri yer almaktadır. Mevzuatımızda ise\nbir rakamsal sınırlamaya gidilmemiş ve kapsam daha geniş tutulmuştur. <figure>\n<figcaption>Şekil 1.1. Yüksekte çalışma [2]</figcaption>\n</figure>\n\n\nÖrneğin, mevzuatımız 50 cm yükseklikte bir platform ya da basamak üzerine çıkılarak\nyapılan kısa süreli bir tadilat işini de; yerden 3 metre yükseklikte bir iskele üzerinde yapılan\nbakım, onarım işini de yüksekte çalışma olarak kabul etmektedir. Özellikle inşaat sektöründe yürütülen kalıp, demir ve beton döküm işleri ile sıva, boya,\nizolasyon gibi işler, çatı imalatı, köprü, çelik konstrüksiyon vb. birçok faaliyet ile çeşitli\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->\n\nişyerlerinde platformlar, iskeleler, merdivenler vb. geçici iş ekipmanları üzerinde yapılan\nfaaliyetler ya da sabit makine, tezgah gibi iş ekipmanları veya yapılar üzerinde yapılan\ntemizlik, bakım ve kontroller gibi daha birçok faaliyet, bünyesinde yüksekte çalışmayı\nbarındırmaktadır. Bu ve bunun gibi riskli sektörlerde düşme tipi iş kazalarında ciddi\nyaralanmaların ihtimal dâhilinde olduğu dikkate alınırsa, yüksekte çalışma hususunun ne\nkadar önemli olduğu daha iyi anlaşılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "## 1.1. AMAÇ VE KAPSAM\n\n\nÇalışma hayatı ile iç içe olan yüksekte çalışmaya gerekli önem verilmediğinde, özellikle\ndüşme şeklinde birçok iş kazasının yaşandığı ve bu sebeple birçok çalışanın düşmenin ağır\netkileri de dikkate alındığında hayatını kaybettiği görülmektedir.\n\nHazırlanan bu rehberin ana amacı; düşme başta olmak üzere yüksekte çalışmadan\nkaynaklanan iş kazalarının önlenebilmesini ve tüm çalışanların işlerini sağlıklı ve güvenli\nşekilde yürütebilmelerini sağlamak amacıyla genel hatlarıyla bilgi vermektir.\n\nRehber; yüksekte çalışma yapılan bütün işyerlerindeki işverenler, çalışanlar ve teknik\npersonel ile yüksekte çalışma içeren işlerin planlanması ve hazırlık aşamalarında bulunan\nherkesin faydalanması için hazırlanmıştır.\n\nRehber içeriğinde, yüksekte çalışma ile ilgili risklerin nasıl değerlendirilip kontrol altına\nalınacağına ve yüksekte güvenli çalışmanın sağlanması için alınacak toplu ve kişisel koruyucu\ntedbirler ile çalışma yöntemleri ve kullanılabilecek iş ekipmanlarına dair genel seviyede\nbilgiler verilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "## 1.2. İLGİLİ MEVZUAT\n\n\nİş sağlığı ve güvenliği (İSG) ile ilgili hususlar, 20/6/2012 tarihli İş Sağlığı ve Güvenliği\nKanunu ile Kanunun 30 uncu maddesine dayanılarak yayımlanan ilgili yönetmeliklerde\nbelirtilen hükümler ile düzenlenmiştir.\n\nİSG mevzuatında yüksekte çalışma ile ilgili hükümler genel olarak aşağıda belirtilen iki\nyönetmelik çerçevesinde toplanmıştır:\n\n· Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği,\n\n· İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği.\n\n<!-- PageNumber=\"2\" -->\n<!-- PageBreak -->\n\n05/10/2013 tarihli ve 28786 sayılı Resmi Gazete'de yayımlanan Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği yüksekte çalışma ile ilgili hükümlerin en kapsamlı olduğu\ndüzenlemedir. Bu Yönetmelik içerisinde:\n\n· Yüksekte çalışmanın tanımı,\n\n· Yüksekte yapılan çalışmalarda uyulacak hususlar,\n\n· İlgili standartlara atıflar ile alınacak teknik önlemlerin detayları,\n\n· İskele sistemleri ile ilgili hükümler\n\nyer almaktadır.\n\n25/4/2013 tarihli ve 28628 sayılı Resmi Gazete'de yayımlanan İş Ekipmanlarının\nKullanımında Sağlık ve Güvenli Şartları Yönetmeliği'nde ise aşağıdaki hususlara dair\nhükümler düzenlenmiştir:\n\n· Yüksekte yapılan geçici işlerde, iş ekipmanının kullanımı ile ilgili genel hususlar,\n\n· El merdivenlerinin kullanımı ile ilgili özel hükümler,\n\n· İskelelerin kullanımı ile ilgili özel hükümler,\n\n· Halat kullanarak yapılan çalışmalarla ilgili özel hükümler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "2012 tarihli İş Sağlığı ve Güvenliği\nKanunu ile Kanunu",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "## 1.3. SORUMLULUKLAR\n\n\nİşverenler, çalışanlar ve diğer yetkili kişilerin görev, yetki ve sorumlulukları; İş Sağlığı ve\nGüvenliği Kanunu ve bu Kanunun kapsamında yayımlanan ilgili yönetmeliklerde\nbelirtilmektedir.\n\nYüksekte güvenli çalışma, işverenler başta olmak üzere tüm çalışanların ve ilgili teknik\npersonelin sorumluluklarını yerine getirmesi ve birlikte hareket etmesi ile sağlanmaktadır.\nİlgili tarafların sorumlulukları, yüksekte çalışma gerektiren işlerin sağlıklı ve güvenli şekilde\nsürdürülmesi açısından incelediğinde ise temel olarak aşağıdaki hususların sağlanması\ngerektiği görülmektedir:\n\n· İşverenler; işyerlerine ve çalışma alanlarına güvenli erişim ile güvenli giriş-çıkış\nyerleri sağlanmasından, toplu koruyucu önlemler ile kişisel koruyucu donanımların ve\nsistemlerin temin edilmesinden ve uygulamaların kontrolünden sorumludurlar.\n\n· Çalışanlar; kendilerinin ve diğer çalışanların iş sağlığı ve güvenliği şartlarını tehlikeye\natmamaya azami derecede dikkat etmekle, işyeri genel prosedürlerine, güvenli çalışma\n\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\nyöntemlerine ve iş sağlığı ve güvenliğinin sağlanması amacıyla kendilerine verilen\ndiğer bütün talimatlara uymakla ve kişisel koruyucu donanımlarını kullanmak,\ntemizliğini ve korumasını sağlamakla yükümlüdürler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "İş Sağlığı ve\nGüvenliği Kanunu ve bu Kanunu",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "# 1.4. EĞİTİM VE BİLGİLENDİRME\n\n\nİş kazalarının önlenmesinde en önemli hususlardan birisi de yapılacak işin ehil ve yeterli\neğitim almış kişiler tarafından yapılmasıdır. İşlerini doğru şekilde, usul ve yöntemlerine\nuygun olarak yapan çalışanlar, iş kazalarının büyük oranda düşmesini sağlayacaktır. Bu\nsebeple çalışanların gerek işe girişlerinde gerekse çalışma hayatları boyunca yaptıkları işlerle\nilgili mesleki eğitim almaları, işlerini sağlıklı ve güvenli şekilde yürütebilmeleri için iş sağlığı\nve güvenliği (İSG) eğitimleri ve özel çalışma ortamlarıyla ilgili eğitim almaları büyük önem\narz etmektedir. 6331 sayılı Kanunun 17 nci maddesinde çalışanların eğitim alma zorunluluğu belirtilmekte\nolup bu madde çerçevesinde Bakanlığımızca hazırlanan 15/5/2013 tarihli ve 28648 sayılı\nResmi Gazete'de yayımlanan Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve\nEsasları Hakkında Yönetmelik ve 13/7/2013 tarihli ve 28706 sayılı Resmi Gazete'de\nyayımlanan Tehlikeli ve Çok Tehlikeli Sınıfta Yer Alan İşlerde Çalıştırılacakların Mesleki\nEğitimlerine Dair Yönetmelik konu ile ilgili detaylı düzenlemeler içermektedir. Ayrıca\n\"Meslekî Yeterlilik Kurumu Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere\nİlişkin Tebliğ\" ile de çeşitli meslek dallarında Meslekî Yeterlilik Belgesi zorunlu hale\ngetirilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "Ayrıca\n\"Meslekî Yeterlilik Kurumu Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere\nİlişkin Tebliğ\" ile de çeşitli meslek dallarında Meslekî Yeterlilik Belgesi zorunlu hale\ngetirilmektedir. Yüksekte çalışma gerektiren işlerde de yapılan işe dair mesleki eğitimin ve ilgili\nYönetmelikler ile belirlenen İSG eğitimlerinin yanı sıra çalışma ortamının yapısı gereği\nçalışanlara özel eğitim verilmelidir. Nitekim \"Yapı işlerinde İş Sağlığı ve Güvenliği\nYönetmeliği\" nde aşağıdaki hüküm yer almaktadır:\n\n\"Bu alanlarda çalışanlara yüksekte çalışmayla ilgili tehlikeler, riskler, kontrol tedbirleri ve\ngüvenli çalışma yöntemleri konularında eğitim verilir.\"\n\nYüksekte çalışma sırasında karşılaşılabilecek tehlike ve riskler büyük oranda belli olmakla\nbirlikte çalışma esnasında kullanılan iş ekipmanının özellikleri, kurulum ile ilgili hususlar ve\nkişisel koruyucu donanımlar vb. unsurlar bazı tehlike ve risklerin gözden kaçırılmasına sebep\nolabilir. Bu sebeple çalışanlara verilecek eğitimin ekipmanın kurulumu ve çalışma alanına\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\nerişimden işin tamamlanmasına kadar bütün süreçleri kapsayacak şekilde olmasına dikkat\nedilmelidir. Yönetmelikte yüksekte çalışma eğitiminin içeriği ile ilgili hükümler yer almamaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı işlerinde İş Sağlığı ve Güvenliği\nYönetmeliği",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "ageBreak -->\n\nerişimden işin tamamlanmasına kadar bütün süreçleri kapsayacak şekilde olmasına dikkat\nedilmelidir. Yönetmelikte yüksekte çalışma eğitiminin içeriği ile ilgili hükümler yer almamaktadır. Ancak\neğitim konularının belirlenmesinde genel olarak aşağıdaki hususlara önem verilmelidir:\n\n· Yapılacak işin mahiyeti ve işin gerçekleştirileceği ortam ve yapının fiziki durumu,\n\n· Aynı anda çevrede yürütülmekte olan faaliyetler,\n\n· Yüksekte çalışma için kullanılması planlanan iş ekipmanı,\n\n· Çalışanların durumu, bilgi ve tecrübe seviyeleri,\n\nMuhtemel acil durumlar. İş, çalışan ve işyeri ortamının nitelikleri değerlendirildikten sonra aşağıda belirtilen konularda\nmevzunun önemine yeterince dikkat çeken bir eğitim düzenlenebilir:\n\n· Basmakalıp davranışların düzeltilmesi ve güvenlik kültürü,\n\n· Yüksekte çalışma ve düşme kavramları,\n\n· Yüksekte çalışma gerçekleştiren çalışanların görev ve sorumlulukları,\n\n· Yüksekte çalışma sırasında karşılaşılabilecek tehlike ve riskler,\n\n· Tehlike ve risklere karşı uygulanacak toplu ya da kişisel tüm koruyucu tedbirlerin\nhiyerarşisi, özellikleri, çalışma alanına uygulanması,\n\n· Kişisel koruyucu donanımların özellikleri ve doğru kullanımı,\n\n· Sağlık ve güvenlik işaretlerinin özellikleri ve seçimi,\n\n· Yüksekte çalışma sırasında kullanılan ekipman ve malzemelerin bakımı ve\nincelenmesi,\n\nAcil durum prosedürleri, kurtarma planı,\n\n· Çalışanlar arası işbirliği, koordinasyon ve etkin iletişim,\n\n· Ramak kala olayların bildirilmesi.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "kullanılan ekipman ve malzemelerin bakımı ve\nincelenmesi,\n\nAcil durum prosedürleri, kurtarma planı,\n\n· Çalışanlar arası işbirliği, koordinasyon ve etkin iletişim,\n\n· Ramak kala olayların bildirilmesi. <!-- PageNumber=\"5\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "# 2. YÜKSEKTEN DÜŞME\n\n\nDüşmeler, temel olarak hemzemin yani aynı seviyede oluşan düşmeler ve seviye farkı\nsebebiyle gerçekleşen yüksekten düşmeler şeklinde iki sınıfa ayrılabilir. Yüksekten düşmeler\nseviye farkı sebebiyle oluşan çarpma etkisi de göz önüne alındığında daha ciddi sonuçlar\ndoğurmakta ve yüksekte çalışmanın yapıldığı iş ve işyerlerinde sıkça yaşanmaktadır. Tablo\n2.1. de düşme esnasında alınan yol ve oluşan hızlar gösterilmektedir. <table>\n<caption>Tablo 2.1 Düşme ile oluşan hız ve mesafeler [3]</caption>\n<tr>\n<th>Zaman (s)</th>\n<th>Hız (km/s)</th>\n<th>Mesafe (m)</th>\n</tr>\n<tr>\n<td>0,1</td>\n<td>3,52</td>\n<td>0,05</td>\n</tr>\n<tr>\n<td>0,2</td>\n<td>7,06</td>\n<td>0,20</td>\n</tr>\n<tr>\n<td>0,5</td>\n<td>17,68</td>\n<td>1,23</td>\n</tr>\n<tr>\n<td>1</td>\n<td>35,32</td>\n<td>4,91</td>\n</tr>\n<tr>\n<td>1,5</td>\n<td>52,98</td>\n<td>11,05</td>\n</tr>\n<tr>\n<td>2</td>\n<td>70,63</td>\n<td>19,62</td>\n</tr>\n<tr>\n<td>2,5</td>\n<td>88,31</td>\n<td>30,66</td>\n</tr>\n<tr>\n<td>3</td>\n<td>105,95</td>\n<td>44,15</td>\n</tr>\n</table>\n\n\nTablo incelendiğinde, düşen kişinin yaklaşık 0,2 saniye sonra reaksiyon gösterdiği\nvarsayılırsa, bu süre içerisinde 20 cm mesafelik bir düşüş gerçekleştirmiş olduğu\ngörülmektedir. Yaş, sağlık vb. faktörlere bağlı olarak bu reaksiyonun süresinin artması çok\ndaha büyük bir düşüş gerçekleştikten sonra tepki verilmesine neden olmaktadır. Dolayısıyla\nbu durum düşme hareketi başladığında düşmenin önlenmesini çok daha zor kılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "nun süresinin artması çok\ndaha büyük bir düşüş gerçekleştikten sonra tepki verilmesine neden olmaktadır. Dolayısıyla\nbu durum düşme hareketi başladığında düşmenin önlenmesini çok daha zor kılmaktadır. Düşen kişinin bir saniye sonra yaklaşık 5 m ve iki saniye sonra yaklaşık 20 m düşmüş olması\nhızdaki artış ve dolayısıyla çarpma sırasında oluşacak yüksek etkiyi de gözler önüne\nsermektedir. Bu sebeple özellikle yüksekten düşme tipi iş kazaları, ağır sonuçlu ya da ölümlü\nolma ihtimali yüksek olan kazalardır. Çalışanların sık sık düşmesinin önlenmesinde gerekli güvenlik tedbirlerinin alınması çok\nönemli bir faktördür. Ayrıca dikkate alınması gereken ve bir kısmı düzeltilebilen sağlıkla ilgili\nfaktörler de söz konusudur. Bir çalışanda bu faktörler ne kadar çok ise o kişinin düşme\nihtimali de o derece artmaktadır. <!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\nBu faktörler şu şekilde sıralanabilir:\n\n· Alt vücudun güçsüz olması,\n\n· Yürüyüş şekli ve denge ile alakalı problemler,\n\nPsiko-aktif ilaçların kullanımı,\n\n· Postural baş dönmeleri,\n\n· Zayıf görme,\n\n· Ayak ve/veya ayakkabılar ile ilgili sorunlar,\n\nİlerlemiş yaş,\n\nYorgunluk,\n\nKasların zayıf olması,\n\nÖnceki düşmeler,\n\nŞeker hastalığı, artrit vb. kronik durumlar,\n\n· Düşme/yükseklik korkusu. Kişinin kendisi ile ilgili bu iç faktörlerin yanı sıra düşme olayını tetikleyen bazı dış faktörlerin\nde dikkat alınması önemlidir. Bu faktörler şu şekildedir:\n\nİşyeri faktörleri,\n\n· İş organizasyonu ile ilgili faktörler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "ilgili bu iç faktörlerin yanı sıra düşme olayını tetikleyen bazı dış faktörlerin\nde dikkat alınması önemlidir. Bu faktörler şu şekildedir:\n\nİşyeri faktörleri,\n\n· İş organizasyonu ile ilgili faktörler. İşyeri ve iş organizasyonu ile ilgili faktörler ise aşağıda belirtilen hususları içermektedir [4]:\n\n· İşyeri zeminindeki döküntüler,\n\n· Çalışma yüzeyindeki buzlanma, kar ve yağmur,\n\n· Gevşek zemin malzemeleri,\n\n· Zayıf / yetersiz aydınlatma,\n\n· Düz olmayan / aşırı pürüzlü çalışma zeminleri,\n\n· Hızlı çalışma temposu,\n\n· Sıvı ve/veya yağ kullanımını içeren işler,\n\n· Planlama yapılmadan çalışılması,\n\n· Yetersiz kontrol ve gözetim,\n\n· İlgili görevle alakalı bilgi ve eğitimin yetersiz verilmiş olması,\n\n· Düşmeye karşı uygun olmayan koruyucu yöntemin seçilmesi,\n\n· Seçilen ekipmanın uygun olmayacak şekilde kurulması ve / veya kullanılması,\n\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n· Görev için gerekli ekipman ve/veya kişisel koruyucu donanımın tedarik edilmemiş\nolması,\n\n· Daha güvenli bir çalışma yöntemi varken uygun olmayan çalışmada ısrar edilmesi. Bu faktörlerden birisi ya da birkaçının oluşmasıyla\ndüşme olayı meydana gelmektedir. Çalışanlar çalışma ortamları ve yaptıkları işin\nçeşidine bağlı olarak farklı ortam ve yapılardan\ndüşebilmektedir. Çalışanların düşmesi ile sonuçlanabilecek bu ortam\nve yapılar şu şekilde sıralanabilir:\n\n\n<figure>\n<figcaption>Şekil 2.1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "tıkları işin\nçeşidine bağlı olarak farklı ortam ve yapılardan\ndüşebilmektedir. Çalışanların düşmesi ile sonuçlanabilecek bu ortam\nve yapılar şu şekilde sıralanabilir:\n\n\n<figure>\n<figcaption>Şekil 2.1. Düşme riski</figcaption>\n\nTEHLİKE\n\nDÜŞME\nRİSKİ\n\n</figure>\n\n\n· Yapı kenar boşlukları,\n\n· İskeleler (Cephe, asma, mobil, kalıp altı vb.)\n\n· Mobil yükseltilebilir iş platformları,\n\nÇatılar,\n\n· Merdivenler (Kat merdivenler, el merdivenleri, dikey merdivenler vb.)\n\nElektrik / telefon direkleri,\n\n· Asansör, merdiven, baca, şaft ve aydınlatma vb. boşluklar,\n\nSilolar,\n\nPlatform ve basamaklar,\n\n· Kamyon, tanker vb. araçlar,\n\nMakine ve tezgâhlar,\n\n· Çalışma sepetleri,\n\nForklift ve vinçler,\n\nKazı kenarları,\n\nGeçitler,\n\n· Çelik yapılar,\n\n· Halat ile yapılan çalışmalar,\n\n· Diğer seviye farkı oluşturan yapı ve ekipmanlar. <!-- PageNumber=\"8\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "## 2.1. YÜKSEKTE ÇALIŞMA PLANI\n\n\nYüksekte çalışmalarla ilgili olarak Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliğinde\n\"yapılacak çalışmaların önceden planlanması ve organize edilmesi, bu planlama yapılırken\nyüksekten düşme ile ilgili hususlara acil durum planında yer verildiğinden emin olunması\nsağlanır\" hükmü yer almaktadır.\n\nYüksekte çalışma planı [5];\n\n· İşyerindeki bütün yüksekten düşme risklerini kapsamalı,\n\n· Yüksekten düşmelerin önlenmesi için sorumlular ve sorumlulukları açıkça ortaya\nkoymalı,\n\n· Yüksekten düşme risklerinin ortadan kaldırılması için sistematik yaklaşımlar sunmalı,\n\n· Yüksekte çalışma içeren işler başlamadan önce düşme önleyici ve koruyucu önlemler\nile çalışma yöntemlerini sağlamalı,\n\n· Düşme önleme ve yüksekte çalışma güvenliği için bütüncül bir yaklaşımın\nbenimsenmesini sağlamalıdır.\n\nYüksekte çalışma planı alana özel ve yüksekten düşme risklerinin ortadan kaldırılması ya da\nazaltılması amacıyla hazırlanmış dokümanı ifade etmektedir.\n\nYüksekte çalışma planı yetkin bir kişi tarafından hazırlanıp bir yönetici tarafından\nonaylanarak uygulamaya konulmalı ve planın sürekli olarak uygulamasının kontrolü ve\ndenetiminin sağlanması için gerekli hükümler belirlenmelidir.\n\nYüksekte çalışma planı, uygunluğunun ve etkinliğinin devamının sağlanması için periyodik\nolarak izlenmeli ve işyerinde sürekli kullanıma uygun biçimde saklanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "YÜKSEKTE ÇALIŞMA PLANI\n\n\nYüksekte çalışmalarla ilgili olarak Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "### Yüksekte Çalışma Planı Genel İçeriği;\n\n\n· Düşme Önleme Politikası\n\nSorumluluklar\n\nRisk Yönetimi\n\nKontrol Önlemleri\n\n· Güvenli Çalışma Yöntemleri\n\n৳ Talimatlar\n\nKişisel Koruyucu Donanım Kullanımı\n\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\nDenetim ve Bakım\n\nEğitim\n\nKaza Araştırmaları\n\nAcil Durum Müdahalesi\n\nbaşlıklarını içerebilir [5].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "## 2.2. KONTROL HİYERARŞİSİ\n\n\nYürütülecek çalışmalar sırasında oluşabilecek risklere karşı en uygun korunma yöntemlerinin\nseçilmesinde Şekil 2.2. de gösterilen kontrol önlemleri hiyerarşisi dikkate alınmalıdır [6]. <figure>\n<figcaption>Şekil 2.2. Kontrol önlemleri hiyerarşisi [6]</figcaption>\n\nYok Etme\n\nAzami\netkinlik\n\n·Tehlikenin ya da tehlikeli çalışma ortamının işyerinden tamamen kaldırılması\n\nYerine Koyma\n\n·Tehlikeli olanın tehlikesiz ya da daha az tehlikeli olanla değiştirilmesi\n\nMühendislik Önlemleri\n\n· Çalışanların tehlikelerden izole edilmesi\n\nİdari Önlemler\n\n·Tehlikelerin kaldırılması ya da azaltılması için prosedürlerin ve talimatların\nbelirlenmesi, eğitimlerin verilmesi, bilgilendirme yapılması\n\nKişisel Koruyucu Donanım\n\nAsgari\netkinlik\n\n·Çalışanların yüksekten düşmelere karşı kişisel koruyucu donanımlar ile\nkorunması\n\n</figure>\n\n\nYüksekte güvenli çalışmanın sürdürülmesi için aşağıdaki hususlar dikkate alınmalıdır:\n\n· Öncelikli olarak yüksekte çalışma ve düşmeye karşı alınacak tedbirlerin uygulanması ile\nilgili çalışma sahasında yer alan tüm taraf ve kişilerin sorumlulukları net bir şekilde\nbelirtilmelidir. <!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n· Çalışma alanında, çevresinde ve geçiş güzergâhlarında düşmeye sebep olabilecek tüm iş\nfaaliyetleri ve ekipmanlar belirlenmelidir. · Düşmeye sebep olabilecek hususların nasıl, ne sıklıkta ve hangi şartlarda yapıldığı göz\nönüne alınmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "güzergâhlarında düşmeye sebep olabilecek tüm iş\nfaaliyetleri ve ekipmanlar belirlenmelidir. · Düşmeye sebep olabilecek hususların nasıl, ne sıklıkta ve hangi şartlarda yapıldığı göz\nönüne alınmalıdır. (İşin kapsamı, çalışma alanının düzeni, işin süresi, çalışma yüksekliği,\nçalışanların eğitim ve tecrübeleri, çalışma alanına erişim imkânları, alandaki çalışan\nsayısı, hava koşulları, eğimli ya da kaygan zemin koşulları, yetersiz aydınlatma,\nyakındaki enerji hatları vb.)\n\n· Düşmenin önlenmesi ya da riskin minimize edilmesi için hangi önlemlerin alınması\ngerektiğine karar verilmeli ve bu aşamada kontrol önlemleri hiyerarşisi uygulanarak\naşağıdaki hususlar öncelik sırasına göre değerlendirmeye alınmalıdır:\n\nÖncelikli olarak yüksekte çalışmaktan uygulanabilir olduğu sürece kaçınılmalı ve\nyüksekte çalışmaya olan ihtiyaç ortadan kaldırılmalıdır. Şekil 2.3. de gösterildiği gibi\ntasarım ve planlama aşamalarında bu hususun dikkate alınmasıyla tehlikeye maruziyet en\nbaştan ortadan kaldırılabilir. <figure>\n<figcaption>Şekil 2.3. Tehlikeyi kaynağında yok etme [7]</figcaption>\n\nYerde yapma imkânı varsa\nişi yerde yapın. Çalışmanın yerde\nyapılması ya da uygun\naletlerin kullanımı ile\nyüksekte çalışma yok\nedilir. Kontrol hiyerarşisinin\nen etkin adımıdır. Tamiratı zeminde yapın. Merdiven kullanmak yerine\nuzun kollu aletler kullanın. Malzemeleri alçakta depolayarak yükseğe çıkmaktan kurtulun. </figure>\n\n\nPrefabrik çatı elemanlarının yerde monte edilmesi, uzatılabilir kolu olan boya ruloları vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "yerine\nuzun kollu aletler kullanın. Malzemeleri alçakta depolayarak yükseğe çıkmaktan kurtulun. </figure>\n\n\nPrefabrik çatı elemanlarının yerde monte edilmesi, uzatılabilir kolu olan boya ruloları vb. ekipmanların kullanılması, boyama vb. işlerin malzeme/tesisat yerine yerleştirilmeden önce\nyapılması gibi hususlar tehlikenin ortadan kaldırılmasına örnek verilebilir. <!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nTehlikenin ortadan kaldırılması söz konusu değilse ve çalışmanın\nyüksekte yapılması zorunluysa, hâlihazırdaki güvenli çalışma yerlerinin\nseçimi, doğru iş ekipmanlarına başvurulması ve diğer tedbirlerin\nalınmasıyla güvenli erişim ve çalışma ortamı sağlanarak düşmenin\nönüne geçilmeli ve çalışanlar tehlikeden izole edilmelidir. Güvenli\nçalışma platformları, bariyerler ve kenar koruma sistemleri, sabit ve\nhareketli iskeleler, yükseltilebilir iş platformları gibi ekipmanlar\nkullanılarak çalışanların düşmesi önlenebilir (Şekil 2.4). Tehlikenin ortadan kaldırılamadığı ve çalışanların izole edilemediği\ndurumlarda ise düşme mesafesi ve düşme neticesinde oluşabilecek\nsonuçların şiddeti uygun ekipmanların kullanımı ile minimize\nedilmelidir. Şekil 2.5. de yer aldığı gibi hareketi kısıtlayıcı sistemler, düşmeyi\ndurdurma sistemleri, pozisyon alma (konumlanma) sistemleri, iple\nerişim sistemleri kullanılarak düşme riski, düşme mesafesi ve\noluşacak muhtemel sonuçların şiddeti asgari düzeye indirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "üşmeyi\ndurdurma sistemleri, pozisyon alma (konumlanma) sistemleri, iple\nerişim sistemleri kullanılarak düşme riski, düşme mesafesi ve\noluşacak muhtemel sonuçların şiddeti asgari düzeye indirilmelidir. Düşmenin önlenmesi için yukarıda belirtilen kontrol tedbirlerinin\nbirlikte kullanımı da söz konusudur. Tehlikenin en baştan bertaraf\nedilmesinin en etkin kontrol adımı olduğu dikkate alınmalı ve her bir\nadımda risk altındaki tüm çalışanları koruyan tedbirler (toplu\nkorunma) bireyin sadece kendisini koruyan tedbirlerden (kişisel\nkorunma) önce gelmelidir. <figure>\n<figcaption>Şekil 2.5. Güvenli erişim [8]</figcaption>\n</figure>\n\n\n<figure>\n<figcaption>Şekil 2.6. Kişisel koruyucu tedbirler [9]</figcaption>\n</figure>\n\n\nYüksekte çalışma sırasında kullanılacak ekipmanın seçimi\nçalışmanın güvenli şekilde sürdürülebilmesi açısından son derece önemlidir. Dikkat edilecek\nbazı kriterler aşağıda belirtilmiştir [10].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "### · Çalışma koşulları\n\n\nEğim, kötü zemin koşulları, engeller ve trafik, ekipman seçiminde rol oynayan\nfaktörlerdendir. Örneğin yükseltilebilir iş platformu, stabilitesi ile ilgili bir tehlikenin\nsöz konusu olmaması koşuluyla engellerin olduğu ve zemin koşullarının iyi olmadığı\nyerlerde istenilen çalışma alanına erişmek için mobil iskele yerine tercih edilebilir.\n\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "### · Giriş ve çıkış noktalarının mesafeleri\n\n\nYüksek mesafedeki girişler için merdiven kullanımının uygunluğu çok daha düşüktür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "### · Düşmenin mesafesi ve sonuçları\n\n\nAçılma (yerleştirme) mesafesi dikkate alınmadan düşmeyi durdurma sistemlerinin\nkullanılması neticesinde düşmeye karşı koruma etkisiz olacaktır. Çünkü düşme\nmesafesi gerekli olan açılma mesafesinden daha az olduğundan durdurma sistemi\ntamamen çalışmadan çalışan zemine ya da bir alt seviyeye çarpacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "### · Yüksekte çalışma sırasında kullanılacak ekipmanın kullanım sıklığı ve süresi\n\n\nUzun süreli ve yüksek sıklıkta yapılan çalışmalar daha yüksek standartlarda düşmeye\nkarşı koruma gerektirmektedir. Örneğin, merdiven kullanımından ziyade bir mobil\niskele kullanımı tercih edilebilir. Merdiven ise kısa süreli ve düşük riskli tekrar eden\nişler için kullanılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "### Kurtarma\n\n\nDüşmeyi durdurma sistemi kullanan asılı halde kalmış bir çalışanın kurtarılmasının\nzor olduğu durumlarda yükseltilebilir iş platformu vb. diğer iş ekipmanlarının\nkullanımı tercih edilebilir.\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "# 3. DÜŞMEYE KARŞI KORUYUCU SİSTEMLER\n\n\nGenel olarak düşmeye karşı koruma, çalışanın düşmesini önleyen ya da muhtemel bir\ndüşmeyi durduran toplu ya da kişisel koruyucu sistemler ve yüksekte çalışmada\nkullanılabilecek iş ekipmanları kullanılarak sağlanmaktadır. Bu sistemler çalışanın serbest\nşekilde hareket etmesini sağlamakta ya da sabit veya hareketli ankraj noktalarına\nbağlanmasını gerekli kılabilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "## 3.1. DÜŞMEYİ ÖNLEYİCİ SİSTEMLER\n\n\nAlınacak toplu ya da kişisel koruyucu sistemler aracılığıyla çalışanın düşmesinin engellendiği\nsistemlerdir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "### 3.1.1. Geçici Kenar Koruma Sistemleri\n\n\nGeçici kenar koruma sistemleri; inşaat sektörü başta olmak üzere birçok sektörde çalışanların\nve malzemelerin çatı, kat kenarları, boşluklar, merdivenler, platformlar vb. seviye farkının\noluştuğu çalışma alanlarından alt seviyelere düşmesini önlemek için kullanılan düşmeyi\nönleyici ekipmanlardır. Şekil 3.1'de kenar korumanın çeşitli tipleri gösterilmektedir (Detaylı\nbilgi için TS EN 13374 standardına bakınız).\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3.1. Kenar koruma tipleri [11]</figcaption>\n\n9\n\n7\n\n8\n\n6\n\n10\n\n0\n\n5\n\n4\n\n1\n\n2\n\n3\n\n</figure>\n\n\n1\\. Döşeme kenarı kelepçe sistemi\n\n2\\. Zemine sabitlenen tip sistemi\n\n3\\. Denge ağırlıklı sistem\n\n4\\. Kiriş üst flanş kelepçe sistemi\n\n6\\. Kiriş alt flanş kelepçe sistemi\n\n7\\. Kolon kelepçe sistemi - Eğimli çatılar\n\n8\\. Çit (bariyer) sistemi *\n\n9\\. Geçici yapılar üstünde kenar koruma\n\n5\\. Kolon kelepçe sistemi - Döşemeler ve düz/alçak eğimli çatılar\n\n10\\. Geçici yapılar\n\n\\* Güvenlik ağı ile ara korumanın sağlandığı kenar koruma sistemleri de kullanılmaktadır.\n(Bknz. \"Sistem U güvenlik ağları\")\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "### Kenar koruma sistemlerinin sınıflandırılması\n\n\nKenar koruma sistemleri Sınıf A, Sınıf B ve Sınıf C olmak üzere 3 sınıfa ayrılmaktadır [11].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "#### Sınıf A:\n\n\n· Koruma üzerine yaslanan kişiyi destekleme ya da yanında yürürken tutamaç görevi\ngörme,\n\n· Yürüyen ya da korumaya doğru düşen kişiyi toplu olarak durdurma,\ngibi şartlar baz alınarak sadece statik yüklere direnç sağlayan korumadır.\n\nSınıf B:\n\n› Koruma üzerine yaslanan kişiyi destekleme ya da yanında yürürken tutamaç görevi\ngörme,\n\n· Yürüyen ya da korumaya doğru düşen kişiyi toplu olarak durdurma,\n\n· Eğimli bir yüzeyden kayan/aşağı doğru düşen kişiyi toplu olarak durdurma,\ngibi şartlar baz alınarak statik yüklere ve sadece düşük dinamik eylemlere direnç sağlayan\nkorumadır.\n\nSınıf C:\n\nDik eğimli zeminden aşağıya doğru kayan kişinin düşmesinin önlenmesi için gerekli güvenlik\nşartları dikkate alınarak yüksek dinamik kuvvetlere direnç sağlayan korumadır.\n\n· Dik eğimli bir yüzeyden kayan/aşağı doğru düşen kişiyi toplu olarak durdurma.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "### Kenar koruma sistemleri gereksinimleri\n\n\nKenar koruma sistemleri; ana korkuluk, ara korkuluk ya da ara koruma ve topuk levhasından\noluşan sistemlerdir. Bütün bileşenler çalışma boyunca kazara çıkma ya da yerinde hareket\netmeye karşı güvenli olacak şekilde tasarlanmış olmalıdır.\n\nŞekil 3.2.'de örnek bir kenar koruma sistemi gösterilmiştir.\n\nAna korkuluk üst yüzeyinin çalışma yüzeyinden en az 1 metre (çalışma yüzeyine dik olacak\nşekilde ölçülen mesafe) yukarıda olacak şekilde yerleştirilmesi sağlanmalıdır.\n\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nAna korkuluklar sürekli olmalı ve\noluşabilecek herhangi yatay bir boşluk\n12 santimetreyi geçmemelidir (Bknz.\nŞekil 3.3).\n\nTopuk levhası, çalışma yüzeyi ile\nkendisi arasında boşluk olmayacak\nşekilde yerleştirilmelidir.\n\nTopuk levhası üst yüzeyi ile çalışma\nyüzeyi arasında ölçülen dikey Topuk levhası\nmesafenin ise an az 15 santimetre\nolması sağlanmalıdır.\n\nKenar koruma sistemlerinde kullanılan\ngüvenlik ağları ise TS EN 1263-1\nStandardına uygun olmalıdır.\n\n\n<figure>\n\nDikme (Post)\n\nAna korkuluk\n\n≤ 47 cm\n\nAra korkuluk\n\n≥ 100 cm\n\n≤ 47 cm\n\n≥ 15 cm\n\nÇalışma yüzeyi\n\nŞekil 3.2. Kenar koruma sistemi\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "### Sınıf A kenar koruma sistemi\n\n\nSınıf A kenar koruma sisteminin dik doğrultudan çalışma yüzeyine dışarıya ya da içeriye\ndoğru eğimi 15° den fazla olmamalıdır.\n\nAra korkuluk kullanıldığında, korumada oluşacak boşlukların 47 cm çapında bir kürenin\ngeçemeyeceği şekilde olması sağlanmalıdır (Bknz. Şekil 3.2).\n\nEğer ara korkuluk yoksa ya da sürekli değilse, kenar koruma sistemi boşluklarının 25 cm\nçapında bir kürenin geçemeyeceği şekilde olması sağlanmalıdır (Bknz. Şekil 3.3).\n\nNOT: Sınıf A kenar koruma; çalışma yüzeyi açısı 10º den az ise tercih edilebilir.\n\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3.3. Kenar koruma uygulamaları</figcaption>\n\n≤ 12 cm\n\n≤ 25 cm\n\n≤ 47 cm\n\n≥ 100 cm\n\n≤ 47 cm\n\n≥ 15 cm\n\nÇalışma yüzeyi\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "#### Sınıf B kenar koruma sistemi\n\n\nSınıf B kenar koruma sisteminin dik doğrultudan çalışma yüzeyine dışarıya ya da içeriye\ndoğru eğimi 15° den fazla olmamalıdır.\n\nSınıf B kenar korumadaki herhangi bir boşluğun 25 cm çapında bir kürenin geçemeyeceği\nşekilde olması sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "##### NOT: Sınıf B kenar koruma;\n\n\nHerhangi bir düşme yüksekliği kısıtlaması olmaksızın çalışma yüzeyi açısı 30° den az ise\nveya\n\nDüşme yüksekliği 2 metreden az ve çalışma yüzeyi açısı 60º den az ise tercih edilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "### Sınıf C kenar koruma sistemi\n\n\nKenar korumanın eğimi Şekil 3.4.'te AC dikey çizgisi ile yüzeye dik olan BC çizgisi arasında\nolmalıdır. Sınıf C kenar korumadaki herhangi bir boşluğun 10 cm çapında bir kürenin geçemeyeceği\nşekilde olması sağlanmalıdır. <!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3.4. Kenar koruma eğimi</figcaption>\n\nA\n\n≥ 100 cm\n\nB\n\n90\n\n90-a\n\n≥ 15 cm\n\nα\n\nα\n\nC\n\n</figure>\n\n\nNOT: Sınıf C kenar koruma;\n\nHerhangi bir düşme yüksekliği\nkısıtlaması olmaksızın çalışma yüzeyi\naçısı 30° ile 45° arasında ise veya\n\nDüşme yüksekliği 5 metreden az ve\nçalışma yüzeyi açısı 45° ile 60º\narasında ise tercih edilebilir .**\n\n** Çalışma yüzeyi açısı 60° den fazla\nise veya 45° den fazla ve düşme\nyüksekliği 5 metreden fazla ise kenar\nkoruma sistemleri korunma amaçlı\nkullanım için uygun değildir. Kullanılacak malzemeler ilgili standartların\nkriterlerini karşılamalı, yeterince dayanıklı ve\nkalıcı olmalıdır. Malzemeler saflığını bozacak\nunsur ve çeşitli kusurlardan uzak olmalıdır. En sık kullanılan malzemeler, geçici iş\nekipmanlarına dair malzeme bilgilerini içeren TS\nEN 12811-2 standardına uygun olmalıdır. <figure>\n<figcaption>Şekil 3.5. Kenar koruma sistemi örnekleri</figcaption>\n</figure>\n\n\nGüvenlik ağları ile ilgili malzeme gereksinimleri için TS EN 1263-1 Standardı dikkate\nalınmalıdır. Birleştirme elemanları/kelepçeler için ise TS EN 74 Standartları baz alınmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "aption>\n</figure>\n\n\nGüvenlik ağları ile ilgili malzeme gereksinimleri için TS EN 1263-1 Standardı dikkate\nalınmalıdır. Birleştirme elemanları/kelepçeler için ise TS EN 74 Standartları baz alınmalıdır. Ahşap malzemelerin mukavemeti TS EN 338 Standardına göre sınıflandırılmış olmalı ve iğne\nyapraklı veya kavak ağacından elde edilen masif ahşap için asgari C16 sınıf olan malzeme\nkullanılmalıdır. Koruyucu kaplama olması durumunda bunun malzemenin görsel\nincelemesine engel olmaması sağlanmalıdır. <!-- PageNumber=\"19\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "#### 3.1.2. Kapak Sistemleri\n\n\nÇalışma yüzeyinde süreksizlik oluşturan ve çalışanın ya da\nmalzemelerin düşmesine yol açabilecek her türlü boşluğa\nkarşı önlem alınmalıdır.\n\n\n<figure>\n</figure>\n\n\nMerdiven, asansör, baca, aydınlatma vb. boşluklar ile\nçalışma alanı ve geçiş güzergâhlarındaki tüm açıklıkların\netrafı korkuluk/bariyerler ile çevrilmeli ya da dayanıklı\nkapak vb. malzemeler ile kapatılarak güvenli hale\ngetirilmelidir. Şekil 3.6. da görüldüğü gibi boşluğun sağlam\nŞekil 3.6. Kapak sistemi [12]\nşekilde kapatıldığından ve kullanılan kapatma malzemesinin hareket etmeyecek şekilde\nsabitlendiğinden emin olunmalı, çalışanlar gerekli işaret levha ve yazılar ile uyarılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "#### 3.1.3. Hareketi Kısıtlayıcı Sistemler (HKS)\n\n\nYüksekten düşmeyi çalışanın düşme riski olan\nalanlara (korumasız kenarlar vb.) erişimini\nengelleyerek önleyen sistemlerdir.\n\n\n<figure>\n</figure>\n\n\nHKS çalışanın belirlenmiş bir alan içinde hareket\nedebilmesine müsaade eder. Çalışan tam vücut\nemniyet kemeri ve güvenlik halatı ile ankraj\nnoktasına ya da yaşam hattına bağlanmaktadır [5]. Şekil 3.7. Hareketi kısıtlayıcı sistem [13]\n\nAnkraj noktalarının seçimi, hareket alanı ve muhtemel düşme noktaları sistem uygulanmadan\nönce iyi şekilde gözden geçirilmeli, planlama yapılmalı ve gerektiğinde Şekil 3.8. de\ngösterildiği şekilde korkuluk sistemleri gibi diğer düşmeye karşı koruyucu sistemler de ilave\nolarak uygulanmalıdır.\n\n\n<figure>\n<figcaption>Şekil 3.8. Korkuluk ve HKS ile düşmeye karşı koruma</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "## 3.2. ÇALIŞMA KONUMLAMA SİSTEMLERİ\n\n\nBu sistem, çalışanın emniyet kemeri ve güvenlik halatı aracılığıyla\ndesteklenmek suretiyle yaslanarak çalışmasına olanak sağlamakta ve çalışan\nhareketini kısıtlayarak düşmenin önüne geçmektedir (Şekil 3.9).\n\nGenel olarak uygulamada çalışan, stabil bir pozisyonda kalmakta ve elleri\nserbest olacak şekilde işini yerine getirmektedir. Kısa düşüş mesafesi için\ngenelde kısa güvenlik halatları (lanyard) kullanılmaktadır. Bu sistemler\nmerdivenler, duvar ve donatı işleri vb. dikey yüzeylerde yapılan işlerde\nkullanılabilmektedir.\n\n\n<figure>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "### 3.3.1. Güvenlik Ağları\n\n\nGüvenlik ağı; bir kenar (sınır) ipi, diğer\ndestekleme elemanları veya bunların birleşimi\nile desteklenen, yüksekten düşen kişileri\nyakalamak için tasarlanmış bir ağ olarak\ntanımlanmaktadır [15] (Şekil 3.10).\n\n\n<figure>\n</figure>\n\n\nMevzuatımıza göre, kullanılan güvenlik\nŞekil 3.10. Güvenlik ağı\nağlarının; malzeme özellikleri, yapılan statik\nve dinamik dayanım deneyleri ile bağlantı ve kurulum şartları bakımından TS EN 1263-1 ve\nTS EN 1263-2 standartlarına ve ilgili diğer ulusal standartlara uygun olması gerekmektedir\n[1].",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "#### Güvenlik Ağı Çeşitleri\n\n\nGüvenlik ağı sistemleri fiziksel özelliklerine göre S tipi, T tipi, U tipi ve V tipi olmak üzere\ndört çeşit olup Şekil 3.11 de görüldüğü gibidir. [15]:\n\nSistem S: Kenar ipi olan güvenlik ağı\n\n· Sistem T: Yatay kullanım için konsollara bağlanan güvenlik ağı\n\n· Sistem U: Düşey kullanım için destek yapısına bağlanan güvenlik ağı\n\n· Sistem V: Bir sehpa tipi desteğe bağlanan kenar ipi olan güvenlik ağı\n\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3.11. Güvenlik ağı sistem tipleri</figcaption>\n\nSİSTEM T\n\nSİSTEM V\n\nx\n\nSİSTEM S\n\nSİSTEM U\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "##### Güvenlik Ağının Etiketlenmesi\n\n\nGüvenlik ağları; imalâtçının veya ithalâtçının adı veya ticarî markası, standarda uygun\ntanıtma işaretleri ve tanıtma numarası, ağın imal edildiği ay ve yıl, deney numunesinin asgarî\nenerji emme kapasitesi, imalâtçının kodu gibi bilgileri içeren bir etiketle işaretlenmelidir. Ağ\netiketi, ağın ömrü boyunca kalıcı olacak şekilde ağa yerleştirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "###### Düşme Yüksekliği\n\n\nGüvenlik ağı, çalışma platformuna mümkün olduğunca amacına uygun şekilde yakın\nkurulmalı ve bu sayede düşme yüksekliği mümkün olan en az mesafede tutulmalıdır.\nStandarda göre izin verilen azami düşme yüksekliği 6 metredir [16]. Bu yükseklik, çalışanın\nağırlık merkezi dikkate alındığında 7 metrelik bir nominal düşme yüksekliğini teşkil\netmektedir. Şekil 3.12.'de belirtilen He ve Hi düşme yüksekliklerinden her biri 6 metreyi\nkesinlikle geçmemelidir [17].\n\n\n<figure>\n<figcaption>Şekil 3.12. İzin verilen düşme yükseklikleri (Eğim ≤ 20°)</figcaption>\n\n≤20°\n\nHi\n\nH,\n\nH.\n\nHe\n\nH,\n\nHi\n\nb\n\n2 m\n\na\n\na\n\n2 m\n\na\n\nb\n\nb\n\n</figure>\n\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "###### Yakalama Genişliği\n\n\nÇalışan kişi hareket ettiği sırada bir yere takılırsa,\naşağı doğru düşmenin yanı sıra ileri doğru bir\nDüşme\nyüksekliği\n(en çok 6 m)\ndüşmeye de maruz kalmaktadır. İleri doğru düşme\nmesafesi, düşme yüksekliğinden etkilenmektedir.\nÇalışma platformunun kenarında koruma sağlayan\ngüvenlik ağları, düşen kişinin ileri doğru hareketini\nYakalama\ngenişliği\nkapsayacak şekilde geniş olmalıdır. Çalışma\nplatformunun kenarı ile güvenlik ağının dış kenarı\narasındaki net genişlik, yakalama genişliğini ifade etmektedir (Şekil 3.13) [17].\n\n\n<figure>\n<figcaption>Şekil 3.13. Yakalama genişliği</figcaption>\n\nGüvenlik\nağı\n\nMIT.\n\n</figure>\n\n\n<table>\n<caption>Tablo 3.1. Asgari yakalama genişlikleri [17]</caption>\n<tr>\n<th>Azami düşme yüksekliği, He (m)</th>\n<th>TS EN 1263-2'ye göre asgari yakalama genişliği, b (m)</th>\n<th>* BS 8411'de tavsiye edilen yakalama genişliği (m)</th>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3,5</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2,5</td>\n<td>4</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3</td>\n<td>4,5</td>\n</tr>\n</table>\n\n\\* BS 8411 Code of practice for safety nets on construction sites and other works (İnşaat sahaları ve diğer işlerde\nkullanılan güvenlik ağları için uygulama esasları)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "### 3.3.2. Hava Yastıkları\n\n\nŞekil 3.14 de görüleceği üzere düşmeyi durdurucu sistemlerden birisi olan hava yastığı\nsistemleri düşme durumunda tamponlama/yastıklama görevi gören hava dolu yastık ya da\nminderlerden oluşturulur. Bunlar yumuşak dolgu ile ya da hava ile şişirilerek oluşturulabilir\n[18]. Hava yastıkları yüksekte çalışma yürütülen bir\nalanın altına kurularak olası bir düşme durumunda\ndüşmenin çalışan üzerindeki etkisini azaltır ve\nyaralanma ihtimalini azaltır. Her iki uygulamada\nda yastıklar zemine aralarında boşluk kalmayacak\nbiçimde yan yana yerleştirilerek yüksekte çalışma\nyapılan alanın altı kaplanır. <figure>\n<figcaption>Şekil 3.14. Hava yastığı sisteminin bir inşaatta kullanımı [19]</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->\n\nYastıklar çeşitli boyutlarda temin edilerek zemin tamamen kapatılabilir. Hava yastığı sisteminin en yaygın kullanım alanı konut inşaatları olmakla beraber güvenlik\nağı kurulumunun mümkün olmadığı küçük alanlarda ya da çalışma platformlarının dış\nkenarlarında da kullanılabilmektedir. Yumuşak dolgulu yastıklar kullanılıyorsa düşme yüksekliklerinin 2 metreden fazla olmaması\ntavsiye edilmektedir. Ancak ikinci bir hava yastığı seviyesi daha oluşturularak düşme\nyükseklikleri üretici talimatlarına bağlı kalınmak koşuluyla artırılabilir. <figure>\n<figcaption>Şekil 3.15.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "aması\ntavsiye edilmektedir. Ancak ikinci bir hava yastığı seviyesi daha oluşturularak düşme\nyükseklikleri üretici talimatlarına bağlı kalınmak koşuluyla artırılabilir. <figure>\n<figcaption>Şekil 3.15. Hava yastığı sistemi [18]</figcaption>\n\nKorumasız kenar\n\nÇalışma alanı\n\nBağlantılar\n\nÜretici\ntalimatlarında\nbelirtilen şekilde\nazami düşme\nyüksekliği\n\nDuvara doğru\nyükseltilmiş\n\nHava yastığı sistemi\n\n</figure>\n\n\nHava ile şişirilmiş yastıklar kendi içinde ikiye ayrılmaktadır. Birisinde sürekli hava beslemesi\nyapılmaktadır; diğerinde ise sistem şişirilir ve sızdırmazlık sağlanarak hava hacmi sabit\ntutulur. Sızdırmaz olan sistemde düşme durumunda tamponlama etkisini oluşturabilmek için\nsistem belirli miktarda havanın çıkışına izin verir. Hava ile şişirilmiş yastıkların kullanımında da yastıklar çalışma yüzeyine mümkün olduğunca\nyakın olacak biçimde (düşme yüksekliği asgari olacak şekilde) ve düşme yüksekliği için\nüretici talimatlarının belirlediği değerleri aşmayacak şekilde yerleştirilmelidir. Hava yastığı sistemleri ile ilgili ülkemizde uygulamada olan bir standart bulunmamakla\nberaber konuyla ilgili olarak \"PAS 59: 2014 Specification for collective fall arrest soft\nlanding systems for system requirements, product information, quality control and methods\nof testing\" dokümanından yararlanılabilir. <!-- PageNumber=\"24\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "### 3.3.3. Yakalama Platformları\n\n\nYakalama platformları, çalışma alanının altına kurulan ve muhtemel\nbir düşme durumunda çalışanı tutmak için kullanılan geçici\nplatformlardır. Bu platformlar muhtemel azami darbe yükünü\nkarşılayacak nitelikte olmalıdır. Sabit veya hareketli yakalama\nplatformlarının inşa edilmesinde iskele bileşenleri\nkullanılabilmektedir [20].\n\n\n<figure>\n\n0\n\no\n\no\n\n</figure>\n\n\nYakalama platformu ile ilgili dikkat edilecek bazı hususlar Şekil 3.16. Yakalama\nşunlardır:\nplatformu[20]\n\n· Döşemesi tamamen kapatılmış olmalıdır.\n\n· Çalışma alanına mümkün olduğunca yakın olmalıdır.\n\n· Kenar koruması sağlanmış olmalıdır.\n\n· Ekipman, malzeme ve atıklardan temizlenmiş olmalıdır.\n\n· Çatı gibi eğimli bir çalışma yüzeyine ait projeksiyonun yakalama platformunun\nkorkuluğu ile kesiştiği noktanın üst tarafında yeterli korkuluk yüksekliği olduğundan\nemin olunmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "### 3.3.4. Kişisel Düşmeyi Durdurucu Sistemler\n\n\nKişisel düşmeyi durdurucu sistemler (KDDS) serbest düşmeyi durduran ve düşmenin çalışan\nüzerindeki etkilerini sınırlandıran düşmeyi durdurucu sistemlerdir [5]. Bir KDDS;\n\n· Çalışanın düşmesini önlemez. · Düşme mesafesini sınırlandırır. · Düşme riskinin bulunduğu çalışma alanlarına erişime izin verir (düşme olursa\ndurdurulur). · Düştükten sonra askıda kalmayı sağlar. <!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\nKişisel düşmeyi\ndurdurucu\nsistemler\nçalışanın\nkontrolsüz\nyüksekliklerden\ndüşmelerini\nengeller ve düşmenin etkilerini\nazaltır. Şekil 3.17 de görülen\nKDDS'ler genellikle 3 temel\nbileşenden meydana gelir [5,21];\n\nAnkrajlar\n\n· Vücut desteği\n\n· Bağlantılar\n\n\n<figure>\n<figcaption>Şekil 3.17. Kişisel düşmeyi durdurucu sistemin temel bileşenleri [22]</figcaption>\n\nAnkrai\n\nVücut\n\nDoctoči\n\nBağlantılar\n\n</figure>\n\n\nKişisel düşmeyi durdurucu sistemler çalışanların işlerini korumasız kenarlarda ya da stabil\nolmayan platformlarda (asma iskele vb.) yürüttüğü çalışmalarda kullanılır. KDDS\nkullanılırken dikkat edilmesi gereken hususlar [5];\n\n· Düşmenin çalışan üstündeki etkisinin ve durdurmadaki salınımın en az düzeyde\nkalmasının sağlanması için sistem, düşme yüksekliğinin asgari düzeyde tutulacağı\nbiçimde oluşturulmalıdır. · Sistemin bütün bileşenleri her kullanım öncesinde gözle kontrol edilmeli; yıpranmış,\neskimiş parçalar mutlaka değiştirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "şme yüksekliğinin asgari düzeyde tutulacağı\nbiçimde oluşturulmalıdır. · Sistemin bütün bileşenleri her kullanım öncesinde gözle kontrol edilmeli; yıpranmış,\neskimiş parçalar mutlaka değiştirilmelidir. · Bağlantı tertibatlarının korkuluklara ve iskele bileşenlerine takılmasından mümkün\nolduğunca kaçınılmalı varsa daha uygun ankraj noktaları tercih edilmelidir. · KDDS kullanan çalışanın herhangi bir acil durum olasılığı sebebi ile başka bir çalışan\ntarafından kontrol/eşlik edildiğine dikkat edilmelidir. · KDDS; sadece bir defa düşmeyi durdurmak üzere tasarlanmış sistemlerdir. Herhangi\nbir düşme durumunda bütün KDDS bileşenleri yetkin bir kişi tarafından detaylı olarak\nincelenir. İnceleme sonucunda zarar görmediğine ve tekrar kullanılabileceğine dair\nrapor hazırlanıp imzalanmadığı takdirde bu KDDS kullanımdan çıkartılır. <!-- PageNumber=\"26\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "#### Kısıtlamalar\n\n\nBu sistemlerde düşme sonucunda çalışanda bazı fiziksel hasarlar söz konusu olabilmektedir.\nBu sebeple KDDS'ler diğer düşme önleme yöntemlerinin makul biçimde uygulanabilir\nolmadığı durumlarda tercih edilmelidir.\n\nBir KDDS serbest düşmenin gerçekleşmesi ve durdurulması durumunda çalışan üzerinde\noluşacak kuvvetin 6 kN'dan fazla olmaması için enerji emici bileşenler ya da fonksiyonlar\niçermelidir.\n\nAzami düşme mesafesine KDDS bileşenlerinin üreticilerinden temin edilmiş bilgiye\ndayanılarak karar verilmelidir. Gerekli hallerde ankraj tertibatının etkileşimi de göz önüne\nalınmalıdır.\n\nYetersiz düşme yüksekliklerinin söz konusu olduğu noktalarda kısa bağlama tertibatı ya da\ngeri sarmalı tipte düşmeyi önleme tertibatları kullanılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "### Azami Düşme Mesafesi (ADM)\n\n\nKDDS kullanan bir çalışanın düşmesi halinde herhangi bir cisme ya da zemine çarpmadan\ndurması için gerekli olan ve düşme olayından önce çalışan ile zemin arasındaki mesafeyi ifade\neder (Şekil 3.18). İlgili standartlarda tavsiye edilmiş mesafeler [23,24];\n\na. Tam Vücut Tipi Emniyet Kemeri, Bağlama Tertibatı ve Enerji Emici\nKullanıldığında;\n\nADM=2L++1.75 m +1m (Güvenlik mesafesi)\n\nLt: Üretici bilgilerine dayanarak enerji emici dahil bağlantı tertibatının uzunluğu\n\nb. Geri Sarmalı Tipte Düşme Önleme Tertibatı Kullanıldığında\n\nADM= 2m+ 1m (Güvenlik mesafesi)\n\nNOT: Bu hesaplamalar yapılırken tam vücut tipi emniyet kemerinin esneme miktarı ve\nkullanılmışsa yaşam hattının esneme mesafesi ADM değerine ilave edilmelidir. <!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3.18. Tam vücut tipi emniyet kemeri, bağlama tertibatı ve enerji emici [25]</figcaption>\n\nAzami Düşme\nMesafesi\n\n1\n\nEn yakın cisim ya\nda zemin\n\n</figure>\n\n\n<figure>\n<figcaption>Şekil 3.19. Geri sarmalı tipte düşme önleme tertibatı [25]</figcaption>\n\nAzami Düşme\nMesafesi\n\nEn yakın cisim\nya da zemin\n\n</figure>\n\n\nKDDS kullanacak çalışanlar tam vücut tipi emniyet kemerinin doğru kullanımı ve\nbağlanması, ekipmanın muayenesi, bakımı ve saklanması, doğru ankraj seçimi ve uygulaması\nile acil durum prosedürleri hakkında bilgilendirilmeli ve gerekli eğitim verilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "rinin doğru kullanımı ve\nbağlanması, ekipmanın muayenesi, bakımı ve saklanması, doğru ankraj seçimi ve uygulaması\nile acil durum prosedürleri hakkında bilgilendirilmeli ve gerekli eğitim verilmelidir. <!-- PageNumber=\"28\" -->\n<!-- PageBreak -->\n\nEğitim sonrasında çalışanların ekipmanı güvenli kullanıp kullanmadıkları uygulamalı olarak\ndeğerlendirilmeli ve uygun personel ile çalışmalar yürütülmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "### Salınım Tehlikesi\n\n\nKDDS kullanımında en ciddi tehlike Şekil 3.20 de resmedildiği gibi salınım tehlikesidir. Buna\nsarkaç etkisi de denilmektedir.\n\nYanlış ankraj noktası belirlenmesi ya da ilave tedbir alınmaması neticesinde iki şekilde\nsalınım tehlikesi söz konusu olabilmektedir.\n\nBirincisi, korumasız bir kenardan düşülmesi neticesinde salınım yolu üzerinde bir engele ya\nda bağlantı yapılmış olan yapıya çarpılması; diğeri ise yine korumasız kenardan düşülmesi ile\nhalatın yapı kenarına sürtünmesi ile halat kopması sonucu zemine çarpılması ya da halatın\nuzun olması sebebiyle zemine çarpılmasıdır.\n\nKDDS kullanılacak alanlar iyi değerlendirilmeli ve salınım tehlikesi söz konusu olduğunda\nKDDS kullanımı tekrar gözden geçirilmeli ya da ilave tedbirler alınmalıdır.\n\n\n<figure>\n<figcaption>Şekil 3.20. Salınım tehlikesi [20]</figcaption>\n\nX\n\nX\n\n</figure>\n\n\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "## 4. YÜKSEKTE ÇALIŞMA EKİPMANLARI\n\n\nGerekli erişimin sağlanabilmesi ve dolayısıyla yüksekte çalışma gerektiren işlerin yerine\ngetirilebilmesi amacıyla kullanılan ve yatay ve/veya düşey yönde hareket ettirilebilen ya da\nsabit ekipmanlardır. Bazı erişim ekipmanları şunlardır:\n\nİskeleler (TS EN 12810, TS EN 12811)\n\nMerdivenler (TS EN 131-1+A1)\n\n· Yükseltilebilen seyyar iş platformları (TS EN 280-1) Sütunlu\n\nçalışma platformlarphe platformları) (TS EN 1495+A2) Hareketli\n\niskeleler/Erişim kuleleri (TS EN 1004-1, TS EN 1004-2)\n\nBu ekipmanların dışında yüksekte çalışmaya yardımcı olan birçok ekipman bulunmaktadır.\nYapılan iş göz önüne alınarak en uygun ekipman seçilmelidir. Operatör ve kullanıcıların\neğitim almış olmasına dikkat edilmelidir. Her kullanımda üretici talimatlarına dikkat edilerek\nhareket edilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "### 4.1. İSKELELER\n\n\nBinaların ve diğer yapıların inşa, bakım, onarım ve yıkım işleri gibi çalışmalarda güvenli bir\nçalışma ortamının sağlanması ve çalışma alanlarına güvenli erişim için standartlara uygun\niskeleler kullanılmalıdır.\n\nKullanılacak iskeleler TS EN 12810-1 standardına\nuygunluk açısından Türk Standartları Enstitüsünden\nbelgelendirilmiş olmalıdır. Bunun yanı sıra iskele\nkurulumunda çalıştırılacak personel; konu ile ilgili\nyeterli bilgi ve deneyime sahip ve \"İskele Kurulum\nElemanı (Seviye 3)\" Ulusal Yeterliliğine sahip\nolmalıdır.\n\n\n<figure>\n</figure>\n\n\nİskele kurulumu esnasında üreticiden temin edilmiş olan\n\"Mamul El Kitabı\" dikkate alınmalı ve kurulum\nŞekil 4.1. Cephe iskelesi\nsıralaması ve diğer hususlarda bu kurallara uyulmalıdır. Aynı zamanda kullanılacak iskele,\nçevre şartları (iskele yakınında enerji hattı olup olmadığı, iskele zemini etkileyebilecek kazı\nçalışmalarının mevcudiyeti vb.) ve yüksekte çalışmalarla ilgili bilgileri içeren \"Kurma,\nkullanma ve sökme planı\" da uygulanarak azami güvenlik şartları sağlanmalıdır.\n\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "#### Önemli hususların kontrolü:\n\n\n· İskelenin kurulduğu zemin\n\n· Taban plakası ve yüksekliği\n\n· Çapraz destekler\n\n· Ayak hizasındaki boyuna ara bağlantılar\n\n· Kafes kirişler\n\n· Ankrajların mamul el kitabına uygunluğu\n\n· Platformda kullanılan malzemenin yeterliliği\n\nPlatform birimlerinin yerleşimi, sabitlenmesi\n\n· Platformlar arasının boşluk kalmayacak biçimde olması\n\n· İskelenin yapı köşelerinde tam genişlikte ve yapıyı saracak şekilde dönmesi\n\n· Düşmelerin önlenmesi için ana ve ara korkuluklar\n\n· İskele-yapı arası mesafenin düşmeye sebebiyet vermeyecek biçimde olması\n\n· İskele-yapı arası mesafe fazla ise iç tarafta ana, ara korkuluklar ve topuk tahtası\n\n· Güvenli erişim sistemleri (merdivenler)\n\nÇatı korumaları\n\n· Yayalar için iskele altında geçit ve aydınlatma\n\n· Araç trafiği güvenliği ve aydınlatma\n\n· Gece çalışmalarında yeterli aydınlatma\n\n· İskele girişlerinde işaretlemeler\n\n· Tamamlanmamış iskeleye girişlerin engellenmesi için \"Yetkisiz Kimse Giremez\"\nşeklinde işaretleme yapılması\n\n<!-- PageNumber=\"31\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "### 4.2. MERDİVENLER\n\n\nMerdivenler yüksekte ya da aşağıda bulunan seviyelere erişimin\nsağlanması ve hafif işlerin yerine getirilmesinde kullanılan\nekipmanlardır. El merdivenleri, A tipi merdivenler, platformlu\nmerdivenler, sabit dik merdivenler, sürgülü ve akrobat merdivenler\nvb. birçok çeşit merdiven bulunmaktadır. (Detaylı bilgi için TS EN\n131-1+A1 Standardından faydalanılabilir.)\n\nMerdivenler; yükseltilebilen iş platformları, iskele sistemleri ve\ngeçici platformlar gibi diğer yüksekte çalışma ekipmanlarının\nkullanımı uygulanabilir değilse değerlendirilmelidir. Bu\ndeğerlendirmede kısa süreli ve düşük riskli işler dikkate\nalınmalıdır. Merdiven kullanımında aşağıdaki hususlar göz önünde\nbulundurulmalıdır [26]:\n\n\n<figure>\n<figcaption>Şekil 4.2. Merdivenle erişim [27]</figcaption>\n</figure>\n\n\n· Hasar görmüş, kırılmış, çatlamış, bükülmüş ya da paslanmış\nolan, yapısal olarak sağlam ve yeterli görülmeyen ve\nbileşenlerinde (basamak, platform, çapraz, bağlantı elemanları vb.) eksiklikleri bulunan\nmerdivenler kullanılmamalıdır. · Merdivenin yapılan işe uygun ve yeterli yükseklikte olduğundan emin olunmalıdır. · Merdivenin sağlam ve kaymaz bir zemine yerleştirilmesi sağlanmalıdır. · Çalışanın ya da merdivenin enerji hatlarına temasının söz konusu olabileceği yerlerde\nmerdiven kullanılmamalı ve elektrikli ekipmanların yanında metal bileşenlerden oluşan\nmerdivenlere özellikle dikkat edilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "a merdivenin enerji hatlarına temasının söz konusu olabileceği yerlerde\nmerdiven kullanılmamalı ve elektrikli ekipmanların yanında metal bileşenlerden oluşan\nmerdivenlere özellikle dikkat edilmelidir. · Merdivenin yerleştirileceği bölgenin araç ya da yaya geçiş yollarında, kapı geçişlerinde\nveya asılı yüklerin hareket güzergâhlarında olmamasına dikkat edilmelidir. · Merdivenler açık kenarlara yakın ya da iskele vb. ekipmanların üzerinde ekstra\nyükseklik kazanmak için kullanılmamalıdır. · Merdiven üzerinde uzun süreli çalışma yapılmamalıdır. · Çalışanın yüzü merdivene dönük olmalıdır. · Üç nokta temasına dikkat edilmeli, merdivene çıkarken ya da merdivenden inerken elde\nmalzeme ya da alet taşınmamalıdır (Şekil 4.3). <!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 4.3. Merdivende 3 nokta kuralı [28]</figcaption>\n\nX\n\nV\n\n</figure>\n\n\n· Merdiven dışına uzanılmamalı, ağırlık merkezinin merdiven kolları arasında kalmasına\ndikkate edilmelidir. · Kaymaya dirençli iş ayakkabısı kullanımı dikkate alınmalıdır. · Merdiven ayaklarının kendiliğinden hareket etme ya da kaymaya karşı güvenli olmasına\nönem verilmeli; bağlama, kazık çakma vb. çeşitli yöntemler ile sabitlenmelidir. El merdivenleri en üst basamaklarında çalışılacak şekilde\nyerleştirilmemelidir. · Şekil 4.4. de gösterildiği şekilde el merdiveni yerleştirilirken\nçalışma kolaylığı sağlayacak uygun bir açıda yerleştirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "leri en üst basamaklarında çalışılacak şekilde\nyerleştirilmemelidir. · Şekil 4.4. de gösterildiği şekilde el merdiveni yerleştirilirken\nçalışma kolaylığı sağlayacak uygun bir açıda yerleştirilmelidir. Uygulanabilir olduğunda, merdivenin dayandığı nokta ile\nzemin arasındaki düşey mesafe ve merdivenin yatay çekme\nmesafesi arasında 4'e 1 oranın sağlanmasına dikkat edilmelidir. · Çalışma platformuna geçiş için kullanıldığında, çalışanın geçiş\nsırasında tutunabilmesi için merdivenin platform seviyesini\nyeteri kadar aşmasına dikkat edilmelidir. · A tipi merdivenler kullanımdan önce tamamen açılmalıdır. Ayakların birbirinden ayrılmasını önleyen tertibatın sağlam\nolduğundan ve merdivenin kullanım boyunca açık şekilde\nkalacağından emin olunmalıdır. <figure>\n<figcaption>Şekil 4.4. Merdivende 4'e 1 oranı [29]</figcaption>\n\n1\n\n2\n\n3\n\n4\n\n7\n\n</figure>\n\n\n· Merdiven kullanımında hava koşulları dikkate alınmalıdır. Platformlu ve A tipi merdivenlerde yapılan iş ya da çevre koşullarından\nkaynaklanabilecek ve devrilmeye sebep olabilecek yatay kuvvetlere dikkat edilmelidir. · Ark kaynağı ve oksijenli kesim gibi işlerin merdiven üzerinde yapılmasının güvenli\nolmayacağı dikkate alınmalıdır. Merdivenler her kullanımdan sonra kontrol edilmelidir. <!-- PageNumber=\"33\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "### 4.3. YÜKSELTİLEBİLEN SEYYAR İŞ PLATFORMLARI\n\n\nEtrafı düşmeye karşı kenar koruma sistemi ile çevrilmiş bir platformdan oluşan ve ulaşılmak\nistenen çalışma yerine uzatılabilen seyyar ekipman olarak tanımlanabilir [5]. Yükseltilebilen iş platformlarına; makaslı kaldırmalar, dikey platformlar ile araç üzerine\nmonte ya da kendinden hareketli teleskopik ve eklemli platformlar örnek olarak verilebilir. Aşağıdaki görselde soldan sağa sırasıyla; makaslı kaldırma, eklemli platform ve dikey\nplatform gösterilmektedir. <figure>\n<figcaption>Şekil 4.5. Yükseltilebilen seyyar iş platformları [5]</figcaption>\n</figure>\n\n\nBu ekipmanların kullanımından önce detaylı bir planlama yapılmalıdır. Çalışılacak çevre ve\nzemin koşulları incelenmelidir. İş platformlarının kaldırma kapasiteleri, erişim yükseklikleri vb. özelliklerinin farklı\nolabileceği ve bazılarının düz ve sert zeminler için tasarlanırken bir kısmının engebeli arazi\nkoşulları için tasarlanabileceği dikkate alınmalı ve en uygun yükseltilebilen seyyar iş\nplatformu seçilmelidir. İçten yanmalı motorla çalışan ekipmanların ise bina içlerinde ya da havalandırmanın yetersiz\nolduğu yerlerde kullanılmamasına ayrıca önem verilmelidir. <!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\nYükseltilebilen seyyar iş platformları ile ilgili olarak aşağıdaki hususlara dikkat\nedilmelidir [5]:\n\nOperatörler gerekli yeterliliğe sahip olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "dir. <!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\nYükseltilebilen seyyar iş platformları ile ilgili olarak aşağıdaki hususlara dikkat\nedilmelidir [5]:\n\nOperatörler gerekli yeterliliğe sahip olmalıdır. · Operatörlerin ilgili ekipman, düşmeyi durdurma ekipmanları ve acil durum\nprosedürleri ile ilgili eğitim aldığından emin olunmalıdır. · Taşıma kapasitesinin açık bir şekilde gösterildiğinden ve operatör tarafından\nbilindiğinden emin olunmalıdır. · Yetkili kişi tarafından her bakımdan iyi durumda ve kullanıma hazır olduğu teyit\nedilmelidir. · Ekipmana özel üretici talimatları ve ekipmanın tasarım amacı iyi bilinmelidir. · Engebeli arazide kullanılmak üzere tasarlanmamışsa, sert ve düz zemin üzerinde\nkullanılmalıdır. · Hareket yolları üzerinde, kontrolsüz harekete ya da devrilmeye neden olabilecek\ntehlikelere karşı tedbir alınmalıdır. · Üstten geçen enerji hatları ile ilgili riskler mutlaka göz önünde bulundurulmalıdır. · Ekipmanın diğer araç yollarına uzanmaması, girmemesine dikkat edilmeli; hareket\nalanlarının diğer araçlar ile kesişmemesine özen gösterilmelidir. Gerektiğinde\nbariyerler, işaret levhaları ile tedbir alınmalıdır. · Şekil 4.6. da gösterildiği şekilde operatör tarafından yükseklik kazanmak amacıyla\nkorkuluklara basarak tırmanılmamalı, her iki ayak da platform üzerinde olmalıdır. <figure>\n<figcaption>Şekil 4.6.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": ". · Şekil 4.6. da gösterildiği şekilde operatör tarafından yükseklik kazanmak amacıyla\nkorkuluklara basarak tırmanılmamalı, her iki ayak da platform üzerinde olmalıdır. <figure>\n<figcaption>Şekil 4.6. Platformda doğru çalışma [5]</figcaption>\n\nX\n\n</figure>\n\n\nPlatform içerisinde yer alan tüm çalışanların, hareket alanını sınırlandıran ve yüksekte\nçalışma için uygun kişisel koruyucu donanımlara sahip olduğundan emin olunmalıdır. · Çalışanların kendilerini, üretici tarafından tasarlanmış ve platform üzerindeki belirli\nankraj noktalarına bağlaması sağlanmalıdır. <!-- PageNumber=\"35\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "### 4.4. SÜTUNLU ÇALIŞMA PLATFORMLARI\n\n\nBu platformlar; çalışanların ya da malzemelerin geçici çalışma yerlerine erişimini sağlamak\niçin kullanılan ve üzerinde çalışma platformu bulunduran asansörler olarak tanımlanabilir. Bu\nekipmanlar, uzatılabilen bir sütun/kolon üzerine monte edilmiş tahrik sistemi ile hareket\nederler. Bu sütunların yapıya bağlantısı ise üretici talimatlarında belirtilen şartlar dikkate\nalınarak yapılmaktadır. Kurulumları tek sütun ya da birden çok sütun içerecek şekilde\nyapılabilmektedir.\n\nFarklı yüksekliklerde, yapı profilinde değişikliklerin (Örn. Balkon varlığı sebebi ile çıkıntı\nyüzeyler ya da yapının içeri doğru girinti yapması) olması bu ekipmanların kullanım alanını\nkısıtlayabilen unsurlardandır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "### Sütunlu çalışma platformları ile ilgili olarak aşağıdaki hususlara dikkat edilmelidir [5]:\n\n\n· Kurulum ve söküm çalışmaları yetkili kişi kontrolü altında yapılmalıdır.\n\n· Platform içine yerleştirilen malzemeler ekipman dışına uzanmamalı ve böylece bu\nmalzemelerin düşmesinin önüne geçilmelidir.\n\n· Ekipman nitelikleri (kapasite, ölçüler) ile kurulum, kullanım ve söküm çalışmalarında\nmutlaka üretici talimatları dikkate alınarak hareket edilmelidir.\n\n· Operatörler yetkin olmalı ve çalışma platformu içindeki çalışanlar, bağlantısı yeterli\nşekilde yapılmış tam vücut emniyet kemeri ve baret ile çalışmalarını sürdürmelidirler.\n\n\n<figure>\n<figcaption>Şekil 4.7. Sütunlu çalışma platformunun bileşenleri [5]</figcaption>\n\nYapı bağlantıları\n\nÇalışma\nplatformu\n\nMotor tertibatı\n\nGüvenlik\ntertibatı\n\nKorkuluklar\n\nYaylı tampon\n\nTaban plakası\n\n</figure>\n\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "### 4.5. ERİŞİM KULELERİ\n\n\nAlüminyum veya çelik sistemlerden oluşan ve Şekil 4.8. de bölümleri ile anlatılan bu\nekipmanlar ile ilgili olarak aşağıda belirtilen hususlara dikkat edilmelidir. · Bu ekipmanların kurulumu, sökümü ve incelenmesi yetkili kişiler tarafından ve üretici\ntalimatları dikkate alınarak yapılmalıdır. Üretici talimatlarında belirtilen çalışma\nyükseklikleri asla aşılmamalıdır. · Kurulum öncesi tüm kule bileşenleri; iyi durumda, kullanıma hazır ve kurulumu\nyapılacak kuleye ait olduklarının tespiti için gözden geçirilmelidir. · Kurulum sırasında güvenli çalışma yöntemleri belirlenerek düşmeye karşı tedbir\nalınmalıdır. <figure>\n<figcaption>Şekil 4.8. Erişim kulesi bileşenleri [5]</figcaption>\n\nTekerlek\n\nAna korkuluk\n\nAra korkuluk\n\nTopuk levhası\n\nMerdiven\n\nÇapraz takviye\n\nKilitleme\ntertibatı\n\nPlatform\n\nSabitleyici\ndestek\n\nKilitlenebilir tekerlek\nYatay takviye\n\n</figure>\n\n\n· Kulenin sert ve düz bir zemin üzerinde kullanıldığından emin olunmalıdır. Çalışma\nalanındaki çukur, çöküntü ve engebeli noktalara dikkat edilmeli ve tedbir alınmalıdır. · Kule ayaklarında kilitlenebilir tekerlekler kontrol edilmelidir. Tekerleklerin zarar\ngörmemiş olduğundan, etkin bir biçimde dönebildiğinden ve durdurma/kilit\nmekanizmasının çalıştığından emin olunmalıdır. <!-- PageNumber=\"37\" -->\n<!-- PageBreak -->\n\n· Tekerlekleri kilitlemeden çalışanların kuleye çıkmasına izin verilmemelidir. Üretici talimatları doğrultusunda sabitleyici/dengeleyiciler monte edilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 71,
+      "content": "- PageNumber=\"37\" -->\n<!-- PageBreak -->\n\n· Tekerlekleri kilitlemeden çalışanların kuleye çıkmasına izin verilmemelidir. Üretici talimatları doğrultusunda sabitleyici/dengeleyiciler monte edilmelidir. · Kule stabilitesinin kolayca etkilenebileceği dikkate alınarak; kuvvetli rüzgârlarda\nkullanma ya da etrafına kaplama yapma, ağır malzemeleri kule üzerine yerleştirme ve\nkuleyi malzeme kaldırmada kullanma vb. gibi tehlikeli hareketlerde bulunulmamalıdır. Kullanım koşulları, sınır değerler ve kapasite ile ilgili olarak üretici talimatlarına\nbaşvurulmalıdır. · Çalışma alanında üstten geçen hatların varlığına dikkat edilmelidir. Gerekli tedbirler\nalınmadan kullanıma geçilmemelidir. · Kule platformlarına erişimin merdiven ile sağlandığından emin olunmalıdır. · Kulenin ileri geri hareket ettirilmesi kule zemininden ve çalışanlar tarafında el ile\nyapılmalıdır. Motorlu araç kullanılmamalıdır. · Halka açık alanlarda yapılan çalışmalarda bariyerler ve uyarı levhaları aracılığıyla\nyetkisiz kişilerin kuleye çıkışı ve kule çevresine yaklaşması önlenmelidir. · Düşmeye karşı korkulukların kule çevresi boyunca ve her çalışma platformu kenarında\nmevcut olduğundan emin olunmalıdır. <figure>\n<figcaption>Şekil 4.9. Erişim kulesi ile çalışma [30]</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 71,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 72,
+      "content": "# 5. İYİ UYGULAMA ÖRNEKLERİ\n\n\nŞekil 5.1. de hareketi kısıtlayıcı sistem ile düşmeye karşı koruma anlatılmaktadır. Görüldüğü\nüzere inşaat alanında katta malzeme alımı için korkuluklar geçici olarak kaldırılmıştır. Çalışan, malzeme alımı için kendisini hareketi kısıtlayıcı bir sistem vasıtasıyla korumaya\nalmış, böylelikle kat kenarına yaklaşması ve düşmesi önlenmiştir. <figure>\n<figcaption>Şekil 5.1. Hareketi kısıtlayıcı sistem ile düşmeye karşı koruma [5]</figcaption>\n\nVELP OUT\n\n</figure>\n\n\nŞekil 5.2. de üst raflarda yer alan\nürünlere ulaşmak için çalışan kişi\nkorkuluğu bulunan basamaklı bir\nplatform kullanmış ve düşmeye\nkarşı tedbirini bu şekilde\n\nŞekil 5.3. de elektrikli matkap ile delme işi yapan\nçalışan, rahat bir şekilde çalışabilmek ve yan\nyüklemenin etkisiyle merdivenin devrilmesini ve\ndüşmesini önlemek için merdiveni çalışma\nyüzeyine bakacak şekilde konumlandırmıştır. <figure>\n<figcaption>Şekil 5.2. Platformlu merdivende çalışma [10]</figcaption>\n\n6\n\n0\n\nK\n\n</figure>\n\n\n<figure>\n<figcaption>Şekil 5.3. Merdivenin yerleştirilmesi [10]</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->\n\nŞekil 5.4. de ise inşaatta\ndöşeme kalıplarını yerleştiren\nçalışanın, alt kata düşmesini\nönlemek için daha önceden\nkolonlara saplanmış olan\nekipmanlara muhtemel bir\ndüşme anında kilitlenen geri\nsarmalı tipte düşmeyi\ndurdurucu ile bağlaması ve\nkendisini korumaya alması\ngörülmektedir. <figure>\n<figcaption>Şekil 5.4.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 72,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 73,
+      "content": "kolonlara saplanmış olan\nekipmanlara muhtemel bir\ndüşme anında kilitlenen geri\nsarmalı tipte düşmeyi\ndurdurucu ile bağlaması ve\nkendisini korumaya alması\ngörülmektedir. <figure>\n<figcaption>Şekil 5.4. İnşaat kalıp çalışmasında düşmeye karşı koruma [31]</figcaption>\n</figure>\n\n\nAraç üzerine boruları\nyerleştiren çalışanlar,\ndüşmelerini önlemek için\naraç uzunluğu boyunca\nhareket imkânı sağlayan,\nraylı bir sisteme sahip\nekipmana kendilerini\nbağlamaları ise Şekil 5.5. de gösterilmektedir. <figure>\n<figcaption>Şekil 5.5. Araç üzerinde düşmeye karşı koruma [32]</figcaption>\n\nFGRIFFIN\n\nMYERS\n\n</figure>\n\n\nKazı çevresi boyunca geçici\nkenar koruma sistemleri\nyerleştirilmiş ve çalışanların\nkazı içerisine düşmesi\nönlenmiştir (Şekil 5.6). <figure>\n<figcaption>Şekil 5.6. Kazı kenarında düşmeye karşı koruma [33]</figcaption>\n</figure>\n\n\n<!-- PageNumber=\"40\" -->\n<!-- PageBreak -->\n\nŞekil 5.7. de\nyürütülmekte olan çatı\nçalışmasının güvenli bir\nşekilde sürdürülebilmesi\niçin boşluk kalmayacak\nşekilde çatı kenarları\nboyunca kenar koruma\nsistemleri yerleştirilmesi\nve düşmeye karşı koruma\nsağlanması\ngösterilmektedir. <figure>\n<figcaption>Şekil 5.7. Çatı çalışmasında düşmeye karşı koruma [34]</figcaption>\n</figure>\n\n\nEğimli çatıda yapılacak\nçalışmanın güvenli\nşekilde yapılabilmesi,\nplanlama aşamasında\nmonte edilen yatay yaşam\nhattı ve ankraj noktaları\naracılığı ile sağlanmıştır. Çalışan tam vücut kemer\nsistemi giyerek lanyard\nile hatta bağlantısını\nsağlamıştır (Şekil 5.8).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 73,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 74,
+      "content": "mesi,\nplanlama aşamasında\nmonte edilen yatay yaşam\nhattı ve ankraj noktaları\naracılığı ile sağlanmıştır. Çalışan tam vücut kemer\nsistemi giyerek lanyard\nile hatta bağlantısını\nsağlamıştır (Şekil 5.8). <figure>\n<figcaption>Şekil 5.8. Yaşam hattı ile düşmeye karşı koruma [35]</figcaption>\n</figure>\n\n\nŞekil 5.9. da iskele kurulumu gerçekleştiren çalışanlar düşmeye karşı güvenliklerini\nsağlamak için geçici korkuluklar kullanmışlardır. Alt kat seviyesinden monte edilebilen bu\nsistem ile üst kata çıkan çalışan, iskele sisteminin kendi korkulukları takılana kadar\ndüşmeye karşı tedbirini almıştır. <!-- PageNumber=\"41\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 5.9. İskele kurulumunda düşmeye karşı koruma</figcaption>\n</figure>\n\n\n<figure>\n</figure>\n\n\nŞekil 5.10 da görüleceği üzere\nçalışma yapılan en üst katta, kat\nkenarları\ndüşmeye\nkarşı\nkorkuluklarla kapatılmış ve akabinde\nçalışma yapılan yüzeye yakın olacak\nşekilde çalışılmakta olan\nplatformunun hemen altına Sistem T\ngüvenlik ağı kurularak çalışanların\ndüşmeye karşı güvenliği sağlanmıştır. <figure>\n<figcaption>Şekil 5.10. Güvenlik ağı ile düşmeye karşı koruma [36]</figcaption>\n</figure>\n\n\nŞekil 5.11. Kat merdivenlerinde düşmeye karşı koruma [37]\n\nŞekli 5.1. de kat merdivenlerinde düşmeye\nkarşı koruma uygulaması gösterilmektedir. Görüldüğü gibi kat merdivenlerinin\nkenarlarına uygun aparatlarla geçici korkuluk\nsistemleri takılmış ve çalışanların yürüyüş ve\ngeçiş yollarından düşmesi önlenmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 74,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 75,
+      "content": "ruma uygulaması gösterilmektedir. Görüldüğü gibi kat merdivenlerinin\nkenarlarına uygun aparatlarla geçici korkuluk\nsistemleri takılmış ve çalışanların yürüyüş ve\ngeçiş yollarından düşmesi önlenmiştir. <!-- PageNumber=\"42\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 75,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 76,
+      "content": "## EK-1: Kişisel Koruyucu Donanımlar\n\n\nBu ekte; yüksekte çalışma sırasında kullanılan tam vücut kemer sistemleri, bağlantı halatları\n(lanyard) ve enerji emiciler gibi önemli bileşenler hakkında kısa ve özet bilgiler yer\nalmaktadır. Detaylı bilgi için ilgili standartlara başvurulabilir. Kişisel Koruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğe göre; Tasarımcı\ntarafından, ani olarak ortaya çıkabilecek tehlikeleri, kullanıcının zamanında fark edemeyeceği\ndüşünülen durumlarda ve hayati tehlike oluşturarak, sağlığa ciddi şekilde ve geriye dönüşü\nmümkün olmayacak derecede zarar verebilecek risklere karşı koruma sağlayan, karmaşık\nyapıdaki kişisel koruyucu donanımlar kategori-III olarak sınıflandırılmaktadır. Dolayısıyla,\nyüksekten düşmeye karşı kullanılan kişisel koruyucu donanımlar, karmaşık yapılı kişisel\nkoruyucu donanımlardır ve bu sebeple kategori-III sınıfındadırlar. Standarda uygun olarak üretilmiş kategori-III sınıfı kişisel koruyucu donanımlarda CE\nişaretinin iliştirilme iznini veren, yani gerekli kontrolleri gerçekleştirip ürün için ihtiyaç\nduyulan belgelendirmeyi sağlayan Onaylanmış Kuruluşun kimlik numarası mutlaka\nbulunmalıdır. 4 haneli olan bu kimlik numarası, AT\nFULL-BODY HARNESS\nTAM KORUMALI VUCUT KUŞAĞI\ntip inceleme belgesinin hangi kuruluşça verildiğinin\nMAT :%100POLYESTER\nbir işaretidir ve kategori III sınıfı ürünlerde CE\nSERIE :\nP.DATE : 0 2005 0 2006 0 2007\nSIZE 5/M OL/XL\nişaretinin yakınında mutlaka bulunmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Kişisel Koruyucu Donanımların Kategorizasyon Rehberine Dair Tebliğ",
+        "madde_number": null,
+        "chunk_index": 76,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 77,
+      "content": "sinin hangi kuruluşça verildiğinin\nMAT :%100POLYESTER\nbir işaretidir ve kategori III sınıfı ürünlerde CE\nSERIE :\nP.DATE : 0 2005 0 2006 0 2007\nSIZE 5/M OL/XL\nişaretinin yakınında mutlaka bulunmalıdır. Yandaki\nCE0123\nEN 813 ISO9001\nP-453Y\ngörselde bu durum gösterilmektedir. EN 358 EN 361\n\n\n<figure>\n</figure>\n\n\nTam vücut kemer sistemi, bağlama tertibatı (lanyard), enerji emici aparatlar, karabina ve tüm\nbağlayıcılar da bu kapsamda değerlendirilerek, güvenli bir ürün olduğundan emin\nolunmalıdır. Ayrıca kullanılan ilgili kişisel koruyucu donanım üzerindeki işaretleme TS EN 365 'e uygun\nolmalı ve herhangi bir metin, satışın yapılacağı ülkenin resmi dilinde verilmeli yani Türkçe\nkullanım kılavuzu olmalıdır. TS EN 365'e uygunluk için işaretlemelerde, kullanılan ilgili KKD üzerinde kullanıcıların\nimalâtçı tarafından temin edilen bilgileri okuması gerektiğini gösteren bir piktogram da yer\nalmalıdır. <!-- PageNumber=\"43\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 77,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 78,
+      "content": "### 1. Tam Vücut Kemer Sistemleri\n\n\nTam vücut kemer sistemleri, genel olarak düşmeyi durdurma amaçlı vücut destekleridir. Bir\nkişinin vücudunun tamamını desteklemek ve takan kişiyi düşme esnasında ve düşme\ndurduktan sonra tutmak için uygun bir şekilde bir araya getirilmiş ve düzenlenmiş kayışlar,\nbağlantı elemanları, tutturma elemanları veya diğer elemanları içermelidir. TS EN 361\nstandardına uygun olmalıdır.\n\nTam vücut kemer sistemi, takan kişiye uymalıdır. Kayışlar konumlarından sapmamalı ve\nkendiliğinden gevşememelidir. Birincil kayışların genişliği en azından 40 mm ve ikincil\nkayışların genişliği ise, en azından 20 mm olmalıdır. Tam vücut kemer sisteminin kullanımı\nsüresince düşme önleyici tutturma elemanı/elemanları ağırlık merkezinin üzerinde, göğsün\nönünde ve/veya takan kişinin arkasında ve/veya her iki omuzunda kalacak şekilde\nyerleştirilebilir. Şekil 6.1.'de tam vücut kemer sistemi örneği gösterilmektedir.\n\n\n<figure>\n<figcaption>Şekil. 6.1. Tam vücut kemer sistem örneği [38]</figcaption>\n\n1\n\n7\n\n1-\n\nb\n\n2\n\n6\n\n9\n\n5\\.\n\n9\n\n9\n\n8-\n\n3\n\n4\n\n</figure>\n\n\n1 Omuz kayışı\n\n2 İkincil kayış\n\n3 Alt destek (Birincil kayış)\n\n4 Uyluk kayışı\n\n5 Çalışma konumlama için bel desteği\n\n6 Ayarlama elemanı (toka)\n\n7 Düşmeyi durdurma bağlantı elemanı (D halkası)\n\n8 Tutturma elemanı\n\n9 Çalışma konumlama için bağlantı elemanı\n\nb \"A\" harfiyle işaretleme\n\n<!-- PageNumber=\"44\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 78,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 79,
+      "content": "#### 1.1. Tam Vücut Kemer Sisteminin Gözle Muayenesi\n\n\nKullanım ömrünün sürdürülmesi ve yüksek performans elde edilmesi için tam vücut kemer\nsistemleri sık şekilde kontrol edilmeli ve her kullanımdan önce görsel olarak incelenmelidir\n(Şekil 6.2.). Uzman kişi tarafından aşınma, hasar ve korozyona gibi hususlara karşı düzenli\nincelemeler yapılmalı ve donanım üzerinde kusurlu/bozuk durumlar tespit edildiğinde bu\ndonanımın kullanımdan kaldırılması sağlanmalıdır.\n\nTam vücut kemer sistemleri aydınlatmanın yeterli\nolduğu bir ortamda üretici talimatları da dikkate\nalınarak aşağıdaki genel hususlara göre incelenmeli\nve inceleme tarihi kayıt altına alınmalıdır.\n\n\n<figure>\n<figcaption>Şekil. 6.2. Görsel inceleme [39]</figcaption>\n\nO\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 79,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 80,
+      "content": "##### 1.1.1 Şeritlerin (Dokuma) İncelenmesi\n\n\nŞekil 6.3. de kemer sistemlerinin şerit incelemesi\ngösterilmektedir. Şerit ellerinarasında 15-20 cm olacak\nşekilde tutulmalıdır. Şerit ters çevrilmiş \"U\" şeklinde\nbükülmelidir .. Böylece oluşan yüzey gerilmesi, hasarlı lif ve\nkesiklerin görülmesini kolaylaştıracaktır. Bu prosedür\nşeridin her iki tarafını da inceleyecek şekilde tüm şerit\nuzunluğu boyunca sürdürülmelidir. Bu sayede\nŞekil. 6.3. Şerit inceleme [40]\nsaçaklanmış (sürtünme sonucu yıpranmış, parçalanmış) kenarlar, kırılmış lifler,\nçekilmiş/sökülmüş dikişler, kesikler, yanıklar, aşınmalar ve UV ya da kimyasala bağlı\nhasarların var olup olmadığı gözlenebilecektir.\n\n\n<figure>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 80,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 81,
+      "content": "##### 1.1.2. D Halkaları/Sırt yastıkları\n\n\nD halkalarını bükülmeler, çatlaklar, kopmalar ve pürüzlü ya da keskin kenarlara karşı kontrol\nedimelidir. Halkanın serbestçe döndüğünden emin olunmalıdır. D halkası sırt yastıklarının da\nhasar görüp görmediğine bakılması önemlidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 81,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 82,
+      "content": "##### 1.1.3. Tokalar\n\n\nTokaların ve D halkalarının bağlantılarına özel önem verilmelidir .. Olağandışı yıpranmalara,\naşınmış ya da kesik liflere veya tokaların ve D halkalarının bükülüp bozulmalarına dikkat\nedilmelidir. Böylece tokaların olması gerektiği gibi çalıştığından emin olunur.\n\n<!-- PageNumber=\"45\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 82,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 83,
+      "content": "#### 1.2. Tam Vücut Kemerlerinin Giyilmesi\n\n\nÇalışanın rahat bir şekilde işini yürütebilmesi ve muhtemel bir düşme sonucu çalışan üzerinde\noluşacak kuvvetin tüm vücuda dengeli bir şekilde yayılabilmesi için kullanılan tam vücut\nkemer sisteminin uygun şekilde giyilmesi gereklidir. Şekil 6.4. de bu sistemin nasıl giyileceği\nanlatılmaktadır.\n\n\n<figure>\n\n1\n\n</figure>\n\n\nKemeri arkasında yer alan\nD Halkasından tutun ve\ntüm kayış/şeritlerin uygun\nşekilde sarktığını görmek\niçin kemeri sallayın.\n\n\n<figure>\n\n2\n\n</figure>\n\n\nGöğüs, bacak ya da bel\nşeritleri tokalı / birbirine\ntutturulmuş halde ise\nbunları çözün ve şeritleri\nserbest bırakın\n\n\n<figure>\n\n3\n\n</figure>\n\nDaha sonra şeritleri, D\nHalkası kürek kemiklerinin\narasında ve sırtınızın\nortasında olacak şekilde\nomuzlarınızdan geçirin.\n\n\n<figure>\n\n4\n\n</figure>\n\n\nBacaklar arasındaki şeritleri\nçekin ve uç noktaları\nbirleştirin. Diğer bacak için\nde aynı işlemi yapın. Bel\ndesteği varsa, bacaklardan\nsonra bel şeridini birleştirin.\n\n\n<figure>\n\n5\n\n</figure>\n\nGöğüs şeridini göğüsün\nortasında olacak şekilde\nbirleştirin. Omuz şeritleri\nsıkı olacak şekilde\ngerginleştirin.\n\n\n<figure>\n\n6\n\nKonforu\nsağlayın\n\n</figure>\n\nTüm şeritler birleştirildikten sonra,\nkemer sistemi vücuda güzelce\nyerleşecek ve rahat hareket etmeye\nimkân verecek şekilde tokaları\nsıkılaştırın. Uzun şeritleri sarkmış\nhalde bırakmayın.\n\n\nŞekil. 6.4. Tam vücut kemerin giyilmesi [41]\n\n<!-- PageNumber=\"46\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 83,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 84,
+      "content": "### 2. Lanyard / Bağlantı halatları / Bağlama tertibatı\n\n\nBağlantı halatları (Lanyard) yüksekten düşmeye karşı koruyucuların önemli bir parçasıdır ve\nTS EN 354 standardına uygun olmalıdır.\n\nKullanıcı ile bağlantı/ankraj noktasını birbirine bağlayan bu halatlar fiber halat, tel halat, örgü\nya da zincir şeklinde olabilir. Çalışma gereği halatların tek başına emniyet kemerine\nbağlanabildiği durumlar olduğu gibi genellikle enerji emici ile birlikte bir sistem olarak\nkullanıldığı durumlar da vardır. Düşmenin söz konusu olduğu durdurma sistemlerinde içinde\nenerji emici özelliği olan halat ya da bu halat ile birlikte ayrıca enerji emici aparatın\nkullanıldığı donanımlarla çalışma yapılmalıdır. Uzunluğu ayarlanabilen ve çift kollu halatlar\n\nda yapılacak işe göre tercih\nedilebilmektedir.\n\nŞekil 6.5. de çift kollu ve tek kollu\nenerji emici içeren bağlantı halatları,\niçinde enerji emici özelliği olan çift\nkollu bağlantı halatı ve uzunluğu\nayarlanabilen bağlantı halatı\ngörülmektedir.\n\n\n<figure>\n<figcaption>Şekil. 6.5. Çeşitli lanyard tipleri</figcaption>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 84,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 85,
+      "content": "### 3. Enerji Emici / Sönümleyiciler\n\n\nŞekil 6.6. da yer alan enerji emici, yüksekten düşme\nesnasında meydana gelen kinetik enerjiyi gidermek için\ntasarımlanmış düşmeyi durdurucu bir sistem bileşenidir.\nYüksekten düşen çalışanın maruz kalacağı şok etkisini\nazaltmaya yarar ve böylece çalışanı yaralanmaktan\nkorur. Enerji emiciler TS EN 355 standardına uygun\nolmalıdır.\n\n\n<figure>\n<figcaption>Şekil. 6.6. Enerji emici aparat</figcaption>\n\nEN 355 (€ 0123 | 6912529\n\n</figure>\n\n\nDüşmeye karşı koruyucu sistemde enerji emici kullanıldığında, herhangi bir düşme\ndurumunda enerji emicinin açılma mesafesi göz önüne alınmalı ve zemine temastan\nkorunmak için düşüş/durdurma mesafesinin hesaplanmasına dikkat edilmelidir.\n\n<!-- PageNumber=\"47\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 85,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 86,
+      "content": "## EK-2: Tehlike Kaynakları - Önemli Hususlar\n\n\nAşağıdaki listede işyerinde düşmeye sebep olabilecek tehlike kaynaklarını değerlendirirken\ndikkate alınması gereken bazı önemli unsurlar yer almaktadır:",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 86,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 87,
+      "content": "### · Yüzeyler:\n\n\n\\- Sağlamlık, kırılganlık ya da gevreklik\n\n\\- Kayma durumu (Islak, parlak, sırlı ya da yağlı vb.)\n\n\\- Yüzeyin değiştiği yerlerde çalışanların güvenli hareket edebilmesi\n\n\\- Yükleri taşıma kapasitesi ve mukavemet\n\n\\- Yüzeylerin eğimi\n\n· Seviyeler - Seviye farkı olan ve çalışanın bir seviyeden diğerine düşebileceği yerler\n\n· Yapılar - Geçici ya da kalıcı yapıların sağlamlığı\n\n· Zemin - Zeminin iskele ya da benzeri çalışma platformunu destekleyecek şekilde düz ve\nsağlam olması\n\n· Çalışma alanı - Kalabalık ya da dağınık olup olmaması\n\n· İskele işi - Platformların tam kapalı olması, çapraz destek, ankraj, korkuluk, erişim vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 87,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 88,
+      "content": "formunu destekleyecek şekilde düz ve\nsağlam olması\n\n· Çalışma alanı - Kalabalık ya da dağınık olup olmaması\n\n· İskele işi - Platformların tam kapalı olması, çapraz destek, ankraj, korkuluk, erişim vb. · Kenarlar - Katlardaki açık kenarların, çalışma platformlarının, yürüyüş yollarının,\nduvarların veya çatıların kenar koruması\n\n· Boşluklar, açıklıklar, çukurlar - Koruma gerektirecek unsurlar (Benzer şekilde\nkorumasız şaftlar ve kazılar)\n\n· Çalışanların güvensiz alanlara yakınlığı:\n\n\\- Yüklerin yüksek, yükseltilmiş çalışma alanlarına yerleştirildiği yerler\n\n\\- Donatı filizi, çakılı kazık gibi parçaların çalışma alanının altında olduğu yerler\n\n\\- Çalışmanın çalışanın üstünde yapılacağı yerler\n\n\\- Enerji hatlarına yakın çalışma yerleri\n\n· Araç, gereç ya da ekipmanların hareketi\n\n· Çalışma alanına girişler, çıkışlar ve alan içindeki hareketleri (Engellerin kontrolü)\n\n· Birden fazla yüklenicinin aynı alanda çalışması\n\nElle taşıma\n\n· Yetersiz görme - Kullanılan KKD ya da yüzey yansımaları sebebiyle iyi görememe\nAydınlatma\n\n· Hava koşulları - Yoğun yağış, çiğ, aşırı sıcak ya da soğuk, rüzgâr vb. · Giyim ve ayakkabı - Çalışma koşullarına uygunluk\n\n· Merdivenler - Nerede ve ne şekilde kullanıldıkları. <!-- PageNumber=\"48\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 88,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 89,
+      "content": "# KAYNAKLAR\n\n\n[1] Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Resmi Gazete Tarihi: 05.10.2013\nSayısı: 28786. [2] https://www.brownssafetyservices.co.uk/health-and-safety-courses/working-at-height-\ntraining/\n\n[3] http://galileo.phys.virginia.edu/classes/581/FallingInExcel.html\n\n[4] Craciun, N., Identification and Classification of The Factors Causing Fall From Height at\nWork, The National Institute for Research and Development in Environmental Protection\n(INCDPM), Sayfa 244-253. [5] Workplace Safety and Health Council (WSHC), Code Of Practice For Working Safely At\nHeights, 2009. [6] https://www.worksafebc.com/en/health-safety/create-manage/managing-risk/controlling-\nrisks\n\n[7] https://www.slideshare.net/MumtazAKhanIDipNEBOS/haad-height-aware-eng\n\n[8] WorkSafe NZ, Best Practice Guidelines, Mobile Elevating Work Platforms, 2014. [9] Electronic Library of Construction Occupational Safety and Health (elcosh), Falls: The\nNumber One Cause of Construction Deaths. [10] Ministry of Business, Innovation and Employment (MBIE), Best practice guidelines for\nworking at height in New Zealand, 2012. [11] Türk Standartları Enstitüsü, TS EN 13374 Geçici kenar koruma sistemleri - Mamul\nözellikleri, deney metotları, 2013.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 89,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 90,
+      "content": "nt (MBIE), Best practice guidelines for\nworking at height in New Zealand, 2012. [11] Türk Standartları Enstitüsü, TS EN 13374 Geçici kenar koruma sistemleri - Mamul\nözellikleri, deney metotları, 2013. [12] http://oshacademy.blogspot.com.tr/2011/12/fall-protection-equipments.html\n\n[13] http://headtotoesafety.com/xs-platforms-certified-partner/fall-protection/\n\n[14] https://www.oshatrain.org/courses/mods/805m1.html\n\n[15] Türk Standartları Enstitüsü, TS EN 1263-1 Güvenlik ağları - Bölüm 1: Güvenlik\nkuralları, deney metotları, 2004. [16] Türk Standartları Enstitüsü, TS EN 1263- Güvenlik ağları - bölüm 2: Konumlandırma\nsınırları için güvenlik kuralları, 2005. [17] http://www.isgum.gov.tr/isgdokumanlari.aspx\n\n[18] Elkink, A., Using soft landing systems, Build Magazine, Sayı:147, Sayfa 27-29, 2015. [19] http://altussafety.co.uk/hierarchy-control-measures-working-height/\n\n<!-- PageNumber=\"49\" -->\n<!-- PageBreak -->\n\n[20] WorkSafe NZ, Good Practice Guidelines, Scaffolding in New Zealand, 2016. [21] Workplace Safety and Health Council (WSHC), Workplace Safety and Health\nGuidelines, Personal Protective Equipment For Working At Heights, 2012. [22] https://www.oshatrain.org/courses/mods/833m5.html\n\n[23] Türk Standartları Enstitüsü, TS EN 355 Kişisel Koruyucu Donanım-Yüksekten\nDüşmeye Karşı-Enerji Absorplayıcılar, 2004. [24] Türk Standartları Enstitüsü, TS EN 360 Kişisel Koruyucu Donanım - Yüksekten\nDüşmeye Karşı - Geri Sarmalı Tipte Düşme Önleyiciler, 2004.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 90,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 91,
+      "content": "nanım-Yüksekten\nDüşmeye Karşı-Enerji Absorplayıcılar, 2004. [24] Türk Standartları Enstitüsü, TS EN 360 Kişisel Koruyucu Donanım - Yüksekten\nDüşmeye Karşı - Geri Sarmalı Tipte Düşme Önleyiciler, 2004. [25] http://www.totalheightsafety.co.nz/ppe-inspection-booking-form/\n\n[26] Health and Safety Executive (HSE), Safe use of ladders and stepladders A brief guide, 2014. [27] https://www.seton.net.au/warehouse-products/manual-handling/ladders-steps.html\n\n[28] http://www.elcosh.org/record/document/4167/d001461.pdf\n\n[29] http://elcosh.org/record/document/4155/d001460.pdf\n\n[30] http://www.ladders4sale.co.uk/Youngman-BoSS-Evolution-Industrial-Scaffold-\nTowers-167.asp\n\n[31] http://www.alsina.com/en/solution/alsipercha/\n\n[32] https://maltadynamics.com/engineered-systems/enclosed-track/track-grabber-wheeled-\nmobile-enclosed-track-system/\n\n[33] http://www.j-safe.co.uk/portfolio/excavations-and-walls/\n\n[34] http://www.safetyrespect.se/2011-10-07-safetyrespect-har-levererat-takskydd-till-ett-\nhyreshus-i-kalmar/\n\n[35] https://fallprotectionxs.com/roofs/\n\n[36] http://indusafetynets.com/construction-safety-net-in-hyderabad.html\n\n[37] http://www.jkssafety.co.uk/conguard.html\n\n[38] Türk Standartları Enstitüsü, TS EN 361 Kişisel Koruyucu Donanım - Belirli Bir\nYükseklikten Düşmeye Karşı - Tam Vücut Kemer Sistemleri, 2004.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 91,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    },
+    {
+      "chunk_index": 92,
+      "content": "d.html\n\n[37] http://www.jkssafety.co.uk/conguard.html\n\n[38] Türk Standartları Enstitüsü, TS EN 361 Kişisel Koruyucu Donanım - Belirli Bir\nYükseklikten Düşmeye Karşı - Tam Vücut Kemer Sistemleri, 2004. [39] http://www.rosslifting.com.au/testandtag/\n\n[40] http://www.aconcordcarpenter.com/how-to-inspect-a-fall-arrest-harness.html\n\n[41] http://www.windpowerengineering.com/maintenance/safety/safety-properly-adjusting-\nyour-harness-can-make-all-the-difference/\n\n<!-- PageNumber=\"50\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "document_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "madde_number": null,
+        "chunk_index": 92,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-yüksekte-çalışmalarda-isg-uygulama-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Yüksekte Çalışmalarda Isg Uygulama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 93,
+        "processed_at": "2026-02-12T04:43:41.525000"
+      }
+    }
+  ]
+}

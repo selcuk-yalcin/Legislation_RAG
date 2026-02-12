@@ -1,0 +1,1286 @@
+{
+  "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+  "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+  "total_chunks": 71,
+  "exported_at": "2026-02-12T12:18:54.395335",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\nMA VE SOSYAL GÜVENLIK H\n\n</figure>\n\n\nTÜRKİYE CUMHURİYETİ\nÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# ACİL DURUM PLANI HAZIRLAMA REHBERİ\n\n\n\n<figure>\n\nK\n\n®\n\nAFAD®\n\nAFET VE ACIL DURUM\nTOPLANMA ALANI\n3103-002-01\n\"\n\n</figure>\n\n\n<figure>\n\nAcil Çıkış\n\n4\n\nAcil Çıkış\n\nE\n\nE\n\nAsansör\n\nA\n\nAcil Çıkış\n\n</figure>\n\n\n<!-- PageFooter=\"İŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nMA VE SOSYAL GÜVENLIK\n* * **\n\nTÜRKİYE CUMHURİYETİ\nÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\n<figure>\n\nANKARA, 2017\nRehber Hazırlık Komisyonu\n\nBerk ATLI\nYusuf Ziya BOLAT\nAhmet Esat KORKUT\nGizem Naz DÖLEK\nAyşegül GÜRLEYEN\nCansu DİREK ATEŞ\n\n</figure>\n\n\nAcil Durum Planı Hazırlama Rehberi T.C. Çalışma ve Sosyal Güvenlik Bakanlığı, İş Sağlığı ve\nGüvenliği Genel Müdürlüğü tarafından 2017 yılında hazırlanmıştır.\n\n01.10.2021 tarih ve 31625 sayılı Resmi Gazete'de yayımlanan \"İşyerlerinde Acil Durumlar\nHakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik\" hükümleri dikkate alınarak\nrehberde güncellemeler yapılmıştır.\n\nHazırlanan bu rehberde detaylandırılan hususlar tavsiye niteliğindedir.\n\n\n<figure>\n\nRehber Güncellenme Tarihi: 2024\nMevzuat Dairesi Başkanlığı\n\n</figure>\n\n\n<!-- PageNumber=\"2\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<td>1.</td>\n<td>GİRİŞ</td>\n<td>4</td>\n</tr>\n<tr>\n<td>2.</td>\n<td>GENEL BİLGİLER</td>\n<td>5</td>\n</tr>\n<tr>\n<td></td>\n<td>2.1. ACİL DURUM</td>\n<td>5</td>\n</tr>\n<tr>\n<td></td>\n<td>2.2. . ACİL DURUM PLANI</td>\n<td>6</td>\n</tr>\n<tr>\n<td></td>\n<td>2.3. ACİL DURUM YÖNETİMİ</td>\n<td>7</td>\n</tr>\n<tr>\n<td>3.</td>\n<td>ACİL DURUM PLANI HAZIRLANMASI AŞAMALARI</td>\n<td>9</td>\n</tr>\n<tr>\n<td></td>\n<td>3.1. ACİL DURUMLARIN BELİRLENMESİ</td>\n<td>9</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2. 2. ÖNLEYİCİ VE SINIRLANDIRICI TEDBİRLERİN BELİRLENMESİ</td>\n<td>11</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.1. Yangın İçin Önleyici ve Sınırlandırıcı Tedbirler</td>\n<td>12</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.2. Patlama İçin Önleyici ve Sınırlandırıcı Tedbirler</td>\n<td>13</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.3. Doğal Afetler İçin Önleyici ve Sınırlandırıcı Tedbirler</td>\n<td>14</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.4. Gıda Zehirlenmesi İçin Önleyici ve Sınırlandırıcı Tedbirler</td>\n<td>15</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.5. Sabotaj İçin Önleyici ve Sınırlandırıcı Tedbirler</td>\n<td>16</td>\n</tr>\n<tr>\n<td></td>\n<td>3.2.6. Tehlikeli Kimyasal Madde Yayılımı İçin Önleyici ve Sınırlandırıcı Tedbirler.</td>\n<td>16</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3. ACİL DURUM MÜDAHALE YÖNTEMLERİNİN BELİRLENMESİ</td>\n<td>17</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.1. Yangın İçin Acil Durum Müdahale Yöntemi</td>\n<td>18</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "></td>\n<td>3.3. ACİL DURUM MÜDAHALE YÖNTEMLERİNİN BELİRLENMESİ</td>\n<td>17</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.1. Yangın İçin Acil Durum Müdahale Yöntemi</td>\n<td>18</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.2. Patlama İçin Acil Durum Müdahale Yöntemi</td>\n<td>19</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.3. Doğal Afetler İçin Acil Durum Müdahale Yöntemleri</td>\n<td>20</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.4. Gıda Zehirlenmesi İçin Acil Durum Müdahale Yöntemi</td>\n<td>21</td>\n</tr>\n<tr>\n<td></td>\n<td>3.3.5. Sabotaj için Acil Durum Müdahale Yöntemi</td>\n<td>22</td>\n</tr>\n<tr>\n<td></td>\n<td>3.4. 4. TAHLIYE YÖNTEMLERİNİN BELİRLENMESİ</td>\n<td>22</td>\n</tr>\n<tr>\n<td></td>\n<td>3.4.1. Toplanma Yeri</td>\n<td>25</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5. GÖREVLENDİRİLECEK ÇALIŞANLARIN BELİRLENMESİ</td>\n<td>VE</td>\n</tr>\n<tr>\n<td colspan=\"2\">KRİTERLERİ</td>\n<td>25</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5.1. Çalışanların Bilgilendirilmesi ve Eğitimi</td>\n<td>27</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5.2. Yangınla Söndürme Ekibinin Görevleri</td>\n<td>27</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5.3. Kurtarma Ekibinin Görevleri</td>\n<td>28</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5.4. Koruma Ekibinin Görevleri</td>\n<td>28</td>\n</tr>\n<tr>\n<td></td>\n<td>3.5.5. İlkyardım Ekibinin Görevleri</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>3.6. TATBİKAT</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>3.7. DOKÜMANTASYON</td>\n<td>31</td>\n</tr>\n<tr>\n<td></td>\n<td>3.8.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": ">3.5.5. İlkyardım Ekibinin Görevleri</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>3.6. TATBİKAT</td>\n<td>29</td>\n</tr>\n<tr>\n<td></td>\n<td>3.7. DOKÜMANTASYON</td>\n<td>31</td>\n</tr>\n<tr>\n<td></td>\n<td>3.8. ACİL DURUM PLANININ YENİLENMESİ</td>\n<td>35</td>\n</tr>\n<tr>\n<td colspan=\"2\">KAYNAKLAR</td>\n<td>36</td>\n</tr>\n<tr>\n<td>EK</td>\n<td>- İşyerlerinde Acil Durumlar İçin Kontrol Listesi.</td>\n<td>36</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "### 1. GİRİŞ\n\n\nGünlük yaşamda veya çalışma hayatında istenmeyen birçok durumla karşılaşılmaktadır.\nBunlardan bazılarının etkileri küçük, bazılarının etkileri ise insan hayatına mal olacak hatta\ntoplu ölümlere yol açacak kadar yüksek boyutta olabilmektedir.\n\nİnsan hayatını büyük boyutlarda etkileyen bu acil durumlarla mücadele etmek\ngerekmektedir. Acil durumlarla mücadele etmek ve hazırlıklı olmak iki açıdan ele alınabilir.\nBunları olay meydana gelmeden alınacak tedbirler ve olay meydana geldikten sonra kriz\nhalinde yapılacaklar olarak sınıflandırmak mümkündür.\n\n6331 sayılı İş Sağlığı ve Güvenliği Kanunu'nun yürürlüğe girmesiyle Kanunda belirtilen\nistisnai kurum ve kuruluşlar hariç tüm işyerleri iş sağlığı ve güvenliği (İSG) çalışmaları\nyapmakla yükümlü tutulmuşlardır. Kanunun ikincil mevzuatı olarak yürürlüğe giren\nyönetmeliklerden birisi olan İşyerlerinde Acil Durumlar Hakkında Yönetmelikle acil durum\nplanı hazırlanması da, söz konusu işyerleri için zorunlu hale gelmiştir.\n\nBu rehber çalışmasında, işyerlerinde meydana gelebilecek bazı acil durumlar hakkında\nbilgiler verilmiş ve İşyerlerinde Acil Durumlar Hakkında Yönetmelik hükümlerince\nhazırlanması gereken acil durum planı ayrıntılı olarak ele alınmıştır. İlgili yönetmelik\nadımlarına göre hazırlanan acil durum planı içeriği tavsiye niteliğinde olup işyerine, işin\nniteliğine ve diğer hususlara göre değiştirilebilir ve geliştirilebilir.\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "#### 2.1. ACİL DURUM\n\n\n18.12.2013 tarih ve 28855 sayılı Resmi Gazete'de yayımlanan Afet ve Acil Durum Müdahale\nYönetim Hizmetleri Yönetmeliğinin Tanımlar başlıklı 4 üncü maddesinde yapılan tanıma\ngöre acil durum \"toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini\ndurduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olayları ve bu olayların\noluşturduğu kriz halini\" ifade etmektedir. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) Açıklamalı Afet Yönetimi Terimleri\nSözlüğüne göre acil durum \"büyük fakat genellikle yerel imkânlarla baş edilebilen çapta,\nivedilik gerektiren tüm durum ve hâller\" olarak tanımlanmıştır. 19.12.2007 tarih ve 26735 sayılı Resmi Gazete'de yayımlanan Binaların Yangından\nKorunması Hakkında Yönetmeliğin Tanımlar başlıklı 4 üncü maddesinde ise acil durum\n\"Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya\nkesintiye uğratan ve acil müdahaleyi gerektiren olayları ve bu olayların oluşturduğu kriz\nhali\" olarak tanımlamaktadır. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin Tanımlar Başlıklı 4 üncü\nmaddesinde ise acil durum \"işyerinin tamamında veya bir kısmında meydana gelebilecek\nveya işyerini dışarıdan etkileyebilecek yangın, patlama, tehlikeli kimyasal maddelerden\nkaynaklanan yayılım, zehirlenme, salgın hastalık, radyoaktif sızıntı, sabotaj ve doğal afet gibi\nivedilikle müdahale gerektiren olaylar\" olarak tanımlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "de yayımlanan Afet ve Acil Durum Müdahale\nYönetim Hizmetleri Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "patlama, tehlikeli kimyasal maddelerden\nkaynaklanan yayılım, zehirlenme, salgın hastalık, radyoaktif sızıntı, sabotaj ve doğal afet gibi\nivedilikle müdahale gerektiren olaylar\" olarak tanımlanmıştır. İşyerlerinde oluşan acil durumlar beklenmedik olaylar olduğu için verebilecekleri zarar çeşitli\nşekillerde olabilmektedir. Çalışanlara, müşterilere, işyerine gelen ziyaretçilere gelebilecek can\ntehditleri olabileceği gibi üretimin durması, fiziksel ve çevresel zarar gibi durumlara yol\naçarak farklı olumsuzluklar da meydana getirebilmektedir. Acil durumlarla mücadelede en etkili yol, acil durum meydana gelmeden önce alınacak\ntedbirlerle acil duruma hazırlıklı olmaktır. İşyeri için muhtemel acil durumlar ile söz konusu\nacil durumlar için önleyici ve sınırlandırıcı tedbirleri belirlemek, oluşabilecek acil durumlar\niçin talimat ve prosedürler geliştirmek, acil durum meydana geldikten sonra güvenli tahliyeyi\nsağlamak için çalışmalar yapmak gerekmektedir. <!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\nAFAD'ın belirlediği acil durumlar, kurumun görevi ve ilgi alanı gereği daha çok doğal afetler\nüzerinde yoğunlaşmıştır. İSG açısından ele alındığında ise başlıca acil durumlar aşağıdaki\nşekilde sıralanabilir:\n\nYangın\nR\nPatlama\n\nTehlikeli kimyasal madde yayılımı\n\n₹\nDoğal afetler\n\nZehirlenme\n\nR\nRadyoaktif sızıntı\n\nSabotaj\n\nR\nSalgın hastalık\n\nYapılan işin niteliğine bağlı olarak özel acil durumlar da değerlendirmeye dâhil edilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "li kimyasal madde yayılımı\n\n₹\nDoğal afetler\n\nZehirlenme\n\nR\nRadyoaktif sızıntı\n\nSabotaj\n\nR\nSalgın hastalık\n\nYapılan işin niteliğine bağlı olarak özel acil durumlar da değerlendirmeye dâhil edilmelidir. İşyerlerinde meydana gelebilecek acil durumlar; yapılan işin niteliği, kullanılan malzemeler,\nişyerlerindeki risk faktörleri, işyerinin konumu, faaliyet gösterdiği alandaki önem derecesi gibi\nçeşitli etmenlere göre farklılıklar arz etmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "#### 2.2. ACİL DURUM PLANI\n\n\nAFAD tarafından hazırlanan Açıklamalı Afet Yönetimi Terimleri Sözlüğünde acil durum\nplanlaması tanımı \"insanın canı ve malıyla diğer faaliyetlerinin, olağan dışı olayların\nsonuçlarından en az kayıp ve zararla kurtulabilmesi için yapılması gereken iş ve işlemlerin,\nolaylar olmadan önce planlaması ve olay sırasında; zamanında, hızlı ve etkili bir şekilde\nuygulanmasını gerektiren tüm faaliyetler\" olarak yapılmıştır. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 4 üncü maddesinde acil durum planı,\n\"işyerlerinde meydana gelebilecek acil durumlarda yapılacak iş ve işlemler dâhil bilgilerin ve\nuygulamaya yönelik eylemlerin yer aldığı plan\" olarak tanımlanmıştır. Acil durum planı; büyük çaplı kaza ve yaralanmaları önlemek, işyeri ve çevresindeki binalar\nile ekipmanlarda oluşabilecek zararı azaltmak, toplum ve çevreyi acil durumların etkilerinden\nkorumak ve acil durumların işyerlerine verdiği maddi ve manevi zararı en az hasarla atlatarak\nnormal çalışma düzenine en hızlı şekilde geçişini sağlamak için gereklidir. Herhangi bir acil\n\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\ndurum meydana gelmeden yapılacak bu planlamayla gereken tedbirler belirlenir, gerektiğinde\nuygulama kolaylığı sağlanarak acil durum maddi ve manevi en az hasarla atlatılabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "İşyerlerinde Acil Durumlar Hakkında Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "-->\n<!-- PageBreak -->\n\ndurum meydana gelmeden yapılacak bu planlamayla gereken tedbirler belirlenir, gerektiğinde\nuygulama kolaylığı sağlanarak acil durum maddi ve manevi en az hasarla atlatılabilir. Acil durum planı hazırlamanın amaçları şu şekilde sıralanabilir:\n\n₹\nAcil durumlara karşı her zaman hazır bulunulması,\n\nAcil durumların neden olduğu durumların hızlı ve etkili bir biçimde sınırlandırılması,\nAcil servis hizmetleri işyerine ulaşıp kontrol altına alana kadar acil durumun\nyönetilmesi,\n\nDışarıdan gelen acil durum ekiplerine bilgi verilerek ve ekipmanlarla yardımcı\nolunması,\n\nTüm çalışanların ve çevredekilerin acil durumların olumsuz etkilerinden korunması. 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 11 ve 12 nci maddelerinde de acil durum\nplanları, yangınla mücadele, ilkyardım ve tahliye ile ilgili hükümler bulunmaktadır. 6331 sayılı\nKanun kapsamına giren tüm işyerleri de İşyerlerinde Acil Durumlar Hakkında Yönetmeliğe\ngöre acil durum planı hazırlamakla yükümlüdür. Acil durum planı risk değerlendirmesinin bir çıktısıdır. Risk değerlendirmesiyle muhtemel\ntehlike ve riskler tespit edildikten sonra kontrol önlemleri belirlenir. Bunun sonrasında risk\ndeğerlendirmesine bağlı olarak acil durumlar belirlenir ve yönetmelik hükümlerine göre acil\ndurumların önleyici ve sınırlandırıcı tedbirlerinin belirlendiği, müdahale için prosedürler ve\ntahliye planlarını içeren bir acil durum planı hazırlanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "belirlenir ve yönetmelik hükümlerine göre acil\ndurumların önleyici ve sınırlandırıcı tedbirlerinin belirlendiği, müdahale için prosedürler ve\ntahliye planlarını içeren bir acil durum planı hazırlanır. Acil durum planı hazırlamadan önce rehber ekinde yer alan Acil Durumlar Kontrol Listesi\nüzerinden ön hazırlık yapmak faydalı olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "#### 2.3. ACİL DURUM YÖNETİMİ\n\n\nİş sağlığı ve güvenliği yönetim sisteminin amacı ve beklenen çıktıları; sağlıklı ve güvenli bir\nişyeri ortamının oluşturulması ile çalışanlarda çalışmaya bağlı kazaların ve hastalıkların\nönlenmesidir. Bundan dolayı işyerlerinde tehlike ve risklerin, önleyici ve koruyucu tedbirler\nalmak suretiyle ortadan kaldırması son derece önemlidir. İşyerlerinde kurulan iş sağlığı ve\ngüvenliği yönetim sistemlerinin altında olmazsa olmazlardan biri de acil durum başlığıdır.\n\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\nAcil durum yönetimi; acil durumlara hazırlık için gerekli düzenlemelerin yapılması ve gerekli\nkaynakların seferber edilmesi, acil durumların önlenmesi veya etkilerinin azaltılması için\ndüzenleyici tedbirlerin alınması, acil durum meydana geldikten sonra müdahale edilmesi ve\nacil durum sonrası işyerinin yenilenmesi için düzenlemeler yapılmasını içerir.\n\nBu alanda önemli bir kaynak olan; TS ISO 45001-İş Sağlığı ve Güvenliği Sistemleri\nStandardının \"Acil duruma hazır olma ve müdahale\" başlıklı 8.2 inci maddesinde, işyerlerinin\nacil durumlara hazır olması için yapılması gerekenler aşağıda belirtilmiştir:",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "##### 8.2 Acil duruma hazır olma ve müdahale\n\n\nKuruluş, aşağıdakiler dahil olmak üzere, muhtemel acil durumlara hazırlık ve bunlara nasıl\nmüdahale edeceği ile ilgili gerekli proses/prosesleri oluşturmalı, uygulamalı ve sürekliliğini\nsağlamalıdır:\n\na) ilk yardım sağlanması dahil acil durumlara bir müdahale planı oluşturulması,\n\nb) planlanan müdahale için eğitim sağlanması,\n\nc) planlanan müdahale yeteneğinin test edilmesi ve tatbik edilmesi,\n\nd) test edildikten sonra ve özellikle acil durumların ortaya çıkmasından sonrası da dahil\nolmak üzere, performansın değerlendirilmesi ve planlanan müdahalenin, gerektiğinde,\nrevize edilmesi,\n\ne) tüm çalışanlara görevleri ve sorumlulukları ile ilgili bilgilerin iletilmesi ve sağlanması,\n\nf) yüklenicilere, ziyaretçilere, acil müdahale hizmetlerine, resmi makamlara ve uygun\nolduğunda, yerel halka ilgili bilgilerin iletilmesi,\n\ng) ilgili tarafların ihtiyaçlarının ve yeteneklerinin dikkate alınması ve planlanan\nmüdahalenin geliştirilmesinde, uygun şekilde, katılımlarının sağlanması. Kuruluş proses/prosesler ve potansiyel acil durumlara müdahale etme planları ile ilgili\ndokümante edilmiş bilgilerin sürekliliğini sağlamalı ve muhafaza etmelidir. Acil durumlarla mücadele konusu; sistematik bir çalışma gerektirmesi, işyeri içerisindeki\norganizasyonda görevlendirmeler yapılması ve planlamalar çerçevesinde bir çalışma süreci\niçermesi nedeniyle \"acil durum yönetimi\" kavramından söz etmek mümkündür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "şma gerektirmesi, işyeri içerisindeki\norganizasyonda görevlendirmeler yapılması ve planlamalar çerçevesinde bir çalışma süreci\niçermesi nedeniyle \"acil durum yönetimi\" kavramından söz etmek mümkündür. İşyerlerinin\nacil durum yönetiminde dikkat etmesi gereken hususlar aşağıdaki başlıklar altında toplanabilir:\n\nAcil durum çalışmalarını yürütecek ekibin belirlenmesi,\n\nAcil durumlarla ilgili yapılacak çalışmalar için bir amaç belirlenmesi,\n\nAcil durum planı hazırlanması ve diğer çalışmalardaki girdilerin tespiti,\n\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\n₹\nSaha ziyaretlerinin planlanması ve uygulanması,\n\n₹\nEksiklikleri içeren raporların hazırlanarak işverene sunulması,\n\n₹\nAcil durum planı hazırlık aşamaları izlenerek işyeri için bir acil durum planı\nhazırlanması,\nR\nAcil durum ekiplerinin eğitimleri için gerekli planlamaların yapılması,\n\nR\nTatbikatların planlanması, senaryolar oluşturulması ve uygulanması,\n\n₹\nÇalışmaların takibi ve kontrol.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "### 3. ACİL DURUM PLANI HAZIRLANMASI AŞAMALARI\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik'in 7 nci maddesi uyarınca acil durum\nplanı hazırlarken izlenmesi gereken aşamalar aşağıda belirtilmiştir:\n\n₹\nAcil durumların belirlenmesi,\nÖnleyici ve sınırlandırıcı tedbirlerin alınması,\n\nGörevlendirilecek kişilerin belirlenmesi,\nER\nAcil durum müdahale ve tahliye yöntemlerinin oluşturulması,\n\nR\nDokümantasyon,\n\nTatbikat,\nR\nAcil durum planının yenilenmesi.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "ACİL DURUM PLANI HAZIRLANMASI AŞAMALARI\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "#### 3.1. ACİL DURUMLARIN BELİRLENMESİ\n\n\nAcil durum planı hazırlanırken öncelikle işyeri için muhtemel acil durumların belirlenmesi\ngerekmektedir. Bu acil durumlar belirlenirken aşağıdaki hususlar dikkate alınmalıdır:\n\nRisk değerlendirmesi sonuçları: Acil durum planı, risk değerlendirmesinin bir çıktısıdır. Risk\ndeğerlendirmesiyle işyeri için olası tehlike ve riskler belirlenip kontrol önlemleri\ndeğerlendirildikten sonra, işyerini büyük maddi manevi kayıplara uğratacak, toplu ölümlere yol\naçacak, acil müdahale, mücadele, ilkyardım gerektirecek olaylar daha net şekilde\ngörülebilecektir. Böylece risk değerlendirmesi, muhtemel acil durumların belirlenmesinde en\nönemli referans olacaktır. Yangın, tehlikeli kimyasal maddelerden kaynaklanan yayılım ve patlama ihtimali:\nİşyerinin yaptığı çalışmalar, kullanılan kimyasallardan kaynaklanacak patlamalar ve sonrasında\n\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\nmeydana gelecek yangın durumu, muhtemel acil durumların belirlenmesinde dikkat edilmesi\ngereken bir diğer husustur. Kullanılan kimyasalların Güvenlik Bilgi Formu'ndaki (GBF)\nbilgilerden faydalanılarak hangi durumlarda yangın veya patlama ihtimali olacağı\ndeğerlendirilmelidir. Parlama, patlama risklerinin değerlendirilmesi amacıyla patlayıcı ortam\noluşabilecek tüm işyerlerinin ayrıca Patlamadan Korunma Dokümanı hazırlaması\ngerekmektedir. İşyerlerinde patlama ve yangın gibi acil durumların belirlenmesi için kontrol\nlistesi hazırlanmasında fayda görülmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "üm işyerlerinin ayrıca Patlamadan Korunma Dokümanı hazırlaması\ngerekmektedir. İşyerlerinde patlama ve yangın gibi acil durumların belirlenmesi için kontrol\nlistesi hazırlanmasında fayda görülmektedir. Kontrol listesinde yer alabilecek bazı başlıklar\naşağıda yer almaktadır:\n\nFøl İşyerindeki alevlenir, oksitleyici ve patlayıcı kimyasal maddeler ile bunların\ndepolanması,\n\nVarsa kaynak ve kesme faaliyetleri,\n\nFRI Tesiste ürün alan/boşaltan taşıtlar,\n\nPotansiyel bir alev kaynağı teşkil edebilecek yüksek sıcaklık oluşturan makine ve\nteçhizatlar,\n\nSigara için belirlenmiş özel alanlar,\n\nFøl Tesiste kullanılan tüm cihazların standartlara uygunluğu,\n\nTehlikeli kimyasal maddelerin ve atıkların işlenmesi, kullanılması, taşınması ve\ndepolanmasının uygunluğu,\n\nFøl Acil durum planını hazırlayan işyerinin komşu işyeri ve binalarında yapılan faaliyetler,\n\" Tehlikeli patlayıcı atmosferin oluşma/tutuşma ihtimali vb. Doğal afetlerin meydana gelme ihtimali: Deprem kuşağında yer alan bir ülke olmamız\nnedeniyle deprem, küresel ısınmadan kaynaklanan sel felaketlerinin artması nedeniyle sel ve\ndiğer doğal afetler, acil durum dendiğinde dâhil edilmesi gereken olaylardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "ında yer alan bir ülke olmamız\nnedeniyle deprem, küresel ısınmadan kaynaklanan sel felaketlerinin artması nedeniyle sel ve\ndiğer doğal afetler, acil durum dendiğinde dâhil edilmesi gereken olaylardır. Sabotaj ihtimali: İşyerinin milli ekonomiye, devletin savaş gücüne önemli ölçüde katkısı\nbulunması ve yaşanacak olumsuz bir olay sonucu ülke güvenliği ve ekonomisi ile toplum hayatı\nbakımından önemli etkilere neden olabilecek tesisler arasında bulunması sebebiyle, uğrayacağı\nsabotaj vakasıyla kısmen veya tamamen yıkılması, hasara uğratılması veya geçici bir süre için\ndahi olsa çalışmadan alıkonması gibi durumlar söz konusu olabilir. <!-- PageNumber=\"10\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "## Biyolojik, radyoaktif ve nükleer maddelerden kaynaklanan yayılım, zehirlenme ve salgın hastalık ihtimali:\n\n\nÖzellikle biyolojik ajanlardan kaynaklanabilecek salgın hastalık ve zehirlenme ihtimali ile\nişyerinde yürütülen işin özelliğine göre bulunabilecek radyoaktif ve nükleer maddelere\nmaruziyetten kaynaklanabilecek olumsuz etkiler de değerlendirmede göz önüne alınmalı ve acil\ndurum prosedürleri içerisine dâhil edilmelidir.\n\nEtki alanına giren işyerleri: Acil durum planı hazırlanan işyerinin komşu işyeri ve binalarında\nyapılan faaliyetler de göz önüne alınmalıdır. Örneğin, patlayıcı madde imal eden bir fabrikada\noluşabilecek bir yangın acil durumu, komşu işyerlerini de etkileyebilecektir. Bu yüzden etki\nalanına giren işyerlerinde acil durumların belirlenmesinde söz konusu durum göz önünde\nbulundurulmalıdır.\n\nAcil durumlar belirlenirken işyerinin geçmişte yaşadığı acil durum ve kazalar da dikkate\nalınmalıdır. Bu kaza ve acil durumların oluşma sıklığına göre verilmesi gereken önem ve\nderecelendirme, acil durum planı hazırlanmadan önce hazırlanmış olan risk değerlendirmesinde\nanaliz edilmiş olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "### 3.2. ÖNLEYİCİ VE SINIRLANDIRICI TEDBİRLERİN BELİRLENMESİ\n\n\n6331 sayılı İş Sağlığı ve Güvenliği Kanunu'nun 11 inci maddesi uyarınca; çalışma ortamı,\nkullanılan maddeler, iş ekipmanı ile çevre şartlarını dikkate alarak meydana gelebilecek acil\ndurumların önceden değerlendirilmesi, çalışanları ve çalışma çevresini etkilemesi mümkün ve\nmuhtemel acil durumların belirlenmesi ve bunların olumsuz etkilerini önleyici ve sınırlandırıcı\ntedbirlerin alınması gerekmektedir.\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmeliğine göre hazırlanacak acil durum planının\naşamalarından biri de önleyici ve sınırlandırıcı tedbirlerin belirlenmesidir. İşyeri için acil durum\nplanının ilk aşamasında tespit edilen her acil durum için önleyici ve sınırlandırıcı tedbirler\nbelirlenir.\n\nBu bölümde ele alınan acil durumlar için hazırlanmış önleyici ve sınırlandırıcı tedbirler örnek\nteşkil etmesi açısından hazırlanmış olup her işyeri, yapılan işin niteliği, kullanılan hammaddeler\nve üretilen ürünler vb. özellikleri dikkate alarak kendi bünyesinde belirlediği acil durumlar için\nönleyici ve sınırlandırıcı tedbirleri belirlemelidir.\n\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "ÖNLEYİCİ VE SINIRLANDIRICI TEDBİRLERİN BELİRLENMESİ\n\n\n6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "#### 3.2.1. Yangın İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nYangın için belirlenen önleyici ve sınırlandırıcı tedbirler Tablo 3.1' de gösterilmektedir.\n\nTablo 3.1. Yangın İçin Belirlenmiş Önleyici ve Sınırlandırıcı Tedbirler",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "##### Önleyici ve Sınırlandırıcı Tedbirler\n\n\nE\nElektrik tesisatının periyodik kontrolü ve olası arıza durumunun derhal yetkili\nkişilerce giderilmesi\n\nSigara içilebilen alanların sınırlandırılması ve bu alanların işaretlerle belirtilmesi\n\n\" Gaz detektörü bulundurulması (gerekli işyerleri için)\n\nİşyerinde (kullanılıyorsa) gaz tüplerinin ve gaz hatlarının periyodik kontrolü\n\nRI\nParatonerin işlevsel hale getirilip periyodik kontrollerinin yapılması\n\nE\nElektronik cihazların fişlerinin mesai saatleri dışında prizden çekilmiş olması\nKazanların periyodik kontrolünün yapılması\n\nFRI\nKazan dairesi içine yetkili kişiler harici kişilerin girmesinin önlenmesi\n\nKullanılan kimyasal maddelerin uygun etiketlenmesi ve depolanması\n\nİşyerinde (varsa) laboratuvarlara yetkili kişi harici personelin girmesinin\nengellenmesi\n\n« Kimyasal atıkların düzenli depolanması\n\nR\nDuman detektörleri\n\nYangınla mücadele ekibi oluşturulması ve gerekli eğitimlerin verilmesi\n\nFø Periyodik yangın tatbikatı yapılması\n\nE\nYangın durumunda hızlı ve güvenli tahliye için uygun acil çıkış kapılarının bulunması\n\nAcil çıkışların ve söndürme ekipmanlarının gösterildiği tahliye planlarının\nişyerlerinde görünür şekilde asılı olması\n\nkø Uygun standartlarda yangın söndürme ekipmanı bulundurulması ve periyodik\nkontrolleri\n\n₣ Acil durum vanaları (doğal gaz akışını kesmek için)\n\nCO, CO2 detektörleri\n\n₹\nIşıklı ve sesli alarm sistemi\n\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "#### 3.2.2. Patlama İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nPatlamanın tanımı, hangi durumlarda patlama oluşabileceği ve sektörlere göre patlama oluşma\nihtimallerini belirten bilgilerin, acil durumların belirlenmesi aşamasında belirtilmesi\ngerekmektedir. Patlama ve yangın, birbirinden tamamen ayrılmayan acil durumlardır. Patlama\nsonrası yangın oluşması veya yangının patlamayı tetiklemesi durumları, iki acil durumun birbiri\narasındaki ilişkinin bir örneğidir.\n\nPatlama durumunun önleyici ve sınırlandırıcı tedbirleri de yangınla birebir ilişki içerisinde\nolmasından dolayı benzerdir. Patlamaya özgü belirlenen bazı önleyici ve sınırlandırıcı tedbirler\nTablo 3.2'de gösterilmektedir.\n\nTablo 3.2. Patlama İçin Önleyici ve Sınırlandırıcı Tedbirler",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "## Önleyici ve Sınırlandırıcı Tedbirler\n\n\nPatlamadan korunma dokümanı hazırlanması\n\nPatlayıcı ortam oluşabilecek yerlerin patlayıcı ortam oluşma sıklığı ve kalıcılığı esas\nalınarak bölgeler halinde sınıflandırılması ve bu bölgelerde kullanılan elektrikli ve\nelektrikli olmayan tüm ekipman ve koruyucu sistemlerin uygun kategorilere göre\nseçilmesi\n\nKazanların periyodik kontrolünün yapılması\n\nKazan dairesi içine yetkili kişiler harici kişilerin girmesinin önlenmesi\n\nGaz detektörü bulundurulması (gerekli işyerleri için)\n\nİşyerinde (kullanılıyorsa) gaz tüplerinin ve gaz hatlarının periyodik kontrolü\n\nKullanılan kimyasal maddelerin uygun etiketlenmesi ve depolanması\n\nİşyerinde (varsa) laboratuvarlara yetkili kişi harici personelin girmesinin engellenmesi\n\nKimyasal atıkların düzenli depolanması\n\nHavalandırma sistemi bulundurulması\n\nKullanılan kimyasalların güvenlik bilgi formlarının bulundurulması\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nFI CO, CO2 detektörleri bulundurulması\nE\nIşıklı ve sesli alarm sistemi bulundurulması\n\nAcil durum vanaları (doğal gaz akışını kesmek için)\n\nE\nAcil çıkışların ve söndürme ekipmanlarının gösterildiği tahliye planlarının işyerinde\ngörünür şekilde asılı olması\n\nE\nYangın söndürme ekipmanlarının işyeri içerisinde doğru konumlandırılması\n\nR\nUygun standartlarda yangın söndürme ekipmanı bulundurulması ve periyodik\nkontrollerinin yapılması",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "### 3.2.3. Doğal Afetler İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nBu bölümde doğal afetlerden deprem ve sel ele alınmıştır. Doğal afetlerden deprem için\nsınırlandırıcı bazı tedbirler alınabilir. Tablo 3.3'de deprem için bazı sınırlandırıcı tedbirler,\nTablo 3.4'de ise sel için bazı önleyici ve sınırlandırıcı tedbirler gösterilmektedir.\n\nTablo 3.3. Deprem İçin Sınırlandırıcı Tedbirler\n\nSınırlandırıcı Tedbirler\n\nFøl İşyeri zeminin güçlendirilmesi\n\nRI\nOfis içerisindeki dolapların sabitlenmesi\n\nİşyerinde devrilmesi muhtemel büyük araç gereç ve ekipmanların güvenli biçimde\nyerleştirilmesi\n\nİşyeri planlamasının deprem ve etkileri göz önünde bulundurularak yapılması\n\nR\nBinanın deprem dayanıklılığının kontrolü\n\nR\nTüm çalışanların depremde yapılacaklar konusunda eğitim alması\n\nR\nAcil çıkışların gösterildiği tahliye planlarının işyerinde görünür şekilde asılı olması\n\nR\nAcil durum ekiplerinin oluşturulması\n\nAcil durum ekiplerine deprem ile ilgili eğitim verilmesi/aldırılması\n\nTatbikat yapılması\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nTablo 3.4. Sel İçin Önleyici ve Sınırlandırıcı Tedbirler",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "## Önleyici ve Sınırlandırıcı Tedbirler\n\n\nİşletmenin kurulum aşamasında dere yataklarına tesis yapılmamasına dikkat edilmesi\n\nİşyerinde bulunan yağmur suyu kanallarının kontrolü ve bakımlarının yapılması\n\nBireysel ve kurumsal olarak ağaçlandırmaya önem verilmesi\n\nKapalı alan işyerlerinde pencere ve kapılar için \"taşınabilir\" engeller bulundurulması\nOlası sel durumunda elektrik ve su kaynaklarının kapatılması\n\nAfet sırasında ve sonrasında kullanılacak ekipmanların hazır bulundurulması\n\nSel için belirlenmiş toplanma yerinin gösterildiği tahliye planının işyeri içerisinde\ngörünür yerlerde asılı olması\n\nKurtarma ve koruma ekiplerinin oluşturulması\n\nR\n\nDestek ekiplerine sel ile ilgili eğitim verilmesi/aldırılması",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "### 3.2.4. Gıda Zehirlenmesi İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nGıda zehirlenmesinin oluşturacağı acil durumlar için belirlenen bazı önleyici ve sınırlandırıcı\ntedbirler Tablo 3.5'da gösterilmektedir.\n\nTablo 3.5. Gıda Zehirlenmesi İçin Önleyici ve Sınırlandırıcı Tedbirler\n\nÖnleyici ve Sınırlandırıcı Tedbirler\n\nGıda ürünlerinin son tüketim tarihlerinin kontrolünün yapılması\n\nYemeklerin hijyenik koşullarda taşınması\n\nYemek servisi yapılan tabak, çatal, tepsi vs. temiz tutulması\n\nYemeklerden numune alınması\n\nYemek servisi yapan personele eğitim verilmesi\n\nTüm personele genel hijyen eğitimi verilmesi\n\nAcil durum irtibat numaraları listesinin görünür yerlerde asılı olması\n\nYemek servisi yapan kişilerin uygun eldiven, bone, iş kıyafeti vb. kullanması\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "### 3.2.5. Sabotaj İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nSabotaj için belirlenen bazı önleyici ve sınırlandırıcı tedbirler Tablo 3.6'da gösterilmektedir.\n\nTablo 3.6. Sabotaj İçin Önleyici ve Sınırlandırıcı Tedbirler\n\nÖnleyici ve Sınırlandırıcı Tedbirler\n\nGiriş-çıkışların kontrollü yapılması\n\nBina girişlerine X-Ray cihazı yerleştirilmesi\n\nBina dışında ve içinde güvenlik kameralarının bulunması ve sürekli olarak takibi\n\nİşyerinde bir güvenlik biriminin oluşturulması\n\n\" Patlayıcı malzeme ve ekipmanların bulunduğu kısımlara girişin sınırlandırılması\nR\n\nİşyerlerine dışarıdan gelen kişilerin kaydının tutulması, girişte kimlik alınması ve\nziyaretçi kartı verilmesi\n\nKolluk kuvvetleri ile derhal irtibata geçilmesi\n\n7\nAcil durum sireni çalması\n\nÅ\n\nAcil çıkışları gösteren tahliye planının görünür yerlerde asılı olması",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "### 3.2.6. Tehlikeli Kimyasal Madde Yayılımı İçin Önleyici ve Sınırlandırıcı Tedbirler\n\n\nİşyerlerinde kullanılan, bulundurulan ve depolanan kimyasal maddelerden kaynaklanan kaçak,\nsızıntı, yayılım durumlarında zehirlenme, patlama vs. gibi acil durumlarla karşılaşılabilinir. Bu\ndurumlarda alınabilecek önleyici ve sınırlandırıcı tedbirlerden bazıları Tablo 3.7'de\ngösterilmektedir. <!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nTablo 3.7.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "i acil durumlarla karşılaşılabilinir. Bu\ndurumlarda alınabilecek önleyici ve sınırlandırıcı tedbirlerden bazıları Tablo 3.7'de\ngösterilmektedir. <!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nTablo 3.7. Tehlikeli Kimyasal Madde Yayılımı İçin Önleyici ve Sınırlandırıcı Tedbirler\n\nÖlayici ve Sınırlandırıcı Tedbirler\n\nVanaların gaz sızıntısına karşı rutin kontrollerinin yapılması\n\nR\nİşyeri için özel kimyasal depolama dolaplarının temin edilmesi\n\nKimyasalların depolandığı bölümlerde sızıntıya yol açacak durumların engellenmesi,\nhavalandırmanın uygun olması\n\n« Kimyasalların özellik ve tehlikelerine göre uygun şekilde depolanması\n\nİzni olmayan çalışanların kimyasalların depolandığı alana girmesinin engellenmesi\n(kartlı giriş vb.)\n\nGaz sirkülasyonunun sağlandığı borularda kaçak kontrolü\n\nR\nKimyasallar için çalışanlara uygun kişisel koruyucu donanım temini\n\nKişisel koruyucu donanımların çalışanlarca doğru şekilde kullanılmasının sağlanması\nSöndürme, koruma ve kurtarma ekiplerinin oluşturulması\nİlgili acil durum ekiplerine eğitimler verilmesi/aldırılması\n\nOlaı kimyasal yayılımı veya sızıntısında işyerini çabuk tahliye edebilmek amacıyla\ntahliye planları oluşturulması\nR\nTahliye planlarının işyerinde görünür yerlerde asılı olması\n\nR\nGaz yayılımı durumlarında uygun yerlere uygun sayıda gaz dedektörü yerleştirilmesi",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "### 3.3. ACİL DURUM MÜDAHALE YÖNTEMLERİNİN BELİRLENMESİ\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik'in 10 uncu maddesinin birinci fıkrası\nuyarınca; işveren tarafından acil durumların meydana gelmesi halinde uyarı verme, arama,\nkurtarma, koruma, tahliye, haberleşme, ilkyardım ve yangınla mücadele (söndürme) gibi\nuygulanması gereken acil durum müdahale yöntemlerinin belirlenmesi ve yazılı hale getirilmesi\ngerekmektedir. İşyerlerinde Acil Durumlar Hakkında Yönetmelikte belirtildiği üzere işyerinde herhangi bir acil\ndurum meydana geldiğinde yapılacakların önceden planlanması açısından acil durum müdahale\nyöntemlerinin oluşturulması önemlidir. Oluşturulan bu yöntemler acil durum planlarında\nbelirtilir ve acil durumlarla ilgili işyerlerinde çalışanlara bilgi ve eğitim verilirken de bu\nyöntemlere yer verilir. <!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\nAcil durum meydana geldiğinde müdahale esnasında da birçok olumsuzlukla\nkarşılaşılabilmektedir. Bunlardan bazıları aşağıda belirtilmiştir:\n\n₹\nZorlu müdahale şartları; yakından müdahale edememe, ulaşım zorlukları, açık alanlarda\nzorlu hava şartları, başka yüksek riskli durumlar (hasar görmüş bina çökmesi, kimyasal\nmadde patlamaları vb.)\n\n₹\nDuygusal ve psikolojik olumsuz etkiler; ölü ve yaralı sayısının çokluğu, insanların\nhayatlarının kurtarılması için hissedilen büyük sorumluluk, zaman kısıtı vb. Fiziksel yorgunluk; müdahale esnasında yapılan taşıma işlemleri, uzun müdahale\nsaatlerinden kaynaklanan bitkinlik durumları vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "ACİL DURUM MÜDAHALE YÖNTEMLERİNİN BELİRLENMESİ\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "tlarının kurtarılması için hissedilen büyük sorumluluk, zaman kısıtı vb. Fiziksel yorgunluk; müdahale esnasında yapılan taşıma işlemleri, uzun müdahale\nsaatlerinden kaynaklanan bitkinlik durumları vb. Acil durum müdahale yöntemleri işyeri için belirlenen her acil durum için oluşturulur. Bu\nyöntemler süreç akış şemaları şeklinde veya makine ve ekipmanların üzerinde yer alan\ntalimatlar gibi maddeler halinde de hazırlanabilir. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 10 uncu maddesinde belirtildiği üzere acil\ndurum müdahale ve tahliye yöntemleri oluşturulurken 27/11/2007 tarihli ve 2007/12937 sayılı\nBakanlar Kurulu Kararıyla yürürlüğe konulan Binaların Yangından Korunması Hakkında\nYönetmelik hükümleri de ayrıca dikkate alınır. Bu çalışmada ele alınan her acil durum için müdahale yöntemleri oluşturulmuştur. Bunlardan\nbazıları süreç akış şemaları şeklinde, bazıları ise talimat formları şeklinde maddeler halinde\nsıralanmıştır. Ele alınan acil durumlar için hazırlanan yöntem ve prosedürler örnek amaçlı\nhazırlanmış olup değiştirilebilir veya geliştirilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "İşyerlerinde Acil Durumlar Hakkında Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "#### 3.3.1. Yangın İçin Acil Durum Müdahale Yöntemi\n\n\nTelaşa kapılmadan çevrede yangın ihbar düğmesi varsa ona basılmalıdır.\n\nAcil Çağrı Merkezi numarası \"112\" aranarak yangın bildirilmelidir. Yangının adresi en\n\nkısa ve doğru şekilde, mümkünse yangının cinsi ile birlikte (bina, benzin, ahşap, araç\nvb.) bildirilmelidir.\n\n[] İtfaiye gelinceye kadar mümkünse yangını söndürmek için eldeki mevcut imkânlardan\nyararlanılmalıdır.\n\nYangın kapalı alandaysa yayılmasını önlemek için kapı ve pencereler kapatılmalıdır.\nFÅ Bunlar yapılırken kendimiz ve başkaları tehlikeye atılmamalıdır.\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n₹\nEğer alevler çoğalmışsa ve binadan çıkış olanaksızsa, dolap vb. yerlere saklanılmamalı,\npencereden dışarıdakilerle iletişim kurulmaya çalışılmalıdır.\n\n₹\nDumandan boğulmamak için yardım gelene kadar eğilerek ve sürünerek hareket\nedilmeli, ağız ve burun ıslak bez ya da mendille kapatılarak nefes alınmalıdır.\n\" Duman ve yanık kokusu başka odadan geliyorsa kapılar açılmamalı, kapıya\ndokunulmamalıdır.\n\n₹\nKıyafetiniz alev almışsa, koşmadan yere yatarak yuvarlanılmalıdır. Battaniye türü\nörtüler alınarak alevler boğulmaya çalışılmalıdır.\n\nİl Eğer vücudumuzda yanık varsa, hemen soğuk suya tutulmalıdır.\n\nAcil durum ekiplerinin talimatları çerçevesinde gösterilen doğrultuda acil çıkıştan\nçıkarak toplanma yerine gidilmelidir. Burada yapılacak sayıma dâhil olunmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "#### 3.3.2. Patlama İçin Acil Durum Müdahale Yöntemi\n\n\nPatlama anından hemen sonra en yakındaki acil durum düğmesine basılmalıdır.\n112 Acil Çağrı Merkezi aranarak patlama ve yaralılar hakkında bilgi verilmelidir.\n\nAcil durum ekiplerinin talimatları çerçevesinde gösterilen doğrultuda acil çıkıştan\nçıkarak toplanma yerine gidilmelidir. Burada yapılacak sayıma dâhil olunmalıdır.\n\nAcil durum ekiplerinden belirlenen personel, işyerinin doğalgazını, elektriğini\nkesmelidir. Patlayıcı kimyasalların tehlike teşkil edip etmediğini kontrol ederek hareket\netmelidir.\n\nYangın söndürme ekibi, patlamadan sonra yangın çıkmasını veya büyümesini önlemek\niçin acil durum ekipmanlarıyla söndürme işlemlerine başlamalıdır.\n\n₹\nKurtarma ekibi çalışanların patlamanın olduğu bölgeden ve tüm işyerinden tahliye\nedilmesini ve toplanma yerine ulaşmalarını sağlamalıdır. Yaralı olmayanlara toplanma\nyerine ulaşmaları konusunda yardımcı olduktan sonra yaralıların arama ve kurtarma\nişlemlerine başlamalıdır.\n\n« İlkyardım ekibi, yaralılara ilk müdahaleyi yapmalıdır.\n\nR\nPatlamayla ilgili görevlilere bilgi verilmelidir. Sonrasında hazırlanan raporlara katkı\nsağlanmalıdır.\n\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "#### a) Deprem İçin Acil Durum Müdahale Yöntemi\n\n\nDeprem için uygulanacak acil durum müdahale yöntemi için AFAD (Afet ve Acil Durum\nYönetim Başkanlığı, Deprem Tedbirleri) kaynaklarından faydalanılabilir. Şekil 3.1'de yer\nalan deprem müdahale prosedürü örnek olarak verilmiştir.\n\nGerekli olduğu takdirde örnek olarak verilen prosedür değiştirilebilir ve geliştirilebilir.\n\n\n<figure>\n<figcaption>Şekil 3.1. Deprem İçin Acil Durum Müdahale Yöntemi</figcaption>\n\nDüğmeye Basarak Herkesi\nHaberdar Et\n\nEVET\n\nÇevrede Acil Durum\nSireni Var mı?\n\nHAYIR\n\nSesli Olarak Etrafındakileri Uyar\n\nEVET\n\nKapalı Alanda Mısın?\n\nEn Yakın İlk Koruma Bölgesine Sığın\n(Masa Altı, Kiriş, Kolon vb.)\n\nHAYIR\n\nKorunma Bölgesinde Kalmaya\nDevam Et\n\nEVET\n\nHAYIR\n\nTahliye İşlemine Başla\n\nİlk Sarsıntı Geçti Mi?\n\nEVET\n\nHAYIR\n\nToplanma Yerine\nGit\n\nDeprem Geçti Mi?\n\nEVET\n\nHAYIR\n\nYaralı Var Mı?\n\nİlkyardım Ekibinde Misin?\n\nİlkyardım Ekibine Haber\nVer\n\nEVET\n\nHAYIR\n\nİlk Müdahaleyi Yap\n\nYaralıların Güvenli Yere\nTaşınmasına Yardımci Ol\n\nToplanma Yerine\nGit\nve Sayıma Katıl\n\nKaza, Yangın, Sızıntı Vb. Durumlar\nVarsa İlgili Acil Durum Müdahale\nProsedürlerine Göre Hareket Et\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "## b) Sel İçin Acil Durum Müdahale Yöntemi\n\n\nFøl Panik yapılmadan çalışanlara haber verilmelidir. Acil durum alarm düğmesine\nbasılmalıdır.\n\nVanalar kontrol edilip borularda kaçak olup olmadığı kontrol edilmelidir.\n\nlø Sel sularının işyerine girme ihtimali var ise açık pencere ve kapılar kapatılarak bu\nsınırlandırılmalıdır.\n\nDeğerli eşya ve ekipmanlardan taşınır olanlar toplanma yerine taşınmalıdır.\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\nDoğalgaz ve elektrik tesisatı kapatılmalıdır.\n\n₹\nİşyeri binasının su girebilecek yerlerine bariyerler kurulmalıdır.\n\nMümkünse suyun kanalizasyona doğru yönlendirilmesi sağlanmalıdır.\n\n₹\nSel için belirlenmiş toplanma yerine acil durum ekiplerinin talimatlarına uyarak\ngidilmeli ve burada sayıma katılım sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "### 3.3.4. Gıda Zehirlenmesi İçin Acil Durum Müdahale Yöntemi\n\n\nGıda zehirlenmesi için acil durum müdahale yöntemi örneği Şekil 3.2'de verilmiştir.\n\n\n<figure>\n<figcaption>Şekil 3.2. Gıda Zehirlenmesi İçin Acil Durum Müdahale Yöntemi</figcaption>\n\nGIDA ZEHİRLENMESİ ŞÜPHESİNDE VEYA HALİNDE\n\nEVET\n\nİlkyardım Ekibinde\nMisin?\n\nHAYIR\n\nİlk Müdahaleyi Yap\n\nİlkyardım Ekibine\nHaber Ver\n\nAmbulans Çağır\n\nHastanın/Hastaların Yanında Refakatçi Bulunmasını Sağla.\n\nRefakatçiler Sırası İle Varsa İş Yeri Hekimi Veya Diğer Sağlık\nPersoneli, Yoksa İlkyardım Ekibinden Bir Kişi\n\nSağlık Durumunun Sonuçlarını Takip Et, Olayın\nVuku Bulma Şeklini İncele Ve Olay Raporu\nHazırlanmasına Yardımcı Ol\n\n</figure>\n\n\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "### 3.3.5. Sabotaj için acil durum müdahale yöntemi\n\n\nSabotaj için acil durum müdahale yöntemi örneği Şekil 3.3'de verilmiştir.\n\n\n<figure>\n<figcaption>Şekil 3.3. Sabotaj İçin Acil Durum Müdahale Yöntemi</figcaption>\n\nSABOTAJ ŞEKLİNİ BELİRLE\n\nŞüpheli Paket Bulunması\n\nŞüpheli Şahıs Görülmesi\n\nKurum Aleyhinde Yapılan\nEylem ve/veya Gösteriler\n\nGüvenliğe Haber Ver\n\n112 Acil Çağrı Merkezini Ara\n\nEmniyetli bir alana geç, seyirci olma\n\nYangın, Patlama gibi İlgili Acil Durum\nMüdahale Prosedürlerine göre Hareket Et\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "### 3.4. TAHLİYE YÖNTEMLERİNİN BELİRLENMESİ\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik'in 10 uncu maddesinin üçüncü fıkrasında\n\"İşveren, işyerinde acil durumların meydana gelmesi halinde çalışanların bu durumun olumsuz\netkilerinden korunması için bulundukları yerden güvenli bir yere gidebilmeleri amacıyla\nizlenebilecek uygun tahliye düzenlemelerini acil durum planında belirtir ve çalışanlara\nönceden gerekli talimatları verir\" ifadesi yer almaktadır. Bu ifadeden hareketle herhangi bir\nacil durum olduğunda işyerinde bulunan herkesin (çalışanlar, ziyaretçiler vb.) işyerinden çabuk\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\ntahliyesini sağlayacak, yön gösterici çalışmalar yapılması gerekir. Tahliye konusunda şu\nunsurlara dikkat edilmesi gerekir:\n\nYüksek riskli alanlar dışında bir toplanma yeri belirlemek\n\nBir haberleşme sistemi belirlemek ve uygulamak\n\nFøl Tahliyeye hazırlıklı olmak için tatbikatlar yapmak\n\n₣ İşyerlerindeki; yaşlı, engelli, gebe çalışanlar ile kreşteki çocuklara tahliye esnasında\nrefakat edilmesini sağlamak\n\nİşyerinde toplanma yerine gidilebilmesi için tahliye planları hazırlanması bu yöntemlerin\nbaşında gelir. Nitekim aynı yönetmeliğin 12'nci maddesinde aşağıdakileri hususları içeren\ntahliye planı hazırlanması gerektiği vurgulanmaktadır:\n\nYangın söndürme amaçlı kullanılacaklar da dâhil olmak üzere acil durum\nekipmanlarının bulunduğu yerler. İlkyardım malzemelerinin bulunduğu yerler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "TAHLİYE YÖNTEMLERİNİN BELİRLENMESİ\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "hliye planı hazırlanması gerektiği vurgulanmaktadır:\n\nYangın söndürme amaçlı kullanılacaklar da dâhil olmak üzere acil durum\nekipmanlarının bulunduğu yerler. İlkyardım malzemelerinin bulunduğu yerler. Kaçış yolları, toplanma yerleri ve bulunması halinde uyarı sistemlerinin de yer\naldığı kroki. ₣ Görevlendirilen çalışanların ve varsa yedeklerinin adı, soyadı, unvanı, sorumluluk alanı\nve iletişim bilgileri. \" Acil durumlarla ilgili ulusal ve yerel kurum ve kuruluşların acil durum irtibat\nnumaraları. Fl İşyerlerinde kimyasal yayılım, parlama veya patlama tehlikesi ve benzeri özel riskleri\nbarındıran bölümler. Elektrik ve gaz akışının kesim noktaları, vanaları. Acil durum planı kapsamında hazırlanan tahliye planı, işyeri bina ve eklentilerinin giriş ve\nçıkışları ile katlarda, çalışanların görüş seviyesine uygun yükseklikte ve görünür bir şekilde\nasılır. Tahliye planları için bir örnek Şekil 3.4.'de gösterilmiştir. <!-- PageNumber=\"23\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "# Şekil 3.4. Örnek Acil Durum Tahliye Planı\n\n\nR\n\nAcil Durum Talimatı\n\nAcil bir durumda öncelikle\n\nSakin Olun!\n\nAcil Durumu\nBildirin\n\n\n<figure>\n\n112\nACIL\n\n</figure>\n\n\nAcil Çağn Merkezi Numarası\n112\n\nAdınızı söyleyin\nNe olduğunu anlatın\nNerede olduğunuzu söyleyin\nYaralı mısınız bilgi verin\n\n\n<figure>\n\n112\nACIL\n\n</figure>\n\n\nTehlikeden hemen uzaklaşın.\nİlk yardım bulmaya çalışın.\nİLK YARDIM\n\nEmniyetli yere gidin!\n+\nR\nAcil çıkış yönlendirmelerini\ntakip edip, çıkışı bulun.\n\n\n<figure>\n\nACİL TOPLANMA YERİ\n\n</figure>\n\n\nÖN BAHÇE\nOTOPARK\n\n\n<figure>\n\na\n\nDPLANMA\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "## 3 Yangın Talimatı\n\n\nYangın durumunda öncelikle\n\nSakin Olun! Alarmı\nÇalıştırın\n\n\n<figure>\n\nYANGIN\nBUTONU\n\n112\n\nACIL\n\n</figure>\n\n\nEn yakın alarm butonunu bulun\n\nİtfaiyeyi Arayın\n\nAcil Çağn Merkezi Numarası\n112\n\n\\* Adınızı söyleyin\n\\* Ne olduğunu anlatın\n\\* Nerede olduğunuzu söyleyin\n\\* Yaralı var mı bilgi verin\n\nEmniyetli yere gidin\n\n\n<figure>\n\nAsansörú\nKullanmayın\n\n</figure>\n\n\nR\n\\* Güvenli yer işaretlerini takip\nedip, çıkışı bulun.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "olduğunu anlatın\n\\* Nerede olduğunuzu söyleyin\n\\* Yaralı var mı bilgi verin\n\nEmniyetli yere gidin\n\n\n<figure>\n\nAsansörú\nKullanmayın\n\n</figure>\n\n\nR\n\\* Güvenli yer işaretlerini takip\nedip, çıkışı bulun. \\* Eşyalarınızı toplamaya çalışmayın\n\\* Asansörü kullanmayın\n\nToplanma yerine gidin\nve amire bilgi verin\n\n\n<figure>\n\nTOPLANMA\nYERİ\n\n</figure>\n\n\n<figure>\n\nZEMİN KAT\n\n4\n\nAcil Çıkış\n\nAcil Çıkış\n\nAsansör\n\nI\n\nO\n\n)\n\nİLK THED H\nI\n\nŞU AN BURADASINIZ\n\nA\n\nAcil Çıkış\n\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<table>\n<tr>\n<th colspan=\"4\">SEMBOLLER DİZİNİ</th>\n<th colspan=\"2\">SÖNDÜRME EKİBİ</th>\n<th colspan=\"2\">KURTARMA EKİBİ</th>\n<th colspan=\"2\">KORUMA EKİBİ</th>\n<th colspan=\"2\">İLK YARDIM EKİBİ</th>\n</tr>\n<tr>\n<th>Elektrik Panosu</th>\n<th>4</th>\n<th>Acil Çıkış</th>\n<th>R</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n<tr>\n<td>Yangın Tüpü</td>\n<td></td>\n<td>Tahliye Yolu</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil Durum Butonu</td>\n<td></td>\n<td>Yönlendirme</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Şu An Buradasınız</td>\n<td></td>\n<td>İlk Yardım Dolabı</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->\n\nŞekil 3.4.'de görüldüğü gibi kat planı acil durum tahliyesine uyarlanarak, yeşil oklarla işaretli\nkısımlar acil çıkış kapılarına giden yolları gösterecek şekilde hazırlanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "<!-- PageBreak -->\n\nŞekil 3.4.'de görüldüğü gibi kat planı acil durum tahliyesine uyarlanarak, yeşil oklarla işaretli\nkısımlar acil çıkış kapılarına giden yolları gösterecek şekilde hazırlanmıştır. Acil durum ve\nsöndürme ekipmanlarının kat yerleşiminde nerelerde olduğu bilgileri görselde yer almalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "### 3.4.1. Toplanma Yeri\n\n\nAcil toplanma alanı olarak da bilinen toplanma yeri acil durumların olumsuz sonuçlarından\nçalışanların etkilenmeyeceği mesafede veya korunakta belirlenmiş güvenli yeri ifade eder. Toplanma yeri konusunda dikkat edilmesi gereken hususlar aşağıdaki şekilde sıralanabilir:\n\nFl İşyerinin belirlediği acil durumlardan etkilenilmeyecek uzaklıkta olmalı,\n\n[] Tahliye olan kişilerin görebileceği şekilde bir levha ile işaretlenmeli,\n\n5 Kişilerin tümünün tahliye olmasından sonra izdihama mahal vermeyecek büyüklükte ve\ngenişlikte olmalı,\n\nAcil durum planında toplanma yeri, işyerinden toplanma yerine gidişi gösteren krokiyle\ndesteklenmeli,\n₹\nAcil durum planında yer verilen bu bilgiler tahliye planına da eklenmelidir. 3.5. GÖREVLENDİRİLECEK ÇALIŞANLARIN BELİRLENMESİ VE KRİTERLERİ\nİşyerlerinde Acil Durumlar Hakkında Yönetmeliğin, \"Acil Durum Ekipleri ve Görevler\"\nbaşlıklı 11 inci maddesi gereğince, işyerlerinde acil durumlara müdahale ve acil durumlarla\nmücadele aşağıda yer alan acil durum ekiplerini oluşturur:\n\n₹\nSöndürme ekibi\n\nKoruma ekibi\n\nøl Kurtarma ekibi\n\nİlkyardım ekibi\n\nİş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği Ek'inde yer alan listeye göre\nişyerlerinin bulunduğu NACE koduna göre tehlike sınıfı ve işyeri çalışan sayısına göre\nekiplerde görevlendirilecek kişi sayıları farklılık gösterecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "ınıfları Tebliği Ek'inde yer alan listeye göre\nişyerlerinin bulunduğu NACE koduna göre tehlike sınıfı ve işyeri çalışan sayısına göre\nekiplerde görevlendirilecek kişi sayıları farklılık gösterecektir. İşyerlerinde Acil Durumlar\nHakkında Yönetmeliğin \"Acil durum ekipleri ve görevleri\" başlıklı 11 inci maddesine göre\ngörevlendirilecek çalışan sayıları ile ilgili açıklama Tablo 3.8.'de verilmiştir. Ayrıca,\nİşyerlerinde Acil Durumlar Hakkında Yönetmeliğin Ek-3'ünde örnek tablo verilmiştir. <!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 3.8. Söndürme, Kurtarma ve Koruma İçin Acil Durum Ekipleri</caption>\n<tr>\n<th>Tehlike Sınıfı</th>\n<th>Çalışan Sayısı</th>\n</tr>\n<tr>\n<td>Az tehlikeli</td>\n<td>Her 50 çalışana kadar 1 kişi</td>\n</tr>\n<tr>\n<td>Tehlikeli</td>\n<td>Her 40 çalışana kadar 1 kişi</td>\n</tr>\n<tr>\n<td>Çok tehlikeli</td>\n<td>Her 30 çalışana kadar 1 kişi</td>\n</tr>\n</table>\n\n\nİlkyardım ekibinde belirlenecek kişi sayısı için İşyerlerinde Acil Durumlar Hakkında\nYönetmeliğin 11 inci maddesinin beşinci fıkrasında Sağlık Bakanlığı'nın hazırlamış olduğu\nİlkyardım Yönetmeliği'ne atıfta bulunulmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "ınıfları Tebliği",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "rlenecek kişi sayısı için İşyerlerinde Acil Durumlar Hakkında\nYönetmeliğin 11 inci maddesinin beşinci fıkrasında Sağlık Bakanlığı'nın hazırlamış olduğu\nİlkyardım Yönetmeliği'ne atıfta bulunulmaktadır. 29/7/2015 tarihli ve 29429 sayılı Resmi\nGazete'de yayımlanarak yürürlüğe giren İlkyardım Yönetmeliğinin \"İlkyardımcı\nbulundurulması\" başlıklı 19 uncu maddesine göre;\n\nFI Az tehlikeli işyerlerinde, her 20 çalışan için 1 ilkyardımcı,\nTehlikeli işyerlerinde, her 15 çalışana kadar 1 ilkyardımcı,\nFl Çok tehlikeli işyerlerinde, her 10 çalışana kadar 1 ilkyardımcı bulundurulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "rlenecek kişi sayısı için İşyerlerinde Acil Durumlar Hakkında\nYönetmeliği",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "## ÖRNEK HESAPLAMA\n\n\nİnşaat sektöründe faaliyet gösteren bir firmada 65 kişi çalışmaktadır. İnşaat sektörü, çok tehlikeli\nsınıfta yer aldığı için, söndürme, kurtarma ve koruma ekiplerinde her 30 çalışana kadar 1 kişi\ngörevlendirilmesi gerekmektedir. Ayrıca ilkyardım ekibi için her 10 çalışana kadar 1 kişinin\ngörevlendirilmesi gerekmektedir. Buna göre örnek alınan işyeri için acil durum ekiplerini gösteren tablo şu şekilde oluşturulabilir:\n\n\n<table>\n<tr>\n<td>Sektör</td>\n<td>İnşaat</td>\n</tr>\n<tr>\n<td>Tehlike Sınıfı</td>\n<td>Çok Tehlikeli</td>\n</tr>\n<tr>\n<td>Çalışan Sayısı</td>\n<td>65</td>\n</tr>\n<tr>\n<td>Söndürme Ekibi</td>\n<td>3 kişi</td>\n</tr>\n<tr>\n<td>Kurtarma Ekibi</td>\n<td>3 kişi</td>\n</tr>\n<tr>\n<td>Koruma Ekibi</td>\n<td>3 kişi</td>\n</tr>\n<tr>\n<td>İlkyardım Ekibi</td>\n<td>7 kişi</td>\n</tr>\n</table>\n\n\n10'dan az çalışanı olan işyerlerinde; acil durumlara ilişkin ulusal ve yerel kurum ve kuruluşlarla\nirtibatı sağlamak ve bahsi geçen söndürme, kurtarma ve koruma ekiplerinin tamamı için uygun\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\ndonanıma sahip ve özel eğitimli en az bir çalışanın destek elemanı olarak görevlendirilmesi\nyeterlidir. İlkyardım ekibindeki destek elemanlarının alacağı ilkyardımcı eğitimlerinin İlkyardım\nYönetmeliği esaslarınca alınması sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "bir çalışanın destek elemanı olarak görevlendirilmesi\nyeterlidir. İlkyardım ekibindeki destek elemanlarının alacağı ilkyardımcı eğitimlerinin İlkyardım\nYönetmeliği esaslarınca alınması sağlanmalıdır. Söndürme, kurtarma ve koruma ekiplerine\nverilecek özel eğitimler Binaların Yangından Korunması Hakkındaki Yönetmelik hükümleri\nsaklı kalmak kaydıyla işyerinde sağlık ve güvenlik hizmetini yürüten iş güvenliği uzmanı, işyeri\nhekimi veya iş sağlığı ve güvenliği hizmetlerinin işverence yürütülmesi halinde işveren\ntarafından verilebilir. Bu eğitimler, işveren ile eğitim verenlerce imzalanarak belgelendirilir. Ayrıca bu eğitimler; Afet ve Acil Durum Yönetimi Başkanlığı, işçi, işveren ve kamu görevlileri\nkuruluşları veya bu kuruluşlarca kurulan eğitim vakıfları ve ortaklaşa oluşturdukları eğitim\nmerkezleri, kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, belediyeler veya\nitfaiyeler tarafından da verilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "İlkyardım ekibindeki destek elemanlarının alacağı ilkyardımcı eğitimlerinin İlkyardım\nYönetmeliği",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "### 3.5.1. Çalışanların Bilgilendirilmesi ve Eğitimi\n\n\nTüm çalışanlar acil durum planları ile acil durum ekiplerinde görevlendirilen kişiler hakkında\nbilgilendirilir ve bu konuda eğitim almaları sağlanır. İşe yeni alınan çalışana ve herhangi bir\nişverenden geçici bir süre için çalışmak üzere devralınan çalışanlara, iş sağlığı ve güvenliği\neğitimlerine ilave olarak acil durum planları ile ilgili bilgilendirme yapılmalıdır. Acil\ndurumlarda yapılması gerekenlerin öğretildiği aktiviteler düşünüldüğünde tatbikat da bu\nkonuda önemli bir öğrenme unsuru olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "### 3.5.2. Yangınla Söndürme Ekibinin Görevleri\n\n\nYangın çıktığını öğrenir öğrenmez ekip başı yangını itfaiyeye ve ilgili kişilere en kısa\nzamanda telefonla haber verir ve itfaiyeye yangın yerini tam adresini çıkış saatini ve\nyangının türünü bildirir.\n\nYangın haberi ulaştığında, yangın yerine gelerek yangının ne tür yangın olduğunu\nbelirleyerek iş yerindeki yangın söndürme malzemelerini kullanarak yangını\nsöndürmeye ve kontrol altına almaya çalışır.\n\nFl Yangın içerisinde kalmış herhangi bir canlı belirlediklerinde kurtarma ekibine bildirerek\nkurtarılmasını sağlar.\n\nFøl İtfaiye ekibi geldikten sonra söndürme çalışmaları itfaiye ekibine bırakılır, yalnızca\nyardım istendiği durumlarda itfaiye ekibine yardımcı olunur.\n\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\nYangın bölgesinin çevresini güvenlik şeritleriyle çevirerek, ilgisiz şahısların yangın\nbölgesine girmesini engeller.\n\nGelecek itfaiye ve ambulans araçlarına yardımcı olmak amacıyla güzergâh üzerindeki\naraçların ve diğer engellerin kaldırılmasını sağlayarak yol gösterir.\n\n₹\nYangın söndürüldükten sonra çevre güvenlik önlemlerini sürdürerek yangın yerinin\ntemizlenmesini sağlanması ve diğer ekiplerle birlikte yangının çıktığı yer, çıkış nedeni,\nyangın söndürme çalışmaları, yangın sonrası maddi hasar ve diğer kayıplarla ilgili\nbelirlenmesi ve rapor hazırlaması hususlarında yardımcı olur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "### 3.5.3. Kurtarma Ekibinin Görevleri\n\n\n₹\nEn hızlı şekilde teçhizatları ile birlikte yangın yerine ulaşır ve yangın söndürme\nekibinden alınacak bilgiler ışığında arama, kurtarma ve tahliye çalışmalarına başlar.\n\nKendi can güvenliklerini tehlikeye atmadan yangın içerisinde kalan canlılara gerekli\nteçhizatı kullanarak ulaşmaya çalışır.\n\n5 Kurtardıkları canlıların ilkyardımı için ilkyardım müdahale bölgesine taşınmasını\nsağlar.\n\nYangın içerisinde kurtarılması öncelikli malzemeler ve eşyalar varsa bunların yangın\ndışına çıkarılması çalışmalarını yapar.\n\nFl İtfaiye ekibi geldikten sonra itfaiye ekibine arama kurtarma çalışmalarında yardımcı\nolur.\n\nYaşlı, engelli, hamile ve kreşteki çocuklar gibi özel politika gerektiren gruplarla acil\ndurumlarda yardımcı olmak üzere bu ekipten bir sorumlu ilgilenir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "### 3.5.4. Koruma Ekibinin Görevleri\n\n\nF Acil durum nedeniyle ortaya çıkması muhtemel panik ve kargaşayı önler.\n\nAcil durum ekipleri arasındaki koordinasyon işlerini gerçekleştirir.\n\nR\nSayım işlerini yürütür.\n\nR\nGerektiğinde ilgili ulusal ve yerel kurumların müdahale ekiplerine bilgi verir.\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "### 3.5.5. İlkyardım Ekibinin Görevleri\n\n\nFøl İlk yardım müdahalesi gerektiren acil durumlarda ilk müdahaleyi yaparak en seri şekilde\nen yakın sağlık merkezine gönderilmelerini sağlar.\n\nFøl Olay yerine gelecek olan ambulans ve sağlık ekibine, ilkyardım ekibi yardımcı olur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "### 3.6. TATBIKAT\n\n\nHazırlanan acil durum planının uygulama adımlarının düzenli olarak takip edilebilmesi ve\nuygulanabilirliğinden emin olunması için işyerlerinde belirlenen periyotlarla tatbikat yapılmalı,\nacil durum tedbirleri denetlenmeli ve gözden geçirilerek gerekli düzeltici ve önleyici tedbirler\nalınmalıdır. Tatbikat 19/9/2013 tarihli ve 28770 sayılı Resmî Gazete'de yayımlanan Maden\nİşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği kapsamındaki işyerleri için anılan\nYönetmelik hükümlerine göre, diğer işyerleri için en geç yılda bir yapılır. Gerçekleştirilen\ntatbikat neticesinde varsa aksayan yönler ve kazanılan deneyimlere göre acil durum planları\ngözden geçirilerek gerekli düzeltmeler yapılır. Gerçekleştirilen tatbikatın tarihi, görülen eksiklikler ve bu eksiklikler doğrultusunda yapılacak\ndüzenlemeleri içeren tatbikat formu hazırlanır (acil durum tatbikatlarına ilişkin tutulacak rapor\nörneği Tablo 3.9'da verilmiştir). Acil durumlara hazırlığın bir uygulaması olarak tatbikat,\nsenaryo belirleme, haberli ve habersiz yapılması unsurlarından oluşur. Eksikliklerin giderilmesi\namacıyla tatbikatlarda video çekimi faydalı olacaktır. <!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 3.9.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "de yayımlanan Maden\nİşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "i ve habersiz yapılması unsurlarından oluşur. Eksikliklerin giderilmesi\namacıyla tatbikatlarda video çekimi faydalı olacaktır. <!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 3.9. Tatbikat Formu (İşyerlerinde Acil Durumlar Hakkında Yönetmelik Ek-2)</caption>\n<tr>\n<td colspan=\"2\">İşyeri Adı/Unvanı:</td>\n</tr>\n<tr>\n<td>Tatbikat Adı:</td>\n<td>Tatbikat Tarihi:</td>\n</tr>\n<tr>\n<td>Tatbikat Türü: ☐ Yangın ☐ Patlama ☐ Tehlikeli kimyasal, biyolojik, radyoaktif ve nükleer maddelerden kaynaklanan yayılım ☐ Sabotaj</td>\n<td>☐ Doğal Afet ( ) ☐ Zehirlenme veya salgın hastalıklar ☐ Diğer ( )</td>\n</tr>\n<tr>\n<td>Tatbikata Katılım Sayıları Katılan Kişi Sayısı: Toplanma Yerindeki Sayım Sonucu:</td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"2\">Tatbikat Süreleri Başlangıç saati: Bitiş saati:</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Tatbikat Konumu: (alan, bina, işyeri bölümü</td>\n<td>vs.)</td>\n</tr>\n<tr>\n<td>Tatbikatın Amacı</td>\n<td></td>\n</tr>\n<tr>\n<td>Tatbikat Sonrası Değerlendirme</td>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td>Tatbikat esnasında doğru yapılanlar:</td>\n</tr>\n<tr>\n<td>Tatbikat esnasında yanlış yapılanlar:</td>\n<td></td>\n</tr>\n<tr>\n<td>Çıkarılan sonuçlar:</td>\n<td></td>\n</tr>\n</table>\n\n\n<figure>\n\nTatbikatı Yürüten\nAdı Soyadı:\n\nTatbikatı Onaylayan (İşveren/İşveren\nVekili)\n\nUnvanı:\n\nAdı Soyadı:\nİmza\n\nİmza:\n\n</figure>\n\n\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "### 3.7. DOKÜMANTASYON\n\n\nAcil durum planının içeriği asgari aşağıdaki başlıklardan oluşur. Fl İşyerinin unvanı, adresi ve işverenin adı,\n\nHazırlayanların adı, soyadı ve unvanı,\n\nHazırlandığı tarih ve geçerlilik tarihi,\n\nBelirlenen acil durumlar,\n\nAlınan önleyici ve sınırlandırıcı tedbirler,\n\nAcil durum müdahale ve tahliye yöntemleri,\n\nAcil durumlar için belirlenmiş toplanma yeri\n\nİşyerine en yakın hastane bilgileri (ismi, harita gösterimi vs.),\n\n\" Aşağıdaki unsurları içeren işyerini veya işyerinin bölümlerini gösteren tahliye planı:\n\nYangın söndürme amaçlı kullanılacaklar da dâhil olmak üzere acil durum\nekipmanlarının bulunduğu yerler,\n\nİlkyardım malzemelerinin bulunduğu yerler,\n\n\\*\nKaçış yolları, toplanma yerleri ve bulunması halinde uyarı sistemlerinin de yer\naldığı kroki,\n\nGörevlendirilen çalışanların ve varsa yedeklerinin adı, soyadı, unvanı,\nsorumluluk alanı ve iletişim bilgileri,\n\n3\nAcil durumlarla ilgili ulusal ve yerel kurum ve kuruluşların acil durum irtibat\nnumaraları,\n\nİşyerlerinde kimyasal yayılım, parlama veya patlama tehlikesi ve benzeri özel\nriskleri barındıran bölümler\n\nElektrik ve gaz akışının kesim noktaları, vanaları. İşveren tarafından onaylanan acil durum planının sayfaları numaralandırılarak; hazırlayan\nkişiler tarafından her sayfası paraflanıp, son sayfası imzalanır. 15/1/2004 tarihli ve 5070 sayılı\nElektronik İmza Kanununa uygun olarak güvenli elektronik imza ile imzalanmış olan acil\ndurum planları da geçerlidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "dan her sayfası paraflanıp, son sayfası imzalanır. 15/1/2004 tarihli ve 5070 sayılı\nElektronik İmza Kanununa uygun olarak güvenli elektronik imza ile imzalanmış olan acil\ndurum planları da geçerlidir. Acil durum planı, acil durumla mücadele edecek ekiplerin kolayca\nulaşabileceği şekilde işyerinde saklanır. Acil durum planı kapsamında hazırlanan tahliye planı,\nişyeri bina ve eklentilerinin giriş ve çıkışları ile katlarda, çalışanların görüş seviyesine uygun\nyükseklikte ve görünür bir şekilde asılır. <!-- PageNumber=\"31\" -->\n<!-- PageBreak -->\n\nAcil durum planı hazırlanırken kullanılabilecek ve İşyerlerinde Acil Durumlar Hakkında\nYönetmelik Ek-1'de yer alan örnek form aşağıda yer almaktadır. <table>\n<caption>Acil Durum Planı Formu</caption>\n<tr>\n<td>Hazırlayanın</td>\n<td rowspan=\"3\">ACİL DURUM PLANI</td>\n<td rowspan=\"3\">Hazırlanma Tarihi: Geçerlilik Tarihi: Rev. No: Rev. Tarihi:</td>\n</tr>\n<tr>\n<td>Adı Soyadı:</td>\n</tr>\n<tr>\n<td>Unvanı:</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "2004 tarihli ve 5070 sayılı\nElektronik İmza Kanunu",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "#### 1. İŞYERİ BİLGİLERİ\n\n\nİŞYERİ ADI/UNVANI:\n\nADRES:\n\nİLETİŞİM:\n\nİŞVERENİN ADI SOYADI/UNVANI:\n\nTEHLİKE SINIFI:\n\nÇALIŞAN SAYISI:",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "### 2. İŞYERİ İÇİN BELİRLENEN ACİL DURUMLAR\n\n\nACİL DURUM 1:\n\nACİL DURUM 2:\n\nACİL DURUM 3:\n\n3\\. TOPLANMA YERİ (Bu bölümde, işyerinde toplanma yerini işaret eden kroki yer alacaktır)\n\n4\\. İŞYERİNİ DIŞARIDAN ETKİLEYEBİLECEK İŞYERLERİ (Bu bölümde, işyerinin acil\ndurumlar açısından etkilenebileceği işyerleri hakkında, asgari olarak, işyerinin unvanı, faaliyet\nkonusu ve ne tür bir etkiye neden olabileceğine ilişkin bilgiler yer alacaktır.)\n\n5\\. ÖNLEYİCİ VE SINIRLANDIRICI TEDBİRLER (Bu bölümde işyeri için belirlenen \"her acil\ndurum için\" acil durumun olumsuz etkilerini önleyici ve sınırlandırıcı tedbirler yer alacaktır.)\n\n\n<table>\n<tr>\n<th>BELİRLENEN ACİL DURUM</th>\n<th>ÖNLEYİCİ VE SINIRLANDIRICI TEDBİRLER</th>\n</tr>\n<tr>\n<td>Acil durum 1</td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum 2</td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum 3</td>\n<td></td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n6\\. MÜDAHALE YÖNTEMLERİ (Bu bölümde, işyeri için belirlenen \"her acil durum\" için\nmüdahale yöntemleri belirlenecektir. Müdahale yöntemleri, akış şeması veya maddeler halinde\nsıralanan prosedürler şeklinde oluşturulabilir.)\n\n7\\. TAHLİYE PLANLARI (Bu bölümde, işyerinin \"her bölümü\" için hazırlanan tahliye planları yer\nalacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "yöntemleri, akış şeması veya maddeler halinde\nsıralanan prosedürler şeklinde oluşturulabilir.)\n\n7\\. TAHLİYE PLANLARI (Bu bölümde, işyerinin \"her bölümü\" için hazırlanan tahliye planları yer\nalacaktır. Tahliye planlarında asgari olarak;\n\n\\- yangın söndürme amaçlı kullanılacaklar da dâhil olmak üzere acil durum ekipmanlarının\nbulunduğu yerler,\n\n\\- ilkyardım malzemelerinin bulunduğu yerler,\n\n-kaçış yolları, toplanma yerleri ve -bulunması halinde- uyarı sistemlerinin de yer aldığı kroki,\n\n\\- görevlendirilen destek elemanlarının ve varsa yedeklerinin adı, soyadı, unvanı, sorumluluk alanı ve\niletişim bilgileri,\n\n\\- acil durumlarla ilgili ulusal ve yerel kurum ve kuruluşların acil durum irtibat numaraları\n\n\\- işyerlerine ait özel risk (kimyasal yayılım, parlama veya patlama tehlikesi ve benzeri) barındıran\nbölümler,\n\n\\- elektrik ve gaz akışının kesim noktaları ve vanaları. bulunmalıdır. Acil durum planı kapsamında hazırlanan tahliye planları, işyeri bina ve eklentilerinin giriş ve\nçıkışları ile katlarda, çalışanların görüş seviyesine uygun yükseklikte ve görünür bir şekilde asılır.)\n\n8\\. ACİL DURUM EKİPLERİ (İşyerleri, acil durumlara müdahale ve acil durumlarla mücadele\niçin söndürme ekibi, kurtarma ekibi, koruma ekibi ve ilkyardım ekibi olmak üzere 4 ekip\ngörevlendirmelidir. İşletmenin bulunduğu tehlike sınıfı ve çalışan sayısına göre ekiplerde\ngörevlendireceği kişi sayıları farklılık gösterecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "i, koruma ekibi ve ilkyardım ekibi olmak üzere 4 ekip\ngörevlendirmelidir. İşletmenin bulunduğu tehlike sınıfı ve çalışan sayısına göre ekiplerde\ngörevlendireceği kişi sayıları farklılık gösterecektir. Görevlendirilecek çalışan sayıları ile ilgili\naçıklama tablosu aşağıda verilmiştir:\n\nSöndürme, Kurtarma ve Koruma ekipleri için görevlendirilecek destek elemanı sayıları;\n\n\n<table>\n<tr>\n<th>Tehlike Sınıfı</th>\n<th>Çalışan Sayısı</th>\n</tr>\n<tr>\n<td>Az tehlikeli</td>\n<td>Her 50 çalışana kadar l'er kişi</td>\n</tr>\n<tr>\n<td>Tehlikeli</td>\n<td>Her 40 çalışana kadar l'er kişi</td>\n</tr>\n<tr>\n<td>Çok tehlikeli</td>\n<td>Her 30 çalışana kadar l'er kişi</td>\n</tr>\n</table>\n\n\n10'dan az çalışanı olan işyerlerinin söndürme, kurtarma ve koruma ekiplerinin tamamı için en az 1\ndestek elemanı görevlendirmeleri yeterlidir. İlk yardım ekibinde belirlenecek destek elemanı sayısı için 29/7/ 2015 tarihli ve 29429 sayılı Resmî\nGazete'de yayımlanan İlkyardım Yönetmeliği dikkate alınır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "## SÖNDÜRME EKİBİ\n\n\nSıra\nNo\n\nAdı\n\nSorumluluk\nAlanı*\n\nEkipteki\n\nİş-Ev Tel\n\nCep Tel\n\nİmza\n\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th></th>\n<th>Soyadı</th>\n<th></th>\n<th>Görevi</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td>Ekip Başı</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "## KURTARMA EKİBİ\n\n\n\n<table>\n<tr>\n<th>Sıra No</th>\n<th>Adı Soyadı</th>\n<th>Sorumluluk Alanı</th>\n<th>Ekipteki Görevi</th>\n<th>İş-Ev Tel</th>\n<th>Cep Tel</th>\n<th>İmza</th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td>Ekip Başı</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\nKORUMA EKİBİ\n\n\n<table>\n<tr>\n<th>Sıra No</th>\n<th>Adı Soyadı</th>\n<th>Sorumluluk Alanı</th>\n<th>Ekipteki Görevi</th>\n<th>İş-Ev Tel</th>\n<th>Cep Tel</th>\n<th>İmza</th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td>Ekip Başı ** (Koordinasyonla görevli)</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli ** (Koordinasyonla görevli)</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\nİLK YARDIM EKİBİ\n\n\n<table>\n<tr>\n<th>Sıra</th>\n<th>Adı</th>\n<th>Sorumluluk</th>\n<th>Ekipteki</th>\n<th>İş-Ev Tel</th>\n<th>Cep Tel</th>\n<th rowspan=\"2\">İmza</th>\n</tr>\n<tr>\n<td>No</td>\n<td>Soyadı</td>\n<td>Alanı</td>\n<td>Görevi</td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>1</td>\n<t",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "d></td>\n<td></td>\n<td>Ekip Başı</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td></td>\n<td>Ekip Personeli</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>...</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n\\* Sorumluluk alanı; destek elemanının, acil durumlara ilişkin görevini gerçekleştireceği işyerinin\nilgili birim veya bölümüdür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "** Acil durum ekiplerinin koordinasyonu için koruma ekibinden sorumlu veya sorumlular tabloda\nbelirtilmelidir. Acil Durum Planını Onaylayan (İşveren/İşveren Vekili)\n\nAdı Soyadı:\n\nİmza:",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": "### 3.8. ACİL DURUM PLANININ YENİLENMESİ\n\n\nİşyerinde veya yakın çevresinde, belirlenmiş olan acil durumları etkileyebilecek veya yeni acil\ndurumların ortaya çıkmasına neden olacak değişikliklerin meydana gelmesi halinde acil durum\nplanı tamamen veya kısmen yenilenir. Yukarıda bahsedilen işletme için değişikliklerden\nbağımsız olarak, hazırlanmış olan acil durum planları; tehlike sınıfına göre çok tehlikeli,\ntehlikeli ve az tehlikeli işyerlerinde sırasıyla en geç iki, dört ve altı yılda bir yenilenir.\n\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "## KAYNAKLAR\n\n\n1\\. Afet ve Acil Durum Yönetimi Başkanlığı, Afet ve Acil Durum Müdahale Hizmetleri\nYönetmeliği\n\n2\\. Afet ve Acil Durum Yönetimi Başkanlığı, Açıklamalı Afet Yönetimi Terimleri Sözlüğü\n\n3\\. Binaların Yangından Korunması Hakkında Yönetmelik\n\n4\\. İşyerlerinde Acil Durumlar Hakkında Yönetmelik\n\n5\\. Federal Emergency Management Agency (FEMA), Are You Ready? - An In-depth Guide To\nCitizen Preparedness (First Edition), FEMA, Sayfa:10\n\n6\\. Ripple S., Emergency Planning And Crisis Management In The Workplace (Second Edition),\nAIHA Press, Chapter 38, Sayfa: 985\n\n7\\. Ravi K., Bhola R., Akshay V., Satish R., Santosh P., Rajat A., Auotmation Of Emergency\nResponse For Petroleum Oil Storage Terminals, Safety Science, Safety Science, Sayı: 72, Sayfa:\n263\n\n8\\. 6331 Sayılı İş Sağlığı ve Güvenliği Kanunu\n\n9\\. Safe Work Australia, Guide For Major Hazard Facilities (First Edition), Sayfa 6\n\n10\\. Türk Standartları Enstitüsü, İş Sağlığı ve Güvenliği Yönetim Sistemi-Şartlar, TS 18001 4.4.7. Acil durum hazırlığı ve bu hallerde yapılması gerekenler, Sayfa: 10\n\n11\\. Sabotajlara Karşı Korunma Yönetmeliği, Madde 1\n\n12\\. Hauke A., Georgiadou P., Kallio H., Meyer S.,Nicolescu C., Emergency Services: A Literature\nReview on Occupational Safety and Health Risks, Publications Office of the European Union,\nSayfa: 4\n\n13\\. Federal Emergency Management Agency, United States Fire Administration, Emergency\nProcedures For Emlpoyees With Disabilities In Office Occupancies\n\n14\\.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Afet ve Acil Durum Müdahale Hizmetleri\nYönetmeliği",
+        "madde_number": "1",
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "ns Office of the European Union,\nSayfa: 4\n\n13\\. Federal Emergency Management Agency, United States Fire Administration, Emergency\nProcedures For Emlpoyees With Disabilities In Office Occupancies\n\n14\\. İşyerlerinde Acil Durumlar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->\n\nEK: İşyerlerinde Acil Durumlar İçin Kontrol Listesi\n\nİŞYERİ BİLGİLERİ\n\nAdı / Unvanı:\nAdresi:\n\n\n<figure>\n</figure>\n\n\nDüzenlendiği Tarih:\n\nGeçerlilik Tarihi:\n\n\n<table>\n<tr>\n<th>Konu Başlığı</th>\n<th>Kontrol Listesi</th>\n<th>Evet</th>\n<th>Hayır</th>\n<th>Alınması Gereken Önlemler</th>\n<th>Sorumlu Kişi</th>\n<th>Tamamlanacağı Tarih</th>\n</tr>\n<tr>\n<td rowspan=\"10\">ACİL DURUMLAR</td>\n<td>İşyeri için muhtemel tüm acil durumlar (yangın, patlama, tehlikeli kimyasal madde yayılımı, salgın hastalık, doğal afet, sabotaj ihtimali, zehirlenme ve radyoaktif sızıntı vb.) belirlenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durumlar belirlenirken etki alanına giren işyerleri dikkate alınmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Belirlenen tüm acil durumlar dikkate alınarak hazırlanmış bir acil durum planı mevcuttur.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durumların olumsuz etkilerinden korunmak üzere gerekli ölçüm ve değerlendirmeler (Yangın tüpü doluluk kontrolü, gaz ölçümleri, elektrik sisteminin derhal kesilmesi vb.) yapılmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Çalışanlar olası acil durumlar ve acil durum planı hakkında bilgilendirilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İşe yeni alınan çalışana, iş sağlığı ve güvenliği eğitimlerine ilave olarak acil durum planları ile ilgili bilgilendirilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Müşteri, ziyaretçi ve başka işyerlerinden çalışmak üzere işyerine gelen çalışanlar gibi işyerinde bulunan diğer kişiler acil durumlar konusunda bilgilendirilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum planı periyodik olarak güncellenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durumlarda çalışanları uyarmak üzere sesli ve/veya ışıklı alarm sistemi mevcuttur.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum ekiplerinin kullanacağı ekipmanlar her zaman kullanıma hazır durumdadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td rowspan=\"6\">ACİL DURUM EKİPLERİ</td>\n<td>İşyerinin tehlike sınıfı göz önünde bulundurularak, uygun sayıda yangınla mücadele, ilkyardım ile kurtarma ve koruma konularında ekipler oluşturulmuştur.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Oluşturulan ekipler için ekip başları belirlenmiştir</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Ekiplerin görev tanımları acil durum müdahale ve tahliye prosedürlerinde açık olarak tanımlanmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Görevlendirilen ekipler arası koordinasyonu sağlamak amacıyla bir ekip sorumlusu belirlenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum ekipleri yürütecekleri faaliyetler ile ilgili özel eğitim almıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "İşyerlerinde Acil Durumlar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "ağlamak amacıyla bir ekip sorumlusu belirlenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durum ekipleri yürütecekleri faaliyetler ile ilgili özel eğitim almıştır. Tüm çalışanlar acil durum ekipleri hakkında bilgilendirilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İşin gereği olarak tek başına çalışanlar acil durumlarda yapılacaklar konusunda (acil durum irtibat numaralarına veya görevli kişiye ulaşmak vb.) bilgilendirilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"9\">TAHLİYE</td>\n<td>İşyerlerinde yaşlı, engelli veya gebeler ile kreşteki çocuklara tahliye esnasında refakat edilmesi için tedbirler alınmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Yangın söndürme ekipmanlarının ve ilkyardım malzemelerinin bulunduğu yerler ile kaçış yollarını gösteren kroki mevcuttur.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Acil durumlarda görevli çalışanların adı, soyadı, unvanı, sorumluluk alanı ve iletişim bilgileri ile acil durum irtibat numaraları tahliye planında yer almaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Tahliye planı tüm çalışanlarca kolay görülebilir ve ulaşılabilir bir yerde asılıdır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Çalışanların acil durumların olumsuz etkilerinden korunması amacıyla tahliye sonrasında gidecekleri toplanma yeri belirlenmiş ve acil durum planında belirtilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Kaçış yollarını gösteren uygun nitelikteki işaretler işyeri içerisinde görünür yerlerde bulunmaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Kaçış yolları işyerinde çalışan sayısına uygun genişlikte olup, kaçış yolları boyunca engel bulunmamaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Kaçış yolları düşmeyi ve kaymayı engelleyecek uygun malzemeden yapılmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Kaçış yollarında yeterli düzeyde aydınlatma sağlanmıştır</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td rowspan=\"2\">TATBİKAT</td>\n<td>İşyerinde, düzenli olarak tehlike sınıfına göre tatbikat tekrarlanmaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Yapılan tatbikatlar sonucu bulunan eksiklikler ve bunlar için düzeltme önerilerini içeren bir tatbikat raporu hazırlanmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"6\">YANGIN</td>\n<td>İşyerinde uygun yangın söndürme ekipmanları bulunmaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İşyeri içerisinde bulunan yangın söndürme ekipmanları uygun konumda ve yeterli sayıdadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Yangın söndürme ekipmanlarının periyodik kontrol ve bakımları yapılmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Yangın söndürme ekipmanlarının bulunduğu yerler işyeri içerisinde açık olarak işaretlenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Yangın uyarı sistemi mevcuttur.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Alarm sistemlerinin sürekli çalışır durumda olması sağlanmıştır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"5\">İLKYARDIM</td>\n<td>İlkyardım gerektirecek durumlarda, bu konuda uygun donanıma sahip ve gerekli eğitimleri almış yeterli sayıda çalışan bulunmaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İlkyardım dolabının bulunduğu yer uygun şekilde işaretlenmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İlk yardım dolabı tüm çalışanların ulaşabilecekleri bir yerde bulunmaktadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İlkyardım dolabı içerisindeki malzemeler uygun nitelikte ve sayıdadır.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İlkyardım dolabı içerisindeki malzemelerin son kullanma tarihleri takip edilmiştir.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\nİŞVEREN\nAdı:\nSoyadı:\n\nTarih:\nİmza:\n\nİŞ GÜVENLİĞİ UZMANI\nAdı:\n\nSoyadı:\nBelge bilgileri:\nTarih:\nİmza:\n\nİŞYERİ HEKİMİ\nAdı:\n\nSoyadı:\nBelge bilgileri:\nTarih:\nİmza:\n\n\n<table>\n<tr>\n<td colspan=\"2\">EKİP SORUMLUSU</td>\n</tr>\n<tr>\n<td colspan=\"2\">(Destek Elemanı )</td>\n</tr>\n<tr>\n<td>Adı:</td>\n<td></td>\n</tr>\n<tr>\n<td>Soyadı:</td>\n<td></td>\n</tr>\n<tr>\n<td>Görevi:</td>\n<td></td>\n</tr>\n<tr>\n<td>Tarih:</td>\n<td></td>\n</tr>\n<tr>\n<td>İmza:</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/acil-durum-planı-hazırlama-rehberi.pdf",
+        "source_title": "Acil Durum Planı Hazırlama Rehberi",
+        "document_title": "Acil Durum Planı Hazırlama Rehberi",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "acil-durum-planı-hazırlama-rehberi.pdf",
+        "guide_title": "Acil Durum Planı Hazırlama Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 71,
+        "processed_at": "2026-02-12T04:04:22.086000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1790 @@
+{
+  "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+  "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+  "total_chunks": 99,
+  "exported_at": "2026-02-12T12:19:45.909957",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\nYAPI İŞLERİNDE\nSAĞLIK VE GÜVENLİK PLANI\nREHBERİ\n\n\n<figure>\n</figure>\n\n\nGüvenle\nBüyü\nTürkiye\n\n\n<figure>\n</figure>\n\n\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# Sağlık ve Güvenlik Planı Rehberi\n\n\n<!-- PageNumber=\"2\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\nYAPI İŞLERİNDE\nSAĞLIK VE GÜVENLİK PLANI REHBERİ\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\n<!-- PageFooter=\"Yapı İşlerinde Sağlık ve Güvenlik Planı Rehberi T.C. Çalışma ve Sosyal Güvenlik Bakanlığı, İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır. Hazırlanan bu rehberdeki hususlar tavsiye niteliğindedir.\" -->\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nYayına Hazırlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nEmek Mahallesi, Naci Ayvalıoğlu Cad. No:13\n06520 Çankaya / ANKARA\n\nTelefon: 0 312 296 60 00\nFaks: 0 312 215 50 28\nwww.isggm.gov.tr -www.guvenliinsaat.gov.tr\nT.C. Çalışma ve Sosya Güvenlik Bakanlığı\nMart 2018 (Revizyon: 2024)\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "# İÇİNDEKİLER\n\n\nÖNSÖZ\n6\n\n1.YÖNETİMİN TAAHHÜDÜ\n\n10\n\n2\\. PROJE BİLGİLERİ\n\n11\n\n2.1. Genel Bilgiler. 11\n\n2.2. İnşaat Öncesi Bilgiler ve Vaziyet Planlarının Oluşturulması .. 13\n\n3\\. SAĞLIK VE GÜVENLİK ORGANİZASYONU\n\n14\n\n3.1. Görev ve Sorumluluklar\n\n14\n\n3.2. İSG Organizasyon Şeması .. 27\n\n4\\. İŞLERİN YÖNETİMİ\n\n28\n\n4.1. İş Akış Planı. 28\n\n4.2. Çalışma Yöntemleri, Ekipman ve Eğitimli Personel İhtiyacının Belirlenmesi. 31\n\n5\\. RİSKLERİN VE KONTROL TEDBİRLERİNİN BELİRLENMESİ\n\n34\n\n5.1. Yapı Sahasının Geneline Etki Eden Riskler ve Kontrol Tedbirlerinin Belirlenmesi. 34\n\n5.2. İşle Alakalı Muhtemel Riskler ve Kontrol Tedbirlerinin Belirlenmesi. 36\n\n5.3. Zaman ve Mekân Açısından Çakışan İşlerden Kaynaklanan Riskler. 40\n\n5.4. Üçüncü Taraflara Olan Etkinin Değerlendirilmesi. 41\n\n6\\. ŞANTİYE KURALLARI\n\n43\n\nEKLER\n46\n\nKAYNAKLAR\n51\n\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n<!-- PageHeader=\"ÖNSÖZ\" -->\n\nİnşaat Sektörü, ülkelerin ekonomilerine sağladığı katma değer ve istihdam\nolanaklarıyla her zaman lokomotif bir sektör olmuştur. Ancak sektörde yaşanan iş kazaları\ndünyanın birçok ülkesinde olduğu gibi ülkemiz için de büyük sorunlar teşkil etmektedir. Sosyal Güvenlik Kurumu istatistiklerine göre inşaat sektörü ülkemizde en çok iş kazasının\nyaşandığı sektörlerden birisidir. İş kazalarına bağlı can kayıpları dikkate alındığında ise\nsektör, birinci sıradadır. .",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "enlik Kurumu istatistiklerine göre inşaat sektörü ülkemizde en çok iş kazasının\nyaşandığı sektörlerden birisidir. İş kazalarına bağlı can kayıpları dikkate alındığında ise\nsektör, birinci sıradadır. . Yaşanan iş kazalarının önlenebilmesi, kayıpların en aza indirilebilmesi ve sektördeki\ntüm tarafların bilinçlenmesini sağlamak amacıyla Avrupa Birliği uyum süreci çerçevesinde\nAvrupa müktesebatındaki iş sağlığı ve güvenliği mevzuatı, 4857 sayılı İş Kanunun 78 inci\nmaddesine dayanılarak 2003 ve 2004 yıllarında yayımlanan yönetmeliklerle ülkemiz çalışma\nhayatına kazandırılmıştır. Söz konusu mevzuat, 20/6/2012 tarihli 6331 Sayılı İş Sağlığı ve\nGüvenliği Kanunu kapsamında ulusal koşullar göz önünde bulundurularak güncellenmiştir. Bu yönetmelikler arasında Avrupa Birliğinin 92/57/EEC sayılı Konsey Direktifi esas\nalınarak hazırlanan \"Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği\", yapı işyerlerinde\nalınacak asgari sağlık ve güvenlik şartlarını belirlemektedir. Bu yönetmelikle sektöre yeni bir\nkavram olarak proje sorumlusu tanımı getirilmiştir. Ayrıca Yönetmelikte proje sorumlusuna\nek olarak inşaat işlerine başlamadan önce bildirim yapılması, inşaat projelerinin hazırlık ve\nuygulama aşamalarında sağlık ve güvenlik koordinatörü görevlendirilmesi, her yapı projesine\nözgü sağlık ve güvenlik planı ve sağlık ve güvenlik dosyası hazırlanması zorunlu tutulmuştur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "4857 sayılı İş Kanunu",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "in hazırlık ve\nuygulama aşamalarında sağlık ve güvenlik koordinatörü görevlendirilmesi, her yapı projesine\nözgü sağlık ve güvenlik planı ve sağlık ve güvenlik dosyası hazırlanması zorunlu tutulmuştur. 5/10/2013 tarihli ve 28786 sayılı Resmi Gazete'de yayımlanan Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği uyarınca getirilen bu yeni kavramlara ilişkin yükümlülükler Tablo\n1'de yer almaktadır. Projenin henüz hazırlık aşamasında iken hazırlanması ve proje süresince\ngüncellenmesi ve uygulanması istenen sağlık ve güvenlik planı, Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği ile sektöre kazandırılan yeniliklerin en önemlilerindendir. Yönetmeliğe göre herhangi bir istisnai durum belirtilmediği için, tüm yapı işlerinde sağlık ve\ngüvenlik planının hazırlanması zorunlu tutulmuştur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "de yayımlanan Yapı İşlerinde İş Sağlığı ve\nGüvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "ktöre kazandırılan yeniliklerin en önemlilerindendir. Yönetmeliğe göre herhangi bir istisnai durum belirtilmediği için, tüm yapı işlerinde sağlık ve\ngüvenlik planının hazırlanması zorunlu tutulmuştur. Yönetmelikte sağlık ve güvenlik planı aşağıdaki şekilde tanımlanmaktadır:\n\n\"Muhtemel risklerin değerlendirilip yapı işi süreci boyunca sağlık ve güvenlik ile ilgili\nalınacak tedbirlerin, organizasyon yapısının, çalışma yöntemlerinin ve bunlara ilişkin\nişlerin ne zaman ve kim tarafından yapılması gerektiğinin belirlendiği, aynı yapı sahasında\nfaaliyet gösterecek farklı işverenler, alt işverenler, kendi nam ve hesabına çalışan kişiler ve\nfarklı çalışma ekipleri arasında sağlık ve güvenliğe dair hususların koordinasyonunun\nsağlanması amacıyla yapı alanının tamamından sorumlu işveren veya proje sorumlusu\ntarafından hazırlanan veya hazırlanması sağlanan plan\"\n\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nAyrıca Yönetmelikte, tanımda belirtilen hususlara ek olarak yapı işyerinde Ek 2'de\nbelirtilen iş sağlığı ve güvenliği risklerini içeren çalışmaların bulunması durumunda bu\nfaaliyetler hakkında özel önlemlerin planda yer alması gerekliliği hükmü de bulunmaktadır. <table>\n<caption>Tablo 1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "tilen iş sağlığı ve güvenliği risklerini içeren çalışmaların bulunması durumunda bu\nfaaliyetler hakkında özel önlemlerin planda yer alması gerekliliği hükmü de bulunmaktadır. <table>\n<caption>Tablo 1. Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği'nde Yer Alan Bazı Yükümlülüklere İlişkin Koşullar</caption>\n<tr>\n<th colspan=\"2\">Yapı Sahası Şartları</th>\n<th rowspan=\"2\">Bildirim</th>\n<th rowspan=\"2\">Sağlık ve Güvenlik Koordinatörü</th>\n<th rowspan=\"2\">Sağlık ve Güvenlik Planı</th>\n<th rowspan=\"2\">Sağlık ve Güvenlik Dosyası</th>\n</tr>\n<tr>\n<th>İşverenler</th>\n<th>İşin Kapsamı</th>\n</tr>\n<tr>\n<td>Bir işverenin olması durumunda</td>\n<td>31 işgününden ve 21 çalışandan veya 501 yevmiyeden az olması</td>\n<td>-</td>\n<td>-</td>\n<td>+</td>\n<td>+</td>\n</tr>\n<tr>\n<td>Bir işverenin olması durumunda</td>\n<td>30 işgününden ve 20 çalışandan veya 500 yevmiyeden fazla olması</td>\n<td>+</td>\n<td>-</td>\n<td>+</td>\n<td>+</td>\n</tr>\n<tr>\n<td>Aynı yapı alanında birden fazla işveren veya alt işverenin olması durumunda</td>\n<td>31 işgününden ve 21 çalışandan veya 501 yevmiyeden az olması ve Yönetmelik EK-2 deki çalışmaların bulunmaması</td>\n<td>-</td>\n<td>-</td>\n<td>+</td>\n<td>+</td>\n</tr>\n<tr>\n<td>Aynı yapı alanında birden fazla işveren veya alt işverenin olması durumunda</td>\n<td>31 işgününden ve 21 çalışandan veya 501 yevmiyeden az olması ve Yönetmelik EK-2 deki çalışmaların bulunması.</td>\n<td>-</td>\n<td>+</td>\n<td>+</td>\n<td>+</td>\n</tr>\n<tr>\n<td>Aynı yapı alanında birden fazla işveren veya alt işverenin olması durumunda</td>\n<td>30 işgününden ve 20 çalışandan veya 500 yevmiyeden fazla olması</td>\n<td>+</td>\n<td>+</td>\n<td>+</td>\n<td>+</td>\n</tr>\n</table>\n\n\nYönetmeliğe göre; yapı alanının tamamından sorumlu işveren veya proje sorumlusu\nsağlık ve güvenlik planı hazırlamakla yükümlüdür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "ması</td>\n<td>+</td>\n<td>+</td>\n<td>+</td>\n<td>+</td>\n</tr>\n</table>\n\n\nYönetmeliğe göre; yapı alanının tamamından sorumlu işveren veya proje sorumlusu\nsağlık ve güvenlik planı hazırlamakla yükümlüdür. Ayrıca projenin hazırlık aşamasındaki\nsağlık ve güvenlik koordinatörlerinin, sağlık ve güvenlik planını hazırlaması ya da\nhazırlatması gerekmektedir. Planı hazırlamada sağlık ve güvenlik koordinatörünün rolü büyük\nolmasına rağmen, diğer paydaşlara danışılması da son derece önemlidir. Bu paydaşlar;\n\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\ntasarımcılar, iş sağlığı ve güvenliği profesyonelleri, uygulama aşamasında sağlık ve güvenlik\nkoordinatörleri, projeye dahil olan yükleniciler ve malzeme tedarikçileri olabilmektedir. Muhtemel risklerin projenin planlama aşamasında belirlenmesi ve bu risklere karşı\nzamanında tedbir alınarak iş kazalarının azaltılması ve bu sayede işyerinde maddi ve manevi\nkayıpların önüne geçilebilmesi sağlık ve güvenlik planının en önemli amacını\noluşturmaktadır. Ayrıca iş sağlığı ve güvenliğine yönelik planlı bir yaklaşımın belirlenmesi ile\ndaha iyi proje yönetimi, daha yüksek kalite, daha az masraf ve daha çok verimlilik gibi\nfaydalar da sağlanacaktır. Sağlık ve güvenlik planı, işlerin sürdürülmesi için gerekli olan organizasyon,\nkoordinasyon yapısı ve tedarik süreçlerinin iş sağlığı ve güvenliğine öncelik verilerek\nbelirlenmesidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "a sağlanacaktır. Sağlık ve güvenlik planı, işlerin sürdürülmesi için gerekli olan organizasyon,\nkoordinasyon yapısı ve tedarik süreçlerinin iş sağlığı ve güvenliğine öncelik verilerek\nbelirlenmesidir. Bu plan ile işlerin hangi yöntem ve ekipmanlar ile yapılacağı hususlarına\nkarar verilir. Sağlık ve güvenlik planı içerisinde çalışma yöntemlerinin iş adımları dikkate\nalınarak belirlenmesi ve değerlendirilmesi; işi gerçekleştirmek için ihtiyaç duyulan doğru ve\ngüvenli ekipmanın, eğitimli personelin, muhtemel risklere karşı uygulanacak tedbirlerin\nbelirlenmesi, gerekli hazırlıkların işveren tarafından önceden yapılabilmesini sağlar. Direktifte belirlenen çerçeveye göre, sağlık ve güvenlik planının projeye özgü ve\nmümkün olabilecek en sade şekilde oluşturulması, ayrıca projenin büyüklüğü ve karmaşıklığı\nile doğru orantılı olarak yeterli detaya sahip olması gerekmektedir. Çalışma yöntemlerinin,\ngerekli organizasyon ve koordinasyon yapısının ve tedarik süreçlerinin belirlendiği sağlık ve\ngüvenlik planının, risk değerlendirmesi için de önemli bir kaynak olacağı unutulmamalıdır. Sağlık ve güvenlik planı kavramının Yönetmelikte yer almasıyla beraber, bu planın\niçeriğinin ve kapsamının ne olacağı hususlarında yapı sektöründe bilgilendirilme ihtiyacı\ndoğmuştur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "unutulmamalıdır. Sağlık ve güvenlik planı kavramının Yönetmelikte yer almasıyla beraber, bu planın\niçeriğinin ve kapsamının ne olacağı hususlarında yapı sektöründe bilgilendirilme ihtiyacı\ndoğmuştur. Bu çalışma kapsamında; Avrupa Birliği ve Dünya ülkelerinden örnekler\nincelenmiş, ülkemiz koşulları da göz önünde bulundurularak sağlık ve güvenlik planının\niçeriğinde hangi unsurların bulunması gerektiğinin ortaya koyulması amaçlanmıştır. Çalışma\nhazırlanırken 92/57/EEC sayılı Avrupa Birliği Konsey Direktifinde belirtilen hususlar ve\nyasal mevzuatımız çerçevesinde ülkemiz çalışma koşullarına uygun bir sağlık ve güvenlik\nplanı oluşturulması hedeflenmiştir. Bu çalışmanın, yapı işyerleri için hazırlanması zorunlu olan sağlık ve güvenlik planını\noluşturmada sektördeki firmalara bir yol gösterici olabileceği düşünülmektedir. Hazırlanan bu\nrehberin bir sağlık ve güvenlik planı için asgari gereklilikleri içerdiği unutulmamalıdır. <!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nRehberde sağlık ve güvenlik planı temel olarak 6 ana başlıktan oluşmaktadır. Bu\nbaşlıklar şu şekildedir:\n\n1\\. Yönetimin Taahhüdü\n\n2\\. Proje Bilgileri\n\n3\\. Sağlık ve Güvenlik Organizasyonu\n\n4\\. İşlerin Yönetimi\n\n5\\. Risklerin ve Kontrol Tedbirlerinin Belirlenmesi\n\n6\\. Şantiye Kuralları\n\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Sağlık ve güvenlik planı kavramının Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "## 1. YÖNETİMİN TAAHHÜDÜ\n\n\nBu başlık altında, firma yönetimi tarafından iş sağlığı ve güvenliğine yönelik açık hedefler\nbelirlenip bir önleme kültürü oluşturularak İSG yönetiminin iyileştirilmesine yönelik taahhüt\ndile getirilmelidir. Yönetimin taahhüdüne ilişkin bir örnek aşağıda belirtilmiştir:\n\n(firma ismi) yöneticisi olarak\n(proje ismi)\nprojesinin hazırlık ve uygulama aşamalarını kapsayacak şekilde projenin tamamlanmasına\nkadar geçen sürede çalışanların sağlık ve güvenliklerini korumak amacıyla;\n\n☒\nv yapılacak her işte sağlık ve güvenliğin öncelikli olarak göz önünde bulundurulacağını,\n\n☒\nv yürürlükteki iş sağlığı ve güvenliği mevzuatına tam olarak uyulacağını,\n\n☒\nv iş sağlığı ve güvenliği koşullarının sürekli iyileştirileceğini,\n\nERİLİR.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "celikli olarak göz önünde bulundurulacağını,\n\n☒\nv yürürlükteki iş sağlığı ve güvenliği mevzuatına tam olarak uyulacağını,\n\n☒\nv iş sağlığı ve güvenliği koşullarının sürekli iyileştirileceğini,\n\nERİLİR. ☒\nv iş sağlığı ve güvenliğine yönelik her türlü tedbirin zamanında alınacağını, tedbirler\nbelirlenirken ve uygulanırken toplu koruma önlemlerine öncelik verileceğini,\n\n☒\nv çalışanların iş sağlığı ve güvenliği konusunda eğitim ve bilgilendirilmesine önem\nverileceğini,\n\n☒\nv iş sağlığı ve güvenliği konusunda gerekli ve yeterli kaynağın sağlanacağı ve yapılması\ngerekli harcamalardan kaçınılmayacağını,\n\n☒\nv iş sağlığı ve güvenliği uygulamalarında çalışanların öneri ve fikirlerinin göz önünde\nbulundurulacağı, yönetim ve çalışanlar arasında iş sağlığı ve güvenliği alanında gerekli\nkatılım, fikir alışverişi ve işbirliğinin sağlanacağını,\n\n☒\nv planın bu şantiye koşulları ve çalışanları için hazırlandığını, proje süresince\nuygulanacağını ve gerekli hallerde güncelleneceğini,\n\n☒\nv projede görev alan en üst düzey yönetici de dahil olmak üzere her seviyedeki çalışana ve\nziyaretçilere bu plan kapsamında üzerlerine düşen sorumlulukları konusunda yeterli\nbilgilendirmenin yapılacağını,\n\ntaahhüt ederim. Tarih\n\nİmza\n\n(En üst düzey yönetici\ntarafından imzalanacaktır)\n\nAdı Soyadı\n\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "### 2.1 Genel Bilgiler\n\n\nGenel bilgilerin yer aldığı bu bölümde; proje, işveren/ana yüklenici, alt işveren/alt yüklenici\nile kendi nam ve hesabına çalışanlar ile ilgili aşağıdaki tablolarda istenen bilgiler\nbelirtilecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "#### 2.1.1 Projeye Ait Bilgiler\n\n\n\n<table>\n<caption>Tablo 2.1 Proje Bilgileri</caption>\n<tr>\n<th></th>\n<th>Proje İle İlgili Bilgiler</th>\n</tr>\n<tr>\n<td>Proje Adı</td>\n<td></td>\n</tr>\n<tr>\n<td>İşin Sahibi / İhale Makamı</td>\n<td></td>\n</tr>\n<tr>\n<td>Yapı Sahasının Açık Adresi (Cadde/Sokak/Ada/Parsel dahil)</td>\n<td></td>\n</tr>\n<tr>\n<td>Projenin Tanımı ve Kapsamı</td>\n<td></td>\n</tr>\n<tr>\n<td>Projenin Başlangıç Tarihi</td>\n<td></td>\n</tr>\n<tr>\n<td>Projenin Planlanan Bitiş Tarihi</td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "#### 2.1.2 İşveren/Ana Yükleniciye Ait Bilgiler\n\n\n\n<table>\n<caption>Tablo 2.2 İşveren Bilgileri</caption>\n<tr>\n<th></th>\n<th>İşveren İle İlgili Bilgiler</th>\n</tr>\n<tr>\n<td>İşveren</td>\n<td></td>\n</tr>\n<tr>\n<td>İşveren/Ana Yüklenici Unvanı 1</td>\n<td></td>\n</tr>\n<tr>\n<td>İşyeri SGK Sicil No. 2</td>\n<td></td>\n</tr>\n<tr>\n<td>Tebligat Adresi</td>\n<td></td>\n</tr>\n<tr>\n<td>Telefon / Faks</td>\n<td></td>\n</tr>\n<tr>\n<td>Web adresi</td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nSorumlu Yapı Denetim\nFirması /Sorumlu Müşavir\nFirma/ Diğer Kontrol\nBirimleri\n\n1 İşverenin gerçek kişi olması halinde adı ve soyadı yazılacaktır.\n\n2 Yapı sahasına ait SGK sicil numarasıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "#### 2.1.3 Alt İşveren/Alt Yükleniciye Ait Bilgiler\n\n\n\n<table>\n<caption>Tablo 2.3 Alt İşveren Bilgileri</caption>\n<tr>\n<td></td>\n<td colspan=\"2\">Alt İşveren İle İlgili Bilgiler</td>\n</tr>\n<tr>\n<td>Alt İşveren 1</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İşyeri SGK Sicil No.</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Tebligat Adresi</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Sözleşme Konusu İşler</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Sözleşmenin Başlama ve Bitiş Tarihleri</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Adı ve Soyadı</td>\n<td>Sertifika Sınıfı/No</td>\n</tr>\n<tr>\n<td>İş Güvenliği Uzmanı</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>İşyeri Hekimi</td>\n<td></td>\n<td></td>\n</tr>\n</table>\n\n\n1 Alt işverenin gerçek kişi olması halinde adı ve soyadı yazılacaktır.\nNot: Sözleşme yapılan her alt işveren için bu tablo oluşturulacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "#### 2.1.4 Kendi Nam ve Hesabına Çalışanlara Ait Bilgiler\n\n\nTablo 2.4 Kendi Nam ve Hesabına Çalışanlara Ait Bilgiler\n\nKendi Nam ve Hesabına Çalışanlar İle İlgili Bilgiler\n\nAdı Soyadı\n\nTebligat Adresi\n\nSözleşme Konusu İşler\n\nSözleşmenin Başlama ve\nBitiş Tarihleri\n\nNot: Sözleşme yapılan her kendi nam ve hesabına çalışan için bu tablo oluşturulacaktır.\n\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "#### 2.2.1 İnşaat Öncesi Bilgiler\n\n\nVaziyet planlarının oluşturulması ve karşılaşılabilecek riskler ile alınacak tedbirlerin\nbelirlenmesi süreçlerinde fayda sağlaması amacıyla aşağıda belirtilen hususlarla ilgili bilgiler\ntemin edilecek ve bu bilgilere ekte yer verilecektir;\n\n› Arazi koşulları,\n\n› Çevredeki yerleşim,\n\n› Mevcut elektrik, su, ısıtma, doğal gaz, kanalizasyon vb. yer altı ve yerüstü hatları,\n\n› Mimari proje (Projenin büyüklüğü ve niteliğine göre, olası risklerin belirlenebilmesine\nuygun bir ölçek seçilecektir.),\n\n› Arsa/iş/bina sahibinden ve/veya kullanıcılarından alınacak bilgiler,\n\n› Sağlık ve güvenlik dosyası (Önceden tamamlanmış bir projede yeni bir yapı işinin\n(renovasyon(renovasyon yerine onarım kullanılabilir, Türkçe bir kullanım), restorasyon.\ntamirat, tadilat, bakım, onarım vb.) gerçekleştirilmesi durumunda istenecektir).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "#### 2.2.2 Vaziyet Planı\n\n\nAşağıda yer alan tüm unsurlar, iş sağlığı ve güvenliği açısından ayrı ayrı ve öncelikli\nolarak değerlendirmeye tabi tutulacak ve gerekli düzenlemeler yapılacaktır. Örneğin;\nyemekhane ile atık alanlarının yan yana konumlandırılmaması bu aşamada göz önünde\nbulundurulacaktır.\n\nAşağıda belirtilen hususlar vaziyet plan(lar)ı üzerinde gösterilecektir.\n\n› Şantiye içi araç ve yaya yolları,\n\n› Sosyal tesisler (yemekhane, yatakhane, varsa sağlık birimi, dinlenme yerleri, duş ve\ntuvaletler vb.)\n\n› Depolar ve atık alanları,\n\n› Acil durumlarda toplanma alanları ve kaçış yolları,\n\n› Kaldırma araçlarının (kule vinç vb.) kullanılacağı ve iskelelerin kurulacağı yerler.\n\nVaziyet plan(lar)ı ekte yer alacak ve proje süresince gerekli hallerde mutlaka revize\nedilecektir.\n\nProjenin büyüklüğü ve niteliğine göre, vaziyet planı üzerinde gösterilmesi gerekenlerin\naçık bir şekilde görüleceği uygun bir ölçek seçilecektir.\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "### 3.1 Görev ve Sorumluluklar\n\n\nBu bölümde çalışan, işveren, alt işveren, kendi nam ve hesabına çalışanlar ile ilgili\ngörev ve sorumluluklara yer verilecektir. Ayrıca bu bölümde; iş güvenliği uzmanı, işyeri\nhekimi, proje sorumlusu, sağlık ve güvenlik koordinatörleri ve çalışan temsilcisine ait bilgiler\nile görev ve sorumlulukları belirtilecektir.\n\nAşağıda belirtilen görev ve sorumluluklar mevzuat çerçevesinde belirlenmiş genel\nasgari hükümlerdir. Bu görev ve sorumluluklar haricinde, iş ve işyeri koşulları göz önünde\nbulundurularak detaylandırmalar yapılabilir.\n\nTablo 3.1 İşverenin Görev ve Sorumlulukları",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "## İşverenin Görev ve Sorumlulukları\n\n\nv Çalışanların işle ilgili sağlık ve güvenliğini sağlamak,\n☒\n\nMesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması,\n☒\n\norganizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik\ntedbirlerinin değişen şartlara uygun hale getirilmesi ve mevcut durumun iyileştirilmesi\n\n☐\n\n☐\niçin çalışmalar yapmak,\n\n☒\nv İşyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izlemek,\ndenetlemek ve uygunsuzlukların giderilmesini sağlamak,\n\nv Risk değerlendirmesi yapmak veya yaptırmak,\n☒\n\n☒\nv Çalışana görev verirken, çalışanın sağlık ve güvenlik yönünden işe uygunluğunu göz\nönüne almak,\n\n☒\nYeterli bilgi ve talimat verilenler dışındaki çalışanların hayati ve özel tehlike bulunan\nyerlere girmemesi için gerekli tedbirleri almak,\n\nY Yapı alanının düzenli tutulmasını ve yeterli temizlikte olmasını sağlamak,\n☒\n\nv Yapı alanındaki çalışma yerlerinin seçiminde; buralara ulaşımın nasıl sağlanacağının\n☒\nve ekipman, hareket ve geçişler için alan veya yolların belirlenmesini sağlamak,\n\nY Malzemenin kullanım ve taşıma şartlarının düzenlenmesini sağlamak,\n☒\n\nY Tesis ve ekipmanın kullanılmaya başlamadan önce ve periyodik olarak teknik bakım\n☒\n\nve kontrollerinin yapılmasını sağlamak,\n\nv Çeşitli malzemeler ve özellikle tehlikeli malzeme ve maddeler için uygun depolama\n☒\n\nalanları ayrılmasını ve bu alanların sınırlarının belirlenmesini sağlamak,\n\nY Tehlikeli malzemelerin kullanımı ile uzaklaştırılma k",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "oşullarının düzenlenmesini\n☒\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nsağlamak,\n\nAtık ve artıkların depolanmasını, atılmasını veya uzaklaştırılmasını sağlamak,\n☒\n\nv Çeşitli işler veya işin aşamaları için öngörülen sürelerin yapı alanındaki işin durumuna\n☒\n\n☐\ngöre yeniden belirlenmesini sağlamak,\n\nAlt işverenler ve kendi nam ve hesabına çalışanlar arasında işbirliğini sağlamak,\n☒\n\nYapı alanındaki veya yakınındaki endüstriyel faaliyetler ile etkileşimin dikkate\n☒\n\n☐\nalınmasını sağlamak,\n\n☒\nKişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmeliğe ve\nuyumlaştırılmış ulusal standartlara uygun kişisel koruyucu donanımların\nbulundurulmasını ve çalışanlar tarafından kullanılmasını sağlamak,\n\nv Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliğinin Ek-4'ünde belirtilen asgari\n☒\n\n☐\nşartları dikkate alarak uygun tedbirleri almak,\n\nSağlık ve güvenlikle ilgili konularda sağlık ve güvenlik koordinatörlerinin uyarı, tespit\n☒\n\n☐\nve talimatlarını dikkate almak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "☒\nv Sağlık ve güvenlik konularında bir veya daha fazla sağlık ve güvenlik koordinatörü\ngörevlendirmek,\n\n☒\nv Yapı işine başlamadan önce projenin hazırlık aşamasında, sağlık ve güvenlik planını\n\n☐\nhazırlamak veya hazırlanmasını sağlamak,\n\nv Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği kapsamında bildirim yapılması\n☒\n\n☐\ngereken işlerde bildirimde bulunmak,\n\nNOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. Tablo 3.2 Alt İşverenin Görev ve Sorumlulukları",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "v Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "## Alt İşverenin Görev ve Sorumlulukları\n\n\n☒\nv Çalışanların işle ilgili sağlık ve güvenliğini sağlamak,\n\n☒\nY Mesleki risklerin önlenmesi, eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması,\norganizasyonun yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik\ntedbirlerinin değişen şartlara uygun hale getirilmesi ve mevcut durumun iyileştirilmesi\n\n☐\n\n☐\niçin çalışmalar yapmak,\n\n☒\nv İşyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izlemek,\ndenetlemek ve uygunsuzlukların giderilmesini sağlamak,\n\nv Risk değerlendirmesi yapmak veya yaptırmak,\n☒\n\n☒\nv Çalışana görev verirken, çalışanın sağlık ve güvenlik yönünden işe uygunluğunu göz\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nönüne almak,\n\n☒\nY Yeterli bilgi ve talimat verilenler dışındaki çalışanların hayati ve özel tehlike bulunan\nyerlere girmemesi için gerekli tedbirleri almak,\n\nv Yapı alanının düzenli tutulmasını ve yeterli temizlikte olmasını sağlamak,\n☒\n\nv Yapı alanındaki çalışma yerlerinin seçiminde; buralara ulaşımın nasıl sağlanacağının\n☒\nve ekipman, hareket ve geçişler için alan veya yolların belirlenmesini sağlamak,\n\nv Malzemenin kullanım ve taşıma şartlarının düzenlenmesini sağlamak,\n☒\n\n☒\nY Tesis ve ekipmanın kullanılmaya başlamadan önce ve periyodik olarak teknik bakım\nve kontrollerinin yapılmasını sağlamak,\n\n☒\nv Çeşitli malzemeler ve özellikle tehlikeli malzeme ve maddeler için uygun depolama\nalanları ayrılmasını ve",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "bu alanların sınırlarının belirlenmesini sağlamak,\n\nTehlikeli malzemelerin kullanımı ile uzaklaştırılma koşullarının düzenlenmesini\n☒\n\nsağlamak,\n☒\nv Atık ve artıkların depolanmasını, atılmasını veya uzaklaştırılmasını sağlamak,\n\n☒\nv Çeşitli işler veya işin aşamaları için öngörülen sürelerin yapı alanındaki işin durumuna\ngöre yeniden belirlenmesini sağlamak,\n\n☒\nv Asıl işveren, diğer alt işverenler ve kendi nam ve hesabına çalışanlar ile işbirliği\n\n☐\nhalinde çalışmak,\n\n☒\nY Yapı alanındaki veya yakınındaki endüstriyel faaliyetler ile etkileşimin dikkate\nalınmasını sağlamak,\n\n☒\nv Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmeliğe ve\nuyumlaştırılmış ulusal standartlara uygun kişisel koruyucu donanımların\nbulundurulmasını ve çalışanlar tarafından kullanılmasını sağlamak,\n\nv Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliğinin Ek-4'ünde belirtilen asgari\nşartları dikkate alarak uygun tedbirleri almak,\n☒\n\n☒\nv Sağlık ve güvenlikle ilgili konularda sağlık ve güvenlik koordinatörlerinin uyarı, tespit\nve talimatlarını dikkate almak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "NOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. <!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nTablo 3.3 Kendi Nam ve Hesabına Çalışanların Görev ve Sorumlulukları",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "### Kendi Nam ve Hesabına Çalışanların Görev ve Sorumlulukları\n\n\n☒\nSağlık ve güvenlik koordinatörlerinin uyarı ve talimatlarını dikkate almak,\n\n☒\nv İş Sağlığı ve Güvenliği Kanununun çalışanların ve işverenlerin yükümlülüklerini\n\n☐\ndüzenleyen 5 ve 19 uncu maddelerine,\n\n☒\nv İş Sağlığı ve Güvenliği Kanunu'nun işbirliği, koordinasyon ve bilgilendirme hususları\n☐\nile ilgili 23 üncü maddesine,\n\n☒\nv Yapı İşlerinde Sağlık ve Güvenlik Yönetmeliği'nin \"Yapı Alanları İçin Asgari Sağlık\nve Güvenlik Şartları\" başlıklı Ek-4'üne,\n\n☒\nY İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'nin \"İş\n\n☐\nEkipmanı ile İlgili Kurallar\" başlıklı 6 ncı maddesine,\n\n☒\nv İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'nin\n\neklerinde belirtilen ilgili hükümlere,\n\n☒\nv Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmeliğin\n☐\nişveren yükümlülüklerini içeren 5 inci maddesi, 6 ncı maddesinin birinci fıkrasının (a),\n(ç) ve (ğ) bentleri ile 7 nci maddesine uygun olarak hareket etmek. NOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "v İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "cı maddesinin birinci fıkrasının (a),\n(ç) ve (ğ) bentleri ile 7 nci maddesine uygun olarak hareket etmek. NOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. <table>\n<caption>Tablo 3.4 Proje Sorumlusu Bilgileri, Görev ve Sorumlulukları</caption>\n<tr>\n<td colspan=\"2\">Proje Sorumlusu</td>\n</tr>\n<tr>\n<td>Adı Soyadı</td>\n<td></td>\n</tr>\n<tr>\n<td>Mesleği</td>\n<td></td>\n</tr>\n<tr>\n<td>İletişim Bilgileri</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Görev ve Sorumluluklar</td>\n</tr>\n</table>\n\n\n☒\nv İşveren adına projenin hazırlanması, uygulanması ve uygulamanın kontrolünü yapmak,\n\n☒\nv Sağlık ve güvenlik konularında bir veya daha fazla sağlık ve güvenlik koordinatörü\ngörevlendirmek,\n\nv Yapı işine başlamadan önce projenin hazırlık aşamasında, sağlık ve güvenlik planını\n☒\n\n☐\nhazırlamak veya hazırlanmasını sağlamak,\n\nv Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği kapsamında bildirim yapılması\n☒\ngereken işlerde bildirimde bulunmak,\n\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n☒\nv Yapı işinin, aynı anda veya birbiri ardına gerçekleşen farklı unsur ve aşamalarını\nplanlamak amacıyla mimari, teknik ve organizasyonel konulara ilişkin karar alırken ve\nişin ya da iş aşamalarının tamamlanması için ilgili meslek disiplinindeki kriterler de\ndikkate alınarak gereken süreyi hesaplarken, İş Sağlığı ve Güvenliği Kanununun 5 inci\nmaddesinde belirtilen risklerden korunma ilkelerini göz önünde bulundurmak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "ili meslek disiplinindeki kriterler de\ndikkate alınarak gereken süreyi hesaplarken, İş Sağlığı ve Güvenliği Kanununun 5 inci\nmaddesinde belirtilen risklerden korunma ilkelerini göz önünde bulundurmak. ☐\n\nNOT: Proje sorumlusu görevlendirilmesi halinde bu tablo planda yer alacaktır. \\- İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. \\- Proje sorumlusu, işveren adına hareket etmek üzere görevlendirildiğinden, proje sorumlusunun görev ve\nsorumluluklarına, işveren tarafından verilen yetki ve imkan dahilinde işverenin görev ve sorumluluklarının da\ndahil olacağı unutulmamalıdır. <table>\n<caption>Tablo 3.5 Sağlık ve Güvenlik Koordinatörü (Hazırlık Aşaması) Bilgileri, Görev ve Sorumlulukları</caption>\n<tr>\n<td colspan=\"2\">Sağlık ve Güvenlik Koordinatörü (Hazırlık Aşaması)</td>\n</tr>\n<tr>\n<td>Adı Soyadı</td>\n<td></td>\n</tr>\n<tr>\n<td>Mesleği</td>\n<td></td>\n</tr>\n<tr>\n<td>İletişim Bilgileri</td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "## Görev ve Sorumluluklar\n\n\nv Yapı işinin, aynı anda veya birbiri ardına gerçekleşen farklı unsur ve aşamalarını\nplanlamak amacıyla mimari, teknik ve organizasyonel konulara ilişkin karar alırken ve\n☒ ☐\nişin ya da iş aşamalarının tamamlanması için ilgili meslek disiplinindeki kriterler de\n☐\ndikkate alınarak gereken süreyi hesaplarken İş Sağlığı ve Güvenliği Kanununun 5 inci\nmaddesinde belirtilen risklerden korunma ilkelerini göz önünde bulundurulmasını\nkoordine etmek,\n☐\n\nv Sağlık ve güvenlik planını hazırlamak veya hazırlanmasını sağlamak,\n☒\n\n☒\nv Proje süresince, birbirini takip eden veya daha sonra yapılacak işler sırasında dikkate\n☐\nalınmak üzere sağlık ve güvenlik bilgilerini içeren sağlık ve güvenlik dosyasını\n☐\nhazırlamak.\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "dikkate alınarak gereken süreyi hesaplarken İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "# Tablo 3.6 Sağlık ve Güvenlik Koordinatörü (Uygulama Aşaması) Bilgileri, Görev ve Sorumlulukları\n\n\n\n<table>\n<tr>\n<td colspan=\"2\">Sağlık ve Güvenlik Koordinatörü (Uygulama Aşaması)</td>\n</tr>\n<tr>\n<td>Adı Soyadı</td>\n<td></td>\n</tr>\n<tr>\n<td>Mesleği</td>\n<td></td>\n</tr>\n<tr>\n<td>İletişim Bilgileri</td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "## Görev ve Sorumluluklar\n\n\n☒\nAynı anda veya birbiri ardına yapılacak iş ve iş aşamalarının belirlendiği iş\nprogramlarının oluşturulması için teknik ve organizasyona yönelik kararların\nalınmasında ve işin ya da iş aşamalarının tamamlanması için ilgili meslek\ndisiplinindeki kriterler de dikkate alınarak yapılacak süre hesabında, İş Sağlığı ve\nGüvenliği Kanununun 5 inci maddesinde belirtilen risklerden korunma ilkelerinin göz\nönünde bulundurulmasını koordine etmek,\n☐\n\n☒\nv İşverenlerin gerekli tedbirleri uygulamasını ve gerektiğinde çalışanların ve kendi nam\n\n☐\n\n☐\nve hesabına çalışanların korunmasını, Yapı İşlerinde İş Sağlığı ve Güvenliği\nYönetmeliğinin işverenlerin yükümlülüklerini konu alan 5 inci maddenin birinci\n☐\nfıkrasında belirtilen prensiplerin istikrarlı bir şekilde uygulanmasını, sağlık ve güvenlik\nplanının yapılmasının gerektiği durumlarda bu planın uygulanmasını koordine etmek,\n\n☐\n\n☒\nY Yapılan işteki ilerlemeleri ve meydana gelen değişiklikleri dikkate alarak sağlık ve\ngüvenlik planında ve sağlık ve güvenlik dosyasında gerekli düzenlemeleri yapmak\nveya yapılmasını sağlamak,\n\n☒\nv Aynı yapı alanında, işe sonradan katılanlar da dahil olmak üzere, işveren veya alt\nişverenler arasında organizasyonu sağlamak, iş kazaları ve meslek hastalıklarından\nçalışanları korumak üzere işverenlerce yapılan çalışmaları koordine etmek, Kanunun\n23 üncü maddesinin birinci fıkrasında belirtilen işverenler arası bilgi alış verişinin\nsağlanmasına katkıda bulunmak ve gerekli hallerde kendi na",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "İş Sağlığı ve\nGüvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "m ve hesabına çalışan\nkişilerin de bu çalışmalarda yer almasını sağlamak,\n\n☐\n\n☐\n\n☐\n\nv Yapı işlerinde güvenli bir şekilde çalışılmasını sağlamak üzere yapılması gerekli\n☒\n\n☐\nkontrolleri koordine etmek,\n\n☒\nİzin verilen kişiler dışındakilerin yapı alanına girmesini önlemek üzere gerekli\ndüzenlemeleri yapmak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<caption>Tablo 3.7 İş Güvenliği Uzmanlarının Bilgileri, Görev ve Sorumlulukları Asıl İşveren/Ana Yüklenici İş Güvenliği Uzmanı</caption>\n<tr>\n<th></th>\n<th>Adı Soyadı</th>\n<th>Sertifika Sınıfı/No.</th>\n<th>İletişim Bilgileri</th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "## Görev ve Sorumluluklar\n\n\nv Görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde\n☒\n\n☐\nbulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve\ntavsiyeleri belirlemek ve işverene yazılı olarak bildirmek,\n☐\n\nv Bildirilen eksiklik ve aksaklıkların acil durdurmayı gerektirmesi veya yangın, patlama,\n☐ ☐ ☒ ☐\ngöçme, kimyasal sızıntı ve benzeri acil ve hayati tehlike arz etmesi, meslek hastalığına\nsebep olabilecek ortamların bulunmasına rağmen işveren tarafından gerekli tedbirlerin\nalınmaması hâlinde, bu durumu Bakanlığın yetkili birimine, varsa yetkili sendika\ntemsilcisine, yoksa çalışan temsilcisine bildirmek,\n☐\n\nv İş sağlığı ve güvenliği hizmetlerini ihmale mahal vermeden yürütmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "ması hâlinde, bu durumu Bakanlığın yetkili birimine, varsa yetkili sendika\ntemsilcisine, yoksa çalışan temsilcisine bildirmek,\n☐\n\nv İş sağlığı ve güvenliği hizmetlerini ihmale mahal vermeden yürütmek. ☒\n\nRehberlik;\n\n☐\n\n☒\nv İşyerinde yapılan çalışmalar ve yapılacak değişikliklerle ilgili olarak tasarım, makine\nve diğer teçhizatın durumu, bakımı, seçimi ve kullanılan maddeler de dâhil olmak\n☐\nüzere işin planlanması, organizasyonu ve uygulanması, kişisel koruyucu donanımların\n☐\nseçimi, temini, kullanımı, bakımı, muhafazası ve test edilmesi konularının, iş sağlığı ve\n☐\ngüvenliği mevzuatına ve genel iş güvenliği kurallarına uygun olarak sürdürülmesini\nsağlamak için işverene önerilerde bulunmak,\n\n☐\n\nv İşyerinde meydana gelen iş kazası ve meslek hastalıklarının nedenlerinin araştırılması\n☒\n\n☐\nve tekrarlanmaması için alınacak önlemler konusunda çalışmalar yaparak işverene\n☐\nönerilerde bulunmak,\n\nv İşyerinde meydana gelen ancak ölüm ya da yaralanmaya neden olmayan, ancak\n☒\n\n☐\nçalışana, ekipmana veya işyerine zarar verme potansiyeli olan olayların nedenlerinin\naraştırılması konusunda çalışma yapmak ve işverene önerilerde bulunmak. ☐",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "### Risk değerlendirmesi;\n\n\n☒\nv İş sağlığı ve güvenliği yönünden risk değerlendirmesi yapılmasıyla ilgili çalışmalara ve\n\n☐\nuygulanmasına katılmak, risk değerlendirmesi sonucunda alınması gereken sağlık ve\ngüvenlik önlemleri konusunda işverene önerilerde bulunmak ve takibini yapmak. ☐\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nÇalışma ortamı gözetimi;\n\n☒\nv Çalışma ortamının gözetiminin yapılması, işyerinde iş sağlığı ve güvenliği mevzuatı\n\n☐\ngereği yapılması gereken periyodik bakım, kontrol ve ölçümleri planlamak ve\nuygulamalarını kontrol etmek,\n\n☐\n\n☒\nv İşyerinde kaza, yangın veya patlamaların önlenmesi için yapılan çalışmalara katılmak,\n\n☐ ☐ ☐\nbu konuda işverene önerilerde bulunmak, uygulamaları takip etmek; doğal afet, kaza,\nyangın veya patlama gibi durumlar için acil durum planlarının hazırlanması\nçalışmalarına katılmak, ilgili periyodik eğitimlerin ve tatbikatların yapılmasını ve acil\ndurum planı doğrultusunda hareket edilmesini izlemek ve kontrol etmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "çin acil durum planlarının hazırlanması\nçalışmalarına katılmak, ilgili periyodik eğitimlerin ve tatbikatların yapılmasını ve acil\ndurum planı doğrultusunda hareket edilmesini izlemek ve kontrol etmek. ☐\n\nEğitim, bilgilendirme ve kayıt;\n\n☒\nY Çalışanların iş sağlığı ve güvenliği eğitimlerinin ilgili mevzuata uygun olarak\n\n☐\nplanlanması konusunda çalışma yaparak işverenin onayına sunmak, ve uygulamasını\nkontrol etmek,\n☐\n\n☒\nY Çalışma ortamıyla ilgili iş sağlığı ve güvenliği çalışmaları ve çalışma ortamı gözetim\n\n☐\nsonuçlarının kaydedildiği yıllık değerlendirme raporunu işyeri hekimi ile işbirliği\n☐\nhalinde İşyeri Hekimi Ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk Ve\nEğitimleri Hakkında Yönetmelik EK-2'deki örneğine uygun olarak hazırlamak,\n☐\n\n☒\nv Çalışanlara yönelik bilgilendirme faaliyetlerini düzenleyerek işverenin onayına sunmak\n\n☐\nve uygulamasını kontrol etmek,\n\n☒\nY Gerekli yerlerde kullanılmak amacıyla iş sağlığı ve güvenliği talimatları ile çalışma izin\n\n☐\nprosedürlerini hazırlayarak işverenin onayına sunmak ve uygulamasını kontrol etmek,\n\nv Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri,\n☒\n\n☐\nİSG KATİP'e bildirmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "dürlerini hazırlayarak işverenin onayına sunmak ve uygulamasını kontrol etmek,\n\nv Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri,\n☒\n\n☐\nİSG KATİP'e bildirmek. İlgili birimlerle işbirliği;\n\n☒\nY İşyeri hekimiyle birlikte iş kazaları ve meslek hastalıklarıyla ilgili değerlendirme\n☐\nyapmak, tehlikeli olayın tekrarlanmaması için inceleme ve araştırma yaparak gerekli\nönleyici faaliyet planlarını hazırlamak ve uygulamaların takibini yapmak,\n☐\n\nv Bir sonraki yılda gerçekleştirilecek iş sağlığı ve güvenliğiyle ilgili faaliyetlerin yer\n☒\n\n☐\naldığı yıllık çalışma planını işyeri hekimiyle birlikte hazırlamak,\n\n☒\nv Bulunması halinde üyesi olduğu iş sağlığı ve güvenliği kuruluyla işbirliği içinde\n☐\nçalışmak,\n\n☒\nv Çalışan temsilcisi ve destek elemanlarının çalışmalarına destek sağlamak ve bu\n☐\nkişilerle işbirliği yapmak. NOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. <!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "# Tablo 3.8 İşyeri Hekimlerinin Bilgileri, Görev ve Sorumlulukları\n\n\n\n<table>\n<caption>Asıl İşveren/Ana Yüklenici İşyeri Hekimi</caption>\n<tr>\n<th></th>\n<th>Adı Soyadı</th>\n<th>Sertifika No.</th>\n<th>İletişim Bilgileri</th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "## Görev ve Sorumluluklar\n\n\n☒\nv Görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde\n\n☐\nbulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve\ntavsiyeleri belirlemek ve işverene yazılı olarak bildirmek,\n☐\n\nY Bildirilen eksiklik ve aksaklıkların acil durdurmayı gerektirmesi veya yangın, patlama,\n☐ ☐ ☒ ☐\ngöçme, kimyasal sızıntı ve benzeri acil ve hayati tehlike arz etmesi, meslek hastalığına\nsebep olabilecek ortamların bulunmasına rağmen işveren tarafından gerekli tedbirlerin\nalınmaması hâlinde, bu durumu Bakanlığın yetkili birimine, varsa yetkili sendika\ntemsilcisine, yoksa çalışan temsilcisine bildirmek,\n☐\n\nv İş sağlığı ve güvenliği hizmetlerini ihmale mahal vermeden yürütmek,\n☒\nRehberlik;\n\n☒\nv İş sağlığı ve güvenliği hizmetleri kapsamında çalışanların sağlık gözetimi ve çalışma\n\n☐\nortamının gözetimi ile ilgili işverene rehberlik yapmak,\n\nv İşyerinde yapılan çalışmalar ve yapılacak değişikliklerle ilgili olarak işyerinin tasarımı,\n☒\n\n☐\nkullanılan maddeler de dâhil olmak üzere işin planlanması, organizasyonu ve\n☐\nuygulanması, kişisel koruyucu donanımların seçimi konularının iş sağlığı ve güvenliği\n☐\nmevzuatına ve genel iş sağlığı kurallarına uygun olarak sürdürülmesini sağlamak için\nişverene önerilerde bulunmak,\n☐\n\nv İşyerinde çalışanların sağlığının geliştirilmesi amacıyla gerekli aktiviteler konusunda\n☒\n\n☐\nişverene tavsiyelerde bulunmak,\n\n☐\n\n☒\nv İş sağlığı ve güvenliği alanında yapılacak araştırmalara katılmak, ayrıca",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "işin\nyürütümünde ergonomik ve psikososyal riskler açısından çalışanların fiziksel ve\nzihinsel kapasitelerini dikkate alarak iş ile çalışanın uyumunun sağlanması ve çalışma\nortamındaki stres faktörlerinden korunmaları için araştırmalar yapmak ve bu araştırma\n\n☐\n\n☐\nsonuçlarını rehberlik faaliyetlerinde dikkate almak,\n\nv Kantin, yemekhane, yatakhane, kreş ve emzirme odaları ile soyunma odaları, duş ve\n☒\ntuvaletler dahil olmak üzere işyeri bina ve eklentilerinin genel hijyen şartlarını sürekli\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n☐\nizleyip denetleyerek, çalışanlara yürütülen işin gerektirdiği beslenme ihtiyacının ve\nuygun içme suyunun sağlanması konularında tavsiyelerde bulunmak,\n\nv İşyerinde meydana gelen iş kazası ve meslek hastalıklarının nedenlerinin araştırılması\n☒\n\n☐ ☐\nve tekrarlanmaması için alınacak önlemler konusunda çalışmalar yaparak işverene\nönerilerde bulunmak,\n\n☒\nv İşyerinde meydana gelen ancak ölüm ya da yaralanmaya neden olmadığı halde\nçalışana, ekipmana veya işyerine zarar verme potansiyeli olan olayların nedenlerinin\naraştırılması konusunda çalışma yapmak ve işverene önerilerde bulunmak,\n☐\n\n☒\nv İş sağlığı ve güvenliğiyle ilgili alınması gereken tedbirleri işverene yazılı olarak\n\n☐\nbildirmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "Risk değerlendirmesi;\n\n☒\nv İş sağlığı ve güvenliği yönünden risk değerlendirmesi yapılmasıyla ilgili çalışmalara ve\n☐\nuygulanmasına katılmak, risk değerlendirmesi sonucunda alınması gereken sağlık ve\ngüvenlik önlemleri konusunda işverene önerilerde bulunmak ve takibini yapmak,\n☐\n\nv Gebe veya emziren kadınlar, 18 yaşından küçükler, meslek hastalığı tanısı veya ön\n☒ ☐\ntanısı olanlar, kronik hastalığı olanlar, yaşlılar, malul ve engelliler, alkol, ilaç ve\n☐\nuyuşturucu bağımlılığı olanlar, birden fazla iş kazası geçirmiş olanlar gibi özel politika\n☐\ngerektiren grupları yakın takip ve koruma altına almak, bilgilendirmek ve yapılacak\nrisk değerlendirmesinde özel olarak dikkate almak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "lar, birden fazla iş kazası geçirmiş olanlar gibi özel politika\n☐\ngerektiren grupları yakın takip ve koruma altına almak, bilgilendirmek ve yapılacak\nrisk değerlendirmesinde özel olarak dikkate almak. Sağlık gözetimi;\n\n☒\nv Sağlık gözetimi kapsamında yapılacak işe giriş ve periyodik muayeneler ve tetkikler ile\n\n☐\nilgili olarak çalışanları bilgilendirmek ve onların rızasını almak,\n\n☒\n\nY Gece postaları da dahil olmak üzere çalışanların sağlık gözetimini yapmak,\n\n☒\nv Özel politika gerektiren gruplar, meslek hastalığı tanısı veya ön tanısı alanlar, kronik\n☐\nhastalığı, madde bağımlılığı, birden fazla iş kazası geçirmiş olanlar gibi çalışanların,\n☐\nuygun işe yerleştirilmeleri için gerekli sağlık muayenelerini yaparak rapor düzenlemek,\n☐\nmeslek hastalığı tanısı veya ön tanısı almış çalışanın olması durumunda kişinin çalıştığı\nortamdaki diğer çalışanların sağlık muayenelerini tekrarlamak,\n☐\n\nv Sağlık sorunları nedeniyle işe devamsızlık durumları ile işyerinde olabilecek sağlık\n☒\n\n☐\ntehlikeleri arasında bir ilişkinin olup olmadığını tespit etmek, gerektiğinde çalışma\n☐\nortamı ile ilgili ölçümler yapılmasını planlayarak işverenin onayına sunmak ve alınan\nsonuçların çalışanların sağlığı yönünden değerlendirmesini yapmak,\n\n☐\n\n☒\nv Çalışanların sağlık nedeniyle tekrarlanan işten uzaklaşmalarından sonra işe\ndönüşlerinde talep etmeleri halinde işe dönüş muayenesi yaparak eski görevinde\n\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n☐\n\nçalışması sakıncalı bulunanlara mevcut sağlık durumlarına uygun bir görev verilmesini\ntavsiye ederek işverenin onayına sunmak,\n\n☒\nv Bulaşıcı hastalıkların kontrolü için yayılmayı önleme ve bağışıklama çalışmalarının\nyanı sıra gerekli hijyen eğitimlerini vermek, gerekli muayene ve tetkiklerinin\nyapılmasını sağlamak,\n☐\n\n☒\nv İşyerindeki sağlık gözetimi ile ilgili çalışmaları kaydetmek, iş güvenliği uzmanı ile\n\n☐ ☐ ☐\nişbirliği yaparak iş kazaları ve meslek hastalıkları ile ilgili değerlendirme yapmak,\ntehlikeli olayın tekrarlanmaması için inceleme ve araştırma yaparak gerekli önleyici\nfaaliyet planlarını hazırlamak ve bu konuları da içerecek şekilde yıllık çalışma planını\n\n☐\nhazırlayarak işverenin onayına sunmak, uygulamaların takibini yapmak,\n\n☒\nv Bir başka işverenden iş görmek için işyerine geçici olarak gönderilen çalışanlar ile alt\n\n☐\nişveren çalışanlarının yapacakları işe uygun olduğunu gösteren sağlık raporlarının\nsüresinin dolup dolmadığını kontrol etmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "den iş görmek için işyerine geçici olarak gönderilen çalışanlar ile alt\n\n☐\nişveren çalışanlarının yapacakları işe uygun olduğunu gösteren sağlık raporlarının\nsüresinin dolup dolmadığını kontrol etmek. ☐\n\nEğitim, bilgilendirme ve kayıt;\n\n☒\nv Çalışanların iş sağlığı ve güvenliği eğitimlerinin ilgili mevzuata uygun olarak\n☐\nplanlanması konusunda çalışma yaparak işverenin onayına sunmak ve uygulamalarını\nyapmak veya kontrol etmek,\n\n☐\n\nv İşyerinde ilkyardım ve acil müdahale hizmetlerinin organizasyonu ve personelin\n☒\n\neğitiminin sağlanması çalışmalarını ilgili mevzuat doğrultusunda yürütmek,\n\n☒\nv Yöneticilere, bulunması halinde iş sağlığı ve güvenliği kurulu üyelerine ve çalışanlara\n\n☐\ngenel sağlık, iş sağlığı ve güvenliği, hijyen, bağımlılık yapan maddelerin kullanımının\n☐\nzararları, kişisel koruyucu donanımlar ve toplu korunma yöntemleri konularında eğitim\nvermek, eğitimin sürekliliğini sağlamak,\n☐\n\n☒\nv Çalışanları işyerindeki riskler, sağlık gözetimi, yapılan işe giriş ve periyodik\n\n☐\nmuayeneler konusunda bilgilendirmek,\n\n☒\nv İş sağlığı ve güvenliği çalışmaları ve sağlık gözetimi sonuçlarının kaydedildiği yıllık\n\n☐\ndeğerlendirme raporunu iş güvenliği uzmanı ile işbirliği halinde hazırlamak,\n\n☒\nv Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri\n☐\nİSG-KATİP sistemi üzerinden Genel Müdürlüğe bildirmek.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "venliği uzmanı ile işbirliği halinde hazırlamak,\n\n☒\nv Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri\n☐\nİSG-KATİP sistemi üzerinden Genel Müdürlüğe bildirmek. İlgili birimlerle işbirliği;\n\n☒\nv Sağlık gözetimi sonuçlarına göre, iş güvenliği uzmanı ile işbirliği içinde çalışma\n☐\nortamının gözetimi kapsamında gerekli ölçümlerin yapılmasını önermek, ölçüm\nsonuçlarını değerlendirmek,\n☐\n\nv Bulunması halinde üyesi olduğu iş sağlığı ve güvenliği kuruluyla işbirliği içinde\n☒\n\n<!-- PageNumber=\"24\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nçalışmak,\n\n☒\nv İşyerinde iş sağlığı ve güvenliği konularında bilgi ve eğitim sağlanması için ilgili\ntaraflarla işbirliği yapmak,\n\n☒\nY İş kazaları ve meslek hastalıklarının analizi, iş uygulamalarının iyileştirilmesine\nyönelik programlar ile yeni teknoloji ve donanımın sağlık açısından değerlendirilmesi\nve test edilmesi gibi mevcut uygulamaların iyileştirilmesine yönelik programların\ngeliştirilmesi çalışmalarına katılmak,\n☐\n\nv Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Yönetmeliğine göre meslek\n☒ ☐\nhastalığı ile ilgili sağlık kurulu raporlarını düzenlemeye yetkili hastaneler ile işbirliği\niçinde çalışmak, iş kazasına uğrayan veya meslek hastalığına yakalanan çalışanların\nrehabilitasyonu konusunda ilgili birimlerle işbirliği yapmak,\n☐\n\nv İş sağlığı ve güvenliği alanında yapılacak araştırmalara katılmak,\n☒\n\n☒\nGerekli yerlerde kullanılmak amacıyla iş sağlığı ve güvenliği talimatları ile çalışma izin\nprosedürlerinin hazırlanmasında iş güvenliği uzmanına katkı vermek,\n\n☒\nv Bir sonraki yılda gerçekleştirilecek iş sağlığı ve güvenliğiyle ilgili faaliyetlerin yer\naldığı yıllık çalışma planını iş güvenliği uzmanıyla birlikte hazırlamak,\n\nv İşyerinde görevli çalışan temsilcisi ve destek elemanlarının çalışmalarına destek\n☒\n\n☐\nsağlamak ve bu kişilerle işbirliği yapmak.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "yıllık çalışma planını iş güvenliği uzmanıyla birlikte hazırlamak,\n\nv İşyerinde görevli çalışan temsilcisi ve destek elemanlarının çalışmalarına destek\n☒\n\n☐\nsağlamak ve bu kişilerle işbirliği yapmak. NOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir. <table>\n<caption>Tablo 3.9 Çalışan Temsilcilerinin Bilgileri, Görev ve Sorumlulukları Çalışan Temsilcisi</caption>\n<tr>\n<th></th>\n<th>Adı Soyadı</th>\n<th>Görevi</th>\n<th>İletişim Bilgileri</th>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "## Görev ve Sorumluluklar\n\n\n☒\nİş sağlığı ve güvenliği ile ilgili çalışmalara katılmak, çalışmaları izlemek, tehlike\nkaynağının yok edilmesi veya tehlikeden kaynaklanan riskin azaltılması için tedbir\nalınmasını istemek, tekliflerde bulunmak ve benzeri konularda çalışanları temsil etmek.\n\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "## Çalışanların Görev ve Sorumlulukları\n\n\n☒\nİş sağlığı ve güvenliği ile ilgili aldıkları eğitim ve işverenin bu konudaki talimatları\ndoğrultusunda, kendilerinin ve hareketlerinden veya yaptıkları işten etkilenen diğer\nçalışanların sağlık ve güvenliklerini tehlikeye düşürmeyecek şekilde çalışmak,\n\n☒\nv İşyerindeki makine, cihaz, araç, gereç, tehlikeli madde, taşıma ekipmanı ve diğer\nüretim araçlarını kurallara uygun şekilde kullanmak, bunların güvenlik donanımlarını\ndoğru olarak kullanmak, keyfi olarak çıkarmamak ve değiştirmemek,\n\n☒\nv Kendilerine sağlanan kişisel koruyucu donanımı doğru kullanmak ve korumak,\n\n☒\nv İşyerindeki makine, cihaz, araç, gereç, tesis ve binalarda sağlık ve güvenlik yönünden\nciddi ve yakın bir tehlike ile karşılaştıklarında ve koruma tedbirlerinde bir eksiklik\ngördüklerinde, işverene veya çalışan temsilcisine derhal haber vermek,\n\n☒\nv Teftişe yetkili makam tarafından işyerinde tespit edilen noksanlık ve mevzuata\naykırılıkların giderilmesi konusunda, işveren ve çalışan temsilcisi ile iş birliği yapmak,\n\nv Kendi görev alanında, iş sağlığı ve güvenliğinin sağlanması için işveren ve çalışan\n☒\n\ntemsilcisi ile iş birliği yapmak.\n\nNOT: İş ve işyeri koşulları göz önünde bulundurularak görev ve sorumluluklar genişletilebilir.\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "### 3.2 İSG Organizasyon Şeması\n\n\nBu başlık altında proje kapsamında iş sağlığı ve güvenliği organizasyon yapılanması şematik\nolarak gösterilecektir. Aşağıda iş sağlığı ve güvenliği organizasyonuna yönelik bir şema\nörneği gösterilmektedir:\n\n\n<figure>\n<figcaption>Şekil 3.1 İSG Organizasyon Şeması Örneği</figcaption>\n\nİşin Sahibi/İhale Makamı\n\nİş Güvenliği Uzmanı\nİşyeri Hekimi\nÖRNEKTIR.\n\nAsıl İşveren / Proje Sorumlusu\n\nSağlık ve Güvenlik Koordinatörü\n(Hazırlık / Uygulama Aşaması)\n\nAlt İşverenler\n\nKendi Nam ve\nHesabına Çalışanlar\n\nİş Güvenliği Uzmanı /\nİşyeri Hekimi\n\n</figure>\n\n\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "### 4.1 İş Akış Planı\n\n\nProje süresince gerçekleştirilecek işler ana başlıklar halinde, işlerin başlangıç ve bitiş\ntarihlerini de içerecek şekilde belirlenecek ve projenin büyüklüğü ile niteliğine göre yapılan\nişler detaylandırılacaktır. İş akışının oluşturulmasında proje yönetimi yazılımlarının kullanılması tavsiye\nedilmektedir. Bu başlık altında proje yönetimi yazılımı veya aşağıdaki tablo örneğine benzer\nhazırlanmış olan iş akış planına yer verilecektir. <table>\n<caption>Tablo 4.1 İş Akış Planı Örneği</caption>\n<tr>\n<th>Yapılacak iş</th>\n<th>Süresi</th>\n<th>Başlangıç Tarihi</th>\n<th>Bitiş Tarihi</th>\n</tr>\n<tr>\n<td>Temel Kazı ve Dolgu İşleri</td>\n<td>7 Gün</td>\n<td>31.08.2015</td>\n<td>08.09.2015</td>\n</tr>\n<tr>\n<td>Grobeton</td>\n<td>1 Gün</td>\n<td>09.09.2015</td>\n<td>09.09.2015</td>\n</tr>\n<tr>\n<td>Temel Kalıp ve Donatı İşleri</td>\n<td>6 Gün</td>\n<td>10.09.2015</td>\n<td>17.09.2015</td>\n</tr>\n<tr>\n<td>Temel Betonu Dökülmesi</td>\n<td>1 Gün</td>\n<td>18.09.2015</td>\n<td>18.09.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 Gün</td>\n<td>21.09.2015</td>\n<td>28.09.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat Kolon Tabliye Betonu Dökülmesi</td>\n<td>1 Gün</td>\n<td>29.09.2015</td>\n<td>29.09.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 Gün</td>\n<td>09.10.2015</td>\n<td>12.10.2015</td>\n</tr>\n<tr>\n<td>1. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 Gün</td>\n<td>09.10.2015</td>\n<td>16.10.2015</td>\n</tr>\n<tr>\n<td>1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "lik</td>\n<td>2 Gün</td>\n<td>09.10.2015</td>\n<td>12.10.2015</td>\n</tr>\n<tr>\n<td>1. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 Gün</td>\n<td>09.10.2015</td>\n<td>16.10.2015</td>\n</tr>\n<tr>\n<td>1. Kat Kolon Tabliye Betonu Dökülmesi</td>\n<td>1 Gün</td>\n<td>19.10.2015</td>\n<td>19.10.2015</td>\n</tr>\n<tr>\n<td>1. Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 Gün</td>\n<td>29.10.2015</td>\n<td>30.10.2015</td>\n</tr>\n<tr>\n<td>2. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 Gün</td>\n<td>29.10.2015</td>\n<td>05.11.2015</td>\n</tr>\n<tr>\n<td>2. Kat Kolon Tabliye Betonu Dökülmesi</td>\n<td>1 Gün</td>\n<td>06.11.2015</td>\n<td>06.11.2015</td>\n</tr>\n<tr>\n<td>2. Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 Gün</td>\n<td>18.11.2015</td>\n<td>19.11.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat Duvar</td>\n<td>5 Gün</td>\n<td>20.11.2015</td>\n<td>26.11.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat İç Sıva</td>\n<td>7 Gün</td>\n<td>27.11.2015</td>\n<td>07.12.2015</td>\n</tr>\n<tr>\n<td>Zemin Kat Tesviye Betonu</td>\n<td>2 Gün</td>\n<td>08.12.2015</td>\n<td>09.12.2015</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<th>Zemin Kat Kapı Pencere Kör Kasa Montajı</th>\n<th>2 Gün</th>\n<th>10.12.2015</th>\n<th>11.12.2015</th>\n</tr>\n<tr>\n<td>1. Kat Duvar</td>\n<td>5 Gün</td>\n<td>27.11.2015</td>\n<td>03.12.2015</td>\n</tr>\n<tr>\n<td>1. Kat İç Sıva</td>\n<td>7 Gün</td>\n<td>08.12.2015</td>\n<td>16.12.2015</td>\n</tr>\n<tr>\n<td>1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "/th>\n</tr>\n<tr>\n<td>1. Kat Duvar</td>\n<td>5 Gün</td>\n<td>27.11.2015</td>\n<td>03.12.2015</td>\n</tr>\n<tr>\n<td>1. Kat İç Sıva</td>\n<td>7 Gün</td>\n<td>08.12.2015</td>\n<td>16.12.2015</td>\n</tr>\n<tr>\n<td>1. Kat Tesviye Betonu</td>\n<td>2 Gün</td>\n<td>17.12.2015</td>\n<td>18.12.2015</td>\n</tr>\n<tr>\n<td>1. Kat Kapı Pencere Kör Kasa Montajı</td>\n<td>2 Gün</td>\n<td>21.12.2015</td>\n<td>22.12.2015</td>\n</tr>\n<tr>\n<td>2. Kat Duvar</td>\n<td>5 Gün</td>\n<td>04.12.2015</td>\n<td>10.12.2015</td>\n</tr>\n<tr>\n<td>2.Kat İç Sıva</td>\n<td>7 Gün</td>\n<td>17.12.2015</td>\n<td>25.12.2015</td>\n</tr>\n<tr>\n<td>2. Kat Tesviye Betonu</td>\n<td>2 Gün</td>\n<td>28.12.2015</td>\n<td>29.12.2015</td>\n</tr>\n<tr>\n<td>2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "r>\n<tr>\n<td>2.Kat İç Sıva</td>\n<td>7 Gün</td>\n<td>17.12.2015</td>\n<td>25.12.2015</td>\n</tr>\n<tr>\n<td>2. Kat Tesviye Betonu</td>\n<td>2 Gün</td>\n<td>28.12.2015</td>\n<td>29.12.2015</td>\n</tr>\n<tr>\n<td>2. Kat Kapı Pencere Kör Kasa Montajı</td>\n<td>2 Gün</td>\n<td>30.12.2015</td>\n<td>31.12.2015</td>\n</tr>\n<tr>\n<td>Mekanik ve Elektrik İşleri</td>\n<td>7 Gün</td>\n<td>01.01.2016</td>\n<td>11.01.2016</td>\n</tr>\n<tr>\n<td>Dış Cephe Sıva</td>\n<td>12 Gün</td>\n<td>01.01.2016</td>\n<td>18.01.2016</td>\n</tr>\n<tr>\n<td>Kapı Pencere Montajı</td>\n<td>6 Gün</td>\n<td>19.01.2016</td>\n<td>26.01.2016</td>\n</tr>\n<tr>\n<td>Duvar Kaplama</td>\n<td>10 Gün</td>\n<td>27.01.2016</td>\n<td>09.02.2016</td>\n</tr>\n<tr>\n<td>Taban Kaplama</td>\n<td>5 Gün</td>\n<td>10.02.2016</td>\n<td>16.02.2016</td>\n</tr>\n<tr>\n<td>Cephe Isı Yalıtım</td>\n<td>8 Gün</td>\n<td>17.02.2016</td>\n<td>26.02.2016</td>\n</tr>\n<tr>\n<td>Cephe Boya</td>\n<td>8 Gün</td>\n<td>29.02.2016</td>\n<td>09.03.2016</td>\n</tr>\n<tr>\n<td>Duvar - Tavan Boya</td>\n<td>8 Gün</td>\n<td>10.03.2016</td>\n<td>21.03.2016</td>\n</tr>\n<tr>\n<td>Çatı</td>\n<td>15 Gün</td>\n<td>22.03.2016</td>\n<td>11.04.2016</td>\n</tr>\n<tr>\n<td>Bina Çevre Düzenlemesi</td>\n<td>20 Gün</td>\n<td>22.03.2016</td>\n<td>18.04.2016</td>\n</tr>\n<tr>\n<td>Proje Süresi, Başlangıç ve Bitiş Tarihleri</td>\n<td>189 Gün</td>\n<td>31.08.2015</td>\n<td>18.04.2016</td>\n</tr>\n</table>\n\n\nNot 1: Örnek olarak doldurulmuş olan bu tablo yapı sahasında yapılacak işler dikkate alınarak açık ve net bir\nşekilde doldurulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "Gün</td>\n<td>31.08.2015</td>\n<td>18.04.2016</td>\n</tr>\n</table>\n\n\nNot 1: Örnek olarak doldurulmuş olan bu tablo yapı sahasında yapılacak işler dikkate alınarak açık ve net bir\nşekilde doldurulmalıdır. Not 2: Tarihler belirlenirken çalışma günleri, resmi tatiller vb. dikkate alınmalıdır. <!-- PageNumber=\"29\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "# Sağlık ve Güvenlik Planı Rehberi\n\n\n\n<table>\n<tr>\n<th></th>\n<th>Task Name</th>\n<th>Duration</th>\n<th>Start</th>\n<th>Finish</th>\n</tr>\n<tr>\n<td>1</td>\n<td>Temel Kazı ve Dolgu İşleri</td>\n<td>7 days</td>\n<td>Mon 31.08.15</td>\n<td>Tue 08.09.15</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Grobeton</td>\n<td>1 day</td>\n<td>Wed 09.09.15</td>\n<td>Wed 09.09.15</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Temel Kalıp ve Donatı İşleri</td>\n<td>6 days</td>\n<td>Thu 10.09.15</td>\n<td>Thu 17.09.15</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Temel Betonu Dökülmesi</td>\n<td>1 day</td>\n<td>Fri 18.09.15</td>\n<td>Fri 18.09.15</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Zemin Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 days</td>\n<td>Mon 21.09.15</td>\n<td>Mon 28.09.15</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Zemin Kat Kolon Tabliye Betonu Dökülmesi</td>\n<td>1 day</td>\n<td>Tue 29.09.15</td>\n<td>Tue 29.09.15</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Zemin Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 days</td>\n<td>Fri 09.10.15</td>\n<td>Mon 12.10.15</td>\n</tr>\n<tr>\n<td>8</td>\n<td>1. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 days</td>\n<td>Fri 09.10.15</td>\n<td>Fri 16.10.15</td>\n</tr>\n<tr>\n<td>9</td>\n<td>1. Kat Kolon Tabliye Betonu Dökülmesi</td>\n<td>1 day</td>\n<td>Mon 19.10.15</td>\n<td>Mon 19.10.15</td>\n</tr>\n<tr>\n<td>10</td>\n<td>1. Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 days</td>\n<td>Thu 29.10.15</td>\n<td>Fri 30.10.15</td>\n</tr>\n<tr>\n<td>11</td>\n<td>2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "d>Mon 19.10.15</td>\n<td>Mon 19.10.15</td>\n</tr>\n<tr>\n<td>10</td>\n<td>1. Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 days</td>\n<td>Thu 29.10.15</td>\n<td>Fri 30.10.15</td>\n</tr>\n<tr>\n<td>11</td>\n<td>2. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>6 days</td>\n<td>Thu 29.10.15</td>\n<td>Thu 05.11.15</td>\n</tr>\n<tr>\n<td>12</td>\n<td>2. Kat Kolon Tabliye Kalıp ve Donatı İşleri</td>\n<td>1 day</td>\n<td>Fri 06.11.15</td>\n<td>Fri 06.11.15</td>\n</tr>\n<tr>\n<td>13</td>\n<td>2. Kat Döşeme Altı Söküm ve Temizlik</td>\n<td>2 days</td>\n<td>Wed 18.11.15</td>\n<td>Thu 19.11.15</td>\n</tr>\n<tr>\n<td>14</td>\n<td>Zemin Kat Duvar</td>\n<td>5 days</td>\n<td>Fri 20.11.15</td>\n<td>Thu 26.11.15</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Zemin Kat İç Sıva</td>\n<td>7 days</td>\n<td>Fri 27.11.15</td>\n<td>Mon 07.12.15</td>\n</tr>\n<tr>\n<td>16</td>\n<td>Zemin Kat Tesviye Betonu</td>\n<td>2 days</td>\n<td>Tue 08.12.15</td>\n<td>Wed 09.12.15</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Kapı Pencere Kör Kasa Montajı</td>\n<td>2 days</td>\n<td>Thu 10.12.15</td>\n<td>Fri 11.12.15</td>\n</tr>\n<tr>\n<td>18</td>\n<td>1. Kat Duvar</td>\n<td>5 days</td>\n<td>Fri 27.11.15</td>\n<td>Thu 03.12.15</td>\n</tr>\n<tr>\n<td>19</td>\n<td>1. Kat İç Sıva</td>\n<td>7 days</td>\n<td>Tue 08.12.15</td>\n<td>Wed 16.12.15</td>\n</tr>\n<tr>\n<td>20</td>\n<td>1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "td>\n<td>5 days</td>\n<td>Fri 27.11.15</td>\n<td>Thu 03.12.15</td>\n</tr>\n<tr>\n<td>19</td>\n<td>1. Kat İç Sıva</td>\n<td>7 days</td>\n<td>Tue 08.12.15</td>\n<td>Wed 16.12.15</td>\n</tr>\n<tr>\n<td>20</td>\n<td>1. Kat Tesviye Betonu</td>\n<td>2 days</td>\n<td>Thu 17.12.15</td>\n<td>Fri 18.12.15</td>\n</tr>\n<tr>\n<td>21</td>\n<td>Kapı Pencere Kör Kasa Montajı</td>\n<td>2 days</td>\n<td>Mon 21.12.15</td>\n<td>Tue 22.12.15</td>\n</tr>\n<tr>\n<td>22</td>\n<td>2. Kat Duvar</td>\n<td>5 days</td>\n<td>Fri 04.12.15</td>\n<td>Thu 10.12.15</td>\n</tr>\n<tr>\n<td>23</td>\n<td>2.Kat İç Sıva</td>\n<td>7 days</td>\n<td>Thu 17.12.15</td>\n<td>Fri 25.12.15</td>\n</tr>\n<tr>\n<td>24</td>\n<td>2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "/td>\n<td>5 days</td>\n<td>Fri 04.12.15</td>\n<td>Thu 10.12.15</td>\n</tr>\n<tr>\n<td>23</td>\n<td>2.Kat İç Sıva</td>\n<td>7 days</td>\n<td>Thu 17.12.15</td>\n<td>Fri 25.12.15</td>\n</tr>\n<tr>\n<td>24</td>\n<td>2. Kat Tesviye Betonu</td>\n<td>2 days</td>\n<td>Mon 28.12.15</td>\n<td>Tue 29.12.15</td>\n</tr>\n<tr>\n<td>25</td>\n<td>Kapı Pencere Kör Kasa Montajı</td>\n<td>2 days</td>\n<td>Wed 30.12.15</td>\n<td>Thu 31.12.15</td>\n</tr>\n<tr>\n<td>26</td>\n<td>Mekanik Elektrik İşleri</td>\n<td>7 days</td>\n<td>Fri 01.01.16</td>\n<td>Mon 11.01.16</td>\n</tr>\n<tr>\n<td>27</td>\n<td>Dış Cephe Sıva</td>\n<td>12 days</td>\n<td>Fri 01.01.16</td>\n<td>Mon 18.01.16</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Kapı Pencere Montajı</td>\n<td>6 days</td>\n<td>Tue 19.01.16</td>\n<td>Tue 26.01.16</td>\n</tr>\n<tr>\n<td>29</td>\n<td>Duvar Kaplama</td>\n<td>10 days</td>\n<td>Wed 27.01.16</td>\n<td>Tue 09.02.16</td>\n</tr>\n<tr>\n<td>30</td>\n<td>Taban Kaplama</td>\n<td>5 days</td>\n<td>Wed 10.02.16</td>\n<td>Tue 16.02.16</td>\n</tr>\n<tr>\n<td>31</td>\n<td>Cephe Isı Yalıtım</td>\n<td>8 days</td>\n<td>Wed 17.02.16</td>\n<td>Fri 26.02.16</td>\n</tr>\n<tr>\n<td>32</td>\n<td>Cephe Boya</td>\n<td>8 days</td>\n<td>Mon 29.02.16</td>\n<td>Wed 09.03.16</td>\n</tr>\n<tr>\n<td>33</td>\n<td>Duvar - Tavan Boya</td>\n<td>8 days</td>\n<td>Thu 10.03.16</td>\n<td>Mon 21.03.16</td>\n</tr>\n<tr>\n<td>34</td>\n<td>Çatı</td>\n<td>15 days</td>\n<td>Tue 22.03.16</td>\n<td>Mon 11.04.16</td>\n</tr>\n<tr>\n<td>35</td>\n<td>Bina Çevre Düzenlemesi</td>\n<td>20 days</td>\n<td>Tue 22.03.16</td>\n<td>Mon 18.04.16</td>\n</tr>\n</table>\n\n\n<figure>\n\nSep '15\n\nOct '15\n\nNov '15\n\nDec '15\n\nJan '16\n\nFeb '16\n\nMar '16\n\nApr '16\n\n16\n\n23\n\n30 06\n\n13\n\n20\n\n27\n\n04\n\n11\n\n18\n\n25\n\n01\n\n08\n\n15\n\n22\n\n29\n\n06\n\n20\n\n27\n\n03\n\n10\n\n17\n24\n\n31\n\n07\n\n14\n\n21\n\n28\n\n06\n\n13\n\n20\n\n27\n\n03 10\n\n</figure>\n\n\n<!-- PageFooter=\"Şekil 4.1 İş Akış Planı Örneği (MS Project)\" -->\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "## 4.2 Çalışma Yöntemleri, Ekipman ve Eğitimli Personel İhtiyacının Belirlenmesi\n\n\nProje süresince gerçekleştirilecek işlerde her ana başlık ve ihtiyaç duyulan alt başlıklar\niçin aşağıdaki tablo doldurulacaktır. İş planında farklı başlık olarak yer alan ancak niceliği ve\nniteliği aynı olan işler için, çalışma yöntemlerinin tekrar belirlenmesine gerek yoktur. Örneğin; 1. Kat Kolon, Tabliye Kalıp ve Donatı İşleri ile 2. Kat Kolon, Tabliye Kalıp ve\nDonatı İşleri birbirinin tekrarı ise bu iş kalemleri için bir tek çalışma yöntemi hazırlanması\nyeterlidir. Çalışma yöntemleri belirlenirken öncelikli olarak aşağıda belirtilen hususlar\ndeğerlendirilecektir:\n\n1\\. Teknik Açıklama ve Gereklilikler\n\na) Yapım Tekniği ve Teknolojisi,\n\nb) İş Ekipmanı Kullanımı,\n\nc) Kimyasal Madde Kullanımı;\n\n2\\. Çalışma Alanına Erişim\n\n3\\. Malzemelerin Taşınması\n\nÇalışma yöntemi belirlenirken iş sağlığı ve güvenliği prensipleri ön planda tutularak,\nteknik ve teknolojik gelişmeler ile işyeri koşulları dikkate alınacaktır. Belirlenen çalışma yöntemine bağlı olarak, kullanılması gerekli iş ekipmanlarına, yapı\nkimyasallarına ve eğitimli personel ihtiyacına da aynı tabloda yer verilecektir. Yapılacak işte alt işveren - asıl işveren ilişkisi kurulacak ise;\n\n☒\nY Alt işverenin belirlenmiş olması halinde, tablo alt işveren ile asıl işverenin işbirliği\nile doldurulacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "a yer verilecektir. Yapılacak işte alt işveren - asıl işveren ilişkisi kurulacak ise;\n\n☒\nY Alt işverenin belirlenmiş olması halinde, tablo alt işveren ile asıl işverenin işbirliği\nile doldurulacaktır. ☒\nY Alt işverenin henüz belirlenmediği durumlarda; asıl işveren tarafından doldurulmuş\nolan tablo, alt işveren ile sözleşme imzalanmasından itibaren alt işveren-asıl işveren\nişbirliğiyle güncellenecektir. ☒\nY Belirlenen çalışma yöntemleri, ekipmanlar ve eğitimli personel ihtiyacı; alt işveren\nseçiminde asıl işverene yardımcı olabilecek kriterleri de oluşturacaktır. <!-- PageNumber=\"31\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "# Tablo 4.2 Çalışma Yöntemi (1. Örnek)\n\n\nYapılacak İş\n\n1\\. Kat Kolon, Tabliye Kalıp ve Donatı İşleri\n2\\. Kat Kolon, Tabliye Kalıp ve Donatı İşleri",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "## Teknik Açıklama ve Gereklilikler\n\n\nYapım Tekniği ve Teknolojisi\n\nv Kolon ve üst kat tabliye (kiriş ve döşeme) betonu aynı anda dökülecektir.\n☒\n\nv Konvansiyonel kalıp kullanılacaktır.\n☒\n\nKalıp altı destek elemanı olarak teleskopik dikmeler kullanılacaktır.\n☒\n\nİş Ekipmanı Kullanımı\n\n☒\nv Demir kesme ve bükme işlemleri elektrikli makinalarla yapılacaktır.\n\nY Ahşap kalıp elemanlarının kesilmesi için elektrikli el testeresi kullanılacaktır.\nKimyasal Madde Kullanımı\n☒\n\n☒\nv Ahşap kalıplar kullanılacak olup beton dökümü öncesinde kalıplar kalıp yağıyla\nyağlanacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "## Çalışma Alanına Erişim\n\n\nERNEKTIR\n\n☒\nv Çalışanlar çalışacakları kata, bina içerisindeki kat merdiveniyle ulaşacaktır.\n\n☒\nY Kolon kalıp ve demir montajının tamamlanması için kendinden merdivenli çalışma\nplatformu ile çalışma alanına ulaşılacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "## Malzemelerin Taşınması\n\n\n☒\nv Sökülen kalıp elemanlarının, bir üst kata taşınması için döşeme kenarlarında konsol\nşeklinde malzeme yükleme boşaltma platformu oluşturulacaktır.\n\n☒\nv Sökülen kalıp ve destek elemanları malzeme yükleme boşaltma platformu üzerinden\nmobil vinç yardımıyla üst kata taşınacaktır.\n\n☒\nv Zeminde hazırlanmış ve birleştirilmiş olan demir donatıları katlara mobil vinç\nkullanılarak taşınacaktır.\n\n\n<table>\n<tr>\n<th>İş Ekipmanı</th>\n<th>Kullanılacak Kimyasallar</th>\n<th>Eğitimli Personel İhtiyacı</th>\n</tr>\n<tr>\n<td>1. Kaldırma Ekipmanı (Mobil vinç)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2. Malzeme Yükleme-Boşaltma</td>\n<td>1. Mineral Yağ Esaslı</td>\n<td>1. Mobil Vinç Operatörü</td>\n</tr>\n<tr>\n<td>Platformu</td>\n<td>Kalıp Ayırıcı Sıvı (Kalıp</td>\n<td>2. Ahşap Kalıpçı</td>\n</tr>\n<tr>\n<td>3. Elektrikli Demir Kesme</td>\n<td rowspan=\"2\">Yağı)</td>\n<td rowspan=\"2\">3. Betonarme Demircisi</td>\n</tr>\n<tr>\n<td>Makinası</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n4\\. Elektrikli Demir Bükme\nMakinası\n5\\. Elektrikli El Testeresi\n\nNot: Bu tablo Kolon, Tabliye Kalıp ve Donatı İşleri için örnek olarak doldurulmuştur.\n\nTablo 4.3 Çalışma Yöntemi (2. Örnek)\n\nYapılacak İş\n\nDış Cephe Sıva",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "## Teknik Açıklama ve Gereklilikler\n\n\nYapım Tekniği ve Teknolojisi\n\nv Elle sıva işlemi gerçekleştirilecektir.\n☒\n\n☒\n/ H tipi iskele kullanılacaktır. İskele kurulumunda katlarda ana korkuluk seviyesine\nyerleştirilecek geçici platform aracılığıyla bir üst kattaki iskele bileşenlerinin montajı\nyapılacaktır.\n\nİş Ekipmanı Kullanımı\n\n☒\nv Sıva harcı betoniyer kullanılarak hazırlanacaktır.\n\nv Sıva işlemi için H tipi dış cephe iskelesi kurulacaktır.\nKimyasal Madde Kullanımı\n☒\n\nSENEKTIR.\n☒\n\nv Takviyeli kaba sıva harcı (çimento, kireç, su, kum) kullanılacaktır.\n\nY Kaba sıva harcında hazır sönmüş kireç kullanılacaktır.\n☒",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "## Çalışma Alanına Erişim\n\n\nv Çalışanlar uygulama yapacağı her kat seviyesine dış cephe iskelesinin merdiveni ile\n\n☒ ☒\nulaşacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": "## Malzemelerin Taşınması\n\n\n☒\nBetoniyerde hazırlanan harç el arabasına yüklenecektir.\n\n☒\nY Yüklenmiş olan el arabası zemin seviyesinden uygulama seviyesine dış cephe yük\nasansörü ile taşınacaktır.\n\n\n<table>\n<tr>\n<th>İş Ekipmanı</th>\n<th>Kullanılacak Kimyasallar</th>\n<th>Eğitimli Personel İhtiyacı</th>\n</tr>\n<tr>\n<td>1. Betoniyer (harç-beton yapma aracı)</td>\n<td>1. Çimento</td>\n<td>1. İskele Kurulum Elemanı</td>\n</tr>\n<tr>\n<td>2. H Tipi Dış Cephe İskelesi</td>\n<td>2. Sönmüş Kireç</td>\n<td>2. Sıvacı</td>\n</tr>\n<tr>\n<td>3. Dış Cephe Yük Asansörü</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"3\">Not: Bu tablo dış cephe sıva işleri için örnek olarak doldurulmuştur.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "## 5.1 Yapı Sahasının Geneline Etki Eden Riskler ve Kontrol Tedbirlerinin Belirlenmesi\n\n\nBu kısımda, şantiye sahasında karşılaşılabilecek, çalışanların bir kısmını veya tamamını\netkileyebilecek ve iş adımlarında değerlendirilmesi etkili olmayan yapı sahasına özgü tehlike\nkaynakları (arazi koşulları, çevredeki yerleşim, içme suyu kirliliği ve mevcut elektrik hatları\nvb.) ile biyolojik tehlike kaynakları (böcek ısırıkları, yılan sokması, vb.) değerlendirilecektir. Ayrıca, yapı sahasında sürdürülen işlerden bağımsız olarak komşu yerleşkelerde\nsürdürülen inşaat, maden vb. faaliyetlerin etkisine bağlı olarak çalışanların sağlık ve\ngüvenliğini etkileyen yeni tehlike kaynakları da ortaya çıkabilir. Örneğin; komşu yapı\nsahasında gerçekleştirilen temel kazık çakma çalışması esnasında çalışanlar yüksek düzeyde\ngürültü ve titreşime maruz kalabilirler. Benzer şekilde komşu yapı sahasında yapılacak bir\nyıkım işlemi de yoğun toz oluşumu ve parça fırlaması gibi riskleri beraberinde getirebilir. Dolayısıyla, komşu inşaat veya maden gibi riskli faaliyetleri sürdüren işyerlerinin yetkilileri\nile gerekli koordinasyonun sağlanması ve gerekli bilgilerin temini de ayrıca önem arz\netmektedir. Komşu inşaatın iş akış planından elde edilen ve yapı sahasını etkileyebilecek\nriskli işler ile bunların gerçekleştirilme tarihleri bu bilgilerden sayılabilir. Tablo 5.2'de yer alan tehlike kaynaklarının belirlenmesinde Tablo 5.1 yol gösterici\nolarak kullanılacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "leyebilecek\nriskli işler ile bunların gerçekleştirilme tarihleri bu bilgilerden sayılabilir. Tablo 5.2'de yer alan tehlike kaynaklarının belirlenmesinde Tablo 5.1 yol gösterici\nolarak kullanılacaktır. <table>\n<caption>Tablo 5.1 Yapı Sahasının Geneline Özgü Tehlike Kaynakları</caption>\n<tr>\n<td colspan=\"2\">Yapı Sahasının Geneline Özgü Tehlike Kaynakları</td>\n</tr>\n<tr>\n<td>· Mevcut elektrik hatları</td>\n<td>· Çevredeki yerleşim- Diğer</td>\n</tr>\n<tr>\n<td>· Çevredeki yerleşim - Bitişik yapılar</td>\n<td>· Arazi koşulları - Gevşek zemin,</td>\n</tr>\n<tr>\n<td>· Çevredeki yerleşim - Akaryakıt istasyonu</td>\n<td>· Arazi Koşulları - Engebeli arazi</td>\n</tr>\n<tr>\n<td>· Çevredeki yerleşim - Atık biriktirme alanı</td>\n<td>· Arazi Koşulları - Bataklık zemin</td>\n</tr>\n<tr>\n<td>· Çevredeki yerleşim - Tüp dolum tesisi</td>\n<td>· Arazi Koşulları - Diğer</td>\n</tr>\n<tr>\n<td>· Çevredeki yerleşim - Komşu inşaat</td>\n<td>· İçme suyu kirliliği</td>\n</tr>\n<tr>\n<td>faaliyetleri</td>\n<td>· Diğer (Lütfen belirtiniz)</td>\n</tr>\n<tr>\n<td colspan=\"2\">Biyolojik Tehlike Kaynakları</td>\n</tr>\n<tr>\n<td>· Kandaki Patojenler (Hepatit B ya da C,</td>\n<td>· Tıbbi Atıklar</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<caption>Tablo 5.2 Yapı Sahasının Geneline Özgü Tehlike Kaynağı, Risk ve Kontrol Önlemleri</caption>\n<tr>\n<th>HIV)</th>\n<th>· Zehirli Bitkiler (Sarmaşık, Isırgan</th>\n</tr>\n<tr>\n<td>· Fareler ve diğer kemirgenler -</td>\n<td>Otu, Mantar vb.)</td>\n</tr>\n<tr>\n<td>(Hantavirus Hastalığı)</td>\n<td>· Kuş Pislikleri - (Pistakoz ve</td>\n</tr>\n<tr>\n<td>· Yarasa Dışkısı -</td>\n<td>Histoplasmosis)</td>\n</tr>\n<tr>\n<td>(Histoplasmosis Hastalığı)</td>\n<td>· Kuduz</td>\n</tr>\n<tr>\n<td>· Böcek ısırıkları ve sokmaları</td>\n<td>· Arıtılmamış Kanalizasyon</td>\n</tr>\n<tr>\n<td>· Keneler - (Lyme, Kırım Kongo Kanamalı</td>\n<td>· Yılanlar</td>\n</tr>\n<tr>\n<td>Ateşi Hastalığı)</td>\n<td>· Diğer (Lütfen belirtiniz)</td>\n</tr>\n<tr>\n<td>· Suda Oluşan Patojenler</td>\n<td></td>\n</tr>\n</table>\n\n\n<table>\n<tr>\n<th>TEHLİKE KAYNAĞI</th>\n<th>RİSK</th>\n<th>KONTROL ÖNLEMİ</th>\n</tr>\n<tr>\n<td colspan=\"3\">Yapı Sahasının Geneline Özgü</td>\n</tr>\n<tr>\n<td>Arazi koşulları</td>\n<td>Gevşek kayaçların yapı alanına düşmesi</td>\n<td>-Şantiye ve ulaşım yolları çevresindeki gevşek kayaçlar betonlanarak stabil hale getirilecektir.</td>\n</tr>\n<tr>\n<td>Çevredeki yerleşim</td>\n<td>Kimyasal üretim fabrikasından gaz yayılımı</td>\n<td>-Yayılması muhtemel gazların neler olduğu belirlenecek ve çalışanlara uygun gaz maskeleri dağıtılacaktır.</td>\n</tr>\n<tr>\n<td>Mevcut elektrik hatları</td>\n<td>ORN Elektrik çarpması</td>\n<td>-Hattın taşınması veya hattaki elektriğin kesilmesi mümkün değil ise elektrik nakil hatlarına ilişkin güvenlik mesafesi, rüzgârda hatların salınımı da dikkate alınarak belirlenecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "rpması</td>\n<td>-Hattın taşınması veya hattaki elektriğin kesilmesi mümkün değil ise elektrik nakil hatlarına ilişkin güvenlik mesafesi, rüzgârda hatların salınımı da dikkate alınarak belirlenecektir. -Güvenlik mesafesi dikkate alınarak çalışma ortamı ile hat arasına boşluksuz bariyer çekilecektir.</td>\n</tr>\n<tr>\n<td colspan=\"3\">Biyolojik</td>\n</tr>\n<tr>\n<td>Keneler</td>\n<td>Lyme, Kırım Kongo Kanamalı</td>\n<td>-Şantiye ve çevresindeki riskli alanlara ilaçlama yapılacaktır.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<th>Ateşi Hastalığı</th>\n<th>-Cilde ve/veya giysilere uygulanabilen böcek kovucu ilaçlar temin edilecektir.</th>\n</tr>\n<tr>\n<td colspan=\"2\">Not: Seçilen tehlike kaynakları için bu tablo örnek olarak doldurulmuştur.</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 71,
+      "content": "## 5.2 İşle Alakalı Muhtemel Riskler ve Kontrol Tedbirlerinin Belirlenmesi\n\n\nYapı sahasını ve çalışanların tümünü etkileyebilecek genel risklerin ve kontrol\ntedbirlerinin belirlenmesinin hemen ardından, tercih edilen çalışma metotlarına bağlı oluşması\nmuhtemel risklerin belirlenmesi ve kontrol tedbirlerine karar verilmesi büyük önem arz\netmektedir. Yapılan işle ilgili olası fiziksel ve kimyasal tehlike kaynakları, oluşabilecek\nriskler ve alınması planlanan kontrol tedbirleri bu kısımda değerlendirilecektir. Tablo 5.4'deki tehlike kaynaklarının belirlenmesinde Tablo 5.3 yol gösterici olarak\nkullanılacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 71,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 72,
+      "content": "arı, oluşabilecek\nriskler ve alınması planlanan kontrol tedbirleri bu kısımda değerlendirilecektir. Tablo 5.4'deki tehlike kaynaklarının belirlenmesinde Tablo 5.3 yol gösterici olarak\nkullanılacaktır. <table>\n<caption>Tablo 5.3 Fiziksel ve Kimyasal Tehlike Kaynakları</caption>\n<tr>\n<td colspan=\"2\">Fiziksel Tehlike Kaynakları</td>\n</tr>\n<tr>\n<td>· Toprak Altında Kalma riski olan yerlerde</td>\n<td>· Hava Beslemeli Sistem kullanmayı</td>\n</tr>\n<tr>\n<td>çalışma</td>\n<td>gerektiren işler</td>\n</tr>\n<tr>\n<td>· Bataklık zeminde çalışma</td>\n<td>· Basınçlı Hava Sağlanarak Keson İçinde</td>\n</tr>\n<tr>\n<td>· Yüksekte çalışma - Merdiven Kullanımı</td>\n<td>Yapılan İşler</td>\n</tr>\n<tr>\n<td>· Yüksekte çalışma - İskele Kullanımı</td>\n<td>· Gürültü</td>\n</tr>\n<tr>\n<td>· Yüksekte çalışma - Döşeme ve Kenar</td>\n<td>· Titreşim</td>\n</tr>\n<tr>\n<td>Boşlukları</td>\n<td>· Basınç Farkı</td>\n</tr>\n<tr>\n<td>· Yüksekte çalışma - Çatı İşleri</td>\n<td>· Toz</td>\n</tr>\n<tr>\n<td>· Yüksekte çalışma - Diğer</td>\n<td>· Ağır Prefabrike Elemanların Montaj Ve</td>\n</tr>\n<tr>\n<td>· Soğukta Çalışma</td>\n<td>Söküm İşleri</td>\n</tr>\n<tr>\n<td>· Sıcakta çalışma</td>\n<td>· Kaldırma İşleri - Vinçler</td>\n</tr>\n<tr>\n<td>· Basınçlı gaz - Depolanması ve Kullanımı</td>\n<td>· Kaldırma İşleri - Menliftler</td>\n</tr>\n<tr>\n<td>· Kimyasal Aşındırıcı Maddeler -</td>\n<td>· İş Makinelerinin Hareketi (Çarpma vb.)</td>\n</tr>\n<tr>\n<td>Depolanması ve Kullanımı</td>\n<td>· İyonize Olmayan Radyasyon</td>\n</tr>\n<tr>\n<td>· Yıkım İşleri</td>\n<td>· Diğer Ergonomik Tehlikeler</td>\n</tr>\n<tr>\n<td>· Sondaj İşleri</td>\n<td>· Oksitleyiciler - Depolanması ve</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<td>· Hafriyat İşleri</td>\n<td>Kullanımı</td>\n</tr>\n<tr>\n<td>· Elektrik İşleri</td>\n<td>· Yetersiz Bakım ve Temizlik</td>\n</tr>\n<tr>\n<td>· Tünel/ Kuyu/ Kazı / Kanal Açma/Tahkimat</td>\n<td>· Uzak Lokasyon / Şantiye Konumu</td>\n</tr>\n<tr>\n<td>İşleri</td>\n<td>· Tekrarlı Hareketler</td>\n</tr>\n<tr>\n<td>· Patlayıcılar - Yanıcı / Reaktif Kimyasallar</td>\n<td>· Yuvarlanan veya Sıkıştıran Objeler</td>\n</tr>\n<tr>\n<td>· Patlayıcılar - Diğer Patlayıcı Maddeler</td>\n<td>· Engebeli Arazi</td>\n</tr>\n<tr>\n<td>· Yanıcı Kimyasallar (Yangın)</td>\n<td>· Zemindeki düzensizlikler</td>\n</tr>\n<tr>\n<td>· Diğer Parlayıcı Maddeler (Yangın)</td>\n<td>· Yapısal yetersizlik</td>\n</tr>\n<tr>\n<td>· Yanıcı Sıvılar - Depolanması ve Kullanımı</td>\n<td>· Araç ve Yaya Trafiği - Şantiye İçi ve</td>\n</tr>\n<tr>\n<td>· Ağır Ekipmanların Kullanımı</td>\n<td>Çevresi</td>\n</tr>\n<tr>\n<td>· Elle Ağır Kaldırma / Taşıma</td>\n<td>· Havai hatlar - (elektrik, iletişim vb.)</td>\n</tr>\n<tr>\n<td>· Yüksek Basınçlı Su Kullanımı</td>\n<td>· Yeraltı hatları - (elektrik, gaz, su,</td>\n</tr>\n<tr>\n<td>· Sıcak Yüzeyler</td>\n<td>iletişim vb.)</td>\n</tr>\n<tr>\n<td>· Yetersiz Aydınlatma</td>\n<td>· El Aletleri</td>\n</tr>\n<tr>\n<td>· Olumsuz Hava Şartları - Yıldırım ve</td>\n<td>· Kaynak işleri</td>\n</tr>\n<tr>\n<td>Şiddetli Rüzgârlar</td>\n<td>· Kesme İşleri</td>\n</tr>\n<tr>\n<td>· Olumsuz Hava Şartları - Kar, yağmur vb.</td>\n<td>· Su üzerinde veya yakınında çalışma</td>\n</tr>\n<tr>\n<td>· İyonize Radyasyon</td>\n<td>· Diğer (Lütfen belirtiniz)</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 72,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 73,
+      "content": "## Kimyasal Tehlike Kaynakları\n\n\n· Ahşap Tozu\n\n· MDF- Sunta-Lamine (Formaldehit vb.)\n\n· Plastik\n\n· PVC\n\n· Alçı\n\n· Kireç\n\n· Metal Tozu (Alüminyum, Demir, Çelik vb.)\n\n· Kalıp Yağı\n\n· Bims (Pomza-Süngertaşı)\n\n· Tuğla - Kiremit\n\n· Gazbeton\n\n· Çimento\n\n· Boyalar (Su Bazlı, Solvent İçerikli vb.)\n\n· Reçineler(Üretan, epoksi vb.)\n\n· Boya İncelticiler ( Su, Tiner vb.)\n\n· Zemin Kaplamaları (Seramik, Granit,\nPVC vb.)\n\n· Derz Dolguları\n\n· Çatı Kaplama ve Yalıtım Malzemeleri\n(Bitümlü Malzemeler vb.)\n\n· Su Yalıtım Ürünleri\n\n· Diğer Yalıtım Malzemeleri\n\n· Seramik Yapıştırıcıları\n\n<!-- PageNumber=\"37\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<caption>Tablo 5.4 Yapılacak İşlere Bağlı Tehlike, Risk ve Kontrol Önlemleri</caption>\n<tr>\n<td>· Beton (Hazır Beton, Püskürtme Beton vb.)</td>\n<td>· Mastik Dolgu ve Yapıştırıcılar</td>\n</tr>\n<tr>\n<td>· Doğal Taşlar (Mermer, Granit, Andezit vb.)</td>\n<td>· Silikon Dolgu, İzolasyon ve</td>\n</tr>\n<tr>\n<td>· Asbest</td>\n<td>Yapıştırıcılar</td>\n</tr>\n<tr>\n<td>· Beton ve Çimento Katkıları</td>\n<td>· Diğer Yapıştırıcılar</td>\n</tr>\n<tr>\n<td></td>\n<td>· Diğer (Lütfen belirtiniz)</td>\n</tr>\n</table>\n\n\n<table>\n<tr>\n<th>YAPILACAK İŞ</th>\n<th>TEHLİKE KAYNAĞI</th>\n<th>RİSKLER</th>\n<th>KONTROL ÖNLEMİ</th>\n</tr>\n<tr>\n<td rowspan=\"6\">1.ve 2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 73,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 74,
+      "content": "<td></td>\n<td>· Diğer (Lütfen belirtiniz)</td>\n</tr>\n</table>\n\n\n<table>\n<tr>\n<th>YAPILACAK İŞ</th>\n<th>TEHLİKE KAYNAĞI</th>\n<th>RİSKLER</th>\n<th>KONTROL ÖNLEMİ</th>\n</tr>\n<tr>\n<td rowspan=\"6\">1.ve 2. Kat ÖRNE Kolon, Tabliye</td>\n<td colspan=\"3\">Fiziksel</td>\n</tr>\n<tr>\n<td></td>\n<td rowspan=\"2\">Kas-iskelet sistemi rahatsızlıkları</td>\n<td>-Çalışanların ağır yükleri tek başlarına</td>\n</tr>\n<tr>\n<td>Elle Ağır Kaldırma / Taşıma</td>\n<td>taşımamaları için talimatlar oluşturulur. -Yüklerin taşınması için yeterli sayıda çalışanın görevlendirilmesi sağlanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 74,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 75,
+      "content": "r yükleri tek başlarına</td>\n</tr>\n<tr>\n<td>Elle Ağır Kaldırma / Taşıma</td>\n<td>taşımamaları için talimatlar oluşturulur. -Yüklerin taşınması için yeterli sayıda çalışanın görevlendirilmesi sağlanır. -Elle taşıma ile ilgili çalışanlara yönelik eğitim programları oluşturulur.</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>-Kolonlar arası kalıp akslar</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>oluşturulurken 4,5 m boyunda ortadan birbirine bağlanan, 2 ayrı parçadan oluşan ve yere uygun yöntemlerle</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>sabitlenen çelik profil direkler, aksların</td>\n</tr>\n<tr>\n<td rowspan=\"7\">Kalıp ve Donatı İşleri</td>\n<td>Yüksekte</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\">başında ve sonunda birer adet olacak şekilde kullanılacaktır.(Yatay yaşam</td>\n</tr>\n<tr>\n<td>çalışma -</td>\n</tr>\n<tr>\n<td>Döşeme ve</td>\n<td>Yüksekten</td>\n<td>hattının dayanım hesabı yapılacaktır.)</td>\n</tr>\n<tr>\n<td>Kenar</td>\n<td>düşme</td>\n<td>-Direkler arasına gerilecek çelik yatay</td>\n</tr>\n<tr>\n<td>Boşlukları</td>\n<td rowspan=\"3\"></td>\n<td>yaşam hatlarına çalışanlar paraşüt tipi</td>\n</tr>\n<tr>\n<td></td>\n<td>kemerlerini geri sarmalı tipte lanyard ile bağlayacaklardır.</td>\n</tr>\n<tr>\n<td></td>\n<td>-Kat kalıp işleri tamamlandıktan sonra kat platform kenarlarına korkuluk monte edilecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 75,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 76,
+      "content": "tr>\n<td></td>\n<td>kemerlerini geri sarmalı tipte lanyard ile bağlayacaklardır.</td>\n</tr>\n<tr>\n<td></td>\n<td>-Kat kalıp işleri tamamlandıktan sonra kat platform kenarlarına korkuluk monte edilecektir. (Tüm korkuluklar, Yapı İşlerinde İş Sağlığı ve Güvenliği</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<th rowspan=\"6\">1.ve 2. Kat Kolon, Tabliye Kalıp ve Donatı ORN İşleri</th>\n<th></th>\n<th></th>\n<th>Yönetmeliği Ek-5 bölümünde belirtilen kriterleri sağlayacaktır.)</th>\n</tr>\n<tr>\n<td>Yüksekte çalışma - Merdiven Kullanımı</td>\n<td>Yüksekten düşme</td>\n<td>-Kat merdivenlerine geçici korkuluk yapılacaktır. (Tüm korkuluklar, Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği Ek-5 bölümünde belirtilen kriterleri sağlayacaktır.)</td>\n</tr>\n<tr>\n<td>Yüksekte çalışma - Diğer</td>\n<td>Yüksekten düşme</td>\n<td>-Kolonların kalıp birleşimleri ve demir montajları esnasında bir kişinin üzerinde çalışmasına uygun boyutlarda ve dayanımda çift sıra korkuluklu, merdivenli ve tekerlekli (fren mekanizmasına sahip) çalışma platformları kullanılacaktır.</td>\n</tr>\n<tr>\n<td>Yapısal yetersizlik</td>\n<td>Kalıp çökmesi</td>\n<td>-İmalat öncesi kalıp ve kalıp destek sistemlerinin dayanım hesabı yapılacaktır.</td>\n</tr>\n<tr>\n<td>Soğukta çalışma</td>\n<td>Kas kasılması, uyuşma, soğuk algınlığı vb. sağlık sorunları</td>\n<td>-Soğuğa karşı koruyucu iş elbiseleri ve iş eldiveni, gerekli durumlar için termal kıyafetler vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 76,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 77,
+      "content": "<tr>\n<td>Soğukta çalışma</td>\n<td>Kas kasılması, uyuşma, soğuk algınlığı vb. sağlık sorunları</td>\n<td>-Soğuğa karşı koruyucu iş elbiseleri ve iş eldiveni, gerekli durumlar için termal kıyafetler vb. temin edilecektir. - Yeterli sayıda, açık hava koşullarına dayanıklı ısıtma cihazları temin edilecektir.</td>\n</tr>\n<tr>\n<td>Havai hatlar- (elektrik, telefon vb.)</td>\n<td>Elektrik çarpması</td>\n<td>-Hattın taşınması veya hattaki elektriğin kesilmesi mümkün değil ise elektrik nakil hatlarına ilişkin güvenlik mesafesi, rüzgârda hatların salınımı da dikkate alınarak, belirlenecektir. -Güvenlik mesafesi dikkate alınarak çalışma ortamı ile hat arasına boşluksuz bariyer çekilecektir.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<th></th>\n<th colspan=\"3\">Kimyasal</th>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"3\">Kalıp yağı</td>\n<td>Göz ve cilde</td>\n<td>-Deri ve göze teması, güvenlik bilgi</td>\n</tr>\n<tr>\n<td rowspan=\"2\">teması sonucu tahriş oluşması</td>\n<td>formu (GBF) dikkate alınarak uygun iş</td>\n</tr>\n<tr>\n<td>elbisesi, koruyucu eldiven ve koruyucu gözlük kullanımı ile engellenecektir.</td>\n</tr>\n<tr>\n<td colspan=\"4\">Not: Yapılacak iş ve seçilen tehlike kaynakları için bu tablo örnek olarak doldurulmuştur.</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 77,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 78,
+      "content": "## 5.3 Zaman ve Mekân Açısından Çakışan İşlerden Kaynaklanan Riskler\n\n\nYapı sahasında gerçekleştirilen işlerin iş akış planları da dikkate alındığında zaman ve\nmekân açısından çakışması muhtemeldir. Bu çakışma durumu gerek yapısal güvenlik gerekse\niş sağlığı ve güvenliği risklerinin oluşmasına neden olabilir. Bu sebeple, aynı anda\ngerçekleşen 2 ya da varsa daha fazla işin çakışma durumları belirlenmeli ve alınacak\ntedbirlerin karar sürecinde, sürdürülmekte olan tüm işlerin birbirlerine olan etkileri de\nmutlaka göz önünde bulundurulmalıdır. Örneğin; bir bina inşaatında çatı işleri sürdürülmekte\niken eş zamanlı olarak zemin katta çevre düzenlemesi işinin yapılması, zeminde çalışanlar\niçin malzeme düşmesi gibi yeni risklerin oluşmasına neden olacaktır. Komşu yerleşkelerde sürdürülen inşaat, maden vb. faaliyetlerden kaynaklanan riskler\n5.1 bölümünde iş adımlarından bağımsız olarak değerlendirilmiş ve mevcut yapı sahasının\ngeneline ilişkin kontrol tedbirleri belirlenmiştir. Ancak bu riskler özellikle mevcut yapı\nsahasının bir kısmında yapılan işlere ve o bölgedeki çalışanlara etki ediyor ise, bu husus da\ngözden kaçırılmamalı ve komşu inşaatın veya madenin iş akış planından elde edilen riskli\nişler ile mevcut yapı sahasında eş zamanlı olarak gerçekleştirilecek işlerin etkileşimi bu\nkısmında değerlendirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 78,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 79,
+      "content": "ırılmamalı ve komşu inşaatın veya madenin iş akış planından elde edilen riskli\nişler ile mevcut yapı sahasında eş zamanlı olarak gerçekleştirilecek işlerin etkileşimi bu\nkısmında değerlendirilmelidir. Örneğin; komşu yapı sahasında yıkım işi gerçekleştirildiği\nsırada, mevcut yapı sahasında o yıkım işinden etkilenebilecek cephe kaplama işinde\nçalışanların olası risklere maruziyetleri değerlendirilmelidir. İpucu: Proje yönetim programları kullanılan yapı projelerinde, çakışan işlerin tespitini\nyapmak ilgili program sayesinde mümkün olmaktadır. Ancak, benzeri bir program\nkullanılmadığı durumlarda; çakışan işlerin daha kolay tespiti için, 4.1 kısmındaki iş akış\nplanının yer aldığı tablodaki satırlar, \"işin başlangıcı\" sütunu erkenden geçe doğru olacak\nşekilde tarih bazlı sıralanabilir. Bu şekilde üst üste gelen satırlardan birbirleri ile çakışan\n\n<!-- PageNumber=\"40\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\ntarihleri ve dolayısıyla işleri saptamak daha kolay olacaktır. Aşağıda yer alan Tablo 5.5 tüm\nçakışan işler dikkate alınarak doldurulacaktır. <table>\n<caption>Tablo 5.5 Çakışan İşler</caption>\n<tr>\n<th>Çakışan İşler</th>\n<th>Çakışma Başlangıç Tarihi</th>\n<th>Çakışma Bitiş Tarihi</th>\n<th>Risk</th>\n<th>Etkilenen çalışanlar/ Etki altındaki bölge</th>\n<th>Kontrol Önlemleri</th>\n</tr>\n<tr>\n<td>1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 79,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 80,
+      "content": "r>\n<th>Çakışan İşler</th>\n<th>Çakışma Başlangıç Tarihi</th>\n<th>Çakışma Bitiş Tarihi</th>\n<th>Risk</th>\n<th>Etkilenen çalışanlar/ Etki altındaki bölge</th>\n<th>Kontrol Önlemleri</th>\n</tr>\n<tr>\n<td>1. Kat İç Sıva</td>\n<td rowspan=\"2\">08.12.2015</td>\n<td rowspan=\"2\">10.12.2015</td>\n<td rowspan=\"2\">Kabul edilebilir seviyede</td>\n<td rowspan=\"2\">-</td>\n<td rowspan=\"2\">-</td>\n</tr>\n<tr>\n<td>2. Kat Duvar</td>\n</tr>\n<tr>\n<td>Çatı</td>\n<td>22.03.2016</td>\n<td rowspan=\"2\">11.04.2016 ORINI</td>\n<td rowspan=\"2\">Çatıdan malzeme düşmesi</td>\n<td rowspan=\"2\">Çevre düzenlemesi işinde görevli çalışanlar</td>\n<td rowspan=\"2\">-Çatının kenarından düşecek malzemeleri tutması amacıyla çatı kenarına koruma ağı gerilmesi -Çatı işleri ile çevre düzenlemesi işlerinin aynı zamanlarda farklı cephelerde sürdürülmesi.</td>\n</tr>\n<tr>\n<td>Bina çevre düzenlemesi</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"6\">Not: Seçilen çakışan işler için bu tablo örnek olarak doldurulmuştur.</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 80,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 81,
+      "content": "## 5.4 Üçüncü Taraflara Olan Etkinin Değerlendirilmesi\n\n\nYapı sahasında gerçekleştirilen faaliyetlerin komşu yapılara, yeraltı ve havai hatlara ,\nkarayollarına vb. üçüncü taraflara olan etkilere bu kısımda yer verilecektir. Üçüncü taraflara\nolan olası etkiler Tablo 5.6'dan seçilerek Tablo 5.7 doldurulacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 81,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 82,
+      "content": "apılara, yeraltı ve havai hatlara ,\nkarayollarına vb. üçüncü taraflara olan etkilere bu kısımda yer verilecektir. Üçüncü taraflara\nolan olası etkiler Tablo 5.6'dan seçilerek Tablo 5.7 doldurulacaktır. <!-- PageNumber=\"41\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<caption>Tablo 5.6 Üçüncü Taraflara Etki</caption>\n<tr>\n<td colspan=\"4\">Üçüncü Taraflara Etki</td>\n</tr>\n<tr>\n<td>☐</td>\n<td>Yeraltı ve/veya havai hatlara zarar</td>\n<td>☐</td>\n<td>Şantiye çıkışı trafik düzenlemesi</td>\n</tr>\n<tr>\n<td>☐</td>\n<td>Gevşek toprak (Toprak kayması)</td>\n<td>☐</td>\n<td>Gürültü</td>\n</tr>\n<tr>\n<td>☐</td>\n<td>Sismik etki</td>\n<td>☐</td>\n<td>Toz</td>\n</tr>\n<tr>\n<td>☐</td>\n<td>Yapı sahasındaki çalışmaların yaya ve araç trafiğini etkilemesi (İskele çıkması altından kaldırım geçmesi, beton pompasının sokak üzerinden yapı sahasına ulaştırılması vb.)</td>\n<td>☐</td>\n<td>Diğer (Lütfen belirtiniz)</td>\n</tr>\n</table>\n\n\nTablo 5.7 Üçüncü Taraflara Etkiye Bağlı Kontrol Tedbirleri\n\n\n<figure>\n</figure>\n\n\n<table>\n<tr>\n<th>Risk</th>\n<th>Etki altındaki bölge/tesis</th>\n<th>Kontrol Tedbirleri</th>\n</tr>\n<tr>\n<td>Yeraltı ve/veya havai hatlarına zarar</td>\n<td>Çevre yerleşkeler</td>\n<td>Yeraltı hatlarının yerinin tespiti ve çalışmanın tecrübeli operatörler ile yürütülmesi.</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Toz</td>\n<td rowspan=\"2\">ÖRNEKTIE- Komşu yerleşkeler</td>\n<td>5.1 ve 5.2 de belirlenen tedbirlerin ve etkin uygulanmasının gözden geçirilmesi,</td>\n</tr>\n<tr>\n<td>Önlenemeyen toz seviyeleri için komşu yerleşkelerin bilgilendirilmesi</td>\n</tr>\n<tr>\n<td colspan=\"3\">Not: Seçilen üçüncü taraflara etkiler için bu tablo örnek olarak doldurulmuştur.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"42\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 82,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 83,
+      "content": "# 6. ŞANTİYE KURALLARI\n\n\nProjedeki olası riskler ve belirlenen kontrol tedbirleri göz önünde bulundurularak işe ve\nşantiyeye özgü şantiye kuralları belirlenecektir. Aşağıdaki örnek kurallar, şantiye sahasında\nuygulanması gereken tüm kuralları kapsamamakta olup sadece yol gösterici olması amacıyla\nkonulmuştur. Şantiye kurallarının çalışanlarla paylaşılması sağlanacaktır.\n\nTablo 6.1 Şantiye Kuralları Örneği",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 83,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 84,
+      "content": "## Şantiye Kuralları\n\n\nv Yapılan çalışma sırasında o iş için yapılan risk değerlendirmesi ve geliştirilen\nuygulamalara uyulması zorunludur. ☒\n\n☒\nv Çalışanlar sadece eğitimini aldıkları ve yetkilendirildikleri cihazları kullanacaktır ve\nkendilerine yetki ve izin verilen işleri yapacaklardır. ☒\nv Herhangi bir tehlike görülmesi durumunda veya herhangi bir cihazın güvenlik sorunu\nolduğundan şüphelenildiğinde, bu durum derhal yetkili kişilere bildirilecektir. v İşyerinde gereksiz şakalaşmalar yapılmayacaktır. ☒\n\nv Çalışma esnasında bir başkasının dikkatini dağıtacak hareketlerden kaçınılacaktır. ☒\n\nv Çalışma ortamı temiz ve düzenli tutulacaktır. Şantiye içerisinde hiçbir malzeme veya\nekipman kazaya neden olabilecek şekilde gelişigüzel bırakılmayacaktır. ☒\n\nY Çalışırken o işi yapmak için tasarlanmış doğru ekipmanlar kullanılacaktır. ☒\n\nv İşyerinde alkol veya uyuşturucu kullanmak yasaktır. ☒\n\n☒\nv Çalışanlar, kendilerine teslim edilen KKD'leri kullanmaları gereken her yerde\ntalimatlara uygun olarak kullanacak ve muhafaza edeceklerdir. Zarar gören KKD'ler\n☐\nhakkında yetkililer bilgilendirilecek ve zarar görmüş ekipman tekrar kullanılmayacak,\n☐\nyenisiyle değiştirilmesi sağlanacaktır. ☒\nv Herhangi bir kimyasal madde ile temas halinde kimyasalın güvenlik bilgi formuna\nuygun müdahale yöntemi ile çalışana müdahale edilecek ve gerekli hallerde tıbbi\nyardıma başvurulacaktır. ☐\n\n☒\nAcil kaçış yolları ve geçitler kişilerin geçemeyeceği şekilde kapatılmayacak, engeller\nkoyulmayacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 84,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 85,
+      "content": "e yöntemi ile çalışana müdahale edilecek ve gerekli hallerde tıbbi\nyardıma başvurulacaktır. ☐\n\n☒\nAcil kaçış yolları ve geçitler kişilerin geçemeyeceği şekilde kapatılmayacak, engeller\nkoyulmayacaktır. ☒\nv Herhangi bir kişi izinsiz bir şekilde şantiyeye ve çalışma alanlarına getirilmeyecektir. Önce mutlaka yetkili bir kişi ile görüşülecek ve izin alınarak ziyaretçi prosedürü\n☐\nuygulanacaktır. v Çalışanların düşebileceği boşluklar veya kuyular görülürse bölgedeki çalışanlar\n☒\n<!-- PageNumber=\"43\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n☐\n\nzaman geçirilmeksizin uyarılacak ve mutlaka yetkili kişiye haber verilecektir. Geçici\nolarak önlem alınacaksa kırılgan malzemelerle kapatılmadığından emin olunacaktır. ☒\nv Şantiyede bulunan herkes, baret, iş elbisesi ve taban ve burun korumalı iş ayakkabıları\nkullanacaktır. v Yapılan işe uygun koruyucu eldiven kullanılacaktır. ☒\n\n☒\nv Tüm sosyal alanlar temiz tutulacak ve bu alanlara zarar verilmeyecektir. ☒\nV Yeme ve içme alanının dışında yemek ve içmek yasaktır. v Girişe yasaklı olan yerlere yetkilendirilenler haricinde giriş yapılmayacaktır. ☒\n\nv Şantiye sahasının tamamında sağlık ve güvenlik işaretlerine uymak zorunludur. ☒\n\n☒\nv Yapılacak hiçbir işe gerekli güvenlik tedbirleri tam olarak alınmadan\nbaşlanılmayacaktır. ☒\nv Yapımında şüpheye düşülen her şey için şantiye şefi, iş güvenliği uzmanı vb. yetkin\nkişilerden bilgi istenilecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 85,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 86,
+      "content": "hiçbir işe gerekli güvenlik tedbirleri tam olarak alınmadan\nbaşlanılmayacaktır. ☒\nv Yapımında şüpheye düşülen her şey için şantiye şefi, iş güvenliği uzmanı vb. yetkin\nkişilerden bilgi istenilecektir. Yapılacak iş tam olarak öğrenilmeden hiçbir şekilde\nçalışmaya başlanılmayacaktır. ☒\nY Acil durumlarla ilgili yapılan eğitim ve tatbikatlara katılım sağlanacaktır. ☒\nv Ekipmanlara çalışır vaziyette bakım, onarım ve yağlama yapılmayacaktır. ☒\nY İskeleler sadece iskele kurulum elemanları tarafından kurulacaktır. ☒\nYayalar, şantiye içerisinde kendileri için tahsis edilen güvenli ulaşım yollarını\nkullanacaktır. ☒\nv İş ekipmanlarının ve araçların manevra ve etki alanlarında kimse bulunmayacak, eğer\nbulunma zorunluluğu varsa operatörün kendisini gördüğünden emin olacaktır. ☒\nv Yüksekte yapılacak çalışmalarda korkuluk ve platform gibi toplu korunmanın\nsağlanamadığı durumlarda yüksekten düşmeyi engelleyici olarak sadece paraşüt tipi\nkemer kullanılacak ve bir başkasının gözetimi olmadan çalışılmayacaktır. ☐\n\nNOT: İş ve işyeri koşulları göz önünde bulundurularak şantiye kuralları genişletilebilir. <!-- PageNumber=\"44\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nTablo 6.2 Ziyaretçilerle İlgili Prosedür Örnekleri",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 86,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 87,
+      "content": "### Ziyaretçilerle İlgili Prosedürler\n\n\nv Ziyaretçiler, uyulması gerekli kurallar konusunda şantiye sahasına girmeden önce\n☒\nbilgilendirilecek ve ziyaret süresince kendilerine eşlik edilecektir.\n\n☒\nv Şantiye içerisinde ziyaretçiler kendilerine verilen KKD'leri kullanmak zorundadır.\nZiyaretçilere KKD'lerin kullanımı ile ilgili bilgilendirme yapılacaktır.\n\n☒\nv Ziyaretçilerin şantiye içerisinde kendilerine gösterilen yerler ve rotalar haricindeki\nalanlara girişleri yasaktır.\n\n☒\nv Ziyaretçi kendisine eşlik eden kişiyi kaybettiği zaman bulunduğu yerden\nuzaklaşmadan en yakınındaki çalışana durumu bildirecek ve kendisine ulaşılmasını\nbekleyecektir.\n\nNOT: İş ve işyeri koşulları göz önünde bulundurularak ziyaretçilerle ilgili prosedürler genişletilebilir.\n\n<!-- PageNumber=\"45\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 87,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 88,
+      "content": "# EKLER\n\n\nEklerde aşağıda belirtilen hususlar yer alacaktır:\n\n· EK-1 : İnşaat Öncesi Bilgiler\n\n· EK-2: Vaziyet planları (Mevcut altyapı ve enerji tesislerinin planları ve\nrevizeleri, araç yolları, tesisatlar, acil çıkış, iskele kurulum yerleri vb.)\n\n· EK-3: İş Ekipmanları Listesi\n\n· EK 4: Kişisel Koruyucu Donanım Listesi\n\n· EK 5: Sınırlı Giriş Sağlanacak Yerlerin Listesi\n\n· EK 6: Yıllık Eğitim Programı",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 88,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 89,
+      "content": "## EK-3 İŞ EKİPMANLARI LİSTESİ\n\n\n› Proje süresince işyerinde kullanılması planlanan iş ekipmanları örnek olarak doldurulmuş\nolan aşağıdaki tabloda gösterilecektir. › Örneğin proje süresince kullanılacak bütün iskelelerin tasarımının mimari projeye bağlı\nolarak planlama aşamasında oluşturulması (konfigürasyon ve malzeme) büyük önem arz\netmektedir. İskelenin kullanımına geçilmeden iskelenin gerekli uygunluk hesapları\ntamamlanmalı, iskelenin kurulumu ve sökümü kurma ve sökme planlarına uygun olarak\ngerçekleştirilmelidir. Tercih edilen iskelelerin tasarım özellikleri ile beraber uygunluk\nhesapları ve kurma, kullanma ve sökme planları sağlık ve güvenlik planının ekinde\nbulundurulacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 89,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 90,
+      "content": "un olarak\ngerçekleştirilmelidir. Tercih edilen iskelelerin tasarım özellikleri ile beraber uygunluk\nhesapları ve kurma, kullanma ve sökme planları sağlık ve güvenlik planının ekinde\nbulundurulacaktır. <!-- PageNumber=\"46\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\n\n<table>\n<tr>\n<th>İş Ekipmanı (Model/Seri No/Plaka No)</th>\n<th>İş Ekipmanının Sahibi1</th>\n<th>İş Ekipmanını Kuracak/ Kullanacak Kişilerin Yetkinliği2</th>\n<th>İSG Yönünden Uygunluk Gerekliliği3</th>\n</tr>\n<tr>\n<td>Dış Cephe İskelesi</td>\n<td>(Asıl/Alt işveren Firma İsmi)</td>\n<td>İskele Kurulum Elemanı</td>\n<td>ÖRNEK Uygun olması gereken mevzuat; -Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, -İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, -Ahşap ve Ön Yapımlı Çelik ile Alüminyum Alaşımlı Bileşenlerden Oluşan Dış Cephe İş İskelelerine Dair Tebliğ Uygun olması gereken standartlar; TS12810-1, TS12810-2, TS EN 12811-1, TS EN 12811-2, TS EN 12811-3</td>\n</tr>\n<tr>\n<td>Mobil Vinç (Model/Plaka No)</td>\n<td>(Asıl/Alt işveren Firma İsmi)</td>\n<td>Mobil Vinç Operatörü</td>\n<td>Uygun olması gereken mevzuat; - İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, Uygun olması gereken standartlar; -TS EN 13000:2010+A1, TS ISO 8566-2</td>\n</tr>\n</table>\n\n1 İş ekipmanın kime ait olduğu/kim tarafından kiralandığı yazılacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 90,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 91,
+      "content": "lık ve Güvenlik Şartları Yönetmeliği, Uygun olması gereken standartlar; -TS EN 13000:2010+A1, TS ISO 8566-2</td>\n</tr>\n</table>\n\n1 İş ekipmanın kime ait olduğu/kim tarafından kiralandığı yazılacaktır. 2 Yetkili kişiler tarafından kullanılması gereken iş ekipmanları için yetki belgeleri (operatörlük belgesi,\nehliyet, sertifika, eğitim belgeleri vb.) bu bölümde belirtilecektir. 3 Bu bölümde, iş ekipmanı ile ilgili mevzuat gereklilikleri, ulusal standartlar, ulusal standart yok ise\nuluslararası standartlar yazılacaktır. <!-- PageNumber=\"47\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "lık ve Güvenlik Şartları Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 91,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 92,
+      "content": "# EK-4 KİŞİSEL KORUYUCU DONANIM LİSTESİ\n\n\n› Proje süresince işyerinde kullanılması planlanan kişisel koruyucu donanımlar örnek\nolarak doldurulmuş olan aşağıdaki tabloda gösterilecektir. <table>\n<tr>\n<th>KKD</th>\n<th>Kategori1</th>\n<th>Bakım/Yenileme Süresi 2</th>\n<th>Mak. Kullanma Süresi 3</th>\n<th>Standardı ve Modeli</th>\n</tr>\n<tr>\n<td>Baret</td>\n<td>II</td>\n<td>Yenileme: Mak.1 yıl</td>\n<td>Sürekli</td>\n<td>EN 397</td>\n</tr>\n<tr>\n<td>İş Ayakkabısı (Burun ve taban korumalı, su geçirmez)</td>\n<td>II</td>\n<td>Yenileme: Mak. 6 ay</td>\n<td>Sürekli</td>\n<td>EN 20345 S3</td>\n</tr>\n<tr>\n<td>İşitme Koruyucu Kulak Tıkacı ve Kulaklık</td>\n<td>II</td>\n<td>Kulak Tıkacı: Tek kullanımlık Kulaklık: 6 ay</td>\n<td>45 Dakika</td>\n<td></td>\n</tr>\n<tr>\n<td>ÖRNEKTIR Paraşüt Tipi Kemer</td>\n<td>III</td>\n<td>Yenileme: Mak. 2 yıl</td>\n<td>-</td>\n<td>EN 358 ve EN 364 standardına sahip beli de destekleyen</td>\n</tr>\n</table>\n\n1 Bu bölümde, KKD'nin hangi kategoride olduğu belirtilecektir. Yapılan iş dikkate alınacak ve temin\nedilecek KKD o kategorinin gereklerini sağlayacaktır. 2 Yenileme süresi kullanım şartlarına bağlı olarak farklılık gösterecektir. Burada belirtilen süreler ürünün\nherhangi bir darbe vb. etkiye maruz kalmadan ve doğru bir şekilde bakım ve depolaması yapılması halinde\nüretici firmanın ürünün yenilenmesi için tavsiye ettiği sürelerdir. 3 Maksimum kullanma süresi, bir KKD'nin çalışan tarafından aralıksız kullanılabileceği azami süreyi ifade\neder.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 92,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 93,
+      "content": "sı yapılması halinde\nüretici firmanın ürünün yenilenmesi için tavsiye ettiği sürelerdir. 3 Maksimum kullanma süresi, bir KKD'nin çalışan tarafından aralıksız kullanılabileceği azami süreyi ifade\neder. <!-- PageNumber=\"48\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 93,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 94,
+      "content": "# EK-5 SINIRLI GİRİŞ SAĞLANACAK YERLERİN LİSTESİ\n\n\n› Yapı sahası içerisinde tehlike arz edebilecek ve yetkilendirilmiş kişiler tarafından\nkullanılmadığında risk oluşturabilecek alanlar örnek olarak doldurulmuş olan\naşağıdaki tabloda gösterilecektir.\n\n\n<table>\n<tr>\n<th>Yerin Tarifi</th>\n<th>Sınırlı Giriş Sebebi</th>\n<th>Girişe İzinli Kişi / Ekipler</th>\n<th>Giriş Prosedürü</th>\n</tr>\n<tr>\n<td>Kimyasal Deposu</td>\n<td>Parlama, patlama yangın</td>\n<td>Depo Görevlisi</td>\n<td>-İhtiyaç duyulan malzeme alındıktan sonra gereksiz yere depoda bulunulmayacaktır. -Depodaki uyarı işaretlerine uyulacaktır. (Sigara içilmez, antistatik iş ekipmanları kullanınız. Vb.)</td>\n</tr>\n</table>\n\n\nNot: Sınırlı giriş ve çıkışın olduğu tüm dar ve kapalı alanlar bu tabloya eklenecektir.\n\n<!-- PageNumber=\"49\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 94,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 95,
+      "content": "# EK-6 YILLIK EĞİTİM PROGRAMI\n\n\n\\> Yıllık eğitim programında, verilecek eğitimlerin konusu, hangi tarihlerde\ndüzenleneceği, eğitimin süresi, eğitime kimlerin katılacağı, eğitimin hedefi ve amacı\nhususlarına yer verilir. › İlgili mevzuatın değişmesi veya çalışma şartlarına bağlı olarak yeni risklerin ortaya\nçıkması halinde yıllık eğitim programına bağlı kalmaksızın çalışanların uygun eğitim\nalmaları sağlanır. \\> Mevzuatta sınırları belirtilen eğitim sürelerinin dışındaki süreler, işin etkin ve güvenli\nbir biçimde gerçekleştirilmesi için yeterli olacak şekilde belirlenir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 95,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 96,
+      "content": "rın uygun eğitim\nalmaları sağlanır. \\> Mevzuatta sınırları belirtilen eğitim sürelerinin dışındaki süreler, işin etkin ve güvenli\nbir biçimde gerçekleştirilmesi için yeterli olacak şekilde belirlenir. <table>\n<tr>\n<th colspan=\"5\">YILLIK EĞİTİM PROGRAMI</th>\n</tr>\n<tr>\n<th>Eğitime Katılacaklar</th>\n<th>Eğitimin Konusu</th>\n<th>Hedef ve Amaç</th>\n<th>Eğitimin Süresi</th>\n<th>Düzenleneceği Tarih</th>\n</tr>\n<tr>\n<td>Yeni işe başlayanlar</td>\n<td>İşbaşı Eğitimi</td>\n<td>Çalışanların yürütecekleri işler ve çalışma ortamı hakkında bilgilendirilmesi, çalışanlarca iş sağlığı ve güvenliğinin öneminin kavranması</td>\n<td>16 Saat</td>\n<td>(Tarihler gün, ay, yıl olarak belirtilecektir)</td>\n</tr>\n<tr>\n<td>İSG eğitimi üzerinden 1 yıl geçen çalışanlar</td>\n<td>Çalışanların İş Sağlığı ve Güvenliği Yenileme Eğitimi</td>\n<td>Çalışanlarda İSG bilgi ve bilincinin canlı tutulması ve güvenlik kültürünün sürdürülmesi</td>\n<td>16 Saat</td>\n<td>(Tarihler gün, ay, yıl olarak belirtilecektir)</td>\n</tr>\n<tr>\n<td>Kalıpçılar Sıvacılar Demirciler Çatı işinde çalışanlar</td>\n<td>Yüksekte Çalışma Eğitimi</td>\n<td>İlgili çalışanlara yüksekte çalışmaya ilişkin tehlike ve riskler konusunda bilgilendirme yapılması</td>\n<td>Saat …</td>\n<td>(Tarihler gün, ay, yıl olarak belirtilecektir)</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"50\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"Sağlık ve Güvenlik Planı Rehberi\" -->\n\nAcil durum\nekibinde yer\nalacak\nçalışanlar\n\n-Arama,\nKurtarma\nve Tahliye,\n-Yangınla\nMücadele\nEğitimi\n\n-Arama, kurtarma ve\ntahliye,\n-Yangınla mücadele\nkonularında özel\neğitimli çalışanların\nyetiştirilmesi\n\n...",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 96,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 97,
+      "content": "urum\nekibinde yer\nalacak\nçalışanlar\n\n-Arama,\nKurtarma\nve Tahliye,\n-Yangınla\nMücadele\nEğitimi\n\n-Arama, kurtarma ve\ntahliye,\n-Yangınla mücadele\nkonularında özel\neğitimli çalışanların\nyetiştirilmesi\n\n... Saat\n\n(Tarihler gün, ay, yıl\nolarak belirtilecektir)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "madde_number": null,
+        "chunk_index": 97,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    },
+    {
+      "chunk_index": 98,
+      "content": "## KAYNAKLAR\n\n\nYapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, Resmi Gazete Tarihi: 05.10.2013 Sayısı:\n28786.\n\n92/57/EEC sayılı Avrupa Birliği Konsey Direktifi, (24 Haziran 1992).\n\nNon-binding guide to good practice for understanding and implementing Directive 92/57/EEC\non the implementation of minimum safety and health requirements at temporary or mobile\nconstruction sites (2010), European Union Information Agency for Occupational Safety And\nHealth (EU-OSHA). https://osha.europa.eu/en/legislation/guidelines/non-binding-guide-to-\ngood-practice-for-understanding-and-implementing-directive-92-57-eec-on-the-\nimplementation-of-minimum-safety-and-health-requirements-at-temporary-or-mobile-\nconstruction-sites, Erişim Tarihi:16.12.2016.\n\ne-HASP2 User's Manual (1996), The U.S. Department of Labor (DOL) Occupational Safety\nand Health Administration (OSHA).\n\nhttps://www.osha.gov/dep/etools/ehasp/ehasp2_usermanual.pdf, Erişim tarihi:16.12.2016.\n\nConstruction Phase Plan (CDM 2015), Health and Safety Executive (HSE), United Kingdom.\nhttp://www.hse.gov.uk/pubns/cis80.pdf, Erişim tarihi:16.12.2016.\n\nRule for Occupational Safety and Health on Construction Sites 31: Safety and Health Plan\n(2003), Federal Ministry of Economics and Labour, Germany. http://www.baua.de/en/Topics-\nfrom-A-to-Z/Construction-Sites/RAB-31.html, Erişim tarihi:16.12.2016\n\n<!-- PageNumber=\"51\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "source_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "document_title": "KAYNAKLAR\n\n\nYapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 98,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "yapı-işlerinde-sağlık-ve-güvenlik-planı-rehberi.pdf",
+        "guide_title": "Yapı Işlerinde Sağlık Ve Güvenlik Planı Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 99,
+        "processed_at": "2026-02-12T04:43:20.662000"
+      }
+    }
+  ]
+}

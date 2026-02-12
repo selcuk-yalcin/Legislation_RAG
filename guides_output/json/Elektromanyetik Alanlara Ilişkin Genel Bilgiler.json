@@ -1,0 +1,1106 @@
+{
+  "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+  "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+  "total_chunks": 61,
+  "exported_at": "2026-02-12T12:19:01.358794",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n\n* * * * *\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\nİŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# ELEKTROMANYETİK ALANLARA İLİŞKİN GENEL BİLGİLER\n\n\n2\n\nC\n\nE\n\nB\n\nSERİ I\n\n<!-- PageBreak -->\n\nBu yayın, İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır. Telif\nhakkı Çalışma ve Sosyal Güvenlik Bakanlığı'na ait olup kaynak gösterilerek\nkullanılabilir.\n\nBu yayının, \"Elektromanyetik Alan Üreten Kaynaklar ile Çalışmalarda Sağlık ve\nGüvenlik Önlemleri Rehberi - Seri II\" ile birlikte okunması yararlanımı arttıracaktır.\n\nYayına Hazırlayan\nMevzuat Dairesi Başkanlığı\n\nYayınlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü (İSGGM)\n2020\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<td>KISALTMALAR</td>\n<td>İ</td>\n</tr>\n<tr>\n<td>1. ELEKTROMANYETİK ALANLAR</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2. ELEKTROMANYETİK ALANLARA İLİŞKİN BÜYÜKLÜKLER VE BİRİMLERİ</td>\n<td>5</td>\n</tr>\n<tr>\n<td>2.1. Frekans (f)</td>\n<td>6</td>\n</tr>\n<tr>\n<td>2.2. Elektrik Alan Şiddeti (E)</td>\n<td>7</td>\n</tr>\n<tr>\n<td>2.3. Manyetik Akı Yoğunluğu (B)</td>\n<td>7</td>\n</tr>\n<tr>\n<td>2.4. Manyetik Alan Şiddeti (H)</td>\n<td>8</td>\n</tr>\n<tr>\n<td>2.5. Radyo-frekans Güç Yoğunluğu (S)</td>\n<td>8</td>\n</tr>\n<tr>\n<td>2.6. Özgül Soğurma Oranı (SAR)</td>\n<td>9</td>\n</tr>\n<tr>\n<td>2.7. Özgül Soğurma (SA)</td>\n<td>10</td>\n</tr>\n<tr>\n<td>2.8. Temas Akımı (Ic)</td>\n<td>10</td>\n</tr>\n<tr>\n<td>2.9. Uzuv Akımı (IL)</td>\n<td>10</td>\n</tr>\n<tr>\n<td>3. EMA MARUZİYETİNE İLİŞKİN YÖNERGELER VE MEVCUT DURUMA</td>\n<td rowspan=\"2\">İLİŞKİN 11</td>\n</tr>\n<tr>\n<td>POLİTİKALAR</td>\n</tr>\n<tr>\n<td colspan=\"2\">3.1. Genel Kamunun Maruz Kalma Sınırları İçin Neden Daha Yüksek Azaltma Faktörü</td>\n</tr>\n<tr>\n<td>Uygulanmaktadır?</td>\n<td>11</td>\n</tr>\n<tr>\n<td>3.2. İhtiyatlılık İlkesi</td>\n<td>12</td>\n</tr>\n<tr>\n<td>3.3. EMA İçin Bilim Temelli İhtiyatlılık Yaklaşımları</td>\n<td>12</td>\n</tr>\n<tr>\n<td>4. EMA'LARIN SAĞLIK VE GÜVENLİK ÜZERİNE ETKİLERİ</td>\n<td>13</td>\n</tr>\n<tr>\n<td>5. MANYETİK REZONANS GÖRÜNTÜLEME İLE İLGİLİ REHBERLİK</td>\n<td>16</td>\n</tr>\n<tr>\n<td>5.1. MRI Ekipmanının Tasarımı</td>\n<td>16</td>\n</tr>\n<tr>\n<td>5.2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "ZERİNE ETKİLERİ</td>\n<td>13</td>\n</tr>\n<tr>\n<td>5. MANYETİK REZONANS GÖRÜNTÜLEME İLE İLGİLİ REHBERLİK</td>\n<td>16</td>\n</tr>\n<tr>\n<td>5.1. MRI Ekipmanının Tasarımı</td>\n<td>16</td>\n</tr>\n<tr>\n<td>5.2. Sağlık Sektöründe MRI Operasyonu Sırasında Çalışan Maruziyeti</td>\n<td>17</td>\n</tr>\n<tr>\n<td>5.3. Teknolojiye Uygun Teknik ve Yönetsel Önlemlerin Uygulanması</td>\n<td>19</td>\n</tr>\n<tr>\n<td>5.3.1. Teknik Önlemler.</td>\n<td>19</td>\n</tr>\n<tr>\n<td>5.3.2. İş Organizasyonu</td>\n<td>21</td>\n</tr>\n<tr>\n<td>5.3.3. Bilgilendirme ve Eğitim</td>\n<td>22</td>\n</tr>\n<tr>\n<td>KAYNAKLAR</td>\n<td>24</td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "### KISALTMALAR\n\n\nA: Amper\n\nAB: Avrupa Birliği\n\nDALGABOYU (m): Bir dalganın birbirini izleyen döngülerindeki benzer noktalar\narasındaki mesafe\n\nDİELEKTRİK: Uygulanan bir elektrik alanı ile polarize edilebilen elektriksel yalıtkan\nEBW: Köprü telli (bridgewire) fünye\n\nED: Eylem Değeri\n\nELEKTROMANYETİK RADYASYON: Elektromanyetik radyasyon, ışık hızında yayılan\ndalgalar olarak tanımlanabilecek hem elektrik hem de manyetik alan bileşenlerine\nsahip bir radyasyon biçimidir. ELEKTROMANYETİK SPEKTRUM: Elektromanyetik radyasyonun tüm olası\nfrekanslarının aralığıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "lgalar olarak tanımlanabilecek hem elektrik hem de manyetik alan bileşenlerine\nsahip bir radyasyon biçimidir. ELEKTROMANYETİK SPEKTRUM: Elektromanyetik radyasyonun tüm olası\nfrekanslarının aralığıdır. EMA: Elektromanyetik Alanlar\n\nEMA DİREKTİFİ: 2013/35/EU sayılı Çalışanların Fiziksel Etkenlerden\n(Elektromanyetik Alanlar) Kaynaklanan Risklere Maruziyetleri ile İlgili Asgari Sağlık ve\nGüvenlik Önlemleri Hakkında Direktif\n\nFREKANS (Hz): Bir salınımın birim zamanı başına döngü sayısı\n\nH: Hertz\n\nIARC: Uluslararası Kanser Araştırmaları Ajansı\n\nICNIRP: Uluslararası İyonlaştırıcı Olmayan Radyasyondan Korunma Komisyonu\n\nİLETİM: Radyasyonun bir ortamdan geçişi\n\nİYONLAŞTIRICI OLMAYAN RADYASYON: Ultraviyole radyasyon, ışık, kızılötesi\nradyasyon ve radyo-frekans radyasyonu gibi biyolojik dokuda iyonlaşma oluşturmayan\nradyasyon\n\nMRI: Manyetik Rezonans Görüntüleme\n\nMSD: Maruziyet Sınır Değeri\n\nRADYO-FREKANS RADYASYON: Genellikle 100 kHz ve 300 GHz arasında\nfrekanslara sahip elektromanyetik radyasyon\n\nRF: Radyo-frekans\n\nSA: Özgül Soğurma\n\nSAR: Özgül Soğurma Oranı\n\nSI Units: Uluslararası Birimler Sistemi\n\nT: Tesla\n\nTEMAS AKIMI: Elektromanyetik alan içindeki iletken bir nesneye dokunduğunda,\nkişinin içinden geçen elektrik akımı\n\nVOLTAJ (V): Gerilim, elektriksel potansiyel fark birimi\n\nWATT (W): Saniyede bir joule enerjiye eşdeğer güç birimi\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "## 1. ELEKTROMANYETİK ALANLAR\n\n\nElektromanyetik alanlar, teknoloji ilerledikçe hakkındaki endişelerimizin arttığı yaygın\nçevresel etkilerden biridir. Tüm canlılar, günümüzde çeşitli düzeylerde elektromanyetik\nalanlara maruz kalmakta olup teknolojinin ilerlemesi ile etkilenimlerimiz de artmaya\ndevam etmektedir. Elektromanyetik radyasyon, evrenin doğuşundan beri var olan bir\nolgu olup ışık, bunun en tanıdık biçimidir. Elektromanyetik alan, elektrik yüklerinin hareketinden doğan, elektrik ve manyetik alan\nbileşenlerine sahip elektromanyetik enerji içeren kuvvet alanını ifade eder. Muhtemelen en aşina olduğumuz elektromanyetik alanlar, doğada meydana gelen\nalanlardır. Dünyanın yüzeyinde tespit edebileceğimiz manyetik alanın, dünyanın yarı\nsıvı ferromanyetik çekirdeğinin derinliklerinde üretilen elektrik akımları tarafından\nüretildiği düşünülmektedir. Bu alanın pusulalarda kullanılan manyetik malzemelerle\netkileşimi yüzyıllar boyunca navigasyon için kullanılmıştır. Benzer şekilde, fırtına\nbulutları içinde üretilen elektrik yükü, bulutlar ve dünyanın yüzeyi arasında çok yüksek\ngerilimlere neden olur. Bu gerilimler, yıldırım olarak bildiğimiz bulut ile yeryüzü\narasında büyük, hızlı elektrik akımının boşalmasına neden olarak elektrik alanları\noluşturur (Şekil 1.1).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "çok yüksek\ngerilimlere neden olur. Bu gerilimler, yıldırım olarak bildiğimiz bulut ile yeryüzü\narasında büyük, hızlı elektrik akımının boşalmasına neden olarak elektrik alanları\noluşturur (Şekil 1.1). <figure>\n<figcaption>Şekil 1.1: Elektromanyetik alanların doğal kaynakları (a) Dünyanın statik manyetik alanının yönünü tespit etmek için kullanılan bir pusula (b) Bulut ile yeryüzü arasında 'yıldırım' olarak bilinen yüksek voltaj deşarjları</figcaption>\n\n(a)\n\n(b)\n\n</figure>\n\n\nİnsanların maruz kaldığı elektromanyetik dalgalar güçlerine bağlı olarak enerjilerini,\nfotonlar yoluyla, dalganın özelliklerine bağlı olarak değişik oranlarda canlıya\naktarmaktadır. Elektromanyetik dalgaların genel olarak canlılara etkisi, alanın şiddeti\n(gücü) ve fotonun enerjisine bağlı olup frekansına ve enerjilerine göre, yani canlıya etki\nderecesine göre, iyonlaştıran ve iyonlaştırmayan ışınımlar olarak iki sınıfta incelenir. Bu rehberde yer verilen alanlar, iyonlaştırmayan ışınımlar kapsamında incelenmekte\nolup bu ışınımlar, atomik bağları kırmak için gerekli enerjiye sahip olmayan fotonların\noluşturduğu elektromanyetik dalgalardır. Bunlar, görünür ışık, kızılötesi, radyo frekans,\nmikrodalga, statik ve manyetik alanlardır. Yani frekans tayfının 1 Hz'den başlayarak\nyaklaşık 1000 GHz'lik bölümüdür. Elektromanyetik dalgalar için frekans birimi Hertz ile\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->\n\nifade edilmekte olup saniyedeki dalga sayısını göstermektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "arak\nyaklaşık 1000 GHz'lik bölümüdür. Elektromanyetik dalgalar için frekans birimi Hertz ile\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->\n\nifade edilmekte olup saniyedeki dalga sayısını göstermektedir. Ölçülen enerji değeri\nise örneğin 300 GHz'de 0,00125 eV olup iyonlaştırma yapacak seviyeye göre çok\ndüşük bir değerdir. Ancak bu alanlar mesafe, güç ve maruziyet süresi gibi faktörlere\nbağlı olarak vücutta ısıl etkiye sebep olduğu gibi bazı biyolojik etkilere de sebep\nolabileceği öne sürülmektedir. Bu etkiler normal yaşamın bir parçası olup vücut, bu\ndurumların çoğuna uyum sağlayabilir. Bununla birlikte, bazı durumlarda, uyaran çok\ngüçlü veya uzun süreli olduğunda, etkiler olumsuz sağlık etkilerine yol açabilir. Elektromanyetik alanların sağlığı etkileme şekli maruziyet sıklığına, gücüne ve\nsüresine bağlı olacaktır. Mesleki maruziyet limitleri; bu limitlere bağlı kalındığı sürece\nolumsuz sağlık etkileri olmayacak şekilde belirlenir. Kanserojen etkisi ise henüz tam olarak ispatlanmamış olmasına rağmen Clapp ve\nmeslektaşları, 2007 tarihli bir literatür araştırmasında, kanserin çevresel ve mesleki\nnedenleri hakkında yeni kanıtlar tanımlamıştır. Bazı çalışmalardaki kısıtlara rağmen\nson yayınlar; iyonlaştırıcı olmayan radyasyona (özellikle cep telefonlarının yaydığı\nradyo-frekans alanları gibi) maruziyetten kaynaklanan beyin kanseri gibi kanser riskinin\nartmasıyla ilişkilendiren kanıtları güçlendirdiği sonucuna vardılar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "yona (özellikle cep telefonlarının yaydığı\nradyo-frekans alanları gibi) maruziyetten kaynaklanan beyin kanseri gibi kanser riskinin\nartmasıyla ilişkilendiren kanıtları güçlendirdiği sonucuna vardılar. 2011 yılında\nUluslararası Kanser Araştırmaları Ajansı (IARC), radyo-frekans alanlarını (RF) insanlar\niçin IARC kanserojen risk ölçeğinde Grup 2B olarak sınıflandırmıştır. 2B kategorisi,\ninsanlarda sınırlı kanserojenlik kanıtı ve deney hayvanlarında yeterli kanserojenlik\nkanıtı bulunan ajanlar için kullanılır. İnsanlarda kanserojenliğe dair yetersiz kanıt\nolduğunda da kullanılabilir ancak deney hayvanlarında yeterli kanserojenlik kanıtı\nbulunduğundan ve etkene maruz kalma ile kanser arasında pozitif bir ilişki\ngözlemlendiğinden, çalışma grubu tarafından neden sonuç ilişkisi olduğu düşünülür,\nancak çalışmadaki taraf tutma (bias) veya karıştırıcı faktörler de göz ardı edilmez.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "### 1.1. Elektromanyetizmanın Keşfi\n\n\nİnsanlar eski zamanlardan beri statik elektrik ve manyetizmanın etkilerinin farkında\nolmuşlardır. Elektromanyetik olayları anlama yönündeki ilerleme muhtemelen, kas ve\nsinir hücrelerinin elektrik ürettiğini keşfeden İtalyan fizikçi Luigi Galvani'nin 1780'de\nkurbağaların bacaklarının, iki farklı metale teması sonrasında refleks olarak\nseğirmesinin, bu hayvandaki iç elektrik sonucunda ortaya çıktığının keşfiyle\nbaşlamıştır. Bu prensip on yıl sonra elektrik pili üretiminde Alessandro Volta tarafından\nkullanılmıştır. İlerleyen zamanlarda keşifler Avrupa'da hız kazanmış, 1820'de elektrik akımları ve\nmanyetik alanlar arasındaki ilişki Hans Christian Oersted tarafından elektrik akımı\ntaşıyan bir telin, pusulanın iğnesini saptırabilmesiyle gösterilmiştir. Andre Marie\nAmpere, akım taşıyan tellerin birbirlerine kuvvet ürettiğini keşfetmiş, Michael Faraday\nmanyetik indüksiyon üzerine çalışmıştır. 1873'te, James Clerk Maxwell\nelektromanyetizma teorisini matematiksel olarak formüle etmiş ve yayınlamıştır. Maxwell'in elektromanyetik dalgalarla ilgili bulguları bugün hala elektromanyetik\nteorinin temeli olarak kullanılmaktadır. <!-- PageNumber=\"2\" -->\n<!-- PageBreak -->\n\nHeinrich Hertz, 1885'te elektromanyetik dalgalar üretip tespit ederek Maxwell'in\nbulgularını doğrulamış, on yıl sonra Guglielmo Marconi ise bu keşfi radyo sinyalleri\naracılığıyla uzun mesafeler boyunca mesaj göndermek için kullanmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "tik dalgalar üretip tespit ederek Maxwell'in\nbulgularını doğrulamış, on yıl sonra Guglielmo Marconi ise bu keşfi radyo sinyalleri\naracılığıyla uzun mesafeler boyunca mesaj göndermek için kullanmıştır. Nikolai Tesla,\n1892'de elektrik enerjisi üretimi açısından büyük önem taşıyan ilk alternatif akım\njeneratörünü üretmiştir. Günümüzde elektromanyetik alanlar modern dünyada yaygındır. Elektrikli aletler\nolmadan modern bir toplum hayal etmek zordur. Yirminci yüzyıl, elektrik enerjisinin\nendüstriyel ve evsel amaçlı kullanımında büyük bir ivme görmüştür. Radyo ve\ntelevizyon yayınında benzer ivme yaşanırken, yirminci yüzyılın sonu ve yirmi birinci\nyüzyılın başlarında, cep telefonlarının ve diğer kablosuz cihazların yaygın kullanımıyla\ntelekomünikasyonda bir devrim yaşanmıştır. Elektromanyetik alanlar ayrıca radyo-\nnavigasyon ve tıbbi uygulamalar gibi daha ileri uygulamalarda da yaygın olarak\nkullanılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "### 1.2. Elektromanyetik Spektrum\n\n\nElektrik ve manyetik alanlar, statik elektrik ve manyetik alanlardan radyo-frekans ve\nkızılötesi radyasyona ve X-ışınlarına uzanan elektromanyetik radyasyon\nspektrumunun bir parçasıdır. Elektromanyetik spektrum; elektromanyetik dalgaları,\nfrekansları ve dalga boylarını tanımlar. Tüm elektromanyetik dalgaları bir arada\ngösteren elektromanyetik spektrumun bir ucunda yüksek enerjili ve nanometre\ndüzeyinde dalga boyu olan gama ışınları yer alırken diğer ucunda düşük enerjili ve\nkilometreler düzeyinde dalga boyu olan çok düşük frekanslı ışınlar yer alır (Şekil 1.2). Voltajdan kaynaklanan elektrik alan volt/metre (V/m) birimi ile değerlendirilir. Akımdan\nkaynaklanan manyetik alan ise daha çok ABD'de kullanılan gauss ya da uluslararası\nkabul görmüş tesla birimi ile ve 1 T= 10.000 G eşitliğinde tanımlanır. Manyetik alan\nölçümlerinde karşılaşılan miligauss; 1/1.000 gauss ve mikrotesla ise 1/1.000.000\ntesla'dır. Miligauss ve mikrotesla arasındaki ilişki 1 uT=10 mG şeklindedir. Bu spektrumun EMA Direktifi tarafından kapsanan kısmı, statik alanlardan 0 Hz - 300\nGHz'e kadar frekanslardaki zamanla değişen elektromanyetik alanlara kadardır. Bu\nbölgede yaygın olarak statik alanlar, zamanla değişen alanlar ve radyo dalgaları\n(mikrodalgalar dahil) bulunabilir. EMA Direktifi kapsamına girmeyen elektromanyetik\nspektrumun diğer bölümleri ise optik bölgeyi (kızılötesi, görünür ve ultraviyole) ve\niyonlaştırıcı bölgeyi içerir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "ı\n(mikrodalgalar dahil) bulunabilir. EMA Direktifi kapsamına girmeyen elektromanyetik\nspektrumun diğer bölümleri ise optik bölgeyi (kızılötesi, görünür ve ultraviyole) ve\niyonlaştırıcı bölgeyi içerir. Bu bölümler sırasıyla Yapay Optik Radyasyon Direktifi\n(2006/25/EU) ve Temel Güvenlik Standartları (BSS) Direktifi (2013/59/Euratom)\nkapsamındadır. <!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 1.2: Elektromanyetik spektrum</figcaption>\n\nİyonize olmayan radyasyon\n\nİyonize radyasyon\n\nsin\n\nZamanla değişen\nalanlar\n\nRadyofrekans alanları\nLF MF HF VHF UHF SHF\n\nOptik radyasyon\nIR\n\nELF VLF\n\nLight UV\n\n100,000 km\n\n100 km\n\n100 m\n\n100 mm\n\n100 um\n\n100 nm\n\nDalgaboyu\n\n3 Hz\n\n3 kHz\n\n3 MHZ\n\n3 GHZ\n\n3 THz\n\n3 PHz\n\nFrekans\n\nEMA Direktifi kapsamında bulunan bölge\n\n</figure>\n\n\nEMA Direktifi tarafından kapsanan frekans aralığındaki elektromanyetik radyasyon, bir\nmalzemenin atomlarından elektronları çıkarmak için yeterli enerjiye sahip\nolmadığından iyonlaştırıcı olarak sınıflandırılmaz. X-ışınları ve gama ışınları, bu\nyörünge elektronlarını çıkarabilen yüksek enerjili elektromanyetik radyasyonlar olup\niyonlaştırıcı radyasyon olarak sınıflandırılırlar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "#### 1.3. Elektromanyetik Alanların Üretimi\n\n\nPozitif ve negatif elektrik yüklerinin varlığı bir elektrik alanı oluşturur. Bu yüklerin\nhareketi ile elektrik akımı oluşur ve hatta bir manyetik alan da üretilir (Şekil 1.3).\nManyetik alanlar, elektrik yüklerinin hareketinden kaynaklanır. Daha yüksek akım,\ndaha büyük bir manyetik alan üretir.\n\n\n<figure>\n<figcaption>Şekil 1.3: (a) Elektrik yükleri etrafındaki alan çizgileri; (b) Akan bir elektrik akımı etrafındaki alan çizgilerinin kırmızı çizgi ile gösterilen temsili</figcaption>\n\n(a)\n\n(b)\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "##### 1.3.1. Zamanla Değişen Alanlar\n\n\nBir cisim üzerindeki elektrik yükü zamanla değişirse veya yük akışı (akım) değişirse,\nzamanla değişen alanlar üretilir. Zamanla değişen alanların doğası, salınımların\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\nfrekansına (sıklığına) bağlıdır. Düşük frekanslarda elektrik ve manyetik alanlar\nbirbirinden bağımsız olarak kabul edilebilir. Frekans, radyo-frekans bölgesine doğru\narttıkça, alanlar birbirleri ile daha yakın etkileşir ve zamanla değişen elektrik alan,\nmanyetik bir alanı indükler veya tam tersi. Elektromanyetik radyasyonun uzun\nmesafeler kat etmesini sağlayan, elektrik ve manyetik alanlar arasındaki bu\netkileşimdir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "##### 1.3.2. Radyasyon Yayan Elektromanyetik Alanlar\n\n\nRadyo-frekans bölgesinde elektrik ve manyetik alanlar arasında yukarıda bahsedilen\netkileşim, enerjinin üretildiği noktadan uzağa yayılmasına olanak sağlar (Şekil 1.4).\nUzak alanda, bu iki bileşen (elektrik alan ve manyetik alan); birbirlerine ve dalganın\nhareket ettiği yöne dik açılarda salınır ve bunu ışık hızıyla aynı hızda yapar. Vericinin\ntasarımı, radyasyonun her yönde yayılmasını veya belirli bir yöne odaklanmasını\nsağlar.\n\n\n<figure>\n<figcaption>Şekil 1.4: Elektromanyetik radyasyon; ışık hızında hareket eden, birbirine dik açılarla salınan manyetik ve elektrik alan bileşeninden oluşur.</figcaption>\n\nElektrik alan\n\nE\n\nManyetik alan\nB\n\nİlerleme\ndoğrusu\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "###### 2. ELEKTROMANYETİK ALANLARA İLİŞKİN BÜYÜKLÜKLER VE BİRİMLERİ\n\n\nElektromanyetik alanlardan kaynaklanan riskler öncelikle alanın frekansına ve\nşiddetine bağlıdır. Elektromanyetik alanın yol açabileceği riskleri değerlendirebilmek\niçin alanı, fiziksel büyüklükler ile karakterize edebilmek gerekir. Elektromanyetik alanlara ilişkin büyüklükler farklı şekillerde ifade edilebilmekte olup\nözellikle ekran alanının sınırlı olduğu ölçüm cihazları için bu husus önemlidir. Birimlerin\nalabileceği çeşitli formlara aşina olmak, verilerin ve bilgilerin daha iyi kullanılabilmesini\nsağlayacaktır. Şöyle ki;\n\nv Birimin büyüklüğünü ölçeklendirmek için ön ekler kullanılabilir. Örneğin 1V,\n1000 mV ve 1000 000 µV hepsi aynı değeri temsil eder. Yaygın olarak kullanılan\nön ekler Tablo 2.1'de verilmiştir. <!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\nY Birimler farklı şekilde ifade edilebilir. Örneğin; metre başına 100 volt, 100 V/m,\n100 V.m-1 ve 100 Vm-1 aynı değeri temsil eder. v Bir sayı veya birimden sonra sayısal üst indis veya kuvvetinin kullanılması,\nyükseltildiği gücü belirtir. Örneğin, m2; \"metrekare\" olup kullanımı bir alanın\nölçülüyor olduğu anlamına gelir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "il eder. v Bir sayı veya birimden sonra sayısal üst indis veya kuvvetinin kullanılması,\nyükseltildiği gücü belirtir. Örneğin, m2; \"metrekare\" olup kullanımı bir alanın\nölçülüyor olduğu anlamına gelir. <table>\n<caption>Tablo 2.1: Uluslararası Birimler Sisteminde (SI Units) kullanılan ön ekler</caption>\n<tr>\n<th></th>\n<th>Sembol</th>\n<th>Ölçekleme faktörü</th>\n</tr>\n<tr>\n<td>Tera</td>\n<td>T</td>\n<td>1012 veya 1 000 000 000 000</td>\n</tr>\n<tr>\n<td>Giga</td>\n<td>G</td>\n<td>109 veya 1 000 000 000</td>\n</tr>\n<tr>\n<td>Mega</td>\n<td>M</td>\n<td>106 veya 1 000 000</td>\n</tr>\n<tr>\n<td>Kilo</td>\n<td>k</td>\n<td>103 veya 1 000</td>\n</tr>\n<tr>\n<td>Milli</td>\n<td>m</td>\n<td>10-3 veya 0.001</td>\n</tr>\n<tr>\n<td>Micro</td>\n<td>μ</td>\n<td>10-6 veya 0.000 001</td>\n</tr>\n<tr>\n<td>Nano</td>\n<td>n</td>\n<td>10-9 veya 0.000 000 001</td>\n</tr>\n</table>\n\n\n####### 2.1. Frekans (f)\n\nEMA Direktifinde verilen eylem değerleri (ED'ler) ve maruziyet sınır değerleri (MSD'ler)\nelektromanyetik alanın frekansına göre belirlenir. Frekans, f harfi ile temsil edilir. Bir\nelektromanyetik alanın frekansı, dalganın temel bir özelliği olup elektromanyetik\ndalganın tepe noktasının her saniye belirli bir noktadan kaç kez geçtiğini temsil eder. Frekans birimi, Hz olarak kısaltılan hertz'dir. Frekans, elektromanyetik alanın A sembolü ile temsil edilen dalgaboyu ile yakından\nilgili olup dalgaboyu metre cinsinden ölçülür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "geçtiğini temsil eder. Frekans birimi, Hz olarak kısaltılan hertz'dir. Frekans, elektromanyetik alanın A sembolü ile temsil edilen dalgaboyu ile yakından\nilgili olup dalgaboyu metre cinsinden ölçülür. Bir saniyede belirli bir noktadan geçen\ndalga tepe noktalarının sayısı, tüm elektromanyetik dalgalar vakumda aynı hızda\nhareket ettiğinden dalgaboyuna bağlıdır. Bu nedenle, daha uzun dalgaboylu alanların\nfrekansları daha düşüktür (Şekil 2.1). Frekans; c'nin vakumdaki ışık hızını (3.0 x 108 ms-1) temsil ettiği f = c/A eşitliği ile\ngösterilir. <figure>\n<figcaption>Şekil 2.1: Farklı dalga boylarındaki elektromanyetik dalgalar. Daha uzun dalga boyuna sahip daha düşük frekanslı bir dalga (kırmızı) ile daha kısa dalga boyuna sahip yüksek frekanslı bir dalga (yeşil).</figcaption>\n\nDALGABOYU\n\n</figure>\n\n\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "#### 2.2. Elektrik Alan Şiddeti (E)\n\n\nElektrik alan içerisinde bir noktadaki elektrik alan kuvveti, o noktaya yerleştirilen bir\nbirim pozitif yüke etki eden kuvvettir. Vektörel bir büyüklük olup hem büyüklüğü hem\nde yönü vardır. Elektrik alan şiddeti veya elektrik alanının yoğunluğu, bir tepenin\neğimine benzer olarak düşünülebilir. Eğim ne kadar fazla olursa, nesnelerin yokuş\naşağı kaymasına neden olan kuvvet o kadar güçlü olur. Bir elektrik alanı için, elektrik\nalanı gücü ne kadar büyük olursa, yüklü bir parçacık üzerindeki kuvvet de o kadar\nbüyük olur.\n\nElektrik alan şiddeti E harfiyle temsil edilir ve Vm-1 olarak kısaltılarak metre başına volt\ncinsinden ölçülür.\n\nElektrik alanlar vücudun hem dışında hem de içinde bulunabilir. 10 MHz'den düşük\nelektrik alanlar ve 100 kHz'in üzerindeki elektromanyetik alanlar için eylem değerleri,\ndış elektrik alan şiddeti (gücü) olarak belirtilir. EMA Direktifinin Ek Il'sinde yer alan\ntermal olmayan etkiler için maruziyet sınır değerler, vücut içindeki iç elektrik alan\nşiddeti yönünden belirtilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "#### 2.3. Manyetik Akı Yoğunluğu (B)\n\n\nManyetik akı, 'manyetizma miktarı'nın ölçüsü olup manyetik alanın gücünü ve\nkapsamını dikkate alan sayısal bir niceliktir. Manyetik akı yoğunluğu ise belirli bir\nalandan geçen manyetik akının ölçüsüdür (Şekil 2.2). Belirli bir alanda daha fazla alan\nçizgisi varsa manyetik akı yoğunluğu da fazladır ve dolayısıyla akı çizgilerinin\nyoğunluğu yüksektir. Manyetik akı yoğunluğu, hareketli yüklere etki eden bir kuvvet ile\nsonuçlanır.\n\nManyetik akı yoğunluğu B harfi ile temsil edilir ve T olarak kısaltılmış tesla birimlerinde\nölçülür.\n\nEMA Direktifinde 0 ve 1 Hz arasındaki alanlar için maruziyet sınır değerleri, manyetik\nakı yoğunluğu yönünden; 1 Hz ve 10 MHz arasındaki manyetik alanlar ile 100 kHz'in\nüzerindeki elektromanyetik alanlar ise eylem değerleri yönünden belirtilmiştir.\n\n\n<figure>\n<figcaption>Şekil 2.2: Bir alandan (sarı) geçen manyetik akı (kırmızı). Manyetik akı yoğunluğu, birim alandaki manyetik akının miktarıdır.</figcaption>\n\nAKI\n\nALAN\n\n</figure>\n\n\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 2.3: 70 A akım taşıyan 50 Hz kablo etrafında manyetik alan şiddetinin uzamsal dağılımı</figcaption>\n\n1.10e03\n\n9.35e01\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "#### 2.4. Manyetik Alan Şiddeti (H)\n\n\nManyetik akı yoğunluğu gibi, manyetik alan şiddeti de manyetik alanın büyüklüğünün\nbir ölçüsüdür. Manyetik alan şiddeti, H harfi ile temsil edilir ve metre başına amper\n(A/m) cinsinden ölçülür. Manyetik alan şiddeti, EMA Direktifinde kullanılmasa da\nICNIRP kılavuzlarında kullanılır ve birçok manyetik alan ölçer bu büyüklük yönünden\nsonuç verir.\n\nBoş alanda, bir manyetik alan şiddeti değeri, B [uT] ~ H x 1.25 [Am-1] denklemi\nkullanılarak eşdeğer bir manyetik akı yoğunluğuna dönüştürülebilir. Örneğin H'nin\ndeğeri 800 Am-1 ise B'nin değeri yaklaşık olarak; 800 x 1.25 uT = 1 000 µT = 1 mT\nolacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "#### 2.5. Radyo-frekans Güç Yoğunluğu (S)\n\n\nEMA Direktifinde, vücuttaki nüfuz derinliğinin düşük olduğu çok yüksek frekanslarda (6\nGHz'in üzerinde) hem maruziyet sınır değerler hem de eylem değerleri, güç yoğunluğu\ncinsinden verilir ve aynı sayısal değere sahiptir. Güç yoğunluğu, bir yüzeyde yayılan\ngüç olarak tanımlanır. S sembolü ile temsil edilir ve metrekare başına watt (Wm-2)\nolarak ifade edilir.\n\nGüç yoğunluğunu, bir maruziyet sınır değeri ve eylem değeri ile karşılaştırırken,\nherhangi 1 cm2'lik maruz kalan alanda ortalama güç yoğunluğunun (MSD'nin veya\nED'nin 20 katını geçmemesi koşuluyla) herhangi bir 20 cm2 maruz kalan alan üzerinde\nortalaması alınabilir (Şekil 2.4).\n\n\n<figure>\n<figcaption>Şekil 2.4: Güç yoğunluğu, birim alan başına yayılan güçtür.</figcaption>\n\n10 W iletilen\n\n1\n\n1\n\n</figure>\n\n\nGüç Yoğunluğu = 10 W/m2\n\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\nGüç yoğunluğunun, yayılımın frekansına bağlı olarak belirli bir süre boyunca\nortalaması alınabilir. Bu zaman dilimi için formül, EMA Direktifinin Ek III'ünde yer alan\nNot A3-1 ve B1-4'te verilmiş olup Grafik 2.1'de grafiksel olarak sunulmuştur.\n\n\n<figure>\n<figcaption>Grafik 2.1: Güç yoğunluğu için ortalama sürenin frekansa nasıl bağlı olduğunu gösteren grafik</figcaption>\n\n8\n\nOrtalama zaman (dakika)\n\n6\n\n4\n\n2\n\n0\n\n1\n\n10\n\n100\n\nFrekans (GHz)\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "### 2.6. Özgül Soğurma Oranı (SAR)\n\n\nÖzgül soğurma oranı, vücuttaki bir birim doku kütlesinin elektromanyetik radyasyondan\nenerji soğurma oranını ölçmenin bir aracıdır. Bu soğurma oranı elektromanyetik\nalanların termal etkileri ile ilgilidir. Özgül soğurma oranı, kilogram başına watt olarak\nWkg1 olarak ölçülür. Özgül soğurma oranı, tüm vücudun maruz kalımı nedeniyle meydana gelen vücut iç\nsıcaklığındaki yükselmeleri tahmin etmek için kullanışlıdır. Bu durumda SAR'ın,\nçalışanın vücut kütlesi üzerinden ortalaması alınır. SAR arttıkça dokunun ısınma\nihtimali artar, bu da olumsuz sağlık etkilerine yol açar. Çalışan için tüm vücut ortalamalı\nSAR değeri, vücudunun rezonans frekansında en yüksek olma eğilimindedir. Rezonans frekansı; insan vücudunun boyutuna, şekline ve aynı zamanda o anki\nelektromanyetik alana uyumuna bağlıdır. Ortalama boy ve kütleye sahip bir çalışan için\nrezonans; çalışan, iletken zeminden izole edildiğinde ve o anki alan dikey olarak\npolarize olduğunda yaklaşık 65 MHz'de meydana gelir. O anki elektromanyetik alanın absorbsiyonu, vücudun küçük bir bölgesinde\ngerçekleştiğinde bölgesel SAR uygulanabilir. Örneğin; kafanın, karasal kanallı radyoya\nmaruz kaldığı durum (Şekil 2.5). Vücudun dokuları yayılan bir alandan enerji\nsoğurduğunda, dokuların termal dengeye ulaşması zaman alır. Bu nedenle, hem tüm\nvücut hem de bölgesel SAR'ın belli bir süre boyunca (6 dakika) ortalaması alınır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "un dokuları yayılan bir alandan enerji\nsoğurduğunda, dokuların termal dengeye ulaşması zaman alır. Bu nedenle, hem tüm\nvücut hem de bölgesel SAR'ın belli bir süre boyunca (6 dakika) ortalaması alınır. <!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 2.5: 380 MHz karasal kanallı radyoya maruziyetle meydana gelen, kafadaki özgül soğurma oranı (SAR) dağılımı 2.7. Özgül Soğurma (SA)</figcaption>\n\nSAR\n\n0.8-3.2\n\n0.4\n\n0.0\n[W kg=1]\n\n</figure>\n\n\nÖzgül soğurma, kilogram başına joule (Jkg-1) cinsinden ifade edilen, biyolojik dokunun\nbirim kütlesi başına emilen enerji olarak tanımlanır. EMA Direktifinde, darbeli\nmikrodalga radyasyonunun etkileri için sınırlar oluşturmada kullanılır. 300 MHz'den 6 GHz'e kadar elektromanyetik alanlara maruziyet için duyu etkili MSD'ler,\nDirektifte; 10g doku üzerinde ortalaması alınmış bölgesel (SA) cinsinden verilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "### 2.8. Temas Akımı (Ic)\n\n\nElektromanyetik alanlarda pasif iletken nesnelerle temas, vücut içinde şok ve yanıklara\nveya bölgesel ısınmaya neden olabilecek akımlara yol açabilir. Eylem değerleri, bu\netkinin sınırlanması için getirilmiştir.\n\nTemas akımları Ic ile temsil edilir ve miliamper (mA) olarak ölçülür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "### 2.9. Uzuv Akımı (IL)\n\n\nİndüklenen uzuv akımı, bir elektrik alanına maruz kalan ancak iletken bir nesneye\ndokunmayan bir kişiden toprağa iletilen elektrik akımıdır. Uzuv çevresinde kelepçe tipi\nbir ölçer kullanılarak (Şekil 2.6) veya yere iletilen akımın tespiti ile ölçülebilir.\n\nUzuv akımları lı ile temsil edilir ve miliamper (mA) olarak ölçülür.\n\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 2.6: 27 MHz dielektrik kaynak makinesi kullanırken uzuv akımını ölçmek için kullanılan bir akım pensi</figcaption>\n\n029%\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "## 3. EMA MARUZİYETİNE İLİŞKİN YÖNERGELER VE MEVCUT DURUMA İLİŞKİN POLİTİKALAR\n\n\nÜlkeler, elektromanyetik alanlara maruziyet konusunda kendi ulusal standartlarını\nbelirlerler. Bununla birlikte, ulusal standartların çoğu, Uluslararası İyonize Olmayan\nRadyasyondan Korunma Komisyonu (ICNIRP) tarafından belirlenen yönergelere\ndayanmaktadır. ICNIRP, periyodik olarak gözden geçirilen ve gerektiğinde\ngüncellenen maruz kalma sınırları hakkında öneriler içeren yönergeler yayınlar. Bu yönergeler, 0 ila 300 GHz arasındaki iyonize olmayan radyasyon frekansı aralığını\nkapsar. Bunlar, yayınlanmış tüm hakemli literatürün kapsamlı incelemelerine\ndayanmaktadır. Maruziyet sınır değerleri, uzun süreli maruziyetten ziyade kısa süreli\nakut maruziyetle ilgili etkilere dayanmaktadır çünkü uzun süreli maruziyetten\nkaynaklanan etkilere ilişkin mevcut bilimsel verilerin, maruziyet yönünden niceliksel\nsınırlar oluşturmak için yetersiz olduğu düşünülmektedir. Kısa süreli akut etkilere dayanan uluslararası yönergeler, potansiyel olarak olumsuz\nbiyolojik etkilere yol açabilecek yaklaşık maruziyet sınır değerlerini veya eşik değerini\nkullanırlar. Bilimdeki ölçüm belirsizliğini hesaba katarak bu en düşük eşik değeri, insan\nmaruziyeti için güvenilir sınır değerler elde etmek üzere daha da düşürülür. Örneğin,\nICNIRP, çalışanlar için mesleki maruziyet sınırları elde etmek amacıyla 10'luk, genel\nhalk için maruz kalma sınırlarını elde etmek için ise yaklaşık 50'lik bir azaltma faktörü\nkullanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "ülür. Örneğin,\nICNIRP, çalışanlar için mesleki maruziyet sınırları elde etmek amacıyla 10'luk, genel\nhalk için maruz kalma sınırlarını elde etmek için ise yaklaşık 50'lik bir azaltma faktörü\nkullanır. Bu sınır değerler, frekansa göre değişmekte olup düşük frekans alanları ile\nyüksek frekans alanları için farklıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "### 3.1. Genel Kamunun Maruz Kalma Sınırları İçin Neden Daha Yüksek Azaltma Faktörü Uygulanmaktadır?\n\n\nMesleki olarak maruz kalan nüfus, genellikle elektromanyetik alanların ve bunların\netkilerinin farkında olan yetişkin çalışanlardan oluşur. Çalışanlar, olası risklerin\n\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\nfarkında olacak ve uygun önlemleri alacak şekilde eğitilir. Buna karşılık, genel halk,\nçoğu durumda EMA'ya maruz kaldıklarının farkında olmayan her yaştan ve farklı sağlık\ndurumundaki bireylerden oluşur. Ayrıca çalışanlar, tipik olarak yalnızca çalışma günü\nboyunca (genellikle günde 8 saat) maruz kalırken, genel halk günde 24 saate kadar\nmaruz kalabilir. Bunlar, genel halk için mesleki olarak maruz kalan nüfusa göre daha\nkatı maruziyet sınırlarına ihtiyaç duymaya yol açan temel hususlardır.\n\nMaruz kalma sınırlarına ilişkin yönergelerde, elektromedikal cihazlarla elektromanyetik\netkileşime karşı koruma sağlamak amaçlanmamıştır. Ancak bu tür etkileşimleri\nönlemek için yeni endüstriyel standartlar geliştirilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "### 3.2. İhtiyatlılık İlkesi\n\n\nTüm dünyada, hükümetlerde, \"ihtiyati tedbir\" alma yönündeki yaklaşım giderek daha\nfazla benimsenmektedir. Alınan önlemlerin boyutu ve aralığı, zararın ciddiyetine ve\nsorunu çevreleyen belirsizliğin derecesine bağlıdır. Bu ilkeler genellikle yüksek\nderecede bilimsel belirsizlik olduğunda ve potansiyel olarak ciddi bir riskle ilgili olarak\nbilimsel araştırmaların sonuçlarını beklemeden harekete geçme ihtiyacı olduğunda\nuygulanır. Bu, Maastricht Antlaşması'nda, \"eylemsizliğin zarara yol açabileceğine dair\nyeterli bilimsel kanıt olduğunda (ancak mutlak kanıt olmadığında) ihtiyatlı eylemde\nbulunmak için makul ve maliyet etkin eylemin gerekçelendirilebilmesi olarak\ntanımlanmıştır. İhtiyat ilkesinin birçok farklı yorumu ve uygulaması olmuştur. 2000\nyılında Avrupa Komisyonu, maliyet-fayda analizleri de dahil olmak üzere bu ilkenin\nuygulanması için birkaç kural tanımlamıştır. Eylemin gerekli görülmesi halinde, ihtiyati\nilkeye dayalı önlemler şu şekilde olmalıdır:\n\nv İstenen koruma seviyesi ile orantılı,\n\nv Ayrımcı olmayan,\n\nv Halihazırda alınmış benzer önlemlerle tutarlı,\n\nv Potansiyel fayda ve maliyetlerin incelenmesi veya önlem alınmamasına halinde\nolası sonuçların değerlendirmesi (uygulanabilir olduğunda, ekonomik maliyet /\nfayda analizi dahil),\n\nYeni bilimsel veriler ışığında gözden geçirme\n\nv Kapsamlı bir risk değerlendirmesi için gerekli bilimsel kanıtı üretme\nçerçevesinde görev atanabilme kapasitesi",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "### 3.3. EMA İçin Bilim Temelli İhtiyatlılık Yaklaşımları\n\n\nEMA maruziyetinden kaynaklanan potansiyel tehlikelerin bilimsel temelli\ndeğerlendirilmesi, risk değerlendirmesinin de temelini oluşturur. ICNIRP\nyönergelerinde yer alan öneriler; tıp, epidemiyoloji, biyoloji ve dozimetri alanlarını\niçeren yayınlanmış bilimsel makalelerin titiz bilimsel incelemelerine dayanır. Ardından,\ntespit edilen olumsuz sağlık etkilerini önlemek üzere maruziyet düzeyleri hakkında\nbilime dayalı kararlar verilir. Burada, azaltma faktörlerinin büyüklüğü (bilimsel\n\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\nverilerdeki belirsizliklere ve belirli grupların duyarlılığındaki olası farklılıklara dayalı\nolarak) ile EMA etkileşimleri hakkındaki varsayımlarda dikkatli olunmalıdır. EMA bağlamında, bazı ulusal ve yerel yönetimler, bir politika seçeneği olarak ihtiyatlılık\nilkesinin diğer bir çeşidi olan \"ihtiyatlı kaçınma\" yaklaşımını benimsemiştir. Başlangıçta\nçok düşük frekanslı alanlar için kullanılmış olan bu yaklaşım, bireysel veya genel EMA\nmaruziyetini azaltmak için basit, kolayca elde edilebilir, düşük ila orta maliyetli\nönlemlerinin kullanılması olarak tanımlanmıştır. Düzenleyici otoriteler, hâlihazırda var olan bilim temelli sınırlara ek sınırlar getirmenin,\nbilimin güvenilirliğini ve mevcut maruz kalma sınırlarına uyumu zayıflattığının farkında\nolmalıdır. Diğer taraftan bir riskin mevcut olmayabileceğinin kabul edilmesi de\nmümkündür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "sınırlar getirmenin,\nbilimin güvenilirliğini ve mevcut maruz kalma sınırlarına uyumu zayıflattığının farkında\nolmalıdır. Diğer taraftan bir riskin mevcut olmayabileceğinin kabul edilmesi de\nmümkündür. Bilimsel topluluk EMA'ya maruz kalma riskinin olmadığı veya bir risk\nolasılığının çok spekülatif olduğu sonucuna varırsa, o zaman endişeyi ortadan\nkaldırmaya yönelik uygun yanıt, etkili bir eğitim programının uygulamaya konulması\nolmalıdır. EMA'ya maruziyet ile ilgili risk olduğu sonucuna varıldığında, bilimsel\ntopluluk tarafından önerilen koruyucu tedbirlere güvenmek yerinde olacaktır. Büyük\nbelirsizlikler devam ederse, daha fazla araştırmaya da ihtiyaç duyulacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "## 4. EMA'LARIN SAĞLIK VE GÜVENLİK ÜZERİNE ETKİLERİ\n\n\nÇoğu insan, evde ve işyerinde; ev aletleri ve endüstriyel ekipmanların kullanımının yanı\nsıra elektriğin iletimi, telekomünikasyon ve yayınlardan oluşan zayıf elektrik ve\nmanyetik alanların karışımına maruz kalmaktadır. Herhangi bir dış elektrik alan\nbulunmasa bile, normal vücut fonksiyonlarının bir parçası olan kimyasal reaksiyonlar\nnedeniyle insan vücudunda çok küçük elektrik akımları mevcuttur. Elektromanyetik alanların sağlığı etkileme şekli maruziyetin sıklığına, gücüne ve\nsüresine bağlıdır. Uygulanan alanın frekansı da etkinin sonuçları bağlamında önemlidir\nçünkü farklı frekanslar vücutla farklı şekillerde etkileşime girer ve düşük frekanslı\nalanların etkileri, yüksek frekansların ürettiği ile aynı değildir. Düşük frekanslı alanlar,\nsinir ve kasların uyarılmasına neden olurken, yüksek frekans alanları dokuların\nısınmasına yol açar. Mesleki maruziyet sınır değerleri, bu değerlere bağlı kalındığı\nsürece olumsuz sağlık etkileri olmayacak şekilde belirlenir. Yani herhangi bir olumsuz\netkinin meydana gelmesi için, bu frekansta, maruziyet sınır değerini aşmak gerekir. İnsanlarla etkileşimleri temelinde, elektromanyetik alanlar dört geniş bölgeye ayrılabilir. Frekansı 0 ila 1 Hz olanlar (statik alanlar); 1 Hz ila 100 kHz frekanslı olanlar (düşük\nfrekans alanları); 100 kHz ila 10 MHZ frekanslı olanlar (orta frekans alanları); ve\nfrekansları 10 MHz'den fazla olanlar (yüksek frekans alanları).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "alanlar); 1 Hz ila 100 kHz frekanslı olanlar (düşük\nfrekans alanları); 100 kHz ila 10 MHZ frekanslı olanlar (orta frekans alanları); ve\nfrekansları 10 MHz'den fazla olanlar (yüksek frekans alanları). EMA Direktifinde; sinir\nsistemi üzerinde ortaya çıkan etkilerin, termal olmayan etkiler olduğu; 100 kHz'in\nüzerindeki alanlara maruziyetin bir sonucu olarak ortaya çıkan ısınma ile ilgili etkilerin\nise termal etkiler olduğu öngörülmektedir. <!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nEMA Direktifi, bir dizi maruziyet sınır değeri (MSD) tanımlayarak maruz kalacak\nçalışana koruma sağlamayı amaçlar. Bu kapsamda, her bir frekans aralığında, duyusal\netkileri sınırlamak için daha düşük bir değer ve sağlık etkilerini sınırlamak için daha\nyüksek bir değer tanımlanmıştır (Tablo 4.1). Bu değerler, Uluslararası İyonlaştırıcı\nOlmayan Radyasyondan Korunma Komisyonu tavsiyelerine dayanmakta olup yalnızca\nbiyofiziksel etkileşim mekanizmalarına dayanan maruziyetin kısa süreli etkilerini\ndikkate alır. Tekrarlanan, uzun süreli maruziyetlerin sağlık yönünden henüz\ntanımlanmamış bazı riskler taşıması her zaman mümkün olsa da EMA Direktifi, uzun\nvadeli etkileri kapsamamaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "etkilerini\ndikkate alır. Tekrarlanan, uzun süreli maruziyetlerin sağlık yönünden henüz\ntanımlanmamış bazı riskler taşıması her zaman mümkün olsa da EMA Direktifi, uzun\nvadeli etkileri kapsamamaktadır. <table>\n<caption>Tablo 4.1: Farklı frekans bölgelerindeki maruziyetleri sınırlamak için kullanılan ilgili sağlık ve duyu etkili MSD'lerin özeti</caption>\n<tr>\n<th>Alan ve frekans</th>\n<th>Duyusal etkiler</th>\n<th>Sağlık etkileri</th>\n</tr>\n<tr>\n<td>Statik manyetik alan 0 - 1 Hz</td>\n<td>Baş dönmesi, mide bulantısı, metalik tat hissi</td>\n<td>Uzuvlardaki kan akışında değişim, beyin ve kalp fonksiyonlarında değişim</td>\n</tr>\n<tr>\n<td>Düşük frekanslı alanlar 1 Hz - 10 MHz</td>\n<td>Gözde ışık patlaması hissi, 1 - 400 Hz aralığında beyin fonksiyonlarında küçük değişimler</td>\n<td>Karıncalanma hissi veya ağrı, kas seğirmeleri, kalp ritminin bozulması</td>\n</tr>\n<tr>\n<td>Yüksek frekanslı alanlar 100 kHz - 6 GHZ</td>\n<td>Mikrodalga işitsel etki (kişinin sesli konuşma duyduğunu hissetmesi) (200 MHz - 6.5 GHZ)</td>\n<td>Vücudun tümü ya da bölgesel ısınması veya yanıklar</td>\n</tr>\n<tr>\n<td>Yüksek frekanslı alanlar 6 - 300 GHZ</td>\n<td></td>\n<td>Göz veya deride bölgesel ısı hasarı</td>\n</tr>\n<tr>\n<td colspan=\"3\">DİKKAT: Orta şiddetli alanların (100 kHz - 10 MHz) sağlık etkileri, düşük ve yüksek frekanslı alanların etkilerinin bileşimidir.</td>\n</tr>\n</table>\n\n\nElektromanyetik alanların yol açtığı sağlık etkileri ve alınabilecek önlemler ile ilgili daha\nfazla bilgi, \"Elektromanyetik Alan Üreten Kaynaklar ile Çalışmalarda Sağlık ve Güvenlik\nÖnlemleri Rehberi - Seri II\" nin dördüncü bölümünde (bkz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "ğlık etkileri ve alınabilecek önlemler ile ilgili daha\nfazla bilgi, \"Elektromanyetik Alan Üreten Kaynaklar ile Çalışmalarda Sağlık ve Güvenlik\nÖnlemleri Rehberi - Seri II\" nin dördüncü bölümünde (bkz. Başlık 4.3) yer almaktadır. Elektromanyetik alanların iş güvenliği ile ilgili etkileri arasında özellikle üzerinde\ndurulması gereken hususlar statik manyetik alanlarda ferromanyetik nesnelerin fırlama\nriski, elektro-patlayıcı cihazların tetiklenmesi ve yanıcı atmosferlerin tutuşmasından\nkaynaklanan yangınlar ve patlamalar ile ilgilidir. Güçlü statik manyetik alanlarda, ferromanyetik nesneler, nesnenin hareketine neden\nolabilecek güçlü çekim kuvvetine maruz kalabilirler. Uygun koşullar altında bu hareket\nfırlama riski oluşturabilir. Hareketin yol açacağı bu risk; manyetik alan gradyanı,\nnesnenin kütlesi, şekli ve üretildiği malzeme dahil olmak üzere bir dizi faktöre bağlıdır. <!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nDiğer taraftan elektromanyetik alanların, uygun koşullar altında fünye/detonatör gibi\nelektro-patlayıcı cihazların tetiklenmesine neden olabileceği iyi bilinmektedir. Bu etki,\nelektro-patlayıcı cihazların işyerindeki mevcudiyetine ve bunları tetiklemek için yeterli\nalan kuvvetlerinin varlığına bağlıdır. Dolayısıyla işyerlerinin çoğunluğu için bir sorun\nteşkil etmese de savunma sektöründeki işverenler tarafından dikkate alınması gerekir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "ı tetiklemek için yeterli\nalan kuvvetlerinin varlığına bağlıdır. Dolayısıyla işyerlerinin çoğunluğu için bir sorun\nteşkil etmese de savunma sektöründeki işverenler tarafından dikkate alınması gerekir. İşyerinde güçlü elektromanyetik alanlar bulunmasa dahi elektro-patlayıcı cihazlar risk\noluşturabileceğinden, yakın çevrelerinde yürütülen iş faaliyetlerinin kısıtlanması ve bu\nfaaliyetlerdeki EMA varlığının dikkate alınmasının yanı sıra bunların depolanması ve\nkullanılması da sıkı bir şekilde kontrol edilmelidir. Köprü telli (bridgewire) fünyeler (EBW'ler), özellikle bir plütonyum çekirdeğinin çok hızlı\nsıkıştırıldığı plütonyum tabanlı nükleer silahlarda kullanılmak üzere, birden fazla\npatlayıcı yükünü aynı anda patlatmanın bir yolu olarak geliştirilmiştir. Söz konusu\nfünyelerin başlatılması riskinin değerlendirilmesi konusunda rehberlik sağlayan bir\nAvrupa teknik raporu (CLC/TR50426) mevcuttur. Söz konusu raporda bu fünyelerin\nbaşlatılmasını önlemek amacıyla sahadan/işyeri ortamından yeterli enerjinin\nçıkarılması konusunda risk değerlendirmesi için yaklaşımlar sunulmuştur. Yararlı\nolabilecek başka bir teknik rapor olan CLC/TR50404'te ise, patlayıcı maddelerin statik\nelektrikle tetiklenmesini önlemek amacıyla risklerin değerlendirilmesi ve tedbirlerin\nbelirlenmesi konusunda rehberlik sağlanmaktadır. Elektromanyetik alanların nesnelerle etkileşiminin, yanıcı ortamları tutuşturabilecek\nkıvılcım deşarjlarının oluşmasına neden olabileceği de iyi bilinen bir husustur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "nusunda rehberlik sağlanmaktadır. Elektromanyetik alanların nesnelerle etkileşiminin, yanıcı ortamları tutuşturabilecek\nkıvılcım deşarjlarının oluşmasına neden olabileceği de iyi bilinen bir husustur. Tutuşturma kabiliyetine sahip kıvılcımlar, elektrik akımları ve gerilimlerinin iletken\nyapılarda, radyo frekansı vericileri (radyo, televizyon ve radar gibi) tarafından üretilen\nelektromanyetik dalgalarca indüklendiğinde meydana gelebilir. Bu etkinin ortaya\nçıkabilmesi için hem yanıcı bir atmosferin varlığı hem de bu atmosferi tutuşturmak için\nyeterli alan kuvvetlerinin mevcudiyeti gerektiğinden, işyerlerinin çoğunluğu için bir\nsorun olmasa bile bazı sektörlerdeki işverenler tarafından üzerinde düşünülmesi\ngerekebilir. Yanıcı ortamlar, çeşitli kaynakların yol açabileceği tutuşma tehlikesi altında\nolabilir, bu nedenle bu tür ortamların mevcut olabileceği alanları belirlemek ve bu\nalanlardaki faaliyetlere kısıtlama getirmek bir yaklaşım olabilir. Bu yaklaşımın, bölgede\nEMA üretimi ile ilgili sınırlamaları da içermesi ideal olanıdır. Radyo-frekans elektromanyetik alanlar ile yanıcı ortamların istemsiz tutuşması riskinin\ndeğerlendirilmesi konusunda rehberlik sağlayan bir Avrupa teknik raporu\n(CLC/TR50427) bulunmaktadır. Söz konusu rapor, sahadan/çalışma ortamından\nçıkarılabilecek enerjiyi belirlemek ve bunu, farklı yanıcı madde sınıflarını tutuşturmak\niçin gereken enerji ile karşılaştırmak için yaklaşımlar sunmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "z konusu rapor, sahadan/çalışma ortamından\nçıkarılabilecek enerjiyi belirlemek ve bunu, farklı yanıcı madde sınıflarını tutuşturmak\niçin gereken enerji ile karşılaştırmak için yaklaşımlar sunmaktadır. Yararlı olabilecek\nbaşka bir teknik rapor ise CLC/TR50404 olup bu rapor, yanıcı ortamların statik\nelektrikle tutuşmasını önlemek için risklerin değerlendirilmesi ve önlemlerin\nbelirlenmesi konusunda rehberlik sağlamaktadır. <!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "## 5. MANYETİK REZONANS GÖRÜNTÜLEME İLE İLGİLİ REHBERLİK\n\n\nManyetik rezonans görüntüleme (MRI), hastalığın tanı ve tedavisi için başvurulan, tıbbi\naraştırmalarda değerli bir araç olan önemli bir tıbbi teknolojidir. Bu teknikte, vücuttaki\nhidrojen çekirdeklerini uyarmak için insan vücuduna çeşitli manyetik alanlar uygulanır,\ndokudaki hidrojen atomlarının yoğunluğuna ve hareketine göre görüntü oluşur. Söz\nkonusu teknik, her yıl ülkemizde ve Avrupa Birliği'nde on milyonlarca taramayla yaygın\nolarak kullanılmakta olup beyin metabolizması ve aktivitesinin haritalanması dahil\nolmak üzere ayrıntılı görüntüler oluşturmak amacıyla hastalar veya gönüllüler, güçlü\nelektromanyetik alanlara kasıtlı olarak maruz kalır. Bilgisayarlı tomografi (CT) gibi diğer\ngörüntüleme teknolojilerini tamamlayıcı nitelikte olmasına rağmen MRI'da, iyonlaştırıcı\nradyasyona maruz kalım söz konusu değildir ve bilinen uzun vadeli sağlık etkileri yoktur. Tarayıcıdaki elektromanyetik alan dağılımı, öncelikle tarama verimi ve görüntü\nkalitesine bağlıdır. Statik manyetik alanlar, dolaylı etkiler için eylem değerlerini aşabilir. Ayrıca, bazı koşullar altında çalışanlar, maruziyet sınır değerini aşan alanlara maruz\nkalabilir. Ancak MSD'ler, iş sağlığı ve güvenliği kapsamında bir sınırı gösteren türetilmiş\ndeğerler olduğundan bu değerlerin üzerindeki maruziyetler, çalışanlarda etki ortaya\nçıkarmayabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "ra maruz\nkalabilir. Ancak MSD'ler, iş sağlığı ve güvenliği kapsamında bir sınırı gösteren türetilmiş\ndeğerler olduğundan bu değerlerin üzerindeki maruziyetler, çalışanlarda etki ortaya\nçıkarmayabilir. Nitekim ICNIRP, hastaların MRI tarayıcısının içindeki yoğun alanlara\nmaruziyetinin güvenli olmadığı yönünde bir bulgunun söz konusu olmadığını belirtmiştir. Üreticiler, tarayıcının dışındaki alanlarda, kapsamı en aza indirmeye çalışarak,\nekipmanın etrafında çalışan personelin maruz kalmasını önleyebilir. Sağlık sektöründe MRI için; MSD'lere uyma gerekliliği kapsamında EMA Direktifinin 10\nuncu maddesinde koşullu bir istisna yer almaktadır. Tarayıcı içerisindeki hastaların ve\ngönüllülerin elektromanyetik alan maruziyetleri, EMA Direktifi kapsamı dışındadır. Bu başlık altında yer verilen rehberlik, MRI konusunda paydaşlarla istişare halinde\nhazırlanmıştır. İmalatçılar, MRI hizmeti sunan sağlık hizmet sunucuları ve araştırma\nenstitüleri tarafından, uygunluğun sağlanması amacıyla radyografi, radyoloji ve sağlık\nfiziği alanlarında uzmanlara danışılması uygun olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "### 5.1. MRI Ekipmanının Tasarımı\n\n\nMRI tarayıcıları, ekipmanın içinde aşağıda açıklanan üç ana bileşenle karmaşık bir\nelektromanyetik ortam oluşturmak üzere tasarlanmıştır:\n\n\\- Statik manyetik alanlar - klinik kullanımdaki sistemlerin çoğu 1.5 veya 3T'de\nçalışır ancak girişimsel prosedürler için tercih edilen açık sistemler normalde\ndaha düşük manyetik akı yoğunluklarında (0.2 - 1T) çalışır ve ayrıca ağırlıklı\nolarak araştırma amaçlı kullanılan, 9.4T'ye kadar çalışan, az sayıda yüksek alan\ntarayıcıları mevcuttur.\n\n\\- Düşük frekans, geçişli gradyan manyetik alanlar - tarayıcılar, ölçülen MR\nsinyalleri ile ilgili konum bilgisi oluşturmak için hızla açılan ve kapatılan üç\n\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\nortogonal gradyan kullanır. Bunlar, taramanın türüne göre değişen karmaşık\ndarbeli dalga biçimleridir. Darbeli dalga biçimleri, 0.5-5 KHz bölgesindeki\nfrekanslara eşdeğerdir.\n\n\\- Larmor frekansında uygulanan radyo-frekans alanları, statik manyetik akı\nyoğunluğu (1.5 T ve 3 T tarayıcılar için sırasıyla 62 - 64 MHz ve 123 - 128 MHz).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "### 5.2. Sağlık Sektöründe MRI Operasyonu Sırasında Çalışan Maruziyeti\n\n\nMRI tarayıcıları, ekipmanın kapladığı bölge dışındaki alanlarda en az, tarayıcının tüneli\niçinde güçlü alanlar oluşturmak üzere tasarlanmıştır. Bu nedenle alanlar, tarayıcı\naçıklığından uzaklaştıkça hızla düşer. Mevcut kanıtlar, yalnızca tarayıcının tüneli içinde\nveya açıklığın hemen yakınında çalışmanın MSD'leri aşan maruziyetlere yol\naçabileceğini göstermektedir. Ancak MRI faaliyetlerinin çoğu kapsamında çalışan\npersonelin (yaklaşık %97 olduğu tahmin edilmektedir) tarama sırasında bu\npozisyonlarda bulunması gerekmez. Tarayıcının yakın etrafındaki alanlara yaklaşması\ngerekmeyen çalışanların maruziyeti uyumlu olacağından, bunları değerlendirmeye\ngerek yoktur. Tarayıcının yakın etrafındaki alanlara yaklaşması veya tarayıcının tüneline girmesi\ngereken çalışanlar için maruziyet değerlendirilmesi karmaşıktır. Bunun için tarayıcının\niçindeki ve dışındaki alanların uzamsal dağılımı hakkında ayrıntılı bilgi ile personelin\nişini yaparken tarayıcıya göre hareketinin anlaşılması gerekir. Ayrıca, risklerin\ndoğrudan MSD'lerle karşılaştırılabilmesi için değerlendirmeler, ideal olarak sayısal\nmodelleme tekniklerine dayanmalıdır. Bu tür değerlendirmeler, rutin MRI prosedürlerini\ngerçekleştiren çoğu kurumun kapasitesinin ötesindedir. Bu durumda, tarayıcı sistemleri\ntarafından sağlanan tahmini maruziyet bilgileriyle birlikte yayınlanmış verilere\ngüvenmek normalde kabul edilebilir olacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "n çoğu kurumun kapasitesinin ötesindedir. Bu durumda, tarayıcı sistemleri\ntarafından sağlanan tahmini maruziyet bilgileriyle birlikte yayınlanmış verilere\ngüvenmek normalde kabul edilebilir olacaktır. Bir dizi tipik prosedür ve farklı ekipman türlerinin kullanımından kaynaklanan çalışan\nmaruziyeti hakkında bilgi edinmek amacıyla, Avrupa Komisyonu farklı ülkelerdeki dört\nmanyetik rezonans biriminde bir değerlendirme yaptırmıştır. Bu projede, saha\nharitalama ve hesaplamalı dozimetri kullanılarak farklı prosedürler sırasında personel\nhareketleri ve pozisyonları değerlendirilmiş olup sonuçlar bilgi verici olmuştur. Analizler,\nMSD'lerin bazı durumlarda aşılabileceğini göstermiş olup tüm düşük alanlı tarayıcılar\n(2T'nin altında çalışan) ve 2T'nin üzerinde çalışan tarayıcılarla yapılan rutin faaliyetlerin\nçoğu için, statik manyetik alan maruziyeti duyu etkili MSD ile uyumludur. 8T'ye kadar\nçalışan tarayıcıların kullanıldığı tüm diğer faaliyetler için statik manyetik alan maruziyeti,\nsağlık etkili MSD ile de uyumludur. MRI tarayıcıları tarafından üretilen güçlü statik manyetik alanlar boyunca hareket,\nvücut dokuları içinde elektrik alanlar oluşturacaktır ve bunlar EMA Direktifinde belirtilen\nMSD'leri aşabilir. Normal hareket hızında bu yalnızca tarayıcının tünelinde ve\netrafındaki yakın bir mesafede (mevcut bilgilere göre genellikle 1 m'den fazla olmamak\nkaydıyla) gerçekleşir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "belirtilen\nMSD'leri aşabilir. Normal hareket hızında bu yalnızca tarayıcının tünelinde ve\netrafındaki yakın bir mesafede (mevcut bilgilere göre genellikle 1 m'den fazla olmamak\nkaydıyla) gerçekleşir. Bu durum, hastanın tünel içerisinde yerleşimi sırasında\n\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\noperatörün başının rotasyonel hareketlerinde sıkça karşılaşılan bir sorundur. Rutin prosedürlerin çoğu için, geçişli gradyan alanı maruziyetleri, duyu veya sağlık\netkili MSD'leri aşmayacaktır. Ancak, çalışanların tarayıcının yakın açıklığına (normalde\n1 metreden az) yaklaşması gereken nadir bazı durumlarda MSD'lerin aşılması ihtimali\nmevcut olup özellikle çalışanın tarayıcıya eğilmesi gerekiyorsa bu durumda MSD'lerin\naşılması çok muhtemeldir. Radyo-frekans MSD'leri, altı dakikalık bir süre boyunca ortalama alınarak\ndeğerlendirilir ve birkaç dakika süreyle çalışanın tarayıcıya (örneğin bir hastayı izlemek\niçin) eğilmesi gerektiğinde maruziyet, genellikle uyumludur. Daha uzun süreli\nmaruziyetler de genellikle uyumludur. Diğer taraftan, tarayıcı odasındaki alanların çalışanlar üzerindeki doğrudan etkileri,\nbaşkaları için de güvenlik risklerine neden olabilir. Örneğin, statik alandaki hızlı\nhareketin bir sonucu olarak çalışanların yaşayabileceği baş dönmesi veya görme\nsorunları, uygun hasta bakımı sağlama yeteneklerini etkileyebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "klerine neden olabilir. Örneğin, statik alandaki hızlı\nhareketin bir sonucu olarak çalışanların yaşayabileceği baş dönmesi veya görme\nsorunları, uygun hasta bakımı sağlama yeteneklerini etkileyebilir. <table>\n<caption>Tablo 5.1: Farklı MRI incelemeleri sırasında gradyan alan maruziyetleri için ilgili MSD'nin aşılması riski</caption>\n<tr>\n<th>MSD'nin aşılması riski</th>\n<th>Prosedür</th>\n</tr>\n<tr>\n<td>Yüksek</td>\n<td>Tünel içinde yerleşime rehberlik (gerçek zamanlı taramayla) Girişimsel kardiyovasküler MRI gibi girişimsel teknikler Fonksiyonel MRI (hastanın tarayıcı içi fiziksel uyarımı) EEG elektrotlarının ayarlanması (araştırma faaliyeti)</td>\n</tr>\n<tr>\n<td rowspan=\"3\">Orta</td>\n<td>Genel anestezi (tarama sırasında hastanın durumunun yakından izlenmesi)</td>\n</tr>\n<tr>\n<td>Kardiyak stres testi (tarama sırasında hasta durumunun yakından izlenmesi)</td>\n</tr>\n<tr>\n<td>Tarayıcı içinde temizleme/enfeksiyon kontrolü (tarama yok) Tarama sırasında çocuğu rahatlatma (ancak 1 m açıklık içinde)</td>\n</tr>\n<tr>\n<td>Düşük</td>\n<td>Rutin taramalar (tarayıcı odasında personel yok) Biyopsi (hasta tarayıcıda değil / tarama yok) Manuel kontrast madde uygulaması (tarama yok)</td>\n</tr>\n</table>\n\n\nMRI ekipmanının çalıştırılmasında, potansiyel olarak ciddi sonuçlara sahip güvenlik\nrisklerine yol açabilecek başka tehlikeler ortaya çıkabilir. Operatörler, bu risklerin\nuygun şekilde yönetildiğinden emin olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "çalıştırılmasında, potansiyel olarak ciddi sonuçlara sahip güvenlik\nrisklerine yol açabilecek başka tehlikeler ortaya çıkabilir. Operatörler, bu risklerin\nuygun şekilde yönetildiğinden emin olmalıdır. Söz konusu diğer tehlikeler\naşağıdakilerle etkileşimi içerebilir:\n\n› Aktif veya pasif implante edilmiş tıbbi cihazlar,\n\n› Vücuda takılan tıbbi cihazlar,\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n› Tıbbi elektronik ekipmanlar,\n\n› Kozmetik veya tıbbi implantlar. Diğer tehlikeler ayrıca şunları içerir:\n\n› Güçlü manyetik alanda ferromanyetik malzemelerin hareketinden kaynaklanan\nfırlatma riski,\n\n› Gürültü,\n\n› Sıvı helyum. Tablo 5.1 ile birlikte yayımlanmış olan maruziyet verilerinin incelenmesi, işverenlere;\nhangi faaliyetlerde geçişli gradyan alanların MSD'nin üzerindeki risklere yol\naçabileceğine karar vermelerinde yardımcı olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "### 5.3. Teknolojiye Uygun Teknik ve Yönetsel Önlemlerin Uygulanması\n\n\nBu cihazların kullanımında riski değerlendirmenin kilit noktası, MSD'lerin aşılabileceği\nalanlara (normalde açıklığın 1m içinde) personelin girmesi gerekip gerekmediğini\nbelirlemek olacaktır. Rutin çalıştırma ve hasta bakımı sırasında operatörlerin bu alana\nerişimi söz konusu olmakla birlikte normalde sistemin tarama yapması halinde erişim\nmümkün olmamalıdır. Her halükarda personelin, açıklığın 1m içinde bulunan alana\nyaklaşması gerektiğinde, elektrik alan maruziyetini ilgili MSD'nin altında tutmak için\nyavaş hareket etmek yeterlidir.\n\nPersonel, mümkünse tarayıcının tüneline girmekten kaçınmalıdır. Bununla birlikte,\npersonelin enfeksiyon kontrolü gibi faaliyetler için tünele girmesi gerektiğinde, bunun\ngeçişli gradyan ve RF alanları kapalıyken yapılacağı, böylece yalnızca statik manyetik\nalandan kaynaklanan maruziyetlerin göz önünde bulundurulması gerektiği\nunutulmamalıdır. 8T'ye kadar manyetik akı yoğunluğunda çalışan tarayıcılar için sağlık\netkili MSD'lerin aşılması olası değildir. Diğer taraftan, çalışanları bilgilendirmek ve iş\nsağlığı ve güvenliği risklerini önlemek için tedbirler alınmışsa, duyu etkili MSD'nin\ngeçici olarak aşılması kabul edilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "#### 5.3.1. Teknik Önlemler\n\n\nTarayıcının tüneli içindeki alanları sınırlandırmaya yönelik teknik önlemler, cihazın\nçalıştırma modlarının yanı sıra tasarımı ve yapısına bağlı olup kullanım amacı\ndoğrultusundaki çıktının kalitesini etkileyebilir. Üreticiler, ulusal mevzuatın\ngerekliliklerine uygunluğun (AB için 93/42/EEC sayılı Tıbbi Cihazlar Direktifi) bir\nparçası olarak alanları azaltmaya yönelik önlemler de dahil olmak üzere ekipmanlarını\nsürekli olarak geliştirir ve iyileştirir. Bu uygunluk gereksinimlerinden, üretim ve kurulum\nsırasında tarayıcılara dahil edilen teknik önlemlerin, en son teknolojiyi temsil edeceği\nanlaşılmaktadır. MR cihazının kurulum sonrası modifikasyonu teknik olarak zor\nolmakla birlikte modifikasyon sonrası normalde ulusal mevzuata uygunluk açısından\nyeniden değerlendirme gerektirir. Bu durum genellikle MR hizmeti veren işletme ve\nkurumların imkânlarının ötesindedir.\n\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nPrensipte, personelin tünel içinde veya tarayıcı açıklığına yakın olması gerektiğinde\nmaruziyeti azaltmak için cihazın çalışma parametrelerini (gradyan özellikleri veya\nradyo-frekans alan kuvveti gibi) seçmek mümkündür. Ancak klinik kullanımda yarar ve\ngereklilikler nedeniyle bu pek de mümkün olmasa bile, esneklik olan hallerde,\npersonelin tarayıcıya yaklaşma olasılığı yüksekse, daha yavaş taramalar seçilmeli ve\nradyo-frekans maruziyeti azaltılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "#### 5.3.1.1. MRI Tesisinin Organizasyonu\n\n\nKurumlar, MRI tesislerinin organizasyonuna yapılandırma yaklaşımı benimseyerek ve\nözellikle alanı, karşılaşılması muhtemel alanların büyüklüğüne göre bölerek\nçalışanların maruziyetini en aza indirebilirler. Bu düzenleme, MSD'leri aşan maruziyet\nriskinin daha yüksek olduğu alanlara erişimin kısıtlanmasını kolaylaştırır.\n\nGenel olarak, çoğu MRI tesisi halihazırda diğer tehlikelere dayalı bir erişim kısıtlama\nsistemi uygulamaktadır. Aşağıda açıklanan yaklaşımlar, EMA Direktifi bağlamında iyi\nuygulama önerilerine dayanmaktadır.\n\nKontrollü Erişim Alanı\n\nEN60601-2-33, kontrollü erişim alanı konseptini tanımlamakla birlikte bu konsept;\nkalıcı olarak takılı kapağının dışında 0,5 mT'yi aşan ve/veya EN60601-1-2'de belirtilen\nelektromanyetik girişim düzeyi ile uyumlu olmayan alan oluşturan herhangi bir MRI\nekipmanı için gereklidir. Bu nedenle kontrollü erişim alanının belirlenmesi sağlık\nhizmetleri sektöründe zaten standart bir uygulamadır.\n\nKontrollü erişim alanı içinde, vücuda yerleşik (implamente) aktif tıbbi cihazlar ve diğer\ntıbbi ekipmanlarla etkileşim riski söz konusudur. Ayrıca ferromanyetik malzemelerin\nçekilmesi veya bu tür malzemelere etki eden torklardan kaynaklanan fırlatma riski de\nmevcuttur. Bölgeye erişimin, ideal olarak uygun işaretler ile işaretlenerek kontrollü bir\nerişim kapısı aracılığıyla kısıtlanması ve alana girişi kontrol etmek için uygun\norganizasyonel düzenlemeler gerekecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "### Tarayıcı Odası ve Düzeni\n\n\nTarayıcı odasına giriş, operasyonel olarak orada bulunma ihtiyacı olan çalışanlar ile\nsınırlı olmalıdır. Odaya girenlerin içeride bulunma süresi görevleri ile sınırlı olmalı,\ngereğinden fazla odada kalınmamalıdır. Manyetik uzamsal alan gradyanı, tarayıcı açıklığının hemen çevresindeki alanda\nmaksimumdur. Bu alandaki geçişli gradyan alanları, tarayıcı çalışırken MSD'yi aşma\nriski oluşturacak kadar güçlü olabilir. Bu nedenle bu alan, tarayıcı odasına ait planda\ntanımlanmalıdır. Tanımlanan alan, uzamsal gradyan ve geçişli gradyan alanların en\nkısıtlayıcı olanını baz almalı, bununla ilgili üretici tarafından da tavsiyeler kurulum\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\nsırasında kuruma iletilmiş olmalıdır. Bu özel bilginin mevcut olmadığı durumlarda,\n(örneğin, eski bir tarayıcı için) normalde yeterli olacağı için varsayılan, açıklığın 1 m'lik\nuzaklıktaki çevresindeki bir alanı (merkezi eksenden ölçüldüğü şekilde) tanımlamak\nolmalıdır. Plan, bu alanda çalışanları daha büyük riskler konusunda uyarıcı nitelikte\nolmalıdır. Çalışanlar, görevleri olmaksızın belirlenen alana girmemeli ve gerekenden\ndaha uzun süre alanda kalmamalıdır. Belirlenen alana girmesi gereken herhangi bir\npersonel, olumsuz etkilerden kaçınmak için yeterince yavaş hareket etmelidir. Tarayıcı odasının düzeni, personelin tarayıcıya olabildiğince yakın çalışma ihtiyacını\nortadan kaldıracak şekilde tasarlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": ", olumsuz etkilerden kaçınmak için yeterince yavaş hareket etmelidir. Tarayıcı odasının düzeni, personelin tarayıcıya olabildiğince yakın çalışma ihtiyacını\nortadan kaldıracak şekilde tasarlanmalıdır. Bu nedenle, anestezik maddeler ve diğer\nhareketli ekipmanlar, uygun olması halinde tarayıcıdan mümkün olduğunca uzağa\nyerleştirilmelidir. Benzer şekilde, klinik yargı imkan verdiği ölçüde, manuel infüzyon\nyerine ilaçların ve kontrast maddelerinin uygulanması mümkün olduğunda\notomatikleştirilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "### Tarayıcının Tüneline Girmek\n\n\nKesinlikle gerekli olmadıkça personele, tarayıcının tüneline girmeleri talimatı\nverilmemelidir. Ancak, tarayıcıyı temizlemek veya bir hastayı rahatlatmak için\ntarayıcının tüneline giriş, görevi tamamlamak için gereken minimum süreyle sınırlı\ntutulmalıdır. Personel, bu prosedürün gerekli olup olmadığını veya aynı hedefe, giriş\nolmadan ulaşmanın mümkün olup olmadığını değerlendirmelidir. Yine de personelin\ntarayıcıya girmesi gerekliyse, kesinlikle gerekmedikçe radyo frekans ve geçişli gradyan\nalanlar devre dışı bırakılmalıdır. Benzer şekilde, radyo-frekans alanları gerekliyse,\nçalışma hedefine ulaşılması için yeterli minimum güçte tutulmalıdır. Güçlü statik\nmanyetik alanlardaki hareketin etkileri konusunda bilgi sahibi olmayan personel yüksek\nrisk altında olabilir.\n\nÇoğu durumda, tarama sırasında hastalara gözetim veya tarayıcı tünelinin incelenmesi\ngibi faaliyetler için uzaktan görüntüleme (örneğin bir ayna kullanarak) gibi basit\nyaklaşımlar kullanılabilir. Benzer şekilde uzun saplı aletler, bazı temizlik prosedürleri\niçin yeterli olabilir. Bu yaklaşımların hassasiyetle uygulanması, çalışanların tarayıcıya\ngirme ihtiyacını en aza indirecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.222000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "### 5.3.2. İş Organizasyonu\n\n\nKontrollü erişim alanı, belgelendirilmesi gereken organizasyonel düzenlemelere tabi\nolmalıdır. Başteknisyen gibi o günkü yetkili bir personel tarafından bölgedeki iş\nfaaliyetleri doğrudan izlenmeli ve denetlenmelidir. Kontrollü erişim alanındaki sağlık\npersoneli ve ziyaretçiler, MR personeli tarafından sürekli olarak gözetim altında\ntutulmalıdır.\n\nDüzenlemelerin önemli bir unsuru, aktif veya pasif implantların veya vücut piercingleri\nveya yüksek demir içeriğine sahip dövmeler gibi diğer risk faktörlerinin varlığı nedeniyle\n\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\nrisk altında olanları belirlemek için personeller taranmalıdır. Normal çalışma saatleri\ndışındaki erişimi kontrol etmek için de düzenlemeler yapılması gerekecektir (örneğin,\ntemizlikçiler, güvenlik personeli, itfaiyeciler ve bina bakım çalışanlarının erişimi).\nTarama ayrıca, ferromanyetik nesnelerin, uygun şekilde MR güvenli olarak\nişaretlenmesini sağlamak için alana getirilen öğeleri de kapsamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "### 5.3.3. Bilgilendirme ve Eğitim\n\n\nEN60601-2-33'e uygun MRI ekipmanı, aşırı maruz kalıma karşı koruma önlemleri\niçerir. Bununla birlikte, MSD'lerin aşıldığı durumlarda, alanlara duyarlılığı fazla olan\nçalışanlarda etkilerin görülmesi riski vardır. Bu nedenle, kontrollü erişim alanına\ngirmesi gereken çalışanlara, maruziyetin olası sonuçları hakkında bilgi verilmesi,\nböylece etkilerin meydana gelip gelmediğini anlayabilmeleri ve maruziyetlerini uygun\nşekilde sınırlandırmak için önlem alabilmeleri önemlidir. Bu tür durumlar, uygun\nönlemler alması gereken birim yöneticisine veya sorumlu kişiye bildirilmelidir. MRI tarayıcıları, tıbbi veya araştırma ekipmanlarının karmaşık ve son derece teknik\nöğeleri olup operatörler de bu ölçüde kapsamlı bir şekilde eğitilmektedir. Ekipman, aşırı\nmaruziyete karşı koruma tedbirleri ve otomatik uyarı sistemleri dahil olmak üzere çok\nsayıda güvenlik sistemi içerir. İşverenlerce; operatörlerin, ekipmanı üreticinin\ntalimatlarına göre kullanması ve otomatik uyarı sistemlerini dikkate alması sağlandığı\ntakdirde, ekipman, ulusal mevzuat çerçevesinde hastalar ve çalışanlar için güvenlidir. Kontrollü erişim alanında çalışması gereken personel, MRI güvenliği ile ilgili eğitim\nalmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "lması sağlandığı\ntakdirde, ekipman, ulusal mevzuat çerçevesinde hastalar ve çalışanlar için güvenlidir. Kontrollü erişim alanında çalışması gereken personel, MRI güvenliği ile ilgili eğitim\nalmalıdır. Eğitim şunları kapsamalıdır:\n\n› Güçlü bir statik manyetik alanda hareketin olası etkileri konusunda farkındalık,\n\n› Güçlü geçişli gradyan alanlarının etkileri hakkında farkındalık,\n\n› Radyo-frekans alanlarının etkileri hakkında farkındalık,\n\n› Ferromanyetik malzemeler ile etkileşimden kaynaklanan fırlatma riski ve bu\nmalzemelere etki eden torklardan kaynaklanan riskler konusunda farkındalık,\n\n› Aktif implante tıbbi cihazlarla etkileşim riski konusunda farkındalık,\n\n› Tıbbi elektronik ekipmanla etkileşim riskleri konusunda farkındalık,\n\n› Erişim kısıtlamalarının ve kontrollü erişim alanına giren kişi veya öğelerin\ntaranmasının önemi,\n\n› Tarayıcının etrafında ve içinde yavaş hareket etmenin önemi,\n\n› Tarayıcının etrafındaki alanların uzamsal dağılımı ile ilgili bilgilendirme,\n\n› Gürültü ve kriyojenik gazlar dahil diğer tehlikelerin farkında olma,\n\n› Süper iletken mıknatısın sönümü (manyetik bobinlerde ani sıcaklık kaybı\nnedeniyle süper iletken halden dirençli hale geçerek manyetik alanın ortadan\nkalkmasına, dolayısıyla helyumun kriyojen banyosundan çok hızlı bir şekilde\nkaçmasına neden olan istenmeyen süreç) durumunda tahliye prosedürleri,\n\n› Acil bir olay durumunda prosedürler hakkında farkındalık.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "ına, dolayısıyla helyumun kriyojen banyosundan çok hızlı bir şekilde\nkaçmasına neden olan istenmeyen süreç) durumunda tahliye prosedürleri,\n\n› Acil bir olay durumunda prosedürler hakkında farkındalık. <!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\nEğitim normalde tesislere göre uyarlanarak, yeterli bilgi ve deneyime sahip biri\ntarafından kurum içinde verilmelidir. Temizlikçiler, güvenlik personeli, itfaiyeciler ve bina bakım çalışanları gibi diğer\npersonelin kontrollü erişim alanına erişmesi gerektiğinde, girmeleri gerekebilecek\nalanlara uygun farkındalık eğitimi de almaları gerekmekle birlikte bu eğitimin, MR\npersoneli için olduğu kadar ayrıntılı olması gerekmez. <!-- PageNumber=\"23\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "## KAYNAKLAR\n\n\n1\\. Non-Binding Guide To Good Practice For Implementing Directive 2013/35/EU\nElectromagnetic Fields, Volume 1: Practical Guide, European Commission -\nDirectorate General For Employment, Social Affairs and Inclusion, 2014. 2\\. Elektromanyetik Alan Üreten Kaynaklar İle Çalışmalarda Sağlık ve Güvenlik\nÖnlemleri Rehberi - Seri II, Aile, Çalışma ve Sosyal Hizmetler Bakanlığı - İş Sağlığı\nve Güvenliği Genel Müdürlüğü, 2020. 3\\. Türkiye Elektromanyetik Alan Maruziyet Raporu, Bilgi Teknolojileri ve İletişim\nKurumu, 2010. (https://www.fmo.org.tr/wp-content/uploads/2011/07/Turkiye EMF Raporu.pdf, erişim\ntarihi: 01.09.2020). 4\\. Türkkan A., Pala K., Çok Düşük Frekanslı Elektromanyetik Radyasyon ve Sağlık\nEtkileri, Uludağ Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi, Cilt 14, Sayı 2,\n2009\\. (https://acikerisim.uludag.edu.tr/bitstream/11452/11946/1/14 2 2.pdf,_erişim tarihi:\n12.10.2020). 5\\. https://oshwiki.eu/wiki/Electromagnetic_fields, erişim tarihi: 18.10.2020). 6 ._ https://www.who.int/health-topics/electromagnetic-fields#tab=tab 1,_erişim tarihi:\n21.10.2020). 7 ._ Establishing a Dialogue on Risks From Electromagnetic Fields, WHO, 2012. (https://www.who.int/publications/i/item/9241545712, erişim tarihi: 01.11.2020). 8\\. Protection Against Inadvertent Ignition of Explosive Atmospheres by Radio-\nFrequency Radiation at Onshore Hazardous Installations, HSE, 2014. (https://www.hse.gov.uk/foi/internalops/og/og-00045.htm, erişim tarihi: 01.11.2020). 9\\.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "Ignition of Explosive Atmospheres by Radio-\nFrequency Radiation at Onshore Hazardous Installations, HSE, 2014. (https://www.hse.gov.uk/foi/internalops/og/og-00045.htm, erişim tarihi: 01.11.2020). 9\\. https://cai2r.net/research/simulation-gradient-magnetic-fields,_erişim tarihi:\n01.11.2020. <!-- PageNumber=\"24\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "source_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "document_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "elektromanyetik-alanlara-ilişkin-genel-bilgiler.pdf",
+        "guide_title": "Elektromanyetik Alanlara Ilişkin Genel Bilgiler",
+        "collection_type": "guide",
+        "total_chunks": 61,
+        "processed_at": "2026-02-12T04:09:57.223000"
+      }
+    }
+  ]
+}

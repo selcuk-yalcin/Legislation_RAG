@@ -1,0 +1,962 @@
+{
+  "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+  "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+  "total_chunks": 53,
+  "exported_at": "2026-02-12T12:19:01.565172",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "# 2016 Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\n\n\n\n<figure>\n</figure>\n\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "## YAYINLAYAN\n\n\nÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\nİŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ (İSGGM)\nRevizyon: 2024\n\nYAYINA HAZIRLAYANLAR\n\n\n<table>\n<tr>\n<td>Sedat YENİDÜNYA</td>\n<td>Genel Müdür Yrd.</td>\n</tr>\n<tr>\n<td>Aslıcan GÜLER</td>\n<td>İSG Uzmanı</td>\n</tr>\n<tr>\n<td>Ali Kaan ÇOKTU</td>\n<td>İSG Uzmanı</td>\n</tr>\n<tr>\n<td>Yusuf Ziya BOLAT</td>\n<td>İSG Uzman Yrd.</td>\n</tr>\n<tr>\n<td>Fatih EREL</td>\n<td>İSG Uzman Yrd.</td>\n</tr>\n</table>\n\n\nBu dokümanda verilen bilgiler tavsiye niteliğindedir.\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "## İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<th>1. GİRİŞ</th>\n<th>5</th>\n</tr>\n<tr>\n<td>1.1. Yöntem</td>\n<td>5</td>\n</tr>\n<tr>\n<td>1.2. Genel Bilgiler</td>\n<td>5</td>\n</tr>\n<tr>\n<td>1.2.1 Tanımlar</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1.2.2 İşgücünde Engelliler</td>\n<td>7</td>\n</tr>\n<tr>\n<td>1.2.3. Mevzuat</td>\n<td>8</td>\n</tr>\n<tr>\n<td>2. RİSK DEĞERLENDIRMESİ</td>\n<td>11</td>\n</tr>\n<tr>\n<td>2.1. Engelliliğe duyarlı risk değerlendirmesi</td>\n<td>13</td>\n</tr>\n<tr>\n<td>2.2. Uyumlaştırma için gerekenler</td>\n<td>14</td>\n</tr>\n<tr>\n<td>2.3. Engelli çalışanlar için risk ve kontrol tedbirleri</td>\n<td>15</td>\n</tr>\n<tr>\n<td>3. İŞYERİ FİZİKSEL ORTAMI VE TEMEL ULAŞILABİLİRLİK KONULARI</td>\n<td>20</td>\n</tr>\n<tr>\n<td>4. ENGELLİLER İÇİN İŞ EKİPMANI TASARIMLARI</td>\n<td>27</td>\n</tr>\n<tr>\n<td>5. İŞ ORGANİZASYONU</td>\n<td>29</td>\n</tr>\n<tr>\n<td>6. ACİL DURUM UYGULAMALARI</td>\n<td>33</td>\n</tr>\n<tr>\n<td>6.1. Engellilik Türüne Göre Çalışanların Acil Durumlardan Etkilenmeleri</td>\n<td>34</td>\n</tr>\n<tr>\n<td>6.2. Refakatçi Uygulaması</td>\n<td>34</td>\n</tr>\n<tr>\n<td>6.3. Acil Durum Kaçış Yolları</td>\n<td>35</td>\n</tr>\n<tr>\n<td>6.4. Acil Durumlarda Engelliler İçin İletişim</td>\n<td>36</td>\n</tr>\n<tr>\n<td>6.5. Tahliye Prosedürü</td>\n<td>36</td>\n</tr>\n<tr>\n<td>6.6. Tatbikat Uygulamaları</td>\n<td>37</td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "## ÖNSÖZ\n\n\nDünyada bir milyardan fazla insan herhangi bir tür engellilik ile yaşamakta, bu insanların\nyaklaşık 200 milyonu hayatlarını devam ettirme konusunda zorluklar yaşamaktadır. Birçok\ninsanın eğitim, istihdam, ulaşım gibi temel hizmetlere ulaşma imkânı ile engelli kişilerin bu\ntip imkânlara ulaşması arasında ciddi farklılıklar bulunmaktadır. Bu temel farklılıkların\nortadan kaldırılması ile engelli bireylerin yaşama eşit şartlarda katılım sağlaması mümkündür. Çalışma hayatına göz atıldığında evrensel bir hak olan ve anayasal güvencesi olan çalışma\nhakkının engelli bireyler için de sağlanması sosyal ve ekonomik katılım açısından önemlidir. Ekonomik Kalkınma ve İşbirliği Örgütü'nün (OECD) yaptığı güncel bir araştırmada, 27\nülkede çalışma yaşında olan engelli kişilerin işgücü piyasasında kayda değer dezavantajlar\ndeneyimlediklerini ve engelli olmayan kişilere göre işgücü piyasasında daha kötü sonuçlar\nelde ettiklerini göstermiştir. Çalışan engellilerin karşılaşabileceği güçlüklere bakıldığında ise istihdam süresince yapılan\nmaliyet gerektiren ya da gerektirmeyen işyeri düzenlemeleri ile engelli bireylerin iş sağlığı ve\ngüvenliğinin sağlanması yasal düzenlemelerle zorunlu kılınmıştır. Sağlıklı ve güvenli yaşam ilkelerini ve uygulamalarını içeren bu rehber, işyerlerinde\nengellilerin ihtiyaçlarına cevap vermeyi ve yol göstermeyi amaçlamaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "sal düzenlemelerle zorunlu kılınmıştır. Sağlıklı ve güvenli yaşam ilkelerini ve uygulamalarını içeren bu rehber, işyerlerinde\nengellilerin ihtiyaçlarına cevap vermeyi ve yol göstermeyi amaçlamaktadır. İşverenlerin, iş\ngüvenliği uzmanlarının, işyeri hekimleri ve diğer sağlık personellerinin risk değerlendirmesi\nçalışmalarına katkı sağlayacak temel bilgileri sunan bir el kitabıdır. Hepimiz için ideal olan, sağlıklı, mutlu, verimli, üretken ve onurlu bir yaşam\nsürdürebilmektir. Toplumsal yaşama eşit katılımın önündeki engelleri kaldırmak, engelli\nbireylerin sahip olduğu yetenekleri ve potansiyelleri ortaya çıkararak sağlıklı ve güvenli bir\nçalışma hayatı sunmak; politika yapıcılar, eğitimciler, sivil toplum örgütleri ve işverenler gibi\nbüyük bir kitleyi ilgilendiren bir çaba haline gelmelidir. <!-- PageBreak -->\n\n\n<figure>\n\n* * * * * **\n\n* * * * *\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\n<figure>\n</figure>\n\n\nBÖLÜM 1\nGİRİŞ\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "### 1. GİRİŞ\n\n\nVeriler göstermektedir ki engelli insanların çalışma yaşamı dışında kalma oranı engelli\nolmayanlara nazaran 2,5 kat daha yüksektir. Bu çerçevede ne yazık ki iş sağlığı ve güvenliği\nengelli bireyler için istihdam edilmeme nedenlerinden biridir. Bu konuda işverenlerin bilgi\ndüzeylerinin desteklenmesi engelli bireylerin istihdam edilme sürecinde önemli bir adımdır. İşyerlerinde engelli bireyler özelinde risk değerlendirmesi, acil durum, rehabilitasyon gibi\nkonuları kapsayan iş sağlığı ve güvenliği politikası yürütülmelidir. Bu politika yürütülürken\nbaşta iş sağlığı ve güvenliği mevzuatı olmak üzere engelliler için var olan diğer mevzuat ve\nbaşta TS 9111, TS 12576, TS 12460, TS ISO 23599, TS 13536, TS ISO 23600, TS 13622,\nTS 13536 standartları olmak üzere ilgili tüm diğer standartlar da göz önünde\nbulundurulmalıdır. İş sağlığı ve güvenliği hizmetlerini yerine getiren profesyoneller (iş güvenliği uzmanları,\nişyeri hekimleri, diğer sağlık personelleri) engellilere yönelik iş sağlığı ve güvenliği\nkonusunda çeşitli düzenlemelerin yapılmasında önemli rol oynamaktadır. Engelli bireyler\niçin oluşturulan programların koordinasyonundan teknik bilgi desteğine kadar engelliler dâhil\ntüm çalışanların kullanım ve erişilebilirlik gereksinimlerini karşılayacak şekilde\nprofesyoneller görev almalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "şturulan programların koordinasyonundan teknik bilgi desteğine kadar engelliler dâhil\ntüm çalışanların kullanım ve erişilebilirlik gereksinimlerini karşılayacak şekilde\nprofesyoneller görev almalıdır. İşyerinde yapılan düzenlemeler tüm çalışanlar için her\nmekândageçerli olan, temelinde antropometri ve ergonomi bulunan bir genel kurallar bütünü\nhaline gelmeli, yapılan tüm iyileştirme ve tasarımlar engelliler özelinde değil tüm çalışanları\nkapsayacak nitelikte olmalıdır. Bu noktada işyerlerinde engelsiz tasarımın herkes için geçerli\nduruma getirilmesi konusu gündeme gelmektedir. Bu rehber ile engelli bireyler için erişilebilirlik, destek teknolojileri gibi konuların iyi\nuygulama örnekleri ile pekiştirilerek başta işverenlere, iş güvenliği uzmanlarına, işyeri\nhekimlerine, diğer sağlık personellerine ve ilgili diğer kesimlere yapacakları çalışmalar için\nyol gösterici olması hedeflenmiştir. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "#### 1.1. Yöntem\n\n\nRehber; \"6331 sayılı İş Sağlığı ve Güvenliği Kanunu\" ve ilgili mevzuat ile iş sağlığı ve\ngüvenliği ile ilgili olarak ulusal ve uluslararası kuruluşların açık kaynaklarından\nyararlanılarak oluşturulmuştur. Ayrıca ilgili paydaş kamu kurum ve kuruluşların mevcut ve\npotansiyel veri kaynaklarının analizinden, engelliler ile ilgili çalışmalar yürüten birimlerin\ngörüşlerinden faydalanılmış ve çeşitli Sivil Toplum Kuruluşlarıyla (STK) iletişim kurularak\nyazılı medya taraması yapılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "Tanımlar\n\n\nEngelli: Fiziksel, zihinsel, ruhsal ve duyusal yetilerinde çeşitli düzeyde kayıplarından dolayı\ntopluma diğer bireyler ile birlikte eşit koşullarda tam ve etkin katılımını kısıtlayan tutum ve\nçevre koşullarından etkilenen bireyi,\n\nErişilebilirlik: Binaların, açık alanların, ulaşım ve bilgilendirme hizmetleri ile bilgi ve\niletişim teknolojisinin, engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve\nkullanılabilir olmasını,\n\nErişilebilirlik standartları: Türk Standardları Enstitüsünün erişilebilirlikle ilgili\nyayımladığı standartları,\n\nKorumalı işyeri: İş gücü piyasasına kazandırılmaları güç olan zihinsel veya ruhsal\nengellilere mesleki rehabilitasyon sağlamak ve istihdam oluşturmak amacıyla Devlet\ntarafından teknik ve mali yönden desteklenen ve çalışma ortamı özel olarak düzenlenen\nişyerini,\n\nRisk: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana\ngelme ihtimalini,\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\nRisk Değerlendirmesi: İşyerinde var olan ya da dışarıdan gelebilecek tehlikelerin\nbelirlenmesi, bu tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden\nkaynaklanan risklerin analiz edilerek derecelendirilmesi ve kontrol tedbirlerinin\nkararlaştırılması amacıyla yapılması gerekli çalışmaları,\n\nTehlike: İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini\netkileyebilecek zarar veya hasar verme potansiyelini,\n\nÖnleme: İşyerinde yürütülen işlerin bütün safhalarında iş sağlığı ve güvenliği ile ilgili\nriskleri ortadan kaldırmak veya azaltmak için planlanan ve alınan tedbirlerin tümünü\nifade eder.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "##### 1.2.2 İşgücünde Engelliler\n\n\nİşgücünde engelliler ile ilgili güncel verilere göre; çalışan engelli sayısı 2005 yılında 63.093\niken, 2015 yılı itibariyle 95.066'ya yükselmiştir. <figure>\n<figcaption>Şekil 1. Engellilerin başvuru ve işe yerleştirmeleri (2008-2015)</figcaption>\n\n90.000\n\n80.000\n\n70.000\n\n60.000\n\n50.000\n\nBaşvuru\n\n40.000\n\n30.000\n\nİşe Yerleştirme\n\n20.000\n\n10.000\n\n0\n\n2008\n\n2009\n\n2010\n\n2011\n\n2012\n\n2013\n\n2014\n\n2015\n\n</figure>\n\n\nBu yükselmeye paralel olarak 2015 yılında 65.255 engellinin iş başvurusu sonucunda 20.455\nişe yerleştirme yapılmıştır. Ortaya çıkan veriler, engelli istihdamı konusunda umut verici\nolsa da iyileştirici çalışmaların hız kazanması gerektiğini ortaya koymaktadır. Ortaya çıkan bu veriler doğrultusunda ülkemizde engellilerin işgücü oranlarının artması için\nbazı kurum ve kuruluşlarca çeşitli çalışmalar yürütülmektedir. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\nÇalışma ve Sosyal Güvenlik Bakanlığı (Türkiye İş Kurumu), engelli ve eski hükümlü\nçalıştırmayan işverenlerden tahsil edilen idari para cezaları fonundan;\n\n· Engellilerin kendi işini kurmalarına,\n\n· Engellinin iş bulmasını sağlayacak destek teknolojilerine,\n\n· Engellinin işe yerleştirilmesi, işe ve işyerine uyumunun sağlanmasına,\n\n· Engellilerin istihdam edilebilirliklerini artırıcı mesleki eğitimine yönelik projelere\ndestekler verilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "lojilerine,\n\n· Engellinin işe yerleştirilmesi, işe ve işyerine uyumunun sağlanmasına,\n\n· Engellilerin istihdam edilebilirliklerini artırıcı mesleki eğitimine yönelik projelere\ndestekler verilmektedir. Ayrıca Aile ve Sosyal Politikalar Bakanlığı, Sosyal Güvenlik Kurumu ve Maliye Bakanlığı\ngibi kurumlar tarafından engellilere yönelik oluşturulan proje ve teşvikler engellilerin\nistihdamda eşit şartlara ulaşmasında önemli adımlardır. Yapılan çalışmalardan bir diğeri de işgücü piyasasına kazandırılmaları güç olan engelli\nbireyler için istihdam oluşturmak amacıyla gerçek ve tüzel kişilerce açılan ve açılacak olan\nkorumalı işyerleridir. Korumalı işyeri statüsünün kazanılması, korumalı işyerlerinin işleyişi\nve denetlenmesine ilişkin usul ve esaslar 31732 sayılı 27 Ocak 2022 tarihli Resmi Gazete\n'de yer alan \"Korumalı İşyerleri Hakkında Yönetmelik\" te belirtilmiştir. Yönetmelikte\nkorumalı işyeri statüsünün kazanılması ile korumalı işyerinin fiziksel koşul ve donanımlara\nilişkin detaylara yer verilerek engelliler için çalışılabilir iş alanları oluşturulmasına katkı\nsağlanmaya çalışılmıştır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "##### 1.2.3. Mevzuat\n\n\n13 Aralık 2006 tarihinde kabul edilen, 3 Mayıs 2008 de yürürlüğe giren Birleşmiş\nMilletlerin Engellilerin Haklarına İlişkin Sözleşme Avrupa Birliğinin ilk kabul ettiği insan\nhakları sözleşmesidir. Sözleşmeye göre taraf devletler; engellilerin çalışma hakkını diğerleriyle eşit bir şekilde\ntanır; ve bu hak engellilerin erişilebilir nitelikte bir iş piyasası ve çalışma ortamında,\nserbestçe seçtikleri bir işte hayatlarını kazanmaları fırsatını da içerir. Ayrıca sözleşmede; çalışırken engelli duruma gelenler dahil tüm engellilerin çalışma\nhakkının bulunduğu ibaresi ile adaletli ve uygun çalışma koşullarının sağlanmasıyla ilgili\nhükümler yer almaktadır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\nBu fırsat eşitliğini eşit değerde bir iş için engellilere eşit ücret verilmesini ve tacizden\nkorunma ve mağduriyetin giderilmesi dahil olmak üzere güvenli ve sağlıklı yaşama\nkoşullarını içerir. Ulusal Mevzuata bakıldığında ise; T.C anayasası kapsamında; 5378 sayılı engelliler\nhakkında kanun başta olmak üzere ilgili Bakanlıklar bünyesinde birçok mevzuat hükümleri\nbulunmaktadır. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yayınlanan ilgili kanun ve\nyönetmeliklerde engelli bireylere özgü iş sağlığı ve güvenliği özelinde mevzuat\nbulunmamaktadır. Ancak hem 6331 sayılı iş sağlığı ve güvenliği kanununda hem de ilgili alt\nmevzuatta engelli bireyler için özel hükümler yer almaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "e özgü iş sağlığı ve güvenliği özelinde mevzuat\nbulunmamaktadır. Ancak hem 6331 sayılı iş sağlığı ve güvenliği kanununda hem de ilgili alt\nmevzuatta engelli bireyler için özel hükümler yer almaktadır. 6331 sayılı İş Sağlığı ve\nGüvenliği Kanunun; Risk değerlendirmesi, Kontrol, Ölçüm ve Araştırma başlıklı 10. Maddesinde;\n\n\"İşveren, iş sağlığı ve güvenliği yönünden risk değerlendirmesi yapmak veya yaptırmakla\nyükümlüdür. Risk değerlendirmesi yapılırken;\n\n\"ç) Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika gerektiren gruplar ile\nkadın çalışanların durumu hususlarını dikkate alır.\"\n\nibaresi bulunmaktadır. Engelliler özelinde iş sağlığı ve güvenliği ilgili alt mevzuata bakıldığında ise;\n\n☒\nv 29.12.2012 tarihli ve 28512 sayılı Resmi Gazete'de yayımlanan \"İş Sağlığı ve\nGüvenliği Risk Değerlendirmesi Yönetmeliği\"\n\n☒\nv 17.07.2013 tarihli ve 28710 sayılı Resmi Gazete'de yayımlanan \"İşyeri Bina ve\nEklentilerinde Alınacak Sağlık ve Güvenlik Önlemlerine İlişkin Yönetmelik\"\n\n☒\nV 15.05.2013 tarihli ve 28648 sayılı \"Çalışanların İş Sağlığı Ve Güvenliği\nEğitimlerinin Usul Ve Esasları Hakkında Yönetmelik\"\n\n☒\n/ 05.10.2013 tarihli ve 28786 sayılı Yapı İşlerinde \"İş Sağlığı ve Güvenliği\nYönetmeliği\"\n\n☒\nv 20. 07.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "6331 sayılı İş Sağlığı ve\nGüvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "yılı \"Çalışanların İş Sağlığı Ve Güvenliği\nEğitimlerinin Usul Ve Esasları Hakkında Yönetmelik\"\n\n☒\n/ 05.10.2013 tarihli ve 28786 sayılı Yapı İşlerinde \"İş Sağlığı ve Güvenliği\nYönetmeliği\"\n\n☒\nv 20. 07. 2013 tarihli ve 28713 sayılı \"İşyeri Hekimi Ve Diğer Sağlık Personelinin\nGörev, Yetki, Sorumluluk Ve Eğitimleri Hakkında Yönetmelik\"\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\nv 18.06.2013 tarihli ve 28681 sayılı \"İşyerlerinde Acil Durumlar Hakkında\n☒\nYönetmelik\"\n\nalt mevzuatlarında engellilere özel hükümler yer almaktadır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK\nBAKANLIĞI\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\nBÖLÜM 2\nRİSK DEĞERLENDİRMESİ\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "İş Sağlığı ve Güvenliği\nYönetmeliği",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "### 2. RİSK DEĞERLENDİRMESİ\n\n\nİş Sağlığı ve Güvenliği mevzuatı işverenlerin işyerlerinde risk değerlendirmesi yapması\nveya yaptırmasını ve bu risk değerlendirmelerinin sonucunda gerekli önleyici tedbirleri\nalmayı zorunlu kılar. Mevzuatın gerektirdiği öncelik, risklerin kaynağında kontrol edilmesi, toplu korumanın\nsağlanması ve sonrasında da iş-çalışan uyumunun sağlanmasıdır. Genel hükümlere ilaveten işverenlerin alması gereken tedbirlerden bazıları aşağıda\nsıralanmıştır:\n\n/ Hassas grupları maruz kaldıkları ek risklere karşı korumak. / İşyerlerinin özel politika gerektiren çalışanları göz önünde bulundurarak iş\norganizasyonunu sağlamak. (Bu madde çalışanlar tarafından kullanılan kapılar, geçiş yolları, merdivenler, duşlar,\nlavabolar, tuvaletler ve iş istasyonları için geçerlidir.)\n\n/ Çalışma için uygun iş ekipmanını ve çalışanın sağlık ve güvenliğine zarar vermeyecek\n☒\nşekilde kullanımını sağlamak. Organizasyonel Sistem\nİş ilişkileri, yardım programı, azaltışmış iş yükü\n\n\n<figure>\n<figcaption>Şekil 2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "ekipmanını ve çalışanın sağlık ve güvenliğine zarar vermeyecek\n☒\nşekilde kullanımını sağlamak. Organizasyonel Sistem\nİş ilişkileri, yardım programı, azaltışmış iş yükü\n\n\n<figure>\n<figcaption>Şekil 2. Genel anlamda risk değerlendirmesi sistematiği</figcaption>\n\nDış Çevre\n\nSağlık Sistemi\n(sağlık hizmetleri yönetiminde çeşitlilik)\n\nDisiplinler ve kuruluşlar arası takım\nMultidisipliner takım\n\nOrganizasyon\n\nDiğer sağlık profesyonelleri\n\nBölüm\n\nMuayene Eden Doktor\n\nİş İstasyonu\n\nRehabilitasyon danışmanı\n\nHakim\n\nİdari Düzenlemeler\n\nYerel ve ulusal düzenlemeler\n\nYasal sistem ve sigorta\nSosyal güvenlik ağı\n\nEngeli bulunan çalışan\n\nFiziksel\n\nBilişsel\n\nDuygusal\n\nSosyal ilişkiler\n\nKişisel sistem / Kişisel adaptasyon\n\n</figure>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\nRisk değerlendirmesi, işyerinde alınan tedbirlerin yeterli olup olmadığı, yeterli değilse neler\nyapılması gerektiğinin araştırılması için insanlara nelerin zarar verebileceğinin detaylı\nincelenmesi iş ve işlemlerinin bütününü ifade etmektedir. Risk değerlendirmesi; sistemsel bir yaklaşım getirmelidir ve bu sistemin amacı kimsenin\nzarar görmemesidir. Risk değerlendirmesi, hâlihazırdaki tehlikelerin tespit edilmesi ve\nrisklerin büyüklüğünü mevcut tedbirleri göz önünde bulundurarak değerlendirmektir. Sonuçlar ise en uygun önleme tedbirlerinin alınmasında kullanılmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "âlihazırdaki tehlikelerin tespit edilmesi ve\nrisklerin büyüklüğünü mevcut tedbirleri göz önünde bulundurarak değerlendirmektir. Sonuçlar ise en uygun önleme tedbirlerinin alınmasında kullanılmaktadır. İşyerlerinde yapılacak tüm risk değerlendirmeleri aşağıdakileri içermelidir:\n\n· Yapılan iş, işin tasarımı ve işe bağlı faaliyetler;\n\n· Engel türüne göre özel ihtiyaçları bulunan bireyler;\n\n· Yardımcı teknolojiler göz önünde bulundurularak iş ekipmanı (iş istasyon ve\nekipmanları bireyin gereksinimlerine uygun bir şekilde ayarlanmış mı?);\n\n· İşyeri bina ve eklentilerinin yer planı, aydınlatma, ısıtma, erişimleri de kapsayacak\nşekilde çalışma ortamı;\n\n· İş organizasyonu; (örneğin işin nasıl organize edildiği ve nasıl takvimlendirildiği)\n\n· Tehlikeli maddeler gibi fiziksel tehlikeler; (örneğin astım hastaları işte kullanılan\nkimyasallara daha hassas olabilir)\n\n· Stres ve zorbalık gibi psikososyal tehlikeler; (örneğin çalışanın engeli, zorbalık için\nkullanılıyor olabilir)\n\n· Bilgi ve eğitim gerekleri; (örneğin farklı kaynaklarda güvenlik bilgilendirmesi ve\neğitim verilmesi)\n\n· Riskler ve önleme tedbirleri hakkında fikir alışverişini de kapsayacak şekilde çalışan\nve çalışan temsilcilerinin de sürece katılımları. Engelli çalışanlar, aynı işi gören diğer çalışanlarla aynı risklere maruz kalmaktadır. Fakat\nengelli çalışanlar mevcut durumlarından dolayı ek risklerle karşı karşıya kalabilir veya daha\nfazla maruz kalabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "alışanlar, aynı işi gören diğer çalışanlarla aynı risklere maruz kalmaktadır. Fakat\nengelli çalışanlar mevcut durumlarından dolayı ek risklerle karşı karşıya kalabilir veya daha\nfazla maruz kalabilir. Örneğin, engelli bir kişi sırt problemlerinden dolayı elle taşıma\nrisklerine diğer iş arkadaşlarından daha fazla maruz kalabilir. Engelli kişilerin çalışma alanlarında ek risklere maruz kalacağı düşünülüyorsa engelliliğe\nduyarlı risk değerlendirmesi (full disability sensitive risk assessment)\ngerçekleştirilmelidir. İşverenin sebepsiz yere bu risk değerlendirmesini gerçekleştirmesi ise\nayrımcılık olarak değerlendirilmelidir. İşverenler, bu gibi durumlara yol açacak kişinin engel\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nseviyesini veya durumunu değerlendirmeden kişileri belirli pozisyona yerleştirmeme yoluna\ngitmemelidir. Risk seviyesi; bireyin rahatsızlık seviyesi, yapılacak belirli görevler ve bu\ngörevlerin gerçekleştirileceği ortama göre değişecektir. Örneğin masa başı veya az hareket\ngerektiren ofis işi yapacak bir kişi ek bir riskle karşı karşıya olmayabilir fakat bu durum\nfiziksel güç gerektiren bir işte değişecektir. Engelli bir kişinin engelinden dolayı maruz kalabileceği risklere ilaveten, engelli olduğu için\nverilmesi tasarlanan bir işle görevlendirilmesi durumunda da risk faktörleriyle karşı karşıya\nkalabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "Engelli bir kişinin engelinden dolayı maruz kalabileceği risklere ilaveten, engelli olduğu için\nverilmesi tasarlanan bir işle görevlendirilmesi durumunda da risk faktörleriyle karşı karşıya\nkalabilir. Engelli kişiler, az yetenek gerektiren veya standart dışı part time veya geçici\nsözleşme işlerine yönlenme eğilimindedir. Bu tip işler, düşük seviyede katkı verme,\nsorumluluk alma, iş tatmini ve iş garantisinin olmayışı sebepleriyle artan düzeylerde stres ve\nanksiyete gibi psikososyal riskleri bünyesinde barındırmaktadır. Ancak, engelli çalışanlar\niçin part time veya geçici işler, sağlanan esneklik bu çalışanların sağlık ihtiyaçlarıyla işleri\narasında daha iyi bir denge kurmalarına yardımcı oluyorsa faydalı olarak görülebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "#### 2.1. Engelliliğe duyarlı risk değerlendirmesi\n\n\nBelirli bir iş ya da görevi yerine getiren engelli çalışanların eksiksiz ve uygun bir risk\ndeğerlendirmesinin gerçekleştirilmesi sağlık ve güvenlik şartlarının yerine getirilmesi ve\nayrımcılık yapılmamasının temini için gereklidir. İşveren daha fazla risk altında bulunan çalışanlarını belirlemeli ve özel bir risk\ndeğerlendirmesi yapmalıdır. Bu değerlendirme kişiye, maruz kaldığı risklere, yapılması\nistenen iş ve iş ortamlarına özgü olmalıdır. Engelliliğe duyarlı risk değerlendirmesi sürecinin\ntüm aşamaları ayrımcılık karşıtı politikalarla uyumlu olmalı ve bunları göz önünde\nbulundurmalıdır. İşverenler bunları gerçekleştirirken aşırı korumacı yaklaşımdan da\nvazgeçmelidir zira bazı riskler çalışanın engele sahip olup olmamasından bağımsız olarak\nkaçınılmaz olabilir. Böyle bir risk değerlendirmesi aşağıdakileri içermelidir:\n\n· Bireylerin kapasitelerini göz önünde bulundurmalıdır. · Bireyin engelinin yapısı ve boyutunu göz önüne almalıdır. · İşin özel gereksinimlerini kapsama almalıdır. · Belirli tip bir rahatsızlıkla ilişkin risklerle ilgili klişe varsayımlardan kaçınılmalıdır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\n· Tüm aşamalarda, ilgili bireylerle fikir alışverişinde bulunulmalıdır. · İSG profesyonelleri, tıbbi profesyoneller ve engelli istihdam kuruluşlarından görüş\nalınmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "=\"14\" -->\n<!-- PageBreak -->\n\n· Tüm aşamalarda, ilgili bireylerle fikir alışverişinde bulunulmalıdır. · İSG profesyonelleri, tıbbi profesyoneller ve engelli istihdam kuruluşlarından görüş\nalınmalıdır. · Değerlendirilen risklerin önlenmesi veya riskin azaltılması için gerekli çözümler\ndüşünülmelidir. · Bahsi geçen çözümlerin uygun ve faydalı olup olmadığına yönelik bireyle iletişim\nhalinde olunmalıdır. İstemeden de olsa meydana gelebilecek ayrımcılıkların önüne geçebilmek için, bölüm\nyöneticileri, çalışan temsilcileri, iş sağlığı ve güvenliği profesyonelleri ve risk\ndeğerlendirmesi sürecine dâhil olan tüm kişilerin engellilik ve eşitlik eğitimi almaları tavsiye\nedilmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "#### 2.2. Uyumlaştırma için gerekenler\n\n\nDüzenlemeler, engelli bireylerin çalışma ortamındaki engellerin üstesinden kolaylıkla\ngelebilmeleri için iş ve işyerinde yapılacak değişiklikleri ifade etmektedir. İnsanlar\nçoğunlukla engelli çalışanlar için yapılacak düzenlemelerin işyeri binalarına engelli\nerişiminden ibaret olduğunu düşünmektedir. Erişilebilirlik düzenlemeleri zaman zaman\ngerekli olmakla beraber, engelli çalışanların iş hayatına aktif bir şekilde katılmaları ve\nkarşılaştıkları risk unsurlarının ortadan kaldırılması veya azaltılması için yapılacak\ndüzenlemeler çok daha geniştir. Bunlardan bazıları aşağıda belirtilmiştir:\n\n· İşyeri Fiziksel Ortamı Ve Temel Ulaşılabilirlik Konuları\n\n· İş Ekipmanı;\n\n· İş Organizasyonu;\n\n· İşaretler, Yönlendirmeler ve Acil Durum Prosedürleri;\n\n· İletişim ve Destek Hizmetleri;\n\n· Eğitim ve Gözetim\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "#### 2.3. Engelli çalışanlar için risk ve kontrol tedbirleri\n\n\n\n<table>\n<tr>\n<th>Riskler</th>\n<th>Kontrol Tedbirleri</th>\n</tr>\n<tr>\n<td>Duyma Engelliler</td>\n<td></td>\n</tr>\n<tr>\n<td>Sesli İkaz Sistemleri</td>\n<td></td>\n</tr>\n<tr>\n<td>Yangın alarm sistemi gibi acil durum</td>\n<td>Duyma engellilerin çalıştıkları ortamda</td>\n</tr>\n<tr>\n<td>bildiri sinyallerinin duyulmaması sonucu</td>\n<td>oturdukları yerden rahatlıkla</td>\n</tr>\n<tr>\n<td>çalışanın içeride kalması, (karbon</td>\n<td>görebilecekleri flaş ışıklı sinyaller ile</td>\n</tr>\n<tr>\n<td>monoksit zehirlenmesi, ağır yanıklar,</td>\n<td>titreşimli uyarı sistemleri ve titreşimli</td>\n</tr>\n<tr>\n<td>ölümle sonuçlanabilir.)</td>\n<td>çağrı cihazları kullanılmalı, ünitelere yerleştirilecek ekranlar, ledli levha ve şekillerle acil durumlarda görsel olarak online iletişim sağlanmalı, işyerindeki hareketli araçlara, forkliftlere ışıklı ikaz</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>lambaları konulmalıdır. Çeşitli ikaz</td>\n</tr>\n<tr>\n<td>bildirileri için ışıklı sinyallerde farklı renkler kullanılmalı ve eğitimlerde tanımlanmalıdır.</td>\n</tr>\n</table>\n\n\nOrtopedik Engelliler\n\nFiziksel Güç Açısından Yetersizlik\n\nKKD'lerin engel durumuna uygun\nolmaması sonucu kazalanma, uzuv kayıplı\nbir engelli çalışanın fiziksel yapısının\nmakine veya iş ekipmanına\nuyarlanmaması sebebiyle kazalanma, yük\nkaldırmada fiziksel güç açısından\nyetersizlik, cisim düşmesi sonucu\nyaralanma.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "a, uzuv kayıplı\nbir engelli çalışanın fiziksel yapısının\nmakine veya iş ekipmanına\nuyarlanmaması sebebiyle kazalanma, yük\nkaldırmada fiziksel güç açısından\nyetersizlik, cisim düşmesi sonucu\nyaralanma. İşverenler,\nişyerlerini\nengellilerin\nçalışmalarını kolaylaştırabilecek fiziki\ndüzenlemeler yapmalı, özel sağlık ve\ngüvenlik işaretleri/levhaları asılmalı,\ngüvenli çalışmaları için gerekli araç ve\ngereçler sağlamalı, engelliler;\nyapabilecekleri ve eğitimini aldıkları işler\ndışında sağlığını ve güvenliğini tehdit\nedecek diğer işlerde çalıştırılmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "güvenli çalışmaları için gerekli araç ve\ngereçler sağlamalı, engelliler;\nyapabilecekleri ve eğitimini aldıkları işler\ndışında sağlığını ve güvenliğini tehdit\nedecek diğer işlerde çalıştırılmamalıdır. Zihinsel Engelliler ve Ruhsal/Nörolojik Hastalık\n\nHaklarını Bilmeme/Savunamama\n\nEngelli çalışanların sağlık raporuyla\nbelirlenen işler dışında başka işlere\n\nEngelliler sadece sağlık raporunda\nbelirtilen ve engel durumuna uygun\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>yerleştirilmesi ile gerçekleşen iş kazası</td>\n<td>işlerde çalıştırılmalı,</td>\n<td>işyeri</td>\n<td>hekimi,</td>\n</tr>\n<tr>\n<td>veya meslek hastalıkları, verilen iş</td>\n<td colspan=\"2\">zihinsel engellilerle ilgili olarak</td>\n<td>psikolojik</td>\n</tr>\n<tr>\n<td>karşısında amirine/işverenine karşı</td>\n<td>danışmanlardan ve</td>\n<td></td>\n<td>rehabilitasyon</td>\n</tr>\n<tr>\n<td>çıkamama sonucu zihinsel ve ruhsal</td>\n<td colspan=\"2\">merkezlerinden tavsiyeler alarak</td>\n<td>sağlık ve</td>\n</tr>\n<tr>\n<td>açıdan engeline uygun olmayan ve</td>\n<td>güvenlik tedbirlerini</td>\n<td></td>\n<td>belirlemeli,</td>\n</tr>\n<tr>\n<td>tehlikeli işlerde çalıştırılmaları sonucu ağır</td>\n<td>güvenlikli çalışma</td>\n<td>talimatları,</td>\n<td>rahatlıkla</td>\n</tr>\n<tr>\n<td>yaralanma.</td>\n<td>okunaklı ve</td>\n<td>anlaşılır</td>\n<td>şekilde</td>\n</tr>\n<tr>\n<td></td>\n<td>hazırlanmalıdır.</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Kronik Hastalıklar</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Epilepsi</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Epilepsi hastalarının krizlerini tetikleyici unsurlar; aydınlatmanın yetersizliği, gürültü, solunum problemleri, yorgun</td>\n<td>İşveren, çalışanın kriz hangi etkenlerin tetiklediği, uyuma düzeni ile ilgili</td>\n<td>sıklığı,</td>\n<td>krizleri yeme ve bilgilendirilmeli,</td>\n</tr>\n<tr>\n<td>olma, halsiz ya da endişeli olma veya</td>\n<td>bu çalışanlara mümkün</td>\n<td></td>\n<td>olduğunca ofis</td>\n</tr>\n<tr>\n<td>öğün atlama, acil tıbbi müdahale</td>\n<td>işleri verilmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "</tr>\n<tr>\n<td>olma, halsiz ya da endişeli olma veya</td>\n<td>bu çalışanlara mümkün</td>\n<td></td>\n<td>olduğunca ofis</td>\n</tr>\n<tr>\n<td>öğün atlama, acil tıbbi müdahale</td>\n<td>işleri verilmelidir. Bu</td>\n<td>çalışanlara</td>\n<td>gürültü</td>\n</tr>\n<tr>\n<td>gerektiren kriz anlarında çalışana geç ya</td>\n<td colspan=\"3\">seviyesini azaltacak kulaklık verilmeli ve</td>\n</tr>\n<tr>\n<td>da yanlış müdahale edilmesi sonucu sağlık</td>\n<td>iyi havalandırılan ve</td>\n<td colspan=\"2\">aydınlatılan bir</td>\n</tr>\n<tr>\n<td>durumunun ağırlaşması.</td>\n<td>çalışma alanında</td>\n<td>bulunmalı,</td>\n<td>işyerinde</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">ilkyardım eğitimi alan çalışanlara ayrıca kriz dönemlerinde yapması gereken sağlık adımları anlatılmalı ve öğretilmelidir.</td>\n</tr>\n<tr>\n<td>Görme Engelliler</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Çalışma Düzenine Adaptasyon Güçlüğü</td>\n<td colspan=\"3\"></td>\n</tr>\n<tr>\n<td>Çalışma talimatlarını okuyamama,</td>\n<td colspan=\"2\">Görme engelli çalışanlar</td>\n<td>için riskli</td>\n</tr>\n<tr>\n<td>kimyasal etkenlere maruziyet riskinin</td>\n<td colspan=\"2\">alanlara girmeyi ya</td>\n<td>da teması</td>\n</tr>\n<tr>\n<td>görme engelliler için fazla olması, işyerini</td>\n<td>engelleyecek bariyerler</td>\n<td></td>\n<td>oluşturulmalı,</td>\n</tr>\n<tr>\n<td>tam tanıyamamaktan kaynaklı tehlikeli</td>\n<td colspan=\"2\">asansörlerin bulunabilmesi</td>\n<td>ve</td>\n</tr>\n<tr>\n<td>alanlarda bulunma riski.</td>\n<td colspan=\"3\">kullanılabilmesi için dokunsal ve konuşan</td>\n</tr>\n<tr>\n<td></td>\n<td>kat numaraları oluşturulmalı, tehlike arz eden</td>\n<td></td>\n<td>sahadaki bölümlere,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">yaklaşılmaması gereken tezgah ve bantlara belirli mesafede iken sensörün tetiklediği</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th></th>\n<th>titreşerek ikaz veren bileklikler temin edilmeli ve yangın, doğal afet gibi acil durumlar bir bluetooth kulaklık ile online iletilmelidir.</th>\n</tr>\n<tr>\n<td colspan=\"2\">Tüm Engelli Çalışanlar</td>\n</tr>\n<tr>\n<td>Ergonomi</td>\n<td></td>\n</tr>\n<tr>\n<td>Engelli çalışanın vücuduna uygun olmayan ekipmanı kullanırken ya da engeline uygun olarak tasarlanmamış bir alanda çalışırken ağır yaralanmalar.</td>\n<td>Herhangi bir uzvu olmayan operatörün kullanacağı ekipman veya iş istasyonu üzerinde gerekli iyileştirmeleri yaparak, engelli çalışanın güvenli bir şekilde kullanabileceği şekilde tasarlanmalı, tuvaletler ve lavabolar engelliler için uygun hale getirilmelidir.</td>\n</tr>\n<tr>\n<td>Yalnız Çalışma</td>\n<td></td>\n</tr>\n<tr>\n<td>Acil tıbbi müdahaleye ihtiyaç durumunda erişim zorluğu, yangınla mücadele ya da acil duruma müdahale gerektiren haller.</td>\n<td>Engelli çalışanlar için 'safetybuddy' de denilen 'güvenli çalışmasına yardımcı bir arkadaş' tayin edilmeli, bu çalışan engellinin, yangın, doğal afet gibi acil durumlarda işyeri binasından güvenli bir şekilde çıkmasını sağlayarak toplanma alanına gelmesine yardımcı olmalıdır.</td>\n</tr>\n<tr>\n<td colspan=\"2\">Fiziksel Etkenler</td>\n</tr>\n<tr>\n<td>Ortopedik engeli ya da görme engeli olanların işyeri içerisinde yürüyebilmesi için gerekli yolların yapılmaması sonucu düşme, takılma, ekipmanlara çarpması ve kazalanması, acil çıkış yollarının engelliler tarafından kullanımı için düzenlemelerin yapılmaması, zihinsel ya da ruhsal engelli bir çalışanın riskleri, makine koruyucusu ya da kişisel koruyucu kullanımının önemini sınırlı kavraması.</td>\n<td>İşyeri içerisine engelli çalışanlar için tehlikeli ekipman ve alanlardan uzakta kılavuz yollar yapılmalı, hissedilebilir zemin uygulaması sadece çalışanın çalıştığı alanla sınırlı kalmamalı, düşme tehlikesi olmayan işlerde çalıştırılmalı, çalışanların güvenli tahliye işlemlerine, tüm acil çıkış yollarına aşina olması ve engel durumuna göre yönlendirme sağlanmalı, zihinsel engelliler mümkün</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th>(Bilişsel veya zihinsel engel tepki hızını ve kapasitesini etkiler.)</th>\n<th>olduğunca tehlikeli ekipmanların olduğu üretim sahasına girmemelidir.</th>\n</tr>\n<tr>\n<td>Bina Girişi ve Acil Çıkışlar</td>\n<td></td>\n</tr>\n<tr>\n<td>Acil çıkışların engelli çalışanların engel</td>\n<td>İşverenler tekerlekli sandalye kullanan</td>\n</tr>\n<tr>\n<td>durumu gözetilerek fark edilebilir ve</td>\n<td>engelli çalışanları için bina giriş ve</td>\n</tr>\n<tr>\n<td>kolay ulaşılabilir hale getirilmemesi ve</td>\n<td>çıkışları platformlu hale getirmeli, yürüme</td>\n</tr>\n<tr>\n<td>tahliye olamaması sonucu ölümlü ya da</td>\n<td>engeli olanlar acil çıkış kapılarına yakın</td>\n</tr>\n<tr>\n<td>yaralanmalı iş kazaları.</td>\n<td>konuşlandırılmalıdır.</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "konuşlandırılmalıdır.</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK\nBAKANLIĞI\n\n\n<figure>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "## BÖLÜM 3 İŞYERİ FİZİKSEL ORTAMI VE TEMEL ULAŞILABİLİRLİK KONULARI\n\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "### 3. İŞYERİ FİZİKSEL ORTAMI VE TEMEL ULAŞILABİLİRLİK KONULARI\n\n\n17 Temmuz 2013 tarih ve 28710 sayılı İşyeri Bina ve Eklentilerinde Alınacak Sağlık Ve\nGüvenlik Önlemlerine İlişkin Yönetmelik kapsamında engelli çalışanların durumuna özel\nolarak alınması gereken tedbirler TS 9111 ve TS 12460 standartları çerçevesinde\ntanımlanmıştır. İlgili standartlar çerçevesinde işyerinin fiziksel ortamına yönelik yapılması\ngereken temel düzenlemeler bu başlık altında değerlendirilmiştir. İşyerlerinde, çalışma ve dinlenme alanlarına erişim, işin yürütümü ve acil durumlarda\ntahliye etme durumları engelli çalışanların sağlık ve güvenliğini temin edecek şekilde\ndüzenlenmelidir. Yapılacak düzenlemelerde ayrıca çalışanın konfor ve rahatlığını temin\netmek gerekmektedir. Bu şartların sağlanması için işyeri fiziksel ortamına yönelik bazı\ntasarımsal değişiklikler aşağıda verilmiştir:\n\n· Ulaşılabilir bir güzergâhta merdivenler, basamaklar ve yürüyen merdivenler\nolmamalıdır. · Ulaşılabilir güzergâhlar, acil durum çıkışı veya ulaşılabilir bir kurtarma alanına\nbağlantı sağlayıcı olarak da hizmet verebilir. Engelli kişilerin çalışabileceği bir\nbinanın acil durum planlarında güvenli tahliye için özel önlemler sağlanması yangın\nve yaşam güvenliği açısından önemli rol oynamaktadır. · Güvenli alan ile bina ana girişi arasında görsel ve işitsel sinyaller kullanarak iki\ntaraflı iletişim sağlanmalıdır. · Geçiş güzergâhlarında kesici, çizici, delici ve yaralayıcı türden nesneler\nbulunmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "İŞYERİ FİZİKSEL ORTAMI VE TEMEL ULAŞILABİLİRLİK KONULARI\n\n\n17 Temmuz 2013 tarih ve 28710 sayılı İşyeri Bina ve Eklentilerinde Alınacak Sağlık Ve\nGüvenlik Önlemlerine İlişkin Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "lan ile bina ana girişi arasında görsel ve işitsel sinyaller kullanarak iki\ntaraflı iletişim sağlanmalıdır. · Geçiş güzergâhlarında kesici, çizici, delici ve yaralayıcı türden nesneler\nbulunmamalıdır. · İşletme zemininde seviye farklılıkları mümkün olduğu kadar ortadan kaldırılmalıdır. · Seviye farkının kaçınılmaz olduğu yerlerde rampa uygulamaları yapılmalıdır. Rampa\nyüzeylerinde sert, kaydırmaz (ıslak/kuru) ve mat malzemeler kullanılmalıdır. · Her iki tarafı boşluk olan rampaların her iki tarafına, boşluk tek tarafta ise boşluk\nolan tarafa korkuluk yapılmalıdır. · Giriş kapısı, duvarla aynı hizada bir düzlem oluşturmamalıdır. Giriş kapısında\nsensörlü aydınlatma tercih edilmelidir. · Dışa açılan kapılar (menteşeli, normal) zorlanmadan açılabilecek nitelikte\nyapılmalıdır. · Döner kapılardan kaçınılmalıdır. Döner kapı varsa, mutlaka menteşeli veya fotoselli\nbir ulaşılabilir giriş kapısı da bulunmalıdır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 3. Döner kapı yanında kanatlı kapı örneği</figcaption>\n</figure>\n\n\n· Binalarda yer kaplaması sert, sabit ve kaymaz (ıslak/kuru) malzemelerden\nseçilmelidir. Yer kaplaması olarak seçilen malzeme hareketi zorlaştıracak derecede\npürüzlü ve delikli yüzeye sahip olmamalıdır. · Temizlik sırasında ıslanan kaplamanın, kaza oluşumunu önlemek adına kaydırmaz\nyapıda olması gereklidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "k seçilen malzeme hareketi zorlaştıracak derecede\npürüzlü ve delikli yüzeye sahip olmamalıdır. · Temizlik sırasında ıslanan kaplamanın, kaza oluşumunu önlemek adına kaydırmaz\nyapıda olması gereklidir. · Zemindeki ses yansıtıcı yüzeyler, görme engellilerin yön bulmalarına yardımcı\nolmaktadır. Gerektiğinde, gürültü ve titreşim yalıtımına uygun yer kaplaması\nkullanılmalıdır. · Kapı 90° açıldığında, kapı net genişliği iç kapılarda 90 cm'den, bağımsız bölüm\nkapılarında 100 cm'den az olmamalıdır. Kapı net yüksekliği en az 210 cm olmalıdır. · Kapılarda eşik bulundurulmaması gerekir. Eşik yerine yer kaplamasının eğiminin\nayarlanması tercih edilmelidir. · Kapı kolu, kilitler, anahtar ve diğer kapı aksamları tek elle kullanılabilecek ve\nkavrama gerektirmeden işleyebilecek şekilde olmalıdır. · Çarpma, yaylı ve döner kapılar engellilerin kullanımına uygun olmadığından ve risk\noluşturabileceğinden tercih edilmemelidir. · Asansörlere ulaşılabilir bina girişinden engelsiz erişim güzergâhı sağlanmalıdır. · Merdivenler, asansör veya rampanın yanında ilave olarak bulunmalıdır. · Yürüyen merdiven bulunan binalarda engelliler için gerekli ilave düzenlemeler\n(rampa, asansör vb.) yapılmalıdır. · Danışma masasına, asansörlere ve engelli tuvaletine engelsiz erişim sağlanmalıdır. · Gerekli kapı açıklıkları ve kolay kapı kullanımı, kapıları tekerlekli sandalye ile açma\nve kapatmayı olanaklı kılan yeterli alan sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "e ve engelli tuvaletine engelsiz erişim sağlanmalıdır. · Gerekli kapı açıklıkları ve kolay kapı kullanımı, kapıları tekerlekli sandalye ile açma\nve kapatmayı olanaklı kılan yeterli alan sağlanmalıdır. · Yeterli manevra alanı bırakılarak işletme planları hazırlanmalı ve uygulanmalıdır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n· Kontrol düğmeleri ve anahtarlarının uygun yükseklikte, konumda, renkte olması ve\nrahat kullanımı sağlanmalıdır. · Yeterli ve iyi aydınlatma sağlanmalıdır. · Duvarlarda, döşemelerde, kapılarda ve işaretlemede uygun bir görsel zıtlık\nsağlanmalıdır. · Uygun ve fark edilebilir işaretlemeler bulundurulmalıdır. · İki veya daha fazla duyu yoluyla (hissedilebilir, işitsel ve görsel) iletişim\nsağlayabilecek uygulamalar tercih edilmelidir. · Ses yükseltici sistemler bulundurulmalıdır. Yukarıda sayılan kullanım ve donanımların basit ve kolay anlaşılır olması zihinsel engelli\nçalışanlar için de önem taşımaktadır. Çalışma alanları ve iş yerleri için temel ulaşılabilirlik konuları ise şu şekilde özetlenebilir;\n\n1\\. Binalardan herkesin aynı güzergâhı,\naynı girişi, aynı donanımları vb. kullanarak faydalanabilmesi gerekir. Bu\nherkes için eşit kullanım ve eşitlik\nilkesinin hayata geçmesini sağlar. Binaya herkes için eşit yaklaşım,\nörneğin;\n\nTahsisli otopark alanları, basamaksız ve\nengelsiz geçişler, iyi işaretleme, iyi\naydınlatma ve zıt renklendirme.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "e eşitlik\nilkesinin hayata geçmesini sağlar. Binaya herkes için eşit yaklaşım,\nörneğin;\n\nTahsisli otopark alanları, basamaksız ve\nengelsiz geçişler, iyi işaretleme, iyi\naydınlatma ve zıt renklendirme. <figure>\n\n1\n\n2\n\n4\n\n3\n\n</figure>\n\n1 Aydınlatma zıt,renklendirme\n\n2 İşaretleme\n\n\nAçıklama\n\n3 Otopark alanına ve toplu taşımaya kısa mesafeler\n\n4 Basamaksız yada engelsiz geçiş\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>2. Kolay</td>\n<td colspan=\"2\">algılanabilir</td>\n<td>ana</td>\n<td>giriş,</td>\n</tr>\n<tr>\n<td>basamaksız</td>\n<td>veya</td>\n<td colspan=\"2\">engelsiz giriş,</td>\n<td>geniş</td>\n</tr>\n<tr>\n<td>açıklıklar,</td>\n<td>düşük</td>\n<td colspan=\"2\">kullanım</td>\n<td>gücü</td>\n</tr>\n<tr>\n<td>gerektirme,</td>\n<td>iyi</td>\n<td colspan=\"2\">işaretleme,</td>\n<td>iyi</td>\n</tr>\n<tr>\n<td>aydınlatma</td>\n<td>ve</td>\n<td colspan=\"2\">iyi görsel</td>\n<td>zıt</td>\n</tr>\n</table>\n\n\nrenklendirme. 1\n\n2\n\n3\n\n4",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "#### Açıklama\n\n\n1\nKolay bulunabilir aydınlatma,işaretleme,tezat\nrenklendirme\n\n2\nGeniş geçişler\n\n3\nKolay kullanaılabilir kapılar\n\n4\nBasamaksız eşiksiz giriş\n\n3\\. Düşey dolaşım için aynı güzergâhın\nkullanılması, örneğin güvenli\nmerdivenler, geniş kapı geçişi, kapıların\nkolay açılıp kapanabilmesi, dinlenme\nalanları sağlanması, iyi işaretleme,\naydınlatma ve görsel zıtlık. <figure>\n\n2\n\n1\n\n3\n\nAçıklama\n\n1 Güvenli merdivenler,iyi aydınlatma,iyi görsel\nkontrast\n\n2 Kolay kullanım\n\n3 Geniş asansör\n\n</figure>\n\n\n4\\. Aynı donanım ve araçların tüm\nkişiler\n\ntarafından eşit kullanımı, örneğin kolay\nanlama, yeterli manevra alanı, uygun\nyükseklik ve en az iki duyu ile bilgi\nsağlama. <figure>\n\n1\n\n2\n\n3\n\n4\n\n</figure>\n\n\nAçıklama\n\n1\nKolay kullanım\n\n2\nİki duyu yoluyla bilgilendirme\n\n3\nUygun kullanım yüksekliği\n\n4\nYeterli manevra alanı\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"24\" -->\n<!-- PageBreak -->\n\n5\\. Eşit çıkış ve tahliye güzergâhları, acil\ndurum planı için tasarım, örneğin;\nbasamaksız ve engelsiz, yangına karşı\ngüvenli asansörler, iyi işaretleme,\naydınlatma, görsel zıtlık, iyi yangın\ngüvenliği, koruma ve tahliye,\nulaşılabilir tahliye güzergâhları.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "için tasarım, örneğin;\nbasamaksız ve engelsiz, yangına karşı\ngüvenli asansörler, iyi işaretleme,\naydınlatma, görsel zıtlık, iyi yangın\ngüvenliği, koruma ve tahliye,\nulaşılabilir tahliye güzergâhları. <figure>\n\n3\n\n5\n\n2\n\n1\n\n4\n\nAçıklama\n\n1\nİyi yangın güvenliği,koruma ve tahliye\n\n2\nGüvenli merdiven\n\n3\nTahliye asansörleri\n\n4\nBasamaksız yada engelsiz geçiş\n\n5\nİyi aydınlatma iyi işaretleme\n\n</figure>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK\nBAKANLIĞI\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\nBÖLÜM 4\nENGELLİLER İÇİN İŞ EKİPMANI\nTASARIMLARI\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "### 4. ENGELLİLER İÇİN İŞ EKİPMANI TASARIMLARI\n\n\nÖzel iş istasyonları ve oturakların sağlanması işyerinin fiziksel özelliklerinin\ndeğiştirilmesine birer örnek teşkil etmektedir. Duruş destekli oturak, oturarak veya ayakta\nçalışılan iş istasyonları veya ayarlanabilir yükseklikte masalar bunlara birer örnektir. Bu bölümün amacı, kişilerin herhangi bir sakatlık, yaşlılık veya engel durumlarında dahi\nbaşkasına ihtiyaç duymadan ekipmanları rahatça kullanabilmesi için gerekenlerin\nbelirtilmesidir. Bu konuda birçok yaygın uygulama bulunmaktadır. Fiziksel ağrı ve\nzorlanmalar azaltılarak kişiler zarar görmeden işlerini bu sayede daha verimli bir şekilde\ngerçekleştirebilmektedir. Uygun ekipmanlar sağlanarak kişilerin potansiyellerini tam olarak\nortaya koymaları sağlanabilir. Ek ekipman veya destek hizmetlerinin sağlanması; örneğin ofis çalışmaları için özel\nklavyeler, Braille klavyeler veya metin okutucu yazılım gibi ekipmanların tedariğini\nkapsamaktadır. Braille, farkındalığı tamamen ve çabuk geliştirir, seslere tepki vermeyi\ngüçlendirir ve otonom öğrenmeyi kolaylaştırır. <figure>\n<figcaption>Şekil 4: Mountbatten Daktilo</figcaption>\n</figure>\n\n\nBu ekipmanlar, çoğunlukla ekranlı araçlarla alakalıdır ve \"yardımcı teknoloji\" olarak ifade\nedilmektedir. Birçok yardımcı teknolojinin tedariği mümkündür.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "Mountbatten Daktilo</figcaption>\n</figure>\n\n\nBu ekipmanlar, çoğunlukla ekranlı araçlarla alakalıdır ve \"yardımcı teknoloji\" olarak ifade\nedilmektedir. Birçok yardımcı teknolojinin tedariği mümkündür. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\nAyrıca:\n\n· Talimatların veya kullanım kılavuzlarının görsel veya işitsel donatılarla modifiye\nedilmesi;\n\n· Okuyucu veya yorumlayıcı gibi ekipmanın işitme engelli kişiler için sağlanması ve\nözel toplantı ya da durumlarda işaret dili çevirmeni tahsis edilmesi;\n\n· Görsel rahatsızlığı veya kas iskelet sisteminde hasar olan kişiler için ses tanıma\nsistemlerinin tercih edilmesi;\n\n· Görsel rahatsızlığı bulunup dudak okuyan kimseler için iyi aydınlatma sağlanması\nbu konuda atılacak adımlardan bazılarıdır. Bunun dışında ortopedik rahatsızlığı bulunan kişiler için de ekipmanlarda uyumlaştırma\nyapılabilmektedir. Şekil 5'te görülen destek ekipmanı bileği bükmeden ve artrit, felç, el, kol\nve bilek rahatsızlıklarına sebep olmadan çalışmaya olanak sağlamaktadır. <figure>\n<figcaption>Şekil 5. Kol destekli iş ekipmanı</figcaption>\n</figure>\n\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK\nBAKANLIĞI\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\nBÖLÜM 5\nİŞ ORGANİZASYONU\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "### 5. İŞ ORGANİZASYONU\n\n\nUluslararası Çalışma Örgütünün (ILO) engelli çalışanlarla ilgili hazırladığı Kurumsal Sosyal\nSorumluluk (KSS) raporunda, engellilerin çalışma koşulları başlığı altında, İSG için ayrı bir\nbölüm açılmıştır. Raporda değerlendirilen 40 çokuluslu şirkete, çeşitli konu başlıklarında bir\nKSS politikası geliştirip geliştirmedikleri sorulmuştur. Şirketlerin engelliler noktasında en\neksik oldukları ve özel bir çalışma gerçekleştirmedikleri iki konu başlığından birinin İSG\nolduğu tespit edilmiştir.\n\nOysaki engelli çalışanların sağlıklı ve güvenli bir şekilde çalışmasını sağlamak için, özel\nihtiyaçları göz önünde bulundurulmalı ve kendilerine bu ihtiyaçlar çerçevesinde bir çalışma\nortamı hazırlanmalıdır. Bu da ofis ve endüstriyel alanlardaki iş istasyonlarının engelli\nçalışanlar için kullanılabilir hale getirilmesi ile mümkün olacaktır. Bu noktada, çalışma\nalanlarının uyumlaştırılmasında, çalışanların engel durumları ve yeterlilikleri göz önünde\nbulundurulmalıdır. Çünkü görme engelli bir çalışan için yapılacak olan uyumlaştırma ile\nfiziksel engelli bir çalışan için yapılacak uyumlaştırma aynı olmayacaktır. Aynı şekilde, ofis\nçevresinde çalışan bir engelliyle, endüstriyel çevrede çalışan bir engelli için yapılacak\nuyumlaştırmalar da farklı olacaktır.\n\nEngel grupları ve çalışma alanlarına göre çözümler farklılaşacak olsa da, engellilerin\nçalışma alanları tasarım ve uyumlaştırmasında kullanılacak teknoloji ve sistemlerden temel\nolarak bahsetmekte fayda vardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "#### a) Kameralı Okuma Sistemleri ve Okuma Makineleri\n\n\nBu sistem ve cihazlarla, engelliler pratik olarak belgelerin kendilerine sesli olarak\nokunmasını sağlayabilirler. Cihazlar, kameranın altına konan dokümanın fotoğrafını çeker\nve 3-4 saniye gibi bir süre içerisinde hemen okumaya başlar. Görme engelli bu sistemde\ndokümanı hem sesli hem de Braille olarak anında okuyabilir, isterse word, excel gibi\nformatlarda kaydedebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "#### b) İşitme Engelliler için Işıklı Gösterge ve Uyarılar\n\n\nÖzellikle endüstriyel alanlarda çalışan işitme engellilerin, mola ve acil durum sirenlerini\nduymaları mümkün olmadığından, bu bilgileri hızlıca alabilmeleri için ışıklı gösterge ve\nuyarılar kullanılabilir. Bu tarz teknolojik çözümlere örnek olarak İstanbul'da bir otobüs\nfabrikasında işitme engelli bir çalışan için adapte edilen çalışma istasyonu örnek\ngösterilebilir. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 6. İşitme engelli bir çalışan için örnek bir iş istasyonu</figcaption>\n\nKABIN\n8\n\n</figure>\n\n\nBirimde işitme ve konuşma engelli çalıştığı kabine özel uyarı sistemi kurulmuş, birim\nyöneticileri ve tüm birim çalışanlarına sistemin nasıl işleyeceği ile ilgili eğitim verilmiştir. Çalışan acil bir durumla karşılaşması halinde, kabininde bulunan, üstteki fotoğrafta 1 ile\nnumaralandırılmış kısımda bulunan butona basacaktır. Kabindeki butona basılmasıyla\nbirlikte, birim yöneticisinin odası üzerindeki kırmızı ışık da yanmaya başlayacaktır. Işığın\nyandığını fark eden birim yöneticisi derhal engelli çalışanın kabinine giderek duruma\nmüdahale edecektir. Eğer kırmızı ışık, birim yöneticisinden önce başka bir çalışan tarafından\nfark edilirse, bu çalışan durumu birim yöneticisine bildirecektir. Sistem çift taraflı iletişimle acil durumlarda engelli çalışanın güvenliğini sağlamayı\nhedeflemektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "ce başka bir çalışan tarafından\nfark edilirse, bu çalışan durumu birim yöneticisine bildirecektir. Sistem çift taraflı iletişimle acil durumlarda engelli çalışanın güvenliğini sağlamayı\nhedeflemektir. Bu kapsamda, birim yöneticisi kendi odasında bulunan butona bastığında da,\nüstteki fotoğrafta 2 ile numaralandırılmış kısımda bulunan, çalışanın kabini üzerindeki\nkırmızı ışık yanmaya başlayacaktır. Bu kırmızı ışık aynı zamanda genel acil durum sireniyle\nbütünleştirilmiştir. Çay ve yemek molalarında ise kırmızı ışığın altındaki sarı ışığın\nyandığını gören çalışan işi bırakacak/işe başlayacaktır. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"31\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 7. İşitme engelli çalışanın fark edilebilmesine yönelik bir uygulama</figcaption>\n</figure>\n\n\nEndüstriyel alanlarda çalışan işitme engellilerin forklift benzeri iş makinelerinin sesli\nikazlarını algılayamayacak olmalarından dolayı, bu konuda da özel önlem ve uygulamalar\ngerekmektedir. Çalışanın iş elbisesine sesli ikazları duyamayacağını belirten işaret\nkonulmuştur. Bu işaret karanlık ortamlarda fosforla dikkat çekecek şekilde tasarlanmıştır. Bu sayede araç sürücüleri, çalışana karşı sesli uyarı yollarını kullanmayacak ve daha dikkatli\ndavranacaklardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "#### c) Bedensel Engelliler için Özel Mobilyalar ve Çalışma Alanları\n\n\nBedensel engellilerin sağlıklı ve güvenli çalışabilmeleri için oluşturulacak çalışma\nortamlarını düzenlemeden önce yine engelli çalışanın engel cinsi göz önünde bulundurularak\nkendisinin görüşleri alınmalı, yapacağı işin gereklilikleri saptanarak bu verilere göre bir\ntasarım yapılmalıdır. Örneğin, ofis çevresinde çalışan ve uzak noktalara ulaşması mümkün\nolmayan kısa boylu bir engelli çalışan için, kendi ölçülerine uygun ve yüksekliği\nayarlanabilir bir sandalye seçilebilir, sık kullandığı iş araçları için yaklaştırılabilir bölmeler\nyapılabilir.\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n\n<figure>\n\nCSGB\n\n</figure>\n\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK\nBAKANLIĞI\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\nBÖLÜM 6\nACİL DURUM UYGULAMALARI\n\nwww.csgb.gov.tr\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "### 6. ACİL DURUM UYGULAMALARI\n\n\nİşyerlerinde Acil Durumlar Hakkında Yönetmeliğe göre acil durum, işyerinin tamamında\nveya bir kısmında meydana gelebilecek yangın, patlama, tehlikeli kimyasal maddelerden\nkaynaklanan yayılım, doğal afet gibi acil müdahale, mücadele, ilkyardım veya tahliye\ngerektiren olaylardır. Endüstriyel manada kamu kurumları da dâhil olmak üzere iş sağlığı ve güvenliği açısından\nele alındığında ise acil durumlar şu şekilde sıralanabilir:\n\n· Yangın,\n\n· Patlama,\n\n· Tehlikeli kimyasal madde yayılımı,\n\n· Doğal afetler,\n\n· İlkyardım ve tahliye gerektirecek olay ve kazalar,\n\n· Gıda zehirlenmesi,\n\n· Sabotaj. Yapılan işin niteliğine bağlı olarak özel acil durumlar da plana dâhil edilmelidir. Aynı yönetmeliğe göre acil durum planı ise, işyerlerinde meydana gelebilecek acil\ndurumlarda yapılacak iş ve işlemler dâhil bilgilerin ve uygulamaya yönelik eylemlerin yer\naldığı plan olarak ifade edilir. Acil durumlarla mücadelede en etkili yol, acil durum meydana gelmeden önce alınacak\ntedbirlerle hazırlıklı olmaktır. İşyeri için muhtemel acil durumları belirlemek, söz konusu\nacil durumlar için önleyici ve sınırlandırıcı tedbirleri belirlemek, oluşabilecek acil durumlar\niçin talimat ve prosedürler geliştirmek, acil durum meydana geldikten sonra güvenli\ntahliyeyi sağlamak için çalışmalar yapmak gerekmektedir. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 10. Maddesinin 4.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "limat ve prosedürler geliştirmek, acil durum meydana geldikten sonra güvenli\ntahliyeyi sağlamak için çalışmalar yapmak gerekmektedir. İşyerlerinde Acil Durumlar Hakkında Yönetmeliğin 10. Maddesinin 4. Fıkrasında Acil\nDurum Müdahale ve Tahliye Yöntemleri başlığı altında \"İşyerlerinde yaşlı, engelli, gebe\nveya kreş var ise çocuklara tahliye esnasında refakat edilmesi için tedbirler alınır.\"\nifadesi yer almaktadır. Buna göre işyerlerinde engelli çalışanlar, acil durum planları\nhazırlanırken engel durumları gözetilerek plana dâhil edilmelidir. <!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"34\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "İşyerlerinde Acil Durumlar Hakkında Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "#### 6.1. Engellilik Türüne Göre Çalışanların Acil Durumlardan Etkilenmeleri\n\n\nEngelli çalışanların engel türüne göre, işyerinde oluşabilecek herhangi bir acil durumda\nyaşayabilecekleri bazı sorunlar şu şekildedir:\n\n· Tamamen veya kısmen duymayan çalışanların acil durumlarda sesli alarm sistemleri\nveya işitsel talimatlara uyumlarında yaşayabilecekleri sorunlar,\n\n· Görme engeli bulunan çalışanların acil durumda tahliyede kaçış yolları, acil çıkış\nyönleri ve acil çıkış kapılarını takip etmede yaşayabileceği sorunlar,\n\n· Hareket kısıtı bulunan ortopedik engellilerin bağımsız bir şekilde işyerini kapılar ve\nmerdivenleri kullanarak terk etmesini zorlaştırıcı unsurlar,\n\n· Konuşma engeli bulunan çalışanların acil durumlarda yaşayabileceği iletişim\nproblemleri,\n\n· Bilişsel engelli çalışanların acil durum oluştuğunda panik ile algılama ve talimatlara\nuyma konularında yaşayabilecekleri sorunlar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "#### 6.2. Refakatçi Uygulaması\n\n\n· Acil durum ekipleri içerisinden engelli çalışanlar için \"refakatçi\" ataması\nyapılmalıdır. Acil durum ekiplerinden görevi icabı \"söndürme, kurtarma, koruma ve\nilkyardım\" ekibinden kişilerin, engelli çalışanlara refakatçi olarak atanması faydalı\nolacaktır.\n\n· Engelli çalışanlara acil durum anında refakat edecekler, fiziksel ve zihinsel düzeyde\nkişiler olmalıdır.\n\n· Refakatçinin engelli çalışan ile aynı vardiyada ve yakın çalışma alanlarında olması\n\n· fayglallı olaçakışıanlar\nkendilerine\natanan\nrefakatçiler\nkonusunda\nönceden\nbilgilendirilmelidir.\n\n· Refakatçilerin ve diğer acil durum ekiplerinin eğitimlerinde aşağıdaki başlıklar da\nişlenmelidir.\n\n· Engellilerin de işyerlerinde çalıştığı bilinci,\n\n· Engelliler için tahliye normları,\n\n· Kaldırma, tutma ve hareket ettirme teknikleri,\n\n· İletişim sistemleri kullanılarak haberleşme, kullanım yöntemleri,\n\n· Önceden hazırlanmış planların mantığının anlaşılması.\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "#### 6.3. Acil Durum Kaçış Yolları\n\n\n· Kaçış yolu boyunca zemin düz olmalıdır. Kot/seviye farkı bulunan bölümler varsa bu\nbölümlere engellilerin geçişini mümkün kılan, düşük eğimli kalıcı rampalar\nkonmalıdır.\n\n· Acil çıkış kapılarında ve işletme içindeki kapı ile ayrılan bölümlerde seviye farkı\nbulunmamalıdır. Eşik olmayan düz bir zemin ile kapıdan geçiş sağlanmalıdır.\n\n\n<figure>\n<figcaption>Şekil 8. Acil çıkış kapısı uygulamaları</figcaption>\n\nA\n\nYANGIN ÇIGIS\nFIRE EXIT\n\nAçmak için itiniz\n\nYANLIŞ\n\nDOĞRU\n\n</figure>\n\n\n· Acil çıkış yollarında ortopedik engellilerin kullanacağı rampaların üzerinde geçişi\nengelleyici eşya, malzeme türü nesneler bulundurulmamalıdır.\n\n· Merdivenlerden inişi kolaylaştırmak amacıyla tasarlanmış acil durum tahliye\nsandalyeleri, engelli çalışanların kolayca tahliye edilmelerine yardımcı olacaktır.\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 9. Acil durum tahliye sandalyeleri</figcaption>\n</figure>\n\n\n· Acil durum asansörü bulunan binalarda herhangi bir acil durum meydana geldiğinde,\nengellilerin ve refakatçilerinin birlikte binmesi sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "#### 6.4. Acil Durumlarda Engelliler İçin İletişim\n\n\n· İşyerinde oluşabilecek acil durumlar ve acil durum planında hazırlanan prosedürler\nile ilgili engellilere, engel durumu gözetilerek uygun bilgilendirme yapılmalıdır.\n\n· Acil durumları haber vermek üzere sesli ve ışıklı alarm sistemlerinin bulunması\ngerekir.\n\n· İşitme yetisini kısmen kaybetmiş engelliler için (Bu kişiler 10000 Hz üstündeki\nfrekansları algılayamazlar) alarm sistemleri ilgili standartlara uygun olmalıdır.\n\n· Engelli çalışan için atanacak her bir refakatçinin yönlendirme ve mevcut durum ile\nilgili engelli çalışana bilgi vermesi gerekir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "#### 6.5.Tahliye Prosedürü\n\n\n· Acil durum tahliye türüne göre (korunaklı bölgede bekleme, kademeli tahliye,\ntoplanma noktasına kaçış) prosedürler belirlenmeli, engelli çalışanlara bilgilendirme\nyapılmalıdır.\n\n· Tahliye işleminin engelliler için de kolayca sağlanabilmesi amacıyla acil çıkışa\nyönlendirici ışıklı ve sesli yönlendirmelerin bulunması gerekir.\n\n· İşyerinde asılı olan tahliye planlarında, görme engelliler için Braille alfabesi konması\nfaydalı olacaktır.\n\n· Acil toplanma noktası, işyerinde çalışan engellilere bildirilmelidir. Dışarıdan gelen\nengelli ziyaretçiler var ise acil durumlar ve tahliye ile ilgili bilgilendirme\nyapılmalıdır.\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"37\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "#### 6.6. Tatbikat Uygulamaları\n\n\n· Tatbikatlara engelli çalışanların dâhil edilmesi önem arz etmektedir.\n\n· Engelli çalışanlarda paniğe yol açmamak için tatbikat öncesi bilgilendirme\nyapılabilir.\n\n· Tatbikatların engellilere tahsis edilen refakatçilerle yapılmasına özen gösterilmelidir.\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "## KAYNAKLAR\n\n\n1\\) Dünya Sağlık Örgütü, Dünya Engellilik Raporu, Sayfa:0-5, 2011\n\n2\\) Türkiye İş Kurumu, Engelli ve Eski hükümlülere Yönelik Proje Desteği Başvuru Rehberi,\nSayfa:3, 2016\n\n3\\) http://www.iskur.gov.tr/kurumsalbilgi/istatistikler.aspx#dltop (Erişim Tarihi:10.10.2016)\n\n4\\) European Agency for Safety and Health at Work, Ensuring the health and safety of\nworkers with disabilities, 2004\n\n5\\) Engelliler Hakkında Kanun, Resmi Gazete Sayısı: 25868, Tarihi: 07.07.2005, Ankara\n\n6\\) İş Sağlığı ve Güvenliği Kanunu, Resmi Gazete Sayısı: 28339, Tarihi: 30.06.2012, Ankara\n\n7\\) EU-OSHA - European Agency for Safety and Health at Work, Workforce diversity and\nrisk assessment: Ensuring everyone is covered, 2009\n\n8\\) ENWHP - European Network for Workplace Health Promotion, Promoting healthy work\nfor employees with chronic illness: The 9th ENWHP Initiative. Erişim Tarihi: 03 October\n2016\\. 9\\) Council Directive 89/654/EEC of 30 November 1989 concerning the minimum safety and\nhealth requirements for the workplace. (Erişim Tarihi: 03/10/2016)\n\n10\\) HSE - Health and Safety Executive (2012), The law relating to disabled people and their\nemployers. (Erişim Tarihi: 03/10/2016)\n\n11\\) EU-OSHA - European Agency for Safety and Health at Work (2013).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelliler Hakkında Kanun",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "0\\) HSE - Health and Safety Executive (2012), The law relating to disabled people and their\nemployers. (Erişim Tarihi: 03/10/2016)\n\n11\\) EU-OSHA - European Agency for Safety and Health at Work (2013). People with\nDisabilities, (Erişim Tarihi: 04/10/2016)\n\n12\\) Loisel, P., Buchbinder, R., Hazard, R., Keller R, Sheel, I., & Van Tulder, M.,\n'Prevention of work disability due to musculoskeletal disorder: the challenge of\nimplementing evidence', Journal of Occupational Rehabilitation, Vol. 15, 2005, 507-524. 13\\) EU-OSHA - European Agency for Safety and Health at Work, Ensuring the health and\nsafety of workers with disabilities Facts 53, 2004\n\n14\\) TS 9111 - Özürlüler Ve Hareket Kısıtlılığı Bulunan Kişiler İçin Binalarda Ulaşılabilirlik\nGerekleri, 2011\n\n15\\) ILO - Disability and corporate social responsibility reporting: an analysis comparing\nreporting practices of 40 selected multinational enterprises; Juanjo Cordero, Tania Ortiz de\nZúñiga, Marleen Rueda.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "LO - Disability and corporate social responsibility reporting: an analysis comparing\nreporting practices of 40 selected multinational enterprises; Juanjo Cordero, Tania Ortiz de\nZúñiga, Marleen Rueda. 16\\) HSE - Health and safety for disabled people and their employers\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->\n\n17\\) EU-OSHA Ergonomic Adaptation Of Office And Industrial Workstations For Disabled\nWorkers\n\n18\\) BC Coalition of People with Disabilities, Workplace Emergency Planning for Workers\nwith Disabilities\n\n19\\) A Handbook for Employers and Worker, 2008\n\n20\\) Zeliha GÜLER, Özel Politika Gerektiren Grupların İş Yaşamındaki Sağlık Ve Güvenlik\nRiskleri İle Kontrol Tedbirleri, Çalışma Dünyası Dergisi, 2015/2\n\n<!-- PageFooter=\"Engelli Çalışanlar İçin İş Sağlığı ve Güvenliği Rehberi\" -->\n<!-- PageNumber=\"40\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "engelli-çalışanlar-için-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Engelli Çalışanlar Için Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 53,
+        "processed_at": "2026-02-12T04:10:15.540000"
+      }
+    }
+  ]
+}

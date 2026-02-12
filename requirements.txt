@@ -35,3 +35,6 @@ opentelemetry-sdk>=1.20.0
 # Web Fallback Pipeline (Serper + Azure DI)
 azure-ai-documentintelligence>=1.0.0
 azure-core>=1.30.0
+
+# Azure Blob Storage (for backup and archive)
+azure-storage-blob>=12.19.0

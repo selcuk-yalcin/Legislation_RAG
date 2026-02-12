@@ -1,0 +1,890 @@
+{
+  "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+  "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+  "total_chunks": 49,
+  "exported_at": "2026-02-12T12:18:59.258058",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "# EKRANLI ARAÇLARLA ÇALIŞMALARDA İŞ SAĞLIĞI VE GÜVENLİĞİ REHBERİ\n\n\n\n<figure>\n</figure>\n\n\nEkim 2019\n(Revizyon:2024)\nAnkara\n\n<!-- PageBreak -->\n\n\n<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\n\nEmek Mahallesi Naci Ayvalıoğlu Cad. No:13 Pk:06520\nEmek/ANKARA\n\nYAYINA HAZIRLAYAN\nMevzuat Dairesi Başkanlığı\n\n<!-- PageBreak -->\n\n\n<figure>\n\n* *** *\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\n\n</figure>\n\n\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\n\nEmek Mahallesi Naci Ayvalıoğlu Cad. No:13 Pk:06520\nEmek/ANKARA\n\nBu Rehber İş Sağlığı ve Güvenliği Genel Müdürlüğü tarafından hazırlanmıştır. Hazırlanan bu\nrehberdeki hususlar tavsiye niteliğindedir.\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "## İÇİNDEKİLER\n\n\n1\\. GİRİŞ\n1\n\n2\\. İŞVERENİN YÜKÜMLÜLÜKLERİ\n3\n\n3\\. ÇALIŞANLARIN BİLGİLENDİRİLMESİ VE EĞİTİMİ\n4\n\n4\\. EKRANLI ARAÇLARLA ÇALIŞMALARDA RİSKLER VE KORUNMA YOLLARI.5\n\n4.1.\nKas-İskelet Sistemi Rahatsızlıkları\n6\n\n4.2. Yorgunluk ve Stres\n8\n\n4.3.\nGöz Rahatsızlıkları\n10\n\n5\\. EKRANLI ARAÇLARLA ÇALIŞMALARDA ARANACAK ASGARİ GEREKLER .. 12\n\n6\\. KAYNAKLAR\n29",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "### RESİMLER\n\n\nŞekil 4.1 Ekranlı araçlarla çalışmalarda meydana gelebilecek sağlık problemleri\n6\n\nŞekil 4.2 Ekranlı araçlarla çalışanlar için ofis egzersizleri\n7\n\nŞekil 4.3 Stresle ilgili belirtiler.\n9\n\nŞekil 4.4 Yorgunluk ve stresi önlemek için basit adımlar\n\n9\n\nŞekil 5.1 Ekranlı araçlarla çalışmalarda dikkat edilecek hususlar.\n12\n\nŞekil 5.2 Ekranlı araçlarla ayakta çalışmalarda dikkat edilecek hususlar\n\n13",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "## TABLOLAR\n\n\n\n<table>\n<tr>\n<td>Tablo 1.1 Ekranlı araç kullanıcısı örnekleri</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Tablo 5.1 Ekranlı araçlarla çalışmalarda aranacak asgari gerekler</td>\n<td>14</td>\n</tr>\n<tr>\n<td>Tablo 5.2 Ekranlı araçlarla çalışmalarda kontrol listesi</td>\n<td>20</td>\n</tr>\n</table>\n\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "## 1. GİRİŞ\n\n\nÇalışma hayatında yoğun bir şekilde yer alan ekranlı araçların doğru ve uygun kullanılması\nhem iş sağlığı ve güvenliği hem de verimlilik açısından önem arz etmektedir. Başta ofis çalışanları, grafik tasarımcıları, bankacılar olmak üzere ekranlı araçların\nkullanıldığı tüm meslek gruplarında bu araçların kullanımından kaynaklanan tehlike ve\ntehlikelere bağlı risklerin değerlendirilmesi ve gerekli önlemlerin alınması sağlanmalıdır. Bu kapsamda, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 30 uncu maddesi gereği,\nAvrupa Birliği'nin 29/5/1990 tarihli ve 90/270/EEC sayılı Konsey Direktifi ile uyumlu olarak\nekranlı araçlarla çalışmalarda alınacak asgari sağlık ve güvenlik önlemlerine ilişkin usul ve\nesasları belirlemek amacıyla 16/04/2013 tarihli ve 28620 sayılı Resmi Gazete'de \"Ekranlı\nAraçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik\" yayımlanmıştır. Bu Yönetmelik kapsamında ekranlı araç, uygulanan işlemin içeriğine bakılmaksızın\nekranında harf, rakam, şekil, grafik ve resim gösteren her türlü aracı ifade etmektedir. Örneğin; ofiste kullanılan bilgisayarlar, iş amaçlı uzun süreli kullanımı olan dizüstü\nbilgisayarlar, tablet ve akıllı telefonlar, CNC tezgahlarının monitörleri, tanı amaçlı kullanılan\ngörüntüleme cihazları (hastanelerde kullanılan ultrason cihazı vb.).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "zun süreli kullanımı olan dizüstü\nbilgisayarlar, tablet ve akıllı telefonlar, CNC tezgahlarının monitörleri, tanı amaçlı kullanılan\ngörüntüleme cihazları (hastanelerde kullanılan ultrason cihazı vb.). Ancak, hareketli makine ve araçların kumanda kabinleri ve sürücü mahalli, taşıma araçlarında\naracın kumandasındaki bilgisayar sistemleri, toplumun kullanımına açık bilgisayar sistemleri,\nişyerinde kullanımı sürekli olmayan taşınabilir sistemler, hesap makineleri, yazar kasa ve\nbenzeri veri veya ölçüm sonuçlarını gösteren küçük ekranlı cihazlar ile ekranlı daktilolar,\nYönetmelik kapsamı dışında tutulmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "### Kimler ekranlı araç kullanıcısıdır?\n\n\nYönetmelikte, esas işi ekranlı araçlarla çalışmak olan ve normal çalışmasının önemli bir\nbölümünde ekranlı araç kullanan çalışan \"operatör\" olarak tanımlanmaktadır.\n\n<!-- PageNumber=\"1\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "### Kimler ekranlı araç kullanıcısıdır? Yönetmelik kapsamında hangi çalışanın ekranlı araç kullanıcısı (operatör)\nolarak değerlendirileceği aşağıda yer alan kriterler dikkate alınarak\nbelirlenebilir:\n\n· Rutin çalışma düzeninde aralıksız en az bir saat süresince ekranlı\naraç kullanımı olması,\n\n· Çalışma süresinin çoğunda ekranlı araç kullanımı olması,\n\n· Yüksek seviyelerde konsantrasyon ve dikkat gerektirmesi,\n\n· Yapılan işin mutlaka ekranlı araç kullanımı gerektirmesi,\n\n· Kullanılacak ekranlı aracın, özel eğitim veya beceri gerektirmesi.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "ı olması,\n\n· Yüksek seviyelerde konsantrasyon ve dikkat gerektirmesi,\n\n· Yapılan işin mutlaka ekranlı araç kullanımı gerektirmesi,\n\n· Kullanılacak ekranlı aracın, özel eğitim veya beceri gerektirmesi. <table>\n<caption>Tablo 1.1 Ekranlı araç kullanıcısı (operatör) örnekleri</caption>\n<tr>\n<th rowspan=\"2\">Meslek</th>\n<th>Rutin Çalışma</th>\n<th rowspan=\"2\">Ekranlı Aracın Günlük Kullanımının Olması</th>\n<th rowspan=\"2\">Yüksek Konsantrasyon ve Dikkat Gerektirmesi</th>\n<th rowspan=\"2\">Yapılan İşin Mutlaka Ekranlı Araç Kullanımı Gerektirmesi</th>\n<th rowspan=\"2\">Özel Eğitim ve Beceri Gerektirmesi</th>\n<th rowspan=\"2\">Karar</th>\n</tr>\n<tr>\n<td>Düzeninde Aralıksız En Az Bir Saat Süresince Kullanımının Olması</td>\n</tr>\n<tr>\n<td>Sekreter Veri Giriş Operatörü</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Editör</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Gazeteci</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Bazen</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Hava Trafik Kontrolörü</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Grafik Tasarımcısı</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Kütüphaneci</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Banka Çalışanı</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Çağrı Merkezi Çalışanı</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"2\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th>Görüntü Montaj Çalışanı</th>\n<th>Evet</th>\n<th>Evet</th>\n<th>Evet</th>\n<th>Evet</th>\n<th>Evet</th>\n<th>EA Kullanıcısı</th>\n</tr>\n<tr>\n<td>Kapalı Devre Televizyon Kontrol Odası Çalışanı</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Borsa Çalışanı/ Broker</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Havaalanı Yer Hostesi</td>\n<td>Evet</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>EA Kullanıcısı</td>\n</tr>\n<tr>\n<td>Resepsiyonist</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>Evet</td>\n<td>Bazen</td>\n<td>EA Kullanıcısı</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "### Çalışma Merkezi\n\n\nÇalışma merkezi; operatörün/ çalışanın oturduğu sandalye, ekranlı aracın konulduğu masa ya\nda yüzey, operatör/ çalışan-makine ara yüz yazılımı, monitör, klavye, yazıcı, telefon, faks,\nmodem ve benzeri aksesuar ve ekranlı araçla ilgili tüm donanımların tamamının veya bir\nkısmının bulunduğu çalışma alanını ifade etmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "## 2. İŞVERENİN YÜKÜMLÜLÜKLERİ\n\n\nİşverenler, ekranlı araçlardan kaynaklanan riskleri en aza indirmek için işyerlerinin ve işin\nkişiye uygun bir şekilde düzenlenmesini sağlamalı, çalışanlarına riski azaltma konusunda\nbilgilendirme yapmalı ve yeterli ara dinlenmelerini planlamalıdır. Bu kapsamda aşağıdaki hususlara dikkat edilmelidir:\n\n· Çalışma merkezinin iş sağlığı ve güvenliği açısından uygunluğu değerlendirilmelidir. · Uygun ekipman, çalışma ortamı ve yazılım sağlanmalıdır. · Sağlık ve güvenlik risklerini en aza indirmek için gereken iş organizasyonu\nyapılmalıdır. · Gözlerin korunması için gerekli göz muayeneleri yaptırılmalıdır. <!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\n· Gerekli eğitim ve bilgilendirme sağlanmalıdır. İşverenler, ekranlı araçlarla çalışmalarda çalışanların sağlığını ve güvenliğini korumak ve\nönlemleri belirlemek amacıyla sağlık ve güvenlik risklerini değerlendirmek için:\n\n· Tehlikeleri belirler. · Hangi çalışanların etkileneceğini tespit eder. · Tehlikeleri değerlendirir, önlemleri belirler. · Önleyici tedbirleri uygular. · Risk değerlendirmesini belirli aralıklarla gözden geçirir ve günceller. 29.12.2012 tarihli ve 28512 sayılı Resmi Gazete'de yayımlanan İş Sağlığı ve Güvenliği Risk\nDeğerlendirmesi Yönetmeliği'nin 12 inci maddesine göre işyerinde yapılmış olan risk\ndeğerlendirmesi; tehlike sınıfına göre çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde\nsırasıyla en geç iki, dört ve altı yılda bir yenilenir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "12 inci maddesine göre işyerinde yapılmış olan risk\ndeğerlendirmesi; tehlike sınıfına göre çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde\nsırasıyla en geç iki, dört ve altı yılda bir yenilenir. Ancak, Yönetmelik hükümleri saklı kalmak\nkaydıyla aşağıda belirtilen durumlarda risk değerlendirmesi tamamen veya kısmen yenilenir;\n\n· Yeni çalışma merkezi kurulduğunda,\n\n· Yeni bir çalışan işe başladığında,\n\n· Mevcut çalışma merkezinde değişiklik olduğunda ya da kullanım şekli değiştiğinde,\n\n· Operatörler/ çalışanlar ekranlı araç kullanımına bağlı (kas-iskelet, göz vb.) ağrıdan\nşikayet ettiğinde veya rahatsızlık duyduğunda. Ekranlı araçlarla çalışmalarda, işverenin yukarıda yer alan yükümlülüklerinin yanı sıra, işe\ngiriş ve periyodik sağlık muayenelerini yaptırmak ve bunları kayıt altına almak gibi\nyükümlülükleri de bulunmaktadır. İşveren, bu önlemleri alırken maliyetini çalışanlara\nyansıtmamalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "## 3. ÇALIŞANLARIN BİLGİLENDİRİLMESİ VE EĞİTİMİ\n\n\nBilindiği üzere, 15.05.2013 tarihli ve 28648 sayılı Resmî Gazete'de yayımlanan Çalışanların\nİş Sağlığı ve Güvenliği Eğitimleri Hakkında Yönetmelik kapsamında tüm çalışanların\nYönetmelikte belirtilen konularla ilgili temel iş sağlığı ve güvenliği eğitimlerini almaları\n\n<!-- PageNumber=\"4\" -->\n<!-- PageBreak -->\n\ngerekmektedir. Çalışan fiilen çalışmaya başlamadan önce, işverence işe başlama eğitimi\nalmasını sağlar. Ekranlı araç kullanıcısı çalışanlar için söz konusu işe başlama eğitiminde\nekranlı araçla sağlıklı ve güvenli çalışma konusuna yer verilir. Temel iş sağlığı ve güvenliği\neğitiminde, eğitim sürelerinin konulara göre dağılımında işyerinde yürütülen faaliyetler esas\nalınarak eğitime katılacakların ihtiyacı olan konuların seçilmesine dikkat edilmelidir. Bu\nanlamda ekranlı araçlarla çalışanlar için aşağıda yer alan konular önemlidir;\n\n· Ekranlı araçlarla çalışmalarda riskler ve korunma yolları,\n\n· Doğru oturuş/duruş,\n\n· Gözlerin korunması,\n\n· Gözleri en az yoran yazı karakterleri ve renkler,\n\n· Çalışma sırasında gözleri kısa sürelerle dinlendirme alışkanlığı,\n\n· Gözlerin, kas ve iskelet sisteminin dinlendirilmesi,\n\n· Ara dinlenmeleri ve egzersizler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "de yayımlanan Çalışanların\nİş Sağlığı ve Güvenliği Eğitimleri Hakkında Yönetmelik kapsamında tüm çalışanların\nYönetmelik",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "## 4. EKRANLI ARAÇLARLA ÇALIŞMALARDA RİSKLER VE KORUNMA YOLLARI\n\n\nEkranlı araçlarla çalışmalarda yaygın olarak kabul edilen temel riskler sırt ağrısı, üst\nekstremite bozuklukları gibi kas-iskelet sistemi rahatsızlıkları, göz problemleri, yorgunluk ve\nstrestir. Kısa süreli kullanımda bu risklere daha düşük seviyelerde maruz kalan kullanıcılar,\nsağlıklı ve güvenli çalışma şartlarının sağlanamadığı durumlarda uzun süreli kullanımda daha\nciddi sonuçlarla karşı karşıya kalabilirler. Risklerin değerlendirilmesi için öncelikle hangi ekipmanın Yönetmelik kapsamı içinde\nolduğu ve hangi kullanıcıların risklere maruz kaldığı belirlenmelidir. İşyerinde\ngerçekleştirilecek risk değerlendirmesinde; özellikle görme, fiziksel sorunlar ve mental stresle\nilgili riskler, bu risklerin olası etkileri ile farklı risklerin etkileşiminden kaynaklanabilecek\nolumsuz etkilerin ortadan kaldırılması veya en aza indirilmesi için her türlü sağlık ve güvenlik\nönlemleri alınarak çalışma merkezinin uygunluğu değerlendirilmelidir. Çalışma merkezinin\ndoğru kurulduğu, düzenli aralıklarla molaların verildiği sağlıklı ve güvenli çalışma\nşartlarında, ekranlı araçlardan kaynaklı risklerden kaçınılabilir. Riskler değerlendirilirken özel\n\n<!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\npolitika gerektiren çalışanlar (gebe, engelli vb.) dikkate alınmalı ve onlar için özel önlemler\ngeliştirilmelidir. Şekil 4.1'de, ekranlı araçlarla çalışmalarda meydana gelebilecek başlıca sağlık sorunları yer\nalmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "çalışanlar (gebe, engelli vb.) dikkate alınmalı ve onlar için özel önlemler\ngeliştirilmelidir. Şekil 4.1'de, ekranlı araçlarla çalışmalarda meydana gelebilecek başlıca sağlık sorunları yer\nalmaktadır. <table>\n<tr>\n<th>Kas/İskelet Sistemi Hastalıkları</th>\n<th></th>\n<th>Görme Bozuklukları</th>\n<th></th>\n<th>Sinir Sistemi Bozuklukları</th>\n</tr>\n<tr>\n<td rowspan=\"2\">· Karpal Tünel Sendromu · Bel Fıtığı</td>\n<td></td>\n<td rowspan=\"3\">· Göz Enfeksiyonları · Bulanık Görme · Gözlerde Yorgunluk · Geçici Kısa Görüşlülük</td>\n<td rowspan=\"3\"></td>\n<td rowspan=\"3\">· Stres, Gerginlik · Anti Tepkisel Hareketler</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td>· Boyun/Omurilik Problemleri · Parmak Sendromu · Sırt/Göğüs Ağrısı</td>\n</tr>\n<tr>\n<td>Dolaşım Sistemi Bozuklukları</td>\n<td></td>\n<td>Psikolojik Bozukluklar</td>\n<td></td>\n<td>Sindirim Sistemi Bozuklukları</td>\n</tr>\n<tr>\n<td>· Varisler</td>\n<td></td>\n<td>· Uykusuzluk · Zihin Bozuklukları</td>\n<td></td>\n<td>· Kabızlık · Şişkinlik</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\nŞekil 4.1 Ekranlı araçlarla çalışmalarda meydana gelebilecek sağlık problemleri",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "### 4.1. Kas-İskelet Sistemi Rahatsızlıkları\n\n\nKas-iskelet sistemi rahatsızlıkları, en yaygın görülen meslek hastalığıdır. Ekranlı araç\nkullananlarda da bu rahatsızlık sıklıkla görülmektedir. İş faaliyetlerine bağlı olarak el, kol,\n· Uzun süreli çalışmalarda düzenli\naralıklarla,\nomuz ve boyunda meydana gelen bir dizi kas-\niskelet sistemi rahatsızlıkları, \"üst ekstremite\nv Ayağa kalk! bozuklukları\" veya \"işle ilgili üst ekstremite\nV Esne! v Eklemlerini hareket ettir! bozuklukları\" olarak tanımlanmaktadır. Bu\nV Sonra otur ve çalışmaya devam\net! bozukluklar, uzuvdaki geçici yorgunluk ve\n· Belirli aralıklarla çalışma\nmerkezinden ayrılarak,\nağrıdan, peritendinit veya karpal tünel\nsendromu gibi kronik yumuşak doku\nv Mümkünse farklı bir iş yap! bozukluklarına kadar uzanabilmektedir. <figure>\n\nv Ofis, koridor vb. alanlarda\ndolaş! </figure>\n\n\nEkranlı araçlarla çalışmalar sırt ağrılarına yol\naçabilir veya mevcut sırt ağrısını daha da\nkötüleştirebilir. Özellikle oturma pozisyonu zayıf veya kötü ayarlanmışsa, çalışma merkezi\n\n<!-- PageNumber=\"6\" -->\n<!-- PageBreak -->\n\nyetersiz alana sahipse veya kötü tasarlandıysa, çalışanlar oturma pozisyonunda değişiklik\nyapmadan çok uzun süre oturursa ya da ayakta uzun süre aynı duruş şeklinde çalışırsa bu\nağrılar artabilir. Bununla birlikte, sırt, boyun ve başın uzun süreli statik duruşunun kas-iskelet sistemi\nproblemlerine sebep olduğu da bilinmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "yakta uzun süre aynı duruş şeklinde çalışırsa bu\nağrılar artabilir. Bununla birlikte, sırt, boyun ve başın uzun süreli statik duruşunun kas-iskelet sistemi\nproblemlerine sebep olduğu da bilinmektedir. Ayrıca ellerin ve bileğin yanlış\nkonumlandırılması da (örneğin, yanlış çalışma pozisyonu nedeniyle bileğin gereksiz yere\nbükülmesi) diğer tehlikeli davranışlar arasında sayılır. <figure>\n</figure>\n\n\nKas-iskelet sistemi rahatsızlıkları; ergonomik önlemler,\nekipmanı yeniden konumlandırma veya sandalyeyi\nayarlama gibi çalışma merkezinde yapılan basit\nayarlamalar ve çalışanlara verilecek doğru el pozisyonu,\ndoğru duruş gibi konulardaki eğitimler ile büyük ölçüde\nönlenebilmektedir. İşyerinde belirli aralıklarla yapılabilecek basit ofis egzersizleri Şekil\n4.2'de yer almaktadır. <figure>\n<figcaption>Şekil 4.2 Ekranlı araçlarla çalışanlar için ofis egzersizleri</figcaption>\n\n1\n\n1\n\n</figure>\n\n\n<!-- PageNumber=\"7\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "### 4.2. Yorgunluk ve Stres\n\n\nEkranlı araç kullananlarda yorgunluk ve stres sıklıkla görülebilmektedir. Stres; fiziksel ve\npsikolojik rahatsızlıklara, iş tatminsizliği ve performans sorunlarına neden olabilmekte,\nçalışanların işten ayrılmasını ve devamsızlığını artırabilmekte, depresyon ve kaygı\nyaratabilmekte ve çeşitli fiziksel rahatsızlıklara yol açabilmektedir. Stresle ilgili birçok\nrahatsızlık işyerlerinde motivasyonun kaybolması, işin yavaşlaması, performansın düşmesi,\nüretkenliğin azalması gibi sonuçlar doğurabilmekte ve çeşitli kaza ve yaralanmalara sebep\nolabilmektedir. Yorgunluk ve strese neden olan en önemli faktörler;\n\n· Çalışanın iş üzerindeki kontrolünün az olması/ kararlarda söz sahibi olamaması,\n\n· İş yükünün neden olduğu baskı,\n\n· Yüksek tempolu tekrarlayan çalışmalar,\n\n· Sürekli aynı duruşta çalışmak,\n\n· Yetersiz molalar,\n\n· Çalışanın niteliğine uygun iş verilmemesi,\ngibi faktörlerdir. Psikososyal risk faktörleri sonucu ortaya çıkan stresin belirtileri Şekil 4.3'de yer almaktadır. Stresle ilgili belirtiler; fiziksel, duygusal, zihinsel ve sosyal olmak üzere dört grupta\ntoplanabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "Psikososyal risk faktörleri sonucu ortaya çıkan stresin belirtileri Şekil 4.3'de yer almaktadır. Stresle ilgili belirtiler; fiziksel, duygusal, zihinsel ve sosyal olmak üzere dört grupta\ntoplanabilir. <!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\n\n<figure>\n<figcaption>Şekil 4.3 Stresle ilgili belirtiler</figcaption>\n\nFiziksel\nBelirtiler\n\nDuygusal\nBelirtiler\n\nZihinsel\nBelirtiler\n\nSosyal\nBelirtiler\n\n· Baş ağrısı\n\n· Kaygı veya endişe\n\n· Düzensiz uyku\n\n· Depresyon veya\nçabuk ağlama\n\n· Konsantrasyon ve\nkarar vermede\ngüçlük\n\n· İnsanlara karşı\ngüvensizlik\n\n· Sırt ağrıları\n\n· Başkalarını suçlamak\n\n· Çene kasılması veya\ndiş gıcırdatma\n\n· Ruhsal durumun hızlı\nve sürekli değişmesi\n\n· Unutkanlık\n\n· Zihin karışıklığı\n\n· Randevulara\ngitmemek veya çok\nkısa zaman kala iptal\netmek\n\n· Kabızlık, ishal ve kolit\n\n· Asabilik\n\n· Hafızada zayıflık\n\n· Döküntü\n\n· Gerginlik\n\n· Kas ağrıları\n\n· Özgüven azalması\nveya güvensizlik hissi\n\n· Aşırı derecede hayal\nkurma\n\n· Tek bir fikir veya\ndüşünceyle meşgul\nolma\n\n· İnsanlarda hata\nbulmaya çalışmak ve\nsözle rencide etmek\n\n· Hazımsızlık\n\n· Ülser\n\n· Aşırı hassasiyet veya\nkırılganlık\n\n· Yüksek tansiyon\n\n· Haddinden fazla\nsavunmacı tutum\n\n· Kalp krizi\n\n· Öfke patlamaları\n\n· Mizah anlayışı kaybı\n\n· Saldırganlık veya\ndüşmanlık\n\n· Hatalarda artış\n\n· Birçok kişiye birden\nküs olmak\n\n· Aşırı terleme\n\n· İştahta değişiklik\n\n· Konuşmamak\n\n· Yorgunluk veya enerji\nkaybı\n\n· Duygusal olarak\ntükendiğini hissetme\n\n· Muhakemede\nzayıflama\n\n· Kazalarda artış\n\n</figure>\n\n\nÇalışma merkezindeki bazı hususları düzeltmek, yazılımın göreve uygun olmasını sağlamak,\ngörevleri çalışanın niteliğine ve iş yüküne göre vermek, çalışanın belirli aralıklarla mola\nvermesini sağlamak ve farklı bir çalışma faaliyeti yapmak ile yorgunluk ve stres\nhafifletilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "sağlamak,\ngörevleri çalışanın niteliğine ve iş yüküne göre vermek, çalışanın belirli aralıklarla mola\nvermesini sağlamak ve farklı bir çalışma faaliyeti yapmak ile yorgunluk ve stres\nhafifletilebilir. Şekil 4.4' de yorgunluk ve stresi önlemek için basit adımlar yer almaktadır. <figure>\n<figcaption>Şekil 4.4 Yorgunluk ve stresi önlemek için basit adımlar</figcaption>\n\nÇalışma merkezini size uygun şekilde ayarlayarak rahatlayın! Ekranlı araç kullanımında sık sık düzenli aralar verin:\nyürüyüşe çıkın, masanıza biraz uzanın ya da sadece farklı\nbir çalışma etkinliği yapın! Yazılımınızdan en iyi şekilde yararlanmak için\nyardım isteyin! L\n\n$35\n\n(\n\nSeyahat ederken mobil cihazlara harcadığınız zamanı kısıtlayın! Gerekirse iş yükünü amirinizle görüşün! </figure>\n\n\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "### 4.3.Göz Rahatsızlıkları\n\n\nEkranlı araç kullananlarda sıklıkla görülebilmektedir. Ekranlı araçlarla çalışmak, gözlerde\nkalıcı hasara neden olmaz ancak uzun süre çalışmalar aşağıda belirtilen rahatsızlıklara sebep\nolabilir;\n\n· Gözlerde yorgunluk ve ağrı,\n\n· Rahatsızlık,\n\n· Gözlerde kanlanma, kuruluk, yanma,\n\n· Bulanık görme,\n\n· Geçici (periferal) görüş kaybı,\n\n· Baş ağrısı vb.\n\n\n<figure>\n</figure>\n\n\nGöz rahatsızlıklarına genellikle aşağıda belirtilen durumlar sebep olur;\n\n· Uzun süre boyunca ekranlı araç karşısında ara vermeden çalışmak,\n\n· Ekranlı aracın yanlış konumlandırılması,\n\n· Ekranda ışık yansıması, gözü yoran renkler ve küçük karakterler,\n\n· Zayıf aydınlatma, parlama ve yansıma,\n\n· Ekranda titreyen, gidip gelen görüntü vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "#### V Gözlerin korunması\n\n\nGözlerin korunması için ekranlı araçlarla çalışmaya başlamadan önce yapılan risk\ndeğerlendirmesi sonuçlarına göre işyeri hekimince belirlenecek düzenli aralıklarla ve ekranlı\naraçla çalışmalardan kaynaklanacak göz rahatsızlığı olduğunda çalışanların göz muayeneleri\nyapılmalıdır. Muayene sonuçlarına göre gerekiyorsa çalışanlara yaptıkları işe uygun araç ve\ngereç verilmelidir. Gözlerin korunması için alınacak diğer önlemler aşağıda yer almaktadır:\n\n· Gözlerin korunması için, gözleri en az yoran yazı\nkarakterleri ile renkler seçilmeli ve gözlerin\ndinlendirilmesi için düzenli molalar verilmelidir. <figure>\n\nE\n\nF\n\nP\n\nT\n\nO\n\nZ\n\n</figure>\n\n\n<!-- PageNumber=\"10\" -->\n<!-- PageBreak -->\n\n· Belirli aralıklarla ofisten veya pencereden dışarı bakarak gözler için egzersiz\nyapılmalıdır. Bu basit, yeniden odaklama egzersizi göz yorgunluğunu önlemeye\nyardımcı olur. · Ekranda, açık renk zemin üzerine koyu renk ve uygun büyüklükte yazı karakterleri\nkullanılmalıdır. · Çalışma ortamında, gün ışığından yeterince yararlanılamayan durumlarda, suni ışıkla\nuygun ve yeterli aydınlatma sağlanır. Aydınlatmada, TS EN 12464-1: 2013 ve TS EN\n12464-1.2011: 2012 standartları esas alınır. Çalışma merkezleri için aydınlatma\nekrandan okuma, metnin yazılması, kağıda yazma, klavye çalışması gibi çalışma\nmerkezinde yapılan tüm işler için uygun olmalıdır. Bazı durumlarda klavye ve ekran\nüzerindeki parlama ve yansıma nedeniyle göz kamaşması ortaya çıkabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": ", kağıda yazma, klavye çalışması gibi çalışma\nmerkezinde yapılan tüm işler için uygun olmalıdır. Bazı durumlarda klavye ve ekran\nüzerindeki parlama ve yansıma nedeniyle göz kamaşması ortaya çıkabilir. Bu nedenle\nyüksek parlak yansımalarından kaçınmak için aydınlatma armatürlerini seçmek,\nkonumlandırmak ve düzenlemek gereklidir. · Ekran karşısındayken göz kırpma sayısı azalarak göz kuruluğuna yol açabilir. Sık göz\nkırparak, gerekirse damlalarla takviye yapılarak göz yüzeyi nemlendirilmelidir. · Monitörün üst kenarı göz hizasında, bifokal gözlük kullananlarda ise biraz daha\naşağıda olmalıdır. · Göz ve ekran uzaklığı monitör boyutlarına göre gözü yormayacak şekilde\nayarlanmalıdır. <figure>\n\nYazı karakter yüksekliğine göre yaklaşık olarak uygun ekran mesafeleri;\n\n· 3.2 - 4.5 mm arasındaki karakter yüksekliği için 50 cm uzaklık;\n\n· 3.9 - 5.5 mm arasındaki karakter yüksekliği için 60 cm uzaklık;\n\n· 4.5 - 6.4 mm arasındaki karakter yüksekliği için 70 cm uzaklık;\n\n· 5.2 - 7.3 mm arasındaki karakter yüksekliği için 80 cm uzaklık. </figure>\n\n\nÖrneğin; Microsoft Office'de \"Word\" programı kullanılırken yazı tipi \"Times New Roman\",\nyazı tipi boyutu \"12\" ve sayfa yakınlaştırma düzeyi %100 seçildiğinde, çalışan ile ekran\narasındaki mesafenin yukarıdaki tabloya göre yaklaşık 50 cm olarak ayarlanması uygun\nolacaktır. <!-- PageNumber=\"11\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "## 5. EKRANLI ARAÇLARLA ÇALIŞMALARDA ARANACAK ASGARİ GEREKLER\n\n\nEkranlı araçlarla çalışmalarda ekipman, çalışma ortamı ve operatör-bilgisayar ara yüzü gibi\nhususlara dikkat edilmelidir. Şekil 5.1'de ekranlı araçlarla çalışmalarda dikkat edilecek\nhususlar verilmektedir. <figure>\n<figcaption>Şekil 5.1 Ekranlı araçlarla çalışmalarda dikkat edilecek hususlar</figcaption>\n\n1\n\n2\n\n5\n\n6\n\n7\n\n3\n\n8\n\n9\n\n10\n\n4\n\n11\n\n</figure>\n\n\n1\\. Yeterli aydınlatma,\n\n2\\. Parlama veya rahatsız edici yansımaların engellenmesi,\n\n3\\. Yazıcı, faks makinesi vb. dikkat dağıtıcı gürültünün en aza indirilmesi,\n\n4\\. Bacakları rahat hareket ettirmek için boşluk,\n\n5\\. Parlamayı en aza indirmek için gerekirse perde,\n\n6\\. Yazılım: göreve uygun, kullanıcıya uyarlanmış, yazılım,\n\n7\\. Ekran: ayarlanabilir, okunabilir, sabit görüntü, uygun kontrast ve parlaklık,\n\n8\\. Klavye: kullanılabilir, ayarlanabilir, ayrılabilir, okunaklı,\n\n9\\. Çalışma yüzeyi: ekipman ve araç gereçleri rahat şekilde düzenleyebilecek, ışığı\nyansıtmayan yüzey,\n\n10\\. Ayarlanabilir sandalye,\n\n11\\. Çalışan ihtiyaç duyarsa ayak dayayacak yükseklik. <!-- PageNumber=\"12\" -->\n<!-- PageBreak -->\n\nŞekil 5.2'de, ekranlı araçlarla ayakta çalışırken dikkat edilecek hususlar yer almaktadır. <figure>\n<figcaption>Şekil 5.2 Ekranlı araçlarla ayakta çalışmalarda dikkat edilecek hususlar</figcaption>\n\nEkran-göz mesafesi kol boyu\nuzunluğunda olmalı. Ekranın en üst noktası göz\nseviyesinde veya göz\nseviyesinin hemen altında\nolmalı.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "ı araçlarla ayakta çalışmalarda dikkat edilecek hususlar</figcaption>\n\nEkran-göz mesafesi kol boyu\nuzunluğunda olmalı. Ekranın en üst noktası göz\nseviyesinde veya göz\nseviyesinin hemen altında\nolmalı. Bilekler düz, eller dirsek\nyüksekliğinde ya da altında\nolmalı. Kolun üst kısmı vücuda\nyakın tutulmalı. Klavye ve fare aynı\nyüzeyde olmalı. Masanın yüksekliği dirsek\nyüksekliğinde ya da çok az altında\nolmalı. Baş, boyun, gövde ve bacaklar\naynı hizada olmalı. </figure>\n\n\n1\\. Ayakta durarak çalışırken, omuzların gevşek haldeyken dirsekler 90 dereceye\nbükülerek masanın yüksekliği belirlenir. 2\\. Masa yüksekliği, kolların hemen altına ayarlanır. 3\\. Bacak yorgunluğunu en aza indirmek için, vücut ağırlığının sürekli tek bir bacağa\nyüklenmesini önleyecek şekilde çalışılır. 4\\. Çalışma süresi boyunca duruş düzeltilir. 5\\. Bilgisayarla çalışmaya sık sık ara verilir. 6\\. Düzenli aralıklarla esneme egzersizleri yapılır. <!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\nEkranlı araçlarla çalışmalarda aranacak asgari gerekler Tablo 5.1'de yer almaktadır. Tablo 5.1 Ekranlı araçlarla çalışmalarda aranacak asgari gerekler",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "## EKRANLI ARAÇLARLA ÇALIŞMALARDA ARANACAK ASGARİ GEREKLER\n\n\n\n<table>\n<tr>\n<th>1. EKİPMAN</th>\n<th>ASGARİ GEREKLER</th>\n</tr>\n<tr>\n<td rowspan=\"7\"></td>\n<td>v Ekran, operatörün/çalışanın çalışma pozisyonuna uygun mesafede ☒</td>\n</tr>\n<tr>\n<td>ve göz hizasında olmalıdır.</td>\n</tr>\n<tr>\n<td>v Ekranda görünen karakterler, kolayca seçilir şekil ve formda, ☒</td>\n</tr>\n<tr>\n<td>uygun büyüklükte olmalı, satır ve karakterler arasında yeterli</td>\n</tr>\n<tr>\n<td>☐ boşluk bulunmalıdır.</td>\n</tr>\n<tr>\n<td>v Ekran görüntüsü sabit olmalı, görüntü titrememeli ve benzeri</td>\n</tr>\n<tr>\n<td>olumsuzluklar bulunmamalıdır.</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>v Parlaklık ve karakterler ile arka plan arasındaki kontrast,</td>\n</tr>\n<tr>\n<td>operatör/çalışan tarafından kolaylıkla ayarlanabilmelidir.</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>v Ekran ayarlanabilir olmalı veya ayarlanabilir bir masa üzerinde</td>\n</tr>\n<tr>\n<td>kullanılmalıdır.</td>\n</tr>\n<tr>\n<td></td>\n<td>v Ekranda kullanıcıyı rahatsız edebilecek yansıma ve parlamalar</td>\n</tr>\n<tr>\n<td>MONİTÖR</td>\n<td>olmamalıdır.</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>Ekran görüş alanı, ekranın boyutu ve ekran ile göz arasındaki</td>\n</tr>\n<tr>\n<td>uzaklığa bağlı olarak değişiklik göstermektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "NİTÖR</td>\n<td>olmamalıdır.</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>Ekran görüş alanı, ekranın boyutu ve ekran ile göz arasındaki</td>\n</tr>\n<tr>\n<td>uzaklığa bağlı olarak değişiklik göstermektedir. Pek çok kaynakta</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td>farklı rakamlar verilmekte olup yaklaşık olarak uygun açı</td>\n</tr>\n<tr>\n<td>aralığının 15°-50° olduğu belirtilmektedir.</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Monitörün konumu</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"14\" -->\n<!-- PageBreak -->\n\nv Klavye, operatörün/çalışanın el ve kollarının yorulmaması ve\n☒\n\n☐\nrahatça çalışabilmesi için ekrandan ayrı ve hareketli olmalıdır. ☒\nv Klavyenin ön tarafına, operatörün/çalışanın bileklerini\n☐\ndayayabileceği özel destek konulmalıdır. ☒\nv Operatörün/çalışanın elleri ve kolları için klavyenin önünde\n\nKLAVYE\n\n☐\nyeterli boşluk olmalıdır. v Klavye yüzeyi ışığı yansıtmayacak şekilde mat olmalıdır. ☒\n\nKlavye tuşlarının özellikleri ve yerleri klavye kullanımını\n☒\n\n☐\nkolaylaştıracak şekilde olmalıdır. v Klavye tuşları üzerindeki semboller, çalışma pozisyonuna göre\n☒\n\n☐\nkolaylıkla okunabilir ve seçilebilir nitelikte olmalıdır. Y Kolun aşırı kullanılmasını önlemek için fare kullanıcının\n☒\nvücuduna yakın yerleştirilmelidir. ☒\nv Farenin rahat hareket edebilmesi için farenin çevresinde yeterli\nalan olmalıdır. v Fare klavyenin yanında olmalıdır. ☒\n\nv Bilek düz bir çizgide tutulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "n\n☒\nvücuduna yakın yerleştirilmelidir. ☒\nv Farenin rahat hareket edebilmesi için farenin çevresinde yeterli\nalan olmalıdır. v Fare klavyenin yanında olmalıdır. ☒\n\nv Bilek düz bir çizgide tutulmalıdır. ☒\n\nv Zamanının büyük çoğunluğunda fare kullanan çalışan için bilek\n☒\n\n☐\ndesteği olan bir fare altlığı konforu arttırabilir. FARE\n\n\n<figure>\n<figcaption>El-fare konumu</figcaption>\n</figure>\n\n\n!!! Doğru bir el-fare yerleşimi için klavye ve fare aynı yükseklikte\nolmalı, bilek düz bir çizgide tutulmalıdır !!! <!-- PageNumber=\"15\" -->\n<!-- PageBreak -->\n\n\n<figure>\n</figure>\n\n\n<table>\n<tr>\n<td rowspan=\"8\"></td>\n<td>Yanlış Doğru</td>\n</tr>\n<tr>\n<td>Klavye-fare konumu</td>\n</tr>\n<tr>\n<td>!!! Genel olarak klavyeyi, kullanıcının vücudunun orta çizgisine yakın</td>\n</tr>\n<tr>\n<td>olacak şekilde yerleştirmek önemlidir. Amaç, kolun omuzdan</td>\n</tr>\n<tr>\n<td>uzanıyormuş gibi uzanmasını önlemektir !!!</td>\n</tr>\n<tr>\n<td>!!! Çalışma yüzeyinde kullanılan fare gibi donanımlar için, ön kol veya bilek, çalışma yüzeyi tarafından veya sandalye kolunun dirseği tarafından desteklenebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "nı önlemektir !!!</td>\n</tr>\n<tr>\n<td>!!! Çalışma yüzeyinde kullanılan fare gibi donanımlar için, ön kol veya bilek, çalışma yüzeyi tarafından veya sandalye kolunun dirseği tarafından desteklenebilir. Klavye kullanılıyorsa, farenin klavyeye yakın ve</td>\n</tr>\n<tr>\n<td>☐ kullanıcıya uygun tarafta olacak şekilde konumlandırılması</td>\n</tr>\n<tr>\n<td>gerekmektedir !!!</td>\n</tr>\n<tr>\n<td rowspan=\"2\">ÇALIŞMA MASASI VEYA ÇALIŞMA YÜZEYİ</td>\n<td>v Çalışma masası veya çalışma yüzeyi; ekran, klavye, dokümanlar ☒ ☐ ve diğer ilgili malzemelerin rahat bir şekilde düzenlenebilmesine</td>\n</tr>\n<tr>\n<td>☐ olanak sağlayacak şekilde, yeterli büyüklükte ve ışığı ☐ yansıtmayacak nitelikte olmalıdır. v Operatörü/çalışanı rahatsız eden göz ve baş hareketlerini en aza ☒ indirecek şekilde yerleştirilmiş ve ayarlanabilir özellikte doküman ☐ tutucu kullanılmalıdır. v Çalışanın rahat bir pozisyonda olması için yeterli alan olmalıdır. ☒</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\n\n<figure>\n</figure>\n\n\n<table>\n<tr>\n<th rowspan=\"2\"></th>\n<th colspan=\"3\">Çalışma masası ve çalışma yüzeyi</th>\n</tr>\n<tr>\n<th colspan=\"3\">!!! Klavye, fare, yazı ve okuma alanı; dirsekler bitişik, eller açılmış durumda iken, dirseği masadan kaldırmadan çizilen yayın içinde olmalıdır. Telefon, ofis vb.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "zeyi</th>\n</tr>\n<tr>\n<th colspan=\"3\">!!! Klavye, fare, yazı ve okuma alanı; dirsekler bitişik, eller açılmış durumda iken, dirseği masadan kaldırmadan çizilen yayın içinde olmalıdır. Telefon, ofis vb. ekipmanlar kolla erişilebilirlik sınırı içinde bulunmalıdır !!!</th>\n</tr>\n<tr>\n<td rowspan=\"4\"></td>\n<td colspan=\"3\">v Sandalye dengeli ve operatörün/çalışanın rahat bir pozisyonda oturabileceği ve kolaylıkla hareket edebileceği şekilde olmalıdır.</td>\n</tr>\n<tr>\n<td colspan=\"3\">v Oturma yerinin yüksekliği ayarlanabilir olmalıdır.</td>\n</tr>\n<tr>\n<td colspan=\"3\">v Sırt dayama yeri öne-arkaya ve yukarı-aşağı ayarlanabilir, sırt desteği bele uygun ve esnek olmalıdır.</td>\n</tr>\n<tr>\n<td colspan=\"2\">v İstendiğinde operatöre/çalışana uygun bir sağlanmalıdır.</td>\n<td>ayak desteği</td>\n</tr>\n<tr>\n<td>ÇALIŞMA SANDALYESİ</td>\n<td></td>\n<td colspan=\"2\">Diz Yüksekliği Oturma Yüzeyi Derinliği Sırt Desteği Dirsek Hizası Çalışma sandalyesi</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th rowspan=\"11\"></th>\n<th colspan=\"3\"></th>\n</tr>\n<tr>\n<th colspan=\"3\">☒ Y Ayakta dururken oturma yeri diz kapağı seviyesinde olmalı</th>\n</tr>\n<tr>\n<td colspan=\"2\">☒ ( Ağırlık eşit dağılmalı</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">☒ / Diz arkasına baskı olmamalı</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">☒ / Sırt desteğine izin verecek derinlik bulunmalı</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">9 1 8 1</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"4\">2 10 6 3 4 5</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">Tipik duruş ve oturuş şekli</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td colspan=\"3\">Ekranlı araçlarla çalışanlar için tipik duruş ve oturuş şeklinde;</td>\n</tr>\n<tr>\n<td colspan=\"3\">1.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": ">\n<td colspan=\"3\">Tipik duruş ve oturuş şekli</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td colspan=\"3\">Ekranlı araçlarla çalışanlar için tipik duruş ve oturuş şeklinde;</td>\n</tr>\n<tr>\n<td colspan=\"3\">1. Koltuk arkalığı ayarlanabilir olmalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">2. Bel desteği sağlanmalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">3. Koltuk yüksekliği ayarlanmalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">4. Dizlerde aşırı baskı olmamalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">5. Gerekirse ayak desteği sağlanmalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">6. Masanın altında engel olmamalıdır,</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">7. Ön kollar yataya yaklaşık şekilde durmalıdır,</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td colspan=\"3\">8. Bileklerde ekstansiyon, fleksiyon veya deviasyon minimum</td>\n</tr>\n<tr>\n<td colspan=\"3\">olmalıdır,</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n\n<figure>\n</figure>\n\n\n<table>\n<tr>\n<td></td>\n<td>Fleksiyon ve deviasyon sonu deforme olmuş bilek 9. Ekran yüksekliği ve açısı rahat bir baş pozisyonu sağlamalıdır, 10. Klavyenin önünde boşluk bulunmalıdır.</td>\n</tr>\n<tr>\n<td>2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": ">\n<tr>\n<td></td>\n<td>Fleksiyon ve deviasyon sonu deforme olmuş bilek 9. Ekran yüksekliği ve açısı rahat bir baş pozisyonu sağlamalıdır, 10. Klavyenin önünde boşluk bulunmalıdır.</td>\n</tr>\n<tr>\n<td>2. ÇALIŞMA ORTAMI</td>\n<td>ASGARİ GEREKLER</td>\n</tr>\n<tr>\n<td>GEREKLİ ALAN</td>\n<td>v Operatörün/çalışanın oturma şeklini değiştirebilmesi ve rahatça ☒ hareket edebilmesi için çalışma merkezi yeterli genişlikte olmalı ve uygun şekilde düzenlenmelidir.</td>\n</tr>\n<tr>\n<td rowspan=\"2\">AYDINLATMA İLE YANSIMA VE PARLAMA</td>\n<td>v Uygun aydınlatma şartları sağlanmalı ve arka planla ekran ☒ arasında uygun kontrast bulunmalıdır. v Yapay aydınlatma kaynaklarının yeri ile teknik özellikleri ☒ ekrandaki ve diğer ekipman üzerindeki parlama ve yansımaları önleyecek şekilde olmalıdır.</td>\n</tr>\n<tr>\n<td>v Ekrana gelen gün ışığının kontrol edilebilmesi için yatay ve dikey ☒ ayarlanabilir perdeler kullanılmalıdır. v Dışardan gelen ışıktan ☒ olumsuz etkilenmemek için çalışma masası, pencereden gelen ışığı yandan alacak şekilde konumlandırılmalıdır. Yansıma ve parlama</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"19\" -->\n\n\n<figure>\n</figure>\n\n\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td rowspan=\"3\">GÜRÜLTÜ, ISI VE NEM</td>\n<td>v Çalışma merkezlerinde kullanılan ☒</td>\n<td>ekipmanın</td>\n<td>gürültüsü</td>\n</tr>\n<tr>\n<td colspan=\"3\">çalışanların dikkatini dağıtmayacak ve karşılıklı konuşmayı engellemeyecek düzeyde olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "v Çalışma merkezlerinde kullanılan ☒</td>\n<td>ekipmanın</td>\n<td>gürültüsü</td>\n</tr>\n<tr>\n<td colspan=\"3\">çalışanların dikkatini dağıtmayacak ve karşılıklı konuşmayı engellemeyecek düzeyde olmalıdır. v Çalışma ortamında ısı ve nem, uygun düzeyde tutulmalı, çalışanı ☒</td>\n</tr>\n<tr>\n<td colspan=\"3\">rahatsız etmemeli ve bu düzey korunmalıdır.</td>\n</tr>\n<tr>\n<td rowspan=\"2\">3. OPERATÖR- BİLGİSAYAR ARAYÜZÜ</td>\n<td colspan=\"3\">ASGARİ GEREKLER</td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">v Programlar, işe uygun olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "rowspan=\"2\">3. OPERATÖR- BİLGİSAYAR ARAYÜZÜ</td>\n<td colspan=\"3\">ASGARİ GEREKLER</td>\n</tr>\n<tr>\n<td colspan=\"2\"></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"3\">v Programlar, işe uygun olmalıdır. ☒ v Programların kolay kullanılabilir ve eğer uygunsa operatörün ☒ bilgi düzeyine ve deneyimine göre ayarlanabilir olması sağlanmalıdır.</td>\n</tr>\n<tr>\n<td rowspan=\"7\">OPERATÖR- BİLGİSAYAR ARAYÜZÜ</td>\n<td colspan=\"3\">v Sistemler, çalışanların verimini artıracak ve kolaylık sağlayacak ☒</td>\n</tr>\n<tr>\n<td colspan=\"2\">şekilde geri beslemeli olmalıdır.</td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"3\">v Sistemler operatöre uygun hız ve formatta bilgi verecek şekilde</td>\n</tr>\n<tr>\n<td colspan=\"3\">olmalıdır.</td>\n</tr>\n<tr>\n<td colspan=\"3\">v Programlar, özellikle verilerin algılanması ve kullanılması ☒</td>\n</tr>\n<tr>\n<td colspan=\"3\">konusunda yazılımın kullanıcının çalışma performansını mümkün</td>\n</tr>\n<tr>\n<td colspan=\"3\">olduğu kadar olumlu etkileyecek özelliklere sahip olması anlamına gelen yazılım ergonomisi prensiplerine uygun olmalıdır.</td>\n</tr>\n</table>\n\n\nBu rehber kapsamında ekranlı araçlarla çalışmalarda karşılaşılabilecek tehlike ve risklerin\nbelirlenmesinde dikkat edilecek hususlar ve tespit edilen risklere ilişkin alınacak önlemlerin\nbaşlıcaları işveren, çalışan ve İSG profesyonellerine yol gösterici olması amacıyla örnek\nniteliğinde bir kontrol listesinde toplanmıştır. Tablo 5.2'de bu kontrol listesi yer almaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "ak önlemlerin\nbaşlıcaları işveren, çalışan ve İSG profesyonellerine yol gösterici olması amacıyla örnek\nniteliğinde bir kontrol listesinde toplanmıştır. Tablo 5.2'de bu kontrol listesi yer almaktadır. <!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\n\n<table>\n<caption>Tablo 5.2 Ekranlı araçlarla çalışmalarda kontrol listesi</caption>\n<tr>\n<th colspan=\"4\">EKRANLI ARAÇLARLA ÇALIŞMALARDA KONTROL LİSTESİ</th>\n</tr>\n<tr>\n<th>Risk Faktörleri</th>\n<th>Evet</th>\n<th>Hayır</th>\n<th>Dikkat Edilecek Hususlar/ Alınacak Önlemler</th>\n</tr>\n<tr>\n<td colspan=\"4\">1. EKRANLI ARAÇLAR</td>\n</tr>\n<tr>\n<td>Karakterler net ve okunabilir mi?</td>\n<td></td>\n<td></td>\n<td>Ekranın temiz olduğundan ve işyerinde uygun temizlik malzemelerinin bulundurulduğundan emin olun. Metin ve arka plan renklerinin uygun olup olmadığını kontrol edin.</td>\n</tr>\n<tr>\n<td>Yazı boyutu okumaya uygun mu?</td>\n<td></td>\n<td></td>\n<td>Yazı boyutu ile ilgili yazılımsal bir sorun varsa, bunun giderilmesi için destek alınmalıdır.</td>\n</tr>\n<tr>\n<td>Görüntü sabit ve</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"4\"></td>\n<td rowspan=\"2\">Görüntünün titremesi, ekran renginden kaynaklı olabilir. Bu durumda, titremeyi azaltmak için farklı ekran renkleri kullanmayı deneyin. Örneğin, açık</td>\n</tr>\n<tr>\n<td>titreşimsiz mi?</td>\n</tr>\n<tr>\n<td rowspan=\"2\">İş Sağlığı ve Güvenliği ☒ İş Sağlığı ve Güvenliği ☒</td>\n<td rowspan=\"2\"></td>\n<td>arka plan ve koyu renk metin, monitörün yenileme</td>\n</tr>\n<tr>\n<td>oranını artırır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "/td>\n</tr>\n<tr>\n<td rowspan=\"2\">İş Sağlığı ve Güvenliği ☒ İş Sağlığı ve Güvenliği ☒</td>\n<td rowspan=\"2\"></td>\n<td>arka plan ve koyu renk metin, monitörün yenileme</td>\n</tr>\n<tr>\n<td>oranını artırır. Böylece daha net ve düzgün bir görüntü elde edilir. Sorun çözülmüyorsa bir uzmana danışmak gerekebilir.</td>\n</tr>\n<tr>\n<td>Ekran özellikleri kullanım amacına uygun mu?</td>\n<td></td>\n<td></td>\n<td>Örneğin, yoğun grafik çalışması veya küçük ayrıntılara dikkat gerektiren çalışmalarda büyük ekranlar gerekebilir.</td>\n</tr>\n<tr>\n<td>Parlaklık ve kontrast ayarı mevcut mu?</td>\n<td></td>\n<td></td>\n<td>Kullanıcı ekranı kolayca okuyabiliyor ve rahatsızlık duymuyorsa ek bir ayarlama yapmaya gerek yoktur.</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td rowspan=\"2\">Ekran dönebilir ve eğilebilir mi?</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td>Çalışan ekranını rahat bir konuma getirmekte zorluk yaşıyorsa ve ekranın dönme ve eğilme özelliği yoksa, ekranın bu özelliğe sahip olanla değiştirilmesi gerekebilir.</td>\n</tr>\n<tr>\n<td>Ekranın yüksekliği kabaca göz seviyesinde olmalıdır. Bir LCD ekran alırken ayarlanabilir olduğundan emin olun. Eğer bu sağlanamıyorsa bir monitör standı kullanmak gerekebilir. Eğer dizüstü bilgisayar kullanılıyorsa, ekran için yükseltici aparat kullanılması uygun olacaktır.</td>\n</tr>\n<tr>\n<td>Ekran parlama ve yansımalara karşı korumalı mı?</td>\n<td></td>\n<td></td>\n<td>Yansımanın kaynağını bulun.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "kullanılıyorsa, ekran için yükseltici aparat kullanılması uygun olacaktır.</td>\n</tr>\n<tr>\n<td>Ekran parlama ve yansımalara karşı korumalı mı?</td>\n<td></td>\n<td></td>\n<td>Yansımanın kaynağını bulun. Ekranı, hatta masayı hareket ettirmeniz ve/veya ekranı yansımaların kaynağından korumanız gerekebilir. Açık bir arka plan üzerinde koyu karakterler kullanan ekranlar, parlama ve yansımaya daha az eğilimlidir.</td>\n</tr>\n<tr>\n<td>Ekran kullanıcıya dönük mü?</td>\n<td></td>\n<td></td>\n<td>Ekranı kullanıcının tam önüne gelecek şekilde ayarlayın.</td>\n</tr>\n<tr>\n<td>Çalışma ortamındaki pencerelerin ayarlanabilir perdeleri mevcut mu?</td>\n<td></td>\n<td></td>\n<td>Perde/panjur vb. malzemelerin sağlam ve kullanılabilir vaziyette olduğunu kontrol edin. Değilse, uygun olanla değiştirin. Bu önlemler işe yaramazsa parlama önleyici ekran filtreleri hakkında bilgi alın ve uygun olan filtreleri temin ederek kullanın.</td>\n</tr>\n<tr>\n<td colspan=\"4\">2.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "in. Değilse, uygun olanla değiştirin. Bu önlemler işe yaramazsa parlama önleyici ekran filtreleri hakkında bilgi alın ve uygun olan filtreleri temin ederek kullanın.</td>\n</tr>\n<tr>\n<td colspan=\"4\">2. KLAVYELER</td>\n</tr>\n<tr>\n<td>Klavye ekrandan ayrı mı?</td>\n<td></td>\n<td></td>\n<td>Taşınabilir bilgisayar kullanılmadığı sürece bu bir gerekliliktir.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>Klavye eğimli olabiliyor mu?</td>\n<td></td>\n<td></td>\n<td>Klavyede eğimli olabilme özelliği bulunması, bileğin rahat hareketini sağlar.</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Tuşlara rahat bir şekilde basmak için uygun bir pozisyon</td>\n<td rowspan=\"3\"></td>\n<td rowspan=\"3\"></td>\n<td>Klavyenin kendisine, ellere ve bileklere daha fazla yer açmak için ekranı daha da geriye itmeyi deneyin. Dirsekleri vücuda yakın tutun, kolları fazla germeyin.</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>mevcut mu?</td>\n<td>Kalın ve yüksek klavyelerin kullanıcılarının ince ve alçak klavye kullanıcılarına göre bileklerini daha fazla dinlendirmeye ihtiyacı olabilir.</td>\n</tr>\n<tr>\n<td>Kullanıcının iyi bir klavye tekniği var mı?</td>\n<td></td>\n<td></td>\n<td>Doğru teknikle klavye kullanmak, ellerin bükülmesini, tuşların çok sert basılarak kullanılmasını ve parmakların fazla gerilmesini engelleyebilir.</td>\n</tr>\n<tr>\n<td>Tuşlardaki karakterler kolayca okunabilir durumda mı?</td>\n<td></td>\n<td></td>\n<td>Klavyeler temiz tutulmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "rak kullanılmasını ve parmakların fazla gerilmesini engelleyebilir.</td>\n</tr>\n<tr>\n<td>Tuşlardaki karakterler kolayca okunabilir durumda mı?</td>\n<td></td>\n<td></td>\n<td>Klavyeler temiz tutulmalıdır. Karakterler hala okunamıyorsa, klavyenin veya tuşların değiştirilmesi gerekebilir. Parlamayı ve / veya yansımayı azaltmak için mat kaplamalı bir klavye kullanın.</td>\n</tr>\n<tr>\n<td colspan=\"4\">3. FARE</td>\n</tr>\n<tr>\n<td>Cihaz kullanım amacına uygun mu?</td>\n<td rowspan=\"2\"></td>\n<td></td>\n<td>Kullanıcı sorun yaşıyorsa, farklı bir cihaz deneyin. Bu cihazlar, birçok iş için çeşitli şekil ve boyutlarda bulunabilen genel amaçlı cihazlardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "na uygun mu?</td>\n<td rowspan=\"2\"></td>\n<td></td>\n<td>Kullanıcı sorun yaşıyorsa, farklı bir cihaz deneyin. Bu cihazlar, birçok iş için çeşitli şekil ve boyutlarda bulunabilen genel amaçlı cihazlardır. Ancak dokunmatik ekranlar gibi alternatif cihazlar bazı görevler için daha iyi olabilir.</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Farenin kullanıcıya uyacak şekilde ayarlanıp ayarlanmadığını kontrol edin (sağ veya sol kullanıcı için).</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<th rowspan=\"2\">Cihaz kullanıcıya yakın mı</th>\n<th rowspan=\"2\"></th>\n<th rowspan=\"2\"></th>\n<th colspan=\"2\">Çoğu cihaz için en iyi yerleştirme, mümkün olduğunca kullanıcının yakınına ve klavyenin hemen yanına olan pozisyondur.</th>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"2\">yerleştirilmiş?</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td colspan=\"2\">Çalışma sırasında kolların rahat ve bileklerin düz</td>\n</tr>\n<tr>\n<td>bir şekilde kullanılabilmesi bilgilendirilmeleri gerekebilir.</td>\n<td>için kullanıcıların</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"5\"></td>\n<td>Masanın kendi yüzeyi değerlendirilebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "ılabilmesi bilgilendirilmeleri gerekebilir.</td>\n<td>için kullanıcıların</td>\n</tr>\n<tr>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"5\"></td>\n<td>Masanın kendi yüzeyi değerlendirilebilir. Ancak</td>\n<td>destek olarak uygun olmuyorsa</td>\n</tr>\n<tr>\n<td colspan=\"2\">yumuşak dokulu ayrı bir destek kullanılmalıdır.</td>\n</tr>\n<tr>\n<td>Kullanıcının bileği ve kolunun ön kısmı</td>\n<td rowspan=\"3\"></td>\n<td>Kullanıcı, fare ile rahat bir bulabilmelidir.</td>\n<td>çalışma pozisyonu</td>\n</tr>\n<tr>\n<td rowspan=\"2\">için destek mevcut mu?</td>\n<td rowspan=\"2\"></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td rowspan=\"2\">Fare, kullanıcıya uygun hızda ve sorunsuz çalışıyor mu?</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td colspan=\"2\">Herhangi bir temizlik gerekip gerekmediğini kontrol edin.</td>\n</tr>\n<tr>\n<td colspan=\"2\">Çalışma yüzeyinin uygun olup olmadığını kontrol edin. Bir fare matı gerekebilir.</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Kullanıcı, farenin hızı ve doğruluğu için yazılım</td>\n<td rowspan=\"3\"></td>\n<td rowspan=\"3\"></td>\n<td colspan=\"2\">Kullanıcıların fare ayarlarını yapabilmeleri için</td>\n</tr>\n<tr>\n<td colspan=\"2\">eğitim almaları gerekebilir.</td>\n</tr>\n<tr>\n<td>ayarlarını kolayca yapabilir mi?</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"5\">4.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "e ayarlarını yapabilmeleri için</td>\n</tr>\n<tr>\n<td colspan=\"2\">eğitim almaları gerekebilir.</td>\n</tr>\n<tr>\n<td>ayarlarını kolayca yapabilir mi?</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"5\">4. YAZILIM</td>\n</tr>\n<tr>\n<td>Yazılım, yapılacak iş için uygun mu?</td>\n<td></td>\n<td rowspan=\"2\"></td>\n<td>Yazılım, kullanıcı dostu olup, yerine getirmesine, stresi yardımcı olmalıdır.</td>\n<td>kullanıcının görevi en aza indirmesine</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td colspan=\"2\">Kullanıcıların yazılımı kullanma konusunda uygun eğitim aldıklarını kontrol edin.</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"24\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td colspan=\"4\">5. MOBİLYA</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Çalışma yüzeyi gerekli tüm ekipman, kağıt vb. için yeterince büyük mü?</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td>Yazıcı, faks vb. malzemeleri başka bir yere taşıyarak daha fazla yer açın. Kağıtlar ve belgeler için çok katlı evrak rafları veya dolap kullanın.</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Kullanıcı, kullanması gereken tüm ekipman, doküman vb. malzemelere rahatça ulaşabilir mi?</td>\n<td></td>\n<td></td>\n<td>Sık kullanılan materyalleri (ekipman, kağıt vb.) kolayca erişebileceğiniz bir yere yerleştirin.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "lanması gereken tüm ekipman, doküman vb. malzemelere rahatça ulaşabilir mi?</td>\n<td></td>\n<td></td>\n<td>Sık kullanılan materyalleri (ekipman, kağıt vb.) kolayca erişebileceğiniz bir yere yerleştirin. Rahatsızlık veren baş ve göz hareketlerini en aza indirecek şekilde yerleştirilmiş bir doküman tutucu gerekebilir.</td>\n</tr>\n<tr>\n<td>Yüzeyler parlama ve yansıma oluşturuyor mu?</td>\n<td></td>\n<td></td>\n<td>Yansımayı ve parlamayı önleyici matlar kullanın.</td>\n</tr>\n<tr>\n<td>Sandalye kullanıcı için uygun mu?</td>\n<td></td>\n<td></td>\n<td>Kullanıcı rahatsız oluyorsa sandalyenin değiştirilmesi gerekebilir.</td>\n</tr>\n<tr>\n<td>Sandalyenin koltuk yüksekliği, koltuk sırt yüksekliği ve yatırma ayarı var mı? Döner mekanizmaya ve tekerleklere sahip mi?</td>\n<td></td>\n<td></td>\n<td>Sandalyenin ayar mekanizmaları arızalıysa sandalyenin onarılması veya değiştirilmesi gerekebilir.</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\n<figure>\n</figure>\n\n\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Kullanıcı sandalye ayarlarını bilmelidir. Sandalye yüksekliğini klavyedeki G ve H tuşlarına basarken, dirseklerle 90 derece ve masadan 2 cm yükseklikte olacak şekilde ayarlayın.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "td></td>\n<td></td>\n<td>Kullanıcı sandalye ayarlarını bilmelidir. Sandalye yüksekliğini klavyedeki G ve H tuşlarına basarken, dirseklerle 90 derece ve masadan 2 cm yükseklikte olacak şekilde ayarlayın. Kullanıcı rahatça oturarak çalışmalarını yapabilmelidir.</td>\n</tr>\n<tr>\n<td>Sandalye doğru ayarlandı mı?</td>\n<td></td>\n<td></td>\n<td>Gerekliyse, çalışırken uygun duruşları nasıl alacağı konusunda kullanıcıyı eğitin.</td>\n</tr>\n<tr>\n<td>Masa uygun mu?</td>\n<td></td>\n<td></td>\n<td>Sandalyelerin kolları kullanıcının ekipmanı rahatça kullanacak kadar ekipmana yakınlaşmasını önleyebilir. Kolçaksız veya alternatif olarak ayarlanabilir kolçaklı sandalyeleri kullanabilirsiniz. Masanın altında engel olabilecek malzemeleri kaldırın. Rahat çalışabilmek için uygun bacak uzatma mesafesi sağlayın. Eğer gerekliyse çalışanın ayağının altına yükseltici konabilir.</td>\n</tr>\n<tr>\n<td>Kullanıcının beli sandalyenin sırt desteği ile destekleniyor mu?</td>\n<td></td>\n<td></td>\n<td>Kullanıcının sırtı daima düz durmalı, omuzları rahat bir konumda olacak şekilde sandalye tarafından desteklenmelidir.</td>\n</tr>\n<tr>\n<td>Kullanıcının kollarının ön kısmı yatay vaziyette ve gözleri ekranın en üstü ile aynı seviyede mi?</td>\n<td></td>\n<td></td>\n<td>Kullanıcının kollarını doğru konuma getirmek için koltuk yüksekliğini ayarlayın. Gerekirse monitör yüksekliğini/eğimini ayarlayın.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td colspan=\"4\">6.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "onuma getirmek için koltuk yüksekliğini ayarlayın. Gerekirse monitör yüksekliğini/eğimini ayarlayın.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td colspan=\"4\">6. ORTAM</td>\n</tr>\n<tr>\n<td>Çalışanın pozisyonunu</td>\n<td></td>\n<td></td>\n<td>Hareket edebilmek, vücudu esnetebilmek ve kıpırdayabilmek için boş alan gerekmektedir.</td>\n</tr>\n<tr>\n<td>değiştirebileceği veya rahat hareket edebileceği bir alan mevcut mu?</td>\n<td></td>\n<td></td>\n<td>İhtiyaç halinde ofis düzenini yeniden organize ederek engelleri kontrol edin. Kablolar düzenli olmalı ve takılıp düşmelere karşı düzgün yerleştirilmelidir.</td>\n</tr>\n<tr>\n<td>Aydınlatma yeterli mi? Örneğin, rahat çalışabilmek için çok parlak veya çok loş olmamalıdır.</td>\n<td></td>\n<td></td>\n<td>Çalışma ortamında doğal aydınlatmanın yeterli olup olmadığını kontrol edin. Çalışanlar aydınlatma seviyesini kendileri kontrol edebilmelidir. (Örneğin, pencere panjurları veya elektrik anahtarları vb.) Gerekirse ışık kaynaklarını gölgelendirin veya yeniden konumlandırın. Yüzeyde parlama oluşturmayacağından emin olduğunuz masa lambaları kullanabilirsiniz</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Ortam havası uygun mu?</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td>Ekranlı araçlar ve diğer ekipmanlar çalışma ortam havasını kurutur. Yeşil bitkiler ortam havasının tekrar nemlenmesine yardımcı olur.</td>\n</tr>\n<tr>\n<td>Mümkünse temiz hava sirkülasyonu sağlayın.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "<td>Ekranlı araçlar ve diğer ekipmanlar çalışma ortam havasını kurutur. Yeşil bitkiler ortam havasının tekrar nemlenmesine yardımcı olur.</td>\n</tr>\n<tr>\n<td>Mümkünse temiz hava sirkülasyonu sağlayın. Son çare olarak eğer rahatsızlık geçmiyorsa ortam nemlendirici ekipman kullanın.</td>\n</tr>\n<tr>\n<td>Ortam ısısı uygun mu?</td>\n<td></td>\n<td></td>\n<td>Isıtma kontrol edilebilir şekilde olmalıdır. Eğer ortamda pek çok elektronik ekipman varsa havalandırma veya klima kullanmak gerekebilir. Mümkünse çalışanlar ısı kaynağından uzakta çalışmalıdır.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->\n\n\n<table>\n<tr>\n<td>Gürültü seviyesi uygun mu?</td>\n<td></td>\n<td></td>\n<td>Gürültü kaynağını uzaklaştırmaya çalışın. Örneğin, yazıcıları çalışanlardan uzak bir yere yerleştirin. Eğer gerekliyse ses geçirmezlik için izolasyon sağlayın.</td>\n</tr>\n<tr>\n<td>İyonize olmayan radyasyon ve elektromanyetik alan seviyeleri uygun mu?</td>\n<td></td>\n<td></td>\n<td>Cihaz alırken varsa üreticiden ilgili değerler istenebilir ve bu değerler mevzuat veya standartlarla karşılaştırılabilir. Mevcut cihazların yayılım değerleri yüksek ise daha az yayılım yapan cihazlarla değiştirilebilir.</td>\n</tr>\n<tr>\n<td colspan=\"4\">7. ELEKTRİK</td>\n</tr>\n<tr>\n<td>Kullanıcı olarak, ekipmanın</td>\n<td rowspan=\"4\"></td>\n<td rowspan=\"4\"></td>\n<td rowspan=\"3\">Cihazın yeri değiştiğinde kontrollerini yapın.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": ">\n</tr>\n<tr>\n<td colspan=\"4\">7. ELEKTRİK</td>\n</tr>\n<tr>\n<td>Kullanıcı olarak, ekipmanın</td>\n<td rowspan=\"4\"></td>\n<td rowspan=\"4\"></td>\n<td rowspan=\"3\">Cihazın yeri değiştiğinde kontrollerini yapın. Herhangi bir arıza veya önemli aşınma ve yıpranma en kısa sürede rapor edilmeli ve onarılmalıdır.</td>\n</tr>\n<tr>\n<td>erişilebilir</td>\n</tr>\n<tr>\n<td>kısımlarını, kablo, fiş ve uzatma kablosu</td>\n</tr>\n<tr>\n<td>gibi aparatlarını görsel olarak incelediniz mi?</td>\n<td>Arızalıysa hiçbir ekipmanı kullanmayın. Kullanımdan çıkartın ve üzerine 'KULLANMAYIN - EKİPMAN HATASI' gibi bir etiket yapıştırın.</td>\n</tr>\n<tr>\n<td>Elektrikli ekipmanların düzenli olarak bakımları yapılıyor mu?</td>\n<td></td>\n<td></td>\n<td>Ekipmanların orijinal servislerinde bakımlarının yapıldığından emin olun. Ekipmanın üzerinde son servis tarihini belirten bir etiket olduğunu kontrol edin.</td>\n</tr>\n<tr>\n<td>Çoklu priz</td>\n<td rowspan=\"2\"></td>\n<td rowspan=\"2\"></td>\n<td>Çoklu priz kullanırken gerilim koruması olduğundan emin olun.</td>\n</tr>\n<tr>\n<td>kullanılıyor mu?</td>\n<td>Çoklu prizlere bir başka çoklu priz takılmamasını sağlayın.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "### 6. KAYNAKLAR\n\n\nEkranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik\n\n☒\n(Resmi Gazete Tarihi: 16.04.2013, Resmi Gazete Sayısı: 28620)\n\nv İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği\n☒\n(Resmi Gazete Tarihi: 29.12.2012, Resmi Gazete Sayısı: 28512)\n\n☒\nv Ulucan, H. F. Zeyrek, S. (2012), Ofislerde İş Sağlığı ve Güvenliği, Ankara, İş Sağlığı\nve Güvenliği Enstitüsü Müdürlüğü\n\n☒\nY A health guide on working with display screen equipment, September 2009,\nOccupational Safety and Health Branch, Hong Kong\n\nV Work with display screen equipment, Helath and Safety Executive, İngiltere, 2003\n☒\n\n/ https://www3.rgu.ac.uk/about/health-and-safety/health-and-safety-index/display-\n☒\nscreen-equipment-dse-and-workstations\n\n/ https://www.monash.edu/ohs/info-docs/safety-topics/ergonomics/sit-stand-desks\n☒\n\nv Display ScreenEquipment at work approved code of practice, Employment and soial\n☒\nsecurity department, Jersey 1998\n\nv Ofis Ergonomisi, Bursa Halk Sağlığı Müdürlüğü Çalışan Sağlığı Şubesi\n☒\n\nv Ofis Ergonomisi, Dr. Cavit Işık Yavuz\n☒\n\nV Aytaç, S. (2009). İş Stresi Yönetimi El Kitabı İş Stresi: Oluşumu, Nedenleri, Başa\n☒\nÇıkma Yolları, Yönetimi. v https://www.dguv.de/ifa/praxishilfen/innenraumarbeitsplaetze/arbeitsplatz/arbeitsplat\n☒\n\nzgestaltung/index-2.jsp\n\n☒\nv Braham, B. J. (1998). Stres Yönetimi. Ateş Altında Sakin Kalabilmek. (Çev .: Vedat G. Diker).",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "v İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": ".dguv.de/ifa/praxishilfen/innenraumarbeitsplaetze/arbeitsplatz/arbeitsplat\n☒\n\nzgestaltung/index-2.jsp\n\n☒\nv Braham, B. J. (1998). Stres Yönetimi. Ateş Altında Sakin Kalabilmek. (Çev .: Vedat G. Diker). Hayat Yayınları, İstanbul\n\nV Türk Standartları Enstitüsü, TS EN 12464-1, Işık ve Aydınlatma - Çalışma Yerlerinin\n☒\n\nAydınlatılması - Bölüm 1: Kapalı Çalışma Alanları, Ankara, 2013\n\n<!-- PageNumber=\"29\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "source_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "document_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "ekranlı-araçlarla-çalışmalarda-iş-sağlığı-ve-güvenliği-rehberi.pdf",
+        "guide_title": "Ekranlı Araçlarla Çalışmalarda Iş Sağlığı Ve Güvenliği Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 49,
+        "processed_at": "2026-02-12T04:08:54.101000"
+      }
+    }
+  ]
+}

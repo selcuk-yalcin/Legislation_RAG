@@ -1,0 +1,159 @@
+"""
+🎯 KAYNAK AYRIŞTIRMA ÇÖZÜLMESİ - ÖZET
+═══════════════════════════════════════════════════════════════════════════
+
+## ✅ YAPILAN DEĞİŞİKLİKLER
+
+### 1. `rag_pipeline.py` - Kaynak Tipine Göre Context Oluşturma
+
+**Eski Durum:**
+- Tüm kaynaklar (documents + guides) tek bir context'e karıştırılıyordu
+- LLM, farklı kaynak tiplerini ayırt edemiyordu
+- Mevzuat ve rehber bilgileri sentezleniyordu
+
+**Yeni Durum:**
+- Kaynaklar iki gruba ayrılıyor:
+  * 🏛️ MEVZUAT KAYNAKLARI (documents collection)
+  * 📚 REHBER KAYNAKLARI (guides collection)
+- Her grup ayrı başlık altında context'e ekleniyor
+- LLM, kaynak tipini görerek uygun formatta yanıt veriyor
+
+### 2. Prompt Güncellemesi
+
+**Yeni Talimatlar:**
+- Mevzuat kaynaklarını AYNEN alıntıla (kelime değiştirme)
+- Rehber kaynaklarını öneri niteliğinde sun
+- Her bilgi için kaynak tipini belirt (🏛️ veya 📚)
+
+**Yanıt Formatı:**
+```
+**🏛️ Mevzuat Hükmü:**
+İşveren, işyerinde mevcut riskleri belirlemeli ve bu risklere yönelik 
+önlemler almalıdır [6331 Sayılı İş Sağlığı ve Güvenliği Kanunu].
+
+**📚 Uygulama Önerisi:**
+KOBİ'lerde çalışanların düzenli eğitim alması sağlanmalı ve 
+bilgilendirilmelidir [Tekstil Sektörü İsg Rehberi].
+```
+
+### 3. `_format_sources()` Metodu Güncellemesi
+
+**Özellikler:**
+- Kaynaklar iki ayrı bölümde gösteriliyor
+- Mevzuat kaynakları: "💬 Alıntı:"
+- Rehber kaynakları: "💡 Öneri:"
+- Kullanıcı hangi bilginin nereden geldiğini net görebiliyor
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 📋 TEST SENARYOLARI
+
+### Test 1: Mevzuat + Rehber Karışık Soru
+**Soru:** "KOBİ'lerde İSG için neler yapılmalı?"
+
+**Beklenen Sonuç:**
+- Mevzuat kaynakları ayrı bölüm (🏛️)
+- Rehber kaynakları ayrı bölüm (📚)
+- Mevzuattan gelen bilgiler aynen alıntılanmış
+- Rehberlerden gelen bilgiler öneri formatında
+
+### Test 2: Sadece Mevzuat
+**Soru:** "Risk değerlendirmesi zorunlu mudur?"
+
+**Beklenen Sonuç:**
+- Sadece 🏛️ Mevzuat Hükmü bölümü
+- Kanundaki ifadeler aynen alıntılanmış
+- Rehber bölümü yok
+
+### Test 3: Sadece Rehber
+**Soru:** "Tekstil sektöründe İSG için pratik öneriler nedir?"
+
+**Beklenen Sonuç:**
+- Sadece 📚 Uygulama Önerisi bölümü
+- Öneri niteliğinde ifadeler
+- Mevzuat bölümü yok
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 🔧 EK ÖZELLİKLER (Opsiyonel)
+
+### Kullanıcıya Kaynak Seçimi Hakkı Vermek
+
+`hybrid_pipeline.py` içine eklenebilir:
+
+```python
+def query(self, user_input, source_preference="all"):
+    \"\"\"
+    Args:
+        source_preference: 
+            - "all": Hem mevzuat hem rehber
+            - "legislation_only": Sadece mevzuat
+            - "guides_only": Sadece rehberler
+    \"\"\"
+    search_guides = source_preference in ["all", "guides_only"]
+    search_web = source_preference == "all"
+    
+    # Arama yap...
+```
+
+### Frontend'de Seçim Butonu
+
+Admin panelinde kullanıcı seçebilir:
+- [ ] Tüm Kaynaklar
+- [ ] Sadece Mevzuat
+- [ ] Sadece Rehberler
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 🚀 NASIL ÇALIŞIR?
+
+1. **Sorgu Gelir** → "KOBİ'lerde İSG için neler yapılmalı?"
+
+2. **Vector Search** → MongoDB'den hem documents hem guides'tan chunk'lar çekilir
+
+3. **Kaynak Ayrımı:**
+   ```python
+   documents_docs = [d for d in relevant_docs if d.metadata.get('collection_type') != 'guide']
+   guides_docs = [d for d in relevant_docs if d.metadata.get('collection_type') == 'guide']
+   ```
+
+4. **Ayrı Context Oluşturma:**
+   ```
+   🏛️ MEVZUAT KAYNAKLARI:
+   KAYNAK [6331 Sayılı Kanun]: İşveren, işyerinde...
+   
+   📚 REHBER KAYNAKLARI:
+   REHBER [Tekstil Rehberi]: KOBİ'lerde çalışanların...
+   ```
+
+5. **LLM'e Prompt:** 
+   - Mevzuatı AYNEN alıntıla
+   - Rehberleri öneri formatında sun
+
+6. **Yanıt:**
+   ```
+   🏛️ Mevzuat Hükmü:
+   İşveren, işyerinde mevcut riskleri belirlemeli... [6331 Sayılı Kanun]
+   
+   📚 Uygulama Önerisi:
+   KOBİ'lerde çalışanların eğitim alması önerilir... [Tekstil Rehberi]
+   ```
+
+═══════════════════════════════════════════════════════════════════════════
+
+## ✅ SONUÇ
+
+**Artık sistem:**
+- ✅ Mevzuat kaynaklarını AYNEN alıntılıyor
+- ✅ Rehber kaynaklarını öneri olarak sunuyor
+- ✅ Kullanıcı hangi bilginin nereden geldiğini görüyor
+- ✅ Kaynakları karıştırmıyor, sentezlemiyor
+- ✅ Mevzuatta geçtiği gibi gösteriyor
+
+**Kullanıcı deneyimi:**
+- 🏛️ simgesi → Bu yasal zorunluluk
+- 📚 simgesi → Bu uygulama önerisi
+- Net kaynak ayrımı → Güvenilirlik artışı
+
+═══════════════════════════════════════════════════════════════════════════
+"""

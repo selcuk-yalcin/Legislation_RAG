@@ -1,0 +1,2114 @@
+{
+  "guide_title": "Kamuda Isg Rehberi",
+  "source_file": "kamuda-isg-rehberi.pdf",
+  "total_chunks": 117,
+  "exported_at": "2026-02-12T12:19:12.402616",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "content": "<figure>\n</figure>\n\n\nGüvenle\nBüyü\nTürkiye\n\nKamuda İş Sağlığı\nve Güvenliği\n(6331 Sayılı İSG Kanununun\nKamuda Uygulanması)\n\n\n<figure>\n\nT.C. ÇALIŞMA VE\nSOSYAL GÜVENLİK BAKANLIĞI\nİŞ SAĞLIĞI VE GÜVENLİĞİ GENEL MÜDÜRLÜĞÜ\n\n</figure>\n\n\n<!-- PageBreak -->\n\nYayına Hazırlayan\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nİş Sağlığı ve Güvenliği Genel Müdürlüğü\nEmek Mahallesi, Naci Ayvalıoğlı Caddesi, No:13, 06520,\nÇankaya, ANKARA Telefon 0312 296 60 00\nFaks 0312 296 18 77\n\nwww.csgb.gov.tr/isggm\nisggm@csgb.gov.tr\n\nHazırlık Komisyonu\nAli Rıza ERGUN, Çalışma Uzmanı (Komisyon Başkanı)\nÖnder ATALAY, Çalışma Uzmanı (Üye)\nMustafa TÜLÜ, Çalışma Uzmanı (Üye)\nİlker ACAR, Çalışma Uzmanı (Üye)\nMelis ÖZMEN, Çalışma Uzmanı (Üye)\nMuhammet Kamil IŞIK, Çalışma Uzmanı (Üye)\n\nISBN\n978-975-455-301-7\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı Genel Yayın No: 53\n\nGrafik Tasarım / Baskı\nMatus Basımevi\n\nTemmuz 2019, Ankara\n(Revizyon: Ocak 2025)\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "6331 Sayılı İSG Kanunu",
+        "madde_number": null,
+        "chunk_index": 0,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 1,
+      "content": "# İÇİNDEKİLER\n\n\n\n<table>\n<tr>\n<th>ÖNSÖZ</th>\n<th>5</th>\n</tr>\n<tr>\n<td>TANIMLAR</td>\n<td>7</td>\n</tr>\n<tr>\n<td>İSG KANUNU'NDA KAMU</td>\n<td>11</td>\n</tr>\n<tr>\n<td>KAMU KURUMLARI NE YAPACAK?</td>\n<td>13</td>\n</tr>\n<tr>\n<td>İSG HİZMETLERİ</td>\n<td>15</td>\n</tr>\n<tr>\n<td>RİSK DEĞERLENDIRMESİ</td>\n<td>27</td>\n</tr>\n<tr>\n<td>ÇALIŞANLARIN İSG EĞİTİMİ</td>\n<td>43</td>\n</tr>\n<tr>\n<td>ÇALIŞANLARIN SAĞLIK GÖZETİMİ</td>\n<td>47</td>\n</tr>\n<tr>\n<td>ACİL DURUM EYLEM PLANI</td>\n<td>53</td>\n</tr>\n<tr>\n<td rowspan=\"2\">KAMU KURUMLARINDA İŞ SAĞLIĞI VE GÜVENLİĞİ (İSG) KURULU</td>\n<td></td>\n</tr>\n<tr>\n<td>57</td>\n</tr>\n<tr>\n<td rowspan=\"2\">GEBE VEYA EMZİREN KADIN ÇALIŞANLAR İLE EMZİRME ODASI VE ÇOCUK BAKIM YURTLARI</td>\n<td></td>\n</tr>\n<tr>\n<td>63</td>\n</tr>\n<tr>\n<td>BÜTÇELENDİRME</td>\n<td>65</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"3\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 1,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 2,
+      "content": "# ÖNSÖZ\n\n\nÜlkemizde daha sağlıklı ve güvenli bir çalışma hayatının sağlanması\nadına oldukça önemli bir adım olan İş Sağlığı ve Güvenliği Kanunu 2012\nyılında yayımlanmış ve uygulamaya konulmuştur. Alt mevzuat düzenle-\nmeleri ile de detaylandırılan ve ülkemiz ihtiyaçları ile dünyada iş sağlığı\nve güvenliği iyi uygulamalarını içeren Kanun, iş sağlığı ve güvenliği ala-\nnında gelişmiş ülkeler seviyesine erişmede temel yol gösterici niteliğin-\ndedir. Ancak unutulmamalıdır ki istenen iş sağlığı ve güvenliği seviyesine\nulaşılmanın ana unsuru hazırlanmış olan mevzuatın sahada tam ve doğru\nolarak hayata geçirilmesidir. İş sağlığı ve güvenliği sadece çalışma hayatında değil tüm yaşam alan-\nlarında bir kültür olarak ele alınmalı ve bir hayat felsefesi olarak ilgili tüm\ntaraflarca benimsenmelidir. Ülkenin milli eğitim sistemine de entegre edi-\nlerek genç yaşta başlayan güvenlik kültürü aktarımı çalışma hayatında da\ngüçlenerek devam etmelidir. Yönetim kademesinden başlamak üzere tüm\nkademelerin iş sağlığı ve güvenliğinin önemine inanması ve desteklemesi\nile devam eden süreç istenen seviyeye ulaşmakta kilit noktadır. Yönetimin\ntaahhüttü ile başlayan çalışmalar, tüm çalışanların güvenli bir davranış bi-\nçimi haline getirmesine kadar devam etmekte ve kazanılan seviye sürekli\niyileştirilerek sağlıklı ve güvenli bir çalışma hayatı oluşturulmaktadır. İş Sağlığı ve Güvenliği Kanunu tüm çalışanları kapsaması açısından ol-\ndukça önemli ve değerli bir yeniliği bünyesinde barındırmaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "ÖNSÖZ\n\n\nÜlkemizde daha sağlıklı ve güvenli bir çalışma hayatının sağlanması\nadına oldukça önemli bir adım olan İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 2,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 3,
+      "content": "lerek sağlıklı ve güvenli bir çalışma hayatı oluşturulmaktadır. İş Sağlığı ve Güvenliği Kanunu tüm çalışanları kapsaması açısından ol-\ndukça önemli ve değerli bir yeniliği bünyesinde barındırmaktadır. Bu deği-\nşiklik neticesinde ülke çapında tüm çalışanlar kanuni statülerine bakılmak-\nsızın iş sağlığı ve güvenliği hizmetlerinin kapsamına alınmışlar ve sağlıklı\nve güvenli bir ortamda çalışma hakkı toplumun tamamına yayılmıştır. Üst düzey yöneticilerden başlamak üzere kamu kurumlarına iş sağlığı\nve güvenliğinin içselleştirilmesi ve hayata geçirilmesinde yol göstermek\nüzere hazırlanmış olun bu rehber, kamu kurumlarında yapılması gereken\nçalışmaları sıralamakta ve örneklerle uygulama kolaylığı getirmektedir. Kamu kurumları diğer sektörlere örnek teşkili ediyor olmaları açısın-\ndan iş sağlığı ve güvenliğinde örnek ve öncü olmalı ve güvenlik kültürü-\nnün toplumda benimsenmesinde destek sağlamalıdır. Sedat YENİDÜNYA\nİş Sağlığı ve Güvenliği Genel Müdür V. <!-- PageNumber=\"5\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 3,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 4,
+      "content": "# TANIMLAR\n\n\nBu rehberde geçen bazı terimlerin tanımları aşağıda verilmiştir. Çalışan: Kendi özel kanunlarındaki statülerine bakılmaksızın kamu\nveya özel işyerlerinde istihdam edilen gerçek kişiyi,\n\nÇalışan temsilcisi: İş sağlığı ve güvenliği ile ilgili çalışmalara katılma,\nçalışmaları izleme, tedbir alınmasını isteme, tekliflerde bulunma ve benze-\nri konularda çalışanları temsil etmeye yetkili çalışanı,\n\nKamuda İşveren veya İşveren Vekili: 6331 Sayılı Kanunun 3 üncü mad-\ndesinde: \"İşveren - Çalışan istihdam eden gerçek veya tüzel kişi yahut tüzel\nkişiliği olmayan kurum ve kuruluşları,\" şeklinde tanımlanmıştır. Aynı mad-\ndenin ikinci fıkrasında da \" İşveren Vekili - İşveren adına hareket eden, işin\nve işyerinin yönetiminde görev alan işveren vekilleri, bu Kanun bakımından\nişveren sayılır.\" denilerek işin ve işyerinin yönetiminde görev alan işveren ve-\nkillerinin işveren sayılacağı hüküm altına alınmıştır. Buna göre kamu kurum\nve kuruluşlarında işin ve işyerinin yönetiminde görev alan kamu görevlileri\nKanunun uygulanması bakımından işveren gibi muhatap alınacaklardır. Örneğin:\n\nGerek 6331 sayılı İş Sağlığı ve Güvenliği Kanununda, gerekse 4857\nsayılı İş Kanununda işveren kavramı açık bir biçimde tanımlanmıştır, bu\ntanım çerçevesinde tek başına tüzel kişiliği bulunmayan ve Devlet tüzel\nkişiliğinin bir parçası olan T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "6331 Sayılı Kanunu",
+        "madde_number": null,
+        "chunk_index": 4,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 5,
+      "content": "anununda, gerekse 4857\nsayılı İş Kanununda işveren kavramı açık bir biçimde tanımlanmıştır, bu\ntanım çerçevesinde tek başına tüzel kişiliği bulunmayan ve Devlet tüzel\nkişiliğinin bir parçası olan T.C. Çalışma ve Sosyal Güvenlik Bakanlığı\nişveren olarak kabul edilecek, 6331 sayılı Kanunun uygulanması bakımın-\ndan ise, Bakanlık teşkilatını temsile ve bütününü sevk ve idareye\nyetkili, Bakanlık teşkilatının en üst amiri olan 'Bakan' ile bakanın\nemrinde ve onun yardımcısı olup Bakanlık hizmetlerini Bakan adına,\nBakanın direktif ve emirleri yönünde mevzuat hükümlerine uygun olarak\ndüzenlemek ve yürütmekle yükümlü olan 'Bakan Yardımcısı'nın Bakanlık\nmerkez teşkilatının bütününde işveren vekili, 'Diğer Yöneticiler'in de\nkendi sorumluluk alanlarında Devlet tüzel kişiliği adına hareket ederek\nişin ve işyerinin yönetimine katıldıklarından sorumluluk alanlarıyla sınırlı\nolmak üzere işveren vekilidirler. <!-- PageNumber=\"7\" -->\n<!-- PageBreak -->\n\nDiğer merkez birimleri/ kurum/kuruluşlarda da yukarıda verilen ör-\nnekte olduğu gibi en üst yönetici, diğer bir deyişle birim/kurum/ kurulu-\nşun tamamında sevk ve idare yetkisi bulunanlar bu kurum ve kuruluşların\nbütününe yönelik işveren vekili, diğer kademedeki yöneticiler de kendi\nyetki ve görev alanlarıyla sınırlı olmak üzere işveren vekili olarak sorumlu\nolacaklardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "gerekse 4857\nsayılı İş Kanunu",
+        "madde_number": null,
+        "chunk_index": 5,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 6,
+      "content": "si bulunanlar bu kurum ve kuruluşların\nbütününe yönelik işveren vekili, diğer kademedeki yöneticiler de kendi\nyetki ve görev alanlarıyla sınırlı olmak üzere işveren vekili olarak sorumlu\nolacaklardır. İşyeri: Mal veya hizmet üretmek amacıyla maddi olan ve olmayan un-\nsurlar ile çalışanın birlikte örgütlendiği, işverenin işyerinde ürettiği mal\nveya hizmet ile nitelik yönünden bağlılığı bulunan ve aynı yönetim altın-\nda örgütlenen işyerine bağlı yerler ile dinlenme, çocuk emzirme, yemek,\nuyku, yıkanma, muayene ve bakım, beden ve mesleki eğitim yerleri ve\navlu gibi diğer eklentiler ve araçları da içeren organizasyonu,\n\nİş güvenliği uzmanı: Usul ve esasları yönetmelikle belirlenen, iş sağlığı\nve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş\ngüvenliği uzmanlığı belgesine sahip, Bakanlık ve ilgili kuruluşlarında çalış-\nma hayatını denetleyen müfettişler ile mühendislik veya mimarlık eğitimi\nveren fakültelerin mezunları ile teknik elemanı,\n\nİş kazası: İşyerinde veya işin yürütümü nedeniyle meydana gelen, ölü-\nme sebebiyet veren veya vücut bütünlüğünü ruhen ya da bedenen engelli\nhâle getiren olayı\n\nİşyeri hekimi: İş sağlığı ve güvenliği alanında görev yapmak üzere Ba-\nkanlıkça yetkilendirilmiş, işyeri hekimliği belgesine sahip hekimi,\n\nİşyeri sağlık ve güvenlik birimi: İşyerinde iş sağlığı ve güvenliği hiz-\nmetlerini yürütmek üzere kurulan, gerekli donanım ve personele sahip\nolan birimi,\n\nMeslek hastalığı: Mesleki risklere maruziyet sonucu ortaya çıkan has-\ntalığı,\n\nOnaylı defter: İşyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Mü-\ndürlükleri veya noterce her sayfası mühürlenmek suretiyle onaylanan, iş\ngüvenliği uzmanı ve işyeri hekiminin tespit ve önerilerini kayıt altına aldığı\ndefteri,\n\nOrtak sağlık ve güvenlik birimi (OSGB): Kamu kurum ve kuruluşları,\norganize sanayi bölgeleri ile Türk Ticaret Kanununa göre faaliyet gösteren\nşirketler tarafından, işyerlerine iş sağlığı ve güvenliği hizmetlerini sunmak\n\n<!-- PageNumber=\"8\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nüzere kurulan gerekli donanım ve personele sahip olan ve Bakanlıkça yet-\nkilendirilen birimi,\n\nRisk değerlendirmesi: İşyerinde var olan ya da dışarıdan gelebilecek\ntehlikelerin belirlenmesi, bu tehlikelerin riske dönüşmesine yol açan fak-\ntörler ile tehlikelerden kaynaklanan risklerin analiz edilerek derecelendi-\nrilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gerekli\nçalışmaları,\n\nTehlike sınıfı: İş sağlığı ve güvenliği açısından, yapılan işin özelliği, işin\nher safhasında kullanılan veya ortaya çıkan maddeler, iş ekipmanı, üretim\nyöntem ve şekilleri, çalışma ortam ve şartları ile ilgili diğer hususlar dikka-\nte alınarak işyeri için belirlenen tehlike grubunu,\n\nÇalışan sağlığı merkezi (ÇASMER): Sağlık Bakanlığına bağlı,\nişyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı\nKanun kapsamında yetkilendirilen, gerekli donanım ve personele sahip\nbirimi,\n\nifade eder.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 6,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 7,
+      "content": "zi (ÇASMER): Sağlık Bakanlığına bağlı,\nişyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı\nKanun kapsamında yetkilendirilen, gerekli donanım ve personele sahip\nbirimi,\n\nifade eder. <!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"9\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "işyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı\nKanun",
+        "madde_number": null,
+        "chunk_index": 7,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 8,
+      "content": "# İSG KANUNUNDA KAMU\n\n\n6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili yönetmelikler kamu\nsektörüne ait bütün işlere ve işyerlerine, bu işyerlerinin işverenleri ile işve-\nren vekillerine, çırak ve stajyerler de dâhil olmak üzere tüm çalışanlarına\nfaaliyet konularına bakılmaksızın uygulanır.\n\nAynı Kanun'da belirtilen aşağıdaki kamu kurum ve kuruluşlarını\nilgilendirebilecek faaliyetler hakkında İş Sağlığı ve Güvenliği Kanunu\nhükümlerinin uygulanmadığı dikkate alınmalıdır.\n\n· Fabrika, bakım merkezi, dikimevi ve benzeri işyerlerindekiler ha-\nriç Türk Silahlı Kuvvetleri, genel kolluk kuvvetleri ve Milli İstihba-\nrat Teşkilatı Müsteşarlığının faaliyetleri.\n\n· Afet ve acil durum birimlerinin müdahale faaliyetleri.\n\n· Hükümlü ve tutuklulara yönelik infaz hizmetleri sırasında, iyileş-\ntirme kapsamında yapılan işyurdu, eğitim, güvenlik ve meslek\nedindirme faaliyetleri.\n\n<!-- PageNumber=\"11\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "İSG KANUNUNDA KAMU\n\n\n6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 8,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 9,
+      "content": "# KAMU KURUMLARI NE YAPACAK?\n\n\nİşverenin işyerinde sağlıklı ve güvenli bir çalışma ortamını sağlayabil-\nmesi için ilgili mevzuat işverene çeşitli yükümlülükler getirmiştir. Kamu\nkurumlarında ilgili kurumun en üst idari amiri işveren vekili olarak değer-\nlendirilmekle birlikte, idari yapılanmaya göre birimlerin yönetiminde gö-\nrev alan amirler de işveren vekili olarak sayılabilecektir.\n\nŞekil-1'de işverenin, iş sağlığı ve güvenliği ile ilgili temel görevleri gös-\nterilmiş olup ilerleyen bölümlerde bu başlıklar için detaylı bilgiler veril-\nmiştir.\n\n\n<figure>\n<figcaption>Şekil 1</figcaption>\n\nİSG Hizmetleri\n\nRisk Değerlendirmesi\n\nÇalışanların İSG Eğitimleri\n\nÇalışanların Sağlık Gözetimi\n\nAcil Durum Planları\n\n</figure>\n\n\n<!-- PageNumber=\"13\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 9,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 10,
+      "content": "# İSG HİZMETLERİ\n\n\nÇ\nA\nGÜVENLİ\n\nİş Sağlığı ve Güvenliği Hizmetlerinin Amacı\nI\n\nİş sağlığı ve güvenliği hizmetlerinin iki temel amacı vardır:\nŞ\n\n· Mesleki risklerin önlenmesi\n\nORTAMI\n\nve\n\nA\n\n· Mesleki risklerden korunma\n\nBu iki amaç işyerinde güvenli bir çalışma ortamının oluşturulması ve\nsürekliliğinin devam etmesini sağlayacaktır.\n\n\n<figure>\n<figcaption>İSG Hizmeti Sunmadan Önce</figcaption>\n\nTehlike\nSınıfı\n\nÇalışan\nSayısı\n\nTehlike\nSınıfınızı\nBelirleyiniz\n\nÇalışan\nSayınızı\nBelirleyiniz\n\nŞekil 2\n\n</figure>\n\n\nİş sağlığı ve güvenliği hizmetlerinin sunulabilmesi için öncelikli olarak;\n\n· Tehlike sınıfınızı\nve\n\n· Çalışan sayınızı belirlemelisiniz.\n\n<!-- PageNumber=\"15\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 10,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 11,
+      "content": "## Çalışan Sayısı Nasıl Belirlenir\n\n\nKurumunuzda;\n\n· 4857 Sayılı İş Kanunu kapsamında\nçalışan kişileri/sayılarını belirleyin. · 657 Sayılı Devlet Memurları Kanu-\nnu kapsamında çalışanları/sayıları-\nnı belirleyin. · Kurumunuz içerisinde faaliyet\ngösteren kurum çalışanlarını/sayı-\nlarını (alt işverenler ve kendi namı-\nna çalışanlar hariç) belirleyin. İSG hizmetleri kapsamında yapı-\nlacak görevlendirme süresinin be-\nlirlenmesinde 5/6/1986 tarihli ve\n3308 sayılı Mesleki Eğitim Kanunu\nile 4/11/1981 tarihli ve 2547 sayılı\nYükseköğretim Kanunu kapsa-\nmındaki öğrenci statüsünde olan\nçırak ve stajyerler, çalışan sayısının\ntoplamına dâhil edilmeyecektir. · Kurumunuzda görev alan tüm personelin iş sağlığı ve güvenliği hiz-\nmetlerinden yararlanması gerekmektedir. Asıl işve-\nren olarak, işin altı işveren devri durumlarında (te-\nmizlik işleri, servis hizmetleri, güvenlik hizmetleri,\ninşaat işleri, periyodik kontrol işleri gibi.) alt işveren\ntarafından kendi personeline İSG hizmeti sunuldu-\nğundan emin olunmalıdır. <figure>\n</figure>\n\n\n· Hizmetlerin sağlanmasında temel yaklaşım, personelin bağlı bulun-\nduğu kurum veya birim esaslı değerlendirme yapılmasıdır. Hizmetin\nsunumunda veya harici olarak sağlanmasında Kanunda yapılmış olu-\nnan işyeri tanımı dâhilinde yer alan tüm personelin kapsanacak şekilde\nplanlamanın yapılması gerekmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "4857 Sayılı İş Kanunu",
+        "madde_number": null,
+        "chunk_index": 11,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 12,
+      "content": "irme yapılmasıdır. Hizmetin\nsunumunda veya harici olarak sağlanmasında Kanunda yapılmış olu-\nnan işyeri tanımı dâhilinde yer alan tüm personelin kapsanacak şekilde\nplanlamanın yapılması gerekmektedir. Sağlığın ve güvenliğin sağlan-\nması ile ilişkili tüm personelin verdiği hizmetler, yaptığı işler ve çalışma\nalanları değerlendirilmeli, hizmet buna göre sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Hizmetin\nsunumunda veya harici olarak sağlanmasında Kanun",
+        "madde_number": null,
+        "chunk_index": 12,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 13,
+      "content": "### Tehlike Sınıfı Nasıl Belirlenir\n\n\nİşyerleri az tehlikeli, tehlikeli ve çok tehlikeli olmak üzere üç farklı kate-\ngoride değerlendirilmektedir. Tehlike sınıfını belirleyebilmek için öncelikle\nkurumda yapılan asıl işin tanımının yapılması gerekmektedir. Daha sonra\nyapılan işin İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği'nde\nkarşılığı olan tehlike sınıfını bulabilirsiniz. Örnek olarak yasama ve yürütme faaliyetlerinin yürütüldüğü kamu ku-\nrumlarının içerisinde aynı zamanda bilgi hizmet faaliyetlerinin de yürütüldüğü\nsık sık görülmektedir. Bu tip bir kamu kurumu için asıl iş yasama ve yürütme\n\n<!-- PageNumber=\"16\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\n<figure>\n\nAz Tehlikeli\n☒ ☐\nTehlikeli\n☐\nÇok Tehlikeli\n\n</figure>\n\n\nfaaliyeti olduğundan her ne kadar yan faaliyet olarak farklı başlık altında fa-\naliyette bulunulsa da tehlike sınıfının belirlenmesinde asıl iş esas olarak alınır. Tehlike Sınıfları Tebliği'nde yer alan iş kolları incelenerek asıl işinize uygun faa-\nliyet ve ilgili faaliyetin tehlike sınıfı belirlenebilecektir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Daha sonra\nyapılan işin İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği",
+        "madde_number": null,
+        "chunk_index": 13,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 14,
+      "content": "nıfının belirlenmesinde asıl iş esas olarak alınır. Tehlike Sınıfları Tebliği'nde yer alan iş kolları incelenerek asıl işinize uygun faa-\nliyet ve ilgili faaliyetin tehlike sınıfı belirlenebilecektir. (Bakınız Şekil-3)\n\n\n<table>\n<tr>\n<th colspan=\"3\">İŞYERİ TEHLİKE SINIFLARI LİSTESİ</th>\n</tr>\n<tr>\n<th>NACE Rev.2 Altılı Kod</th>\n<th>NACE Rev.2_Altılı Tanım</th>\n<th>Tehlike Sınıfı</th>\n</tr>\n<tr>\n<td>........</td>\n<td>.........</td>\n<td>......</td>\n</tr>\n<tr>\n<td>0</td>\n<td>KAMU YÖNETİMİ VE SAVUNMA; ZORUNLU SOSYAL GÜVENLİK</td>\n<td></td>\n</tr>\n<tr>\n<td>84</td>\n<td>Kamu yönetimi ve savunma; zorunlu sosyal güvenlik</td>\n<td></td>\n</tr>\n<tr>\n<td>84.1</td>\n<td>Ülke yönetimi ve toplumun ekonomik ve sosyal politikalarının yönetimi</td>\n<td></td>\n</tr>\n<tr>\n<td>84.11</td>\n<td>Genel kamu idaresi faaliyetleri</td>\n<td></td>\n</tr>\n<tr>\n<td>84.11.41</td>\n<td>Belediyelerin kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.42</td>\n<td>Ekonomik ve sosyal planlama ile istatistik ile ilgili kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.43</td>\n<td>Finansal, mali ve denetim ile ilgili kamu yönetimi hizmetleri (defterdarlık, mal müdürlükleri, vergi daireleri, Sayıştay, kamu borç ve fonlarının yönetimi dahil)</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.44</td>\n<td>Genel personel işleri ile ilgili kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.45</td>\n<td>Gümrüklerle ilgili kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.46</td>\n<td>Muhtarların faaliyetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.47</td>\n<td>Valiliklerin ve kaymakamlıkların kamu yönetimi hizmetleri (il ve ilçe özel idarelerinin faaliyetleri dahil)</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.48</td>\n<td>Yasama ve yürütme hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.11.90</td>\n<td>Kamu için diğer destekleyici kamu yönetimi hizmetleri (merkezi kamu ihale ve tedarik hizmetleri ile haritacılık vb.)</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.12</td>\n<td>Sağlık, eğitim, kültürel hizmetler ve diğer sosyal hizmetleri sağlayan kuruluşların faaliyetlerinin düzenlenmesi (Sosyal güvenlik hariç)</td>\n<td></td>\n</tr>\n<tr>\n<td>84.12.11</td>\n<td>Eğitime ilişkin kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.12.12</td>\n<td>İskan ve toplum refahına ilişkin kamu yönetimi hizmetleri (su temini ve çevre koruma programları dahil)</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.12.13</td>\n<td>Sağlığa ve sosyal hizmetlere ilişkin kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.12.14</td>\n<td>Spor, dinlence, kültür ve dine ilişkin kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n</table>\n\n\nŞekil 3\n\n<!-- PageFooter=\"T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Tehlike Sınıfları Tebliği",
+        "madde_number": null,
+        "chunk_index": 14,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 15,
+      "content": "i</td>\n<td>Az Tehlikeli</td>\n</tr>\n<tr>\n<td>84.12.14</td>\n<td>Spor, dinlence, kültür ve dine ilişkin kamu yönetimi hizmetleri</td>\n<td>Az Tehlikeli</td>\n</tr>\n</table>\n\n\nŞekil 3\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"17\" -->\n<!-- PageBreak -->\n\nTehlike sınıfınızı ve çalışan sayınızı belirledikten sonra iş sağlığı ve gü-\nvenliği hizmetlerini sunabilmek için kurumunuza uygun olan yöntemi se-\nçebilirsiniz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 15,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 16,
+      "content": "## İşverenin (Üst Yönetimin) Görevleri\n\n\nKamuya ait birimlerde iş sağlığı ve güvenliği hizmetlerinin yerine geti-\nrilmesinde idari amir asıl sorumlu olmakla birlikte görev tanımı gereği ilgili\nbirimin personelden sorumlu üst yönetimi de gerekli çalışmaları yapmak\nve yapılan çalışmaları izlemekten sorumludur.\n\nBu kapsamda işverenin (üst yönetim) 6 temel görevi Şekil-4'de gös-\nterilmiştir.\n\n\n<figure>\n<figcaption>Şekil 4</figcaption>\n\nİSG Profesyonellerinin görevlendirilmesi\n\nGörevlendirilen kişilere çalışma ortamı sağlanması\n\nİşbirliği ve koordinasyonun sağlanması\n\nTedbirlerin alınması, izlenmesi, denetlenmesi ve tekrar gözden geçirme\n\nEğitim ve bilgilendirme\n\nİş kazası ve meslek hastalıkları bildirimleri\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 16,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 17,
+      "content": "## 1. İSG Profesyonelinin Görevlendirilmesi\n\n\nİş sağlığı ve güvenliği profesyonelleri görevlendirilirken:\n\n· İş güvenliği uzmanı, işyeri hekimi ve on ve daha fazla çalışanı olan çok\ntehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli çalışanlar\narasından görevlendirebilir.\n\n<!-- PageNumber=\"18\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\n· Çalışanları arasında belirlenen niteliklere sahip personel bulunmaması\nhâlinde, bu hizmetin tamamını veya bir kısmını ortak sağlık ve güvenlik\nbirimlerinden veya toplum sağlığı merkezlerinden hizmet alarak yerine\ngetirebilir.\n\nBelirlenen niteliklere ve gerekli belgeye sahip olmayan ancak 50'den az\nçalışanı bulunan ve az tehlikeli sınıfta yer alan işyeri işverenleri veya işveren\nvekilleri Bakanlıkça ilan edilen eğitimleri tamamlamak şartıyla işe giriş ve\nperiyodik muayeneler ve tetkikler hariç iş sağlığı ve güvenliği hizmetlerini\nyürütebilirler.\n\n· Belirlenen niteliklere ve gerekli belgeye sahip olması hâlinde işveren,\ntehlike sınıfı ve çalışan sayısı dikkate alınarak, bu hizmetin yerine geti-\nrilmesini kendisi üstlenebilir. (Bakınız Şekil-5)",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 17,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 18,
+      "content": "# İSG Profesyonelinin Görevlendirilmesi\n\n\nDışarıdan\nGörevlendirme\n\nPersonel\nGörevlendirilmesi\n\nÇASMER'den\nHizmet Alımı\n\nOSGB'den\nHizmet Alımı\n\nÇalışanlar\nArasından\nGörevlendirme\n\nFarklı\nKurumdan\nGörevlendirme\n\nİşverenin\nGörevi\nÜstlenmesi\n\nŞekil 5\n\nİşyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi ge-\nreken durumlarda; işveren, işyeri sağlık ve güvenlik birimi kurar. Kurulacak\nişyeri sağlık ve güvenlik biriminde aranan şartlar İş Sağlığı ve Güvenliği\nHizmetleri Yönetmeliği'nde ayrıntılı olarak açıklanmıştır. İşyeri hekimi, iş güvenliği uzmanı veya diğer sağlık personeli görev-\nlendirilmeleri ile 50'den az çalışanı bulunan ve az tehlikeli sınıfta yer alan\nişyerlerindeki iş sağlığı ve güvenliği hizmetlerinin üstlenilmesinde İSG-KA-\nTİP'teki gerekli düzenlemeler tamamlanıp Genel Müdürlük internet sayfa-\n\n<!-- PageFooter=\"T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kurulacak\nişyeri sağlık ve güvenlik biriminde aranan şartlar İş Sağlığı ve Güvenliği\nHizmetleri Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 18,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 19,
+      "content": "z tehlikeli sınıfta yer alan\nişyerlerindeki iş sağlığı ve güvenliği hizmetlerinin üstlenilmesinde İSG-KA-\nTİP'teki gerekli düzenlemeler tamamlanıp Genel Müdürlük internet sayfa-\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"19\" -->\n<!-- PageBreak -->\n\nsında ilan edilinceye kadar Kamu kurum ve kuruluşları ile Sosyal Güvenlik\nKurumu tescil sisteminde henüz işyeri ve çalışan kaydı bulunmayan 506\nsayılı Kanunun geçici 20 nci maddesi kapsamındaki işyerlerinden kamu\nkurumu niteliğinde olanlar tarafından; 14 üncü maddenin üçüncü fıkrası-\nnın (c) bendi kapsamındaki görevlendirmelerde Ek-5a, Ek-5b ve Ek-5c'de,\naynı maddenin dördüncü fıkrası kapsamındaki taahhütnamelerde Ek-6'da,\naynı maddenin beşinci fıkrası kapsamındaki sözleşmelerde Ek-3'te, aynı\nmaddenin altıncı fıkrası kapsamındaki taahhütnamelerde ise Ek-4'te yer\nalan örneklerine uygun belgeler düzenlenerek 5 (beş) iş günü içerisinde\nilgili kişilerce imzalanıp gerektiğinde denetime yetkili memurlara göste-\nrilmek ve istendiğinde Bakanlığa iletilmek üzere işyerlerinde muhafaza\nedilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "sında ilan edilinceye kadar Kamu kurum ve kuruluşları ile Sosyal Güvenlik\nKurumu tescil sisteminde henüz işyeri ve çalışan kaydı bulunmayan 506\nsayılı Kanunu",
+        "madde_number": null,
+        "chunk_index": 19,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 20,
+      "content": "## Çalışanlar Arasından Görevlendirme\n\n\nKamu kurumlarında görev yapmakta olan personel arasında gerekli\nşartları sağlayan kişilerin bulunması halinde ilgili kişileri görevlendirerek\nyükümlülük yerine getirilebilir.\n\nÇalışanların arasından görevlendirme yapılması Kanunda öncelikli ola-\nrak yapılması öngörülen yöntem olarak belirtilmiştir. Bu nedenle, öncelikli\nolarak çalışanlarınızın bilgilerini sorgulayarak uygun personelin olup\nolmadığını kontrol ediniz.\n\nKamu kurum ve kuruluşlarına ait işyerlerinde çalışanlar arasından\ngörevlendirme yapılması durumunda en geç beş gün içerisinde İSG-KA-\nTİP'teki örneğine uygun görevlendirme belgesi düzenlenir ve sistem\nüzerinden ilgili kişiler tarafından onaylanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Çalışanların arasından görevlendirme yapılması Kanun",
+        "madde_number": null,
+        "chunk_index": 20,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 21,
+      "content": "## ÇASMER'den Hizmet Alımı\n\n\nİşveren, Sağlık Bakanlığına bağlı faaliyet gösteren Çalışan Sağlığı\nMerkezlerinden iş sağlığı ve güvenliği hizmeti vermek üzere yetkilendirilen\nÇalışan Sağlığı Merkezi Biriminden hizmet alarak yükümlülüğünü yerine\ngetirebilir.\n\n4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamındaki\nkamu kurum ve kuruluşları; iş sağlığı ve güvenliği hizmetlerini, Sağlık\nBakanlığı'na ait döner sermayeli kuruluşlardan doğrudan alabileceği gibi\n4734 sayılı Kanun hükümleri çerçevesinde de alabilir.\n\n<!-- PageNumber=\"20\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "2002 tarihli ve 4734 sayılı Kamu İhale Kanunu",
+        "madde_number": null,
+        "chunk_index": 21,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 22,
+      "content": "## OSGB'den Hizmet Alımı\n\n\nT.C. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından yetkilendirilen Ortak\nSağlık ve Güvenlik Birimlerinden hizmet alarak yükümlülük yerine ge-\ntirilebilir.\n\nKamu kurum ve kuruluşlarına ait işyerlerinde OSGB'lerden hizmet\nalınması halinde; İSG-KATİP'teki örneğine uygun sözleşme düzenlenir ve\nkarşılıklı olarak en geç beş gün içerisinde sistem üzerinden onaylanır.\nİSG-KATİP üzerinden onaylanan sözleşme nüshalarından biri kurum\ntarafından, biri OSGB'ler tarafından saklanır. OSGB'den hizmet alınması\ndurumunda görevlendirilecek işyeri hekimi, iş güvenliği uzmanı ve diğer\nsağlık personeli bu konuda ayrıca bilgilendirilir.\n\nHizmet alınacak kurumun OSGB yetki belgesinin olup olmadığını\nİSGGM internet sitesinden kontrol ediniz. Ayrıca OSGB'lerin bulunduğu il\nve komşu illerde hizmet vermek üzere yetkilerinin sınırlı olduğunu dikkate\nalınız.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 22,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 23,
+      "content": "## Farklı Kurumlardan Görevlendirme\n\n\nFarklı bir kurumda görev yapmakta olan personel arasında gerekli şartla-\nrı sağlayan kişilerin olması halinde ilgili kişilerin onayını almak şartı ile görev-\nlendirme yapılarak da yükümlülüğün yerine getirilmesi mümkün olacaktır.\n\nFarklı bir kurumdan görevlendirme yapılabilmesi için ilgili kurumun ve\npersonelin onayı gerekmektedir.\n\nGörevlendirmenin farklı bir kamu kurum ve kuruluşuna ait işyerlerine ya-\npılması halinde düzenlenen görevlendirme belgesinin görevlendirilen kişiler\ntarafından da sistem üzerinden onaylanması gerekmektedir. İSG-KATİP üze-\nrinden onaylanan görevlendirme belgesinin bir nüshası kurum tarafından, bir\nnüshası da görevlendirme yapılan kişiler tarafından saklanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 23,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 24,
+      "content": "## İşverenin Görevi Üstlenmesi\n\n\nİşverenin gerekli şartları sağlaması halinde işverenin sorumluluğu üst-\nlenmesi de mümkündür.\n\nİş güvenliği uzmanı, işyeri hekimi veya diğer sağlık personeli belgesi\nolan işverenin; işyerindeki işyeri hekimliği, iş güvenliği uzmanlığı veya diğer\nsağlık personeli görevini kendisinin üstlenmesi durumunda, İSG-KATİP'teki\nörneğine uygun taahhütname işveren tarafından en geç beş gün içinde dü-\nzenlenerek onaylanır.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"21\" -->\n<!-- PageBreak -->\n\nTam süreli işyeri hekimi görevlendirilen işyerlerinde, diğer sağlık perso-\nneli görevlendirilmesi zorunlu değildir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 24,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 25,
+      "content": "## Çok Tehlikeli Sınıfta Yer Alan İşyerlerinde İş Güvenliği Uzmanı\n\n\n· 250' den az çalışanı bulunan işyerleri, çalışan başına ayda en az 40\ndakika iş güvenliği uzmanı görevlendirir.\n\n· Her 250 çalışan için tam süreli iş güvenliği uzmanı görevlendirir.\n\n· 250 sayısının tam katlarından fazla olması durumunda geriye kalan\nçalışan sayısı için çalışan başına ayda en az 40 dakika olacak şekilde iş\ngüvenliği uzmanı görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 25,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 26,
+      "content": "## İşyeri Hekimi\n\n\n· 750'den az çalışanı bulunan işyerleri, çalışan başına ayda en az 15 da-\nkika işyeri hekimi görevlendirir.\n\n· Her 750 çalışan için tam süreli işyeri hekimi görevlendirir.\n\n· 750 sayısının tam katlarından fazla olması durumunda geriye kalan ça-\nlışan sayısı için çalışan başına ayda en az 15 dakika olacak şekilde işyeri\nhekimi görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 26,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 27,
+      "content": "## Diğer Sağlık Personeli\n\n\nTam süreli işyeri hekimi bulunduran işyerlerinde ve 10 dan az çalışanı\nolan işyerlerinde diğer sağlık personeli görevlendirilmesi zorunlu değildir.\n\n· 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika,\n\n· 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika,\n\n· 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika,\ndiğer sağlık personeli görevlendirilir.\n\n<!-- PageNumber=\"22\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 27,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 28,
+      "content": "## Tehlikeli Sınıfta Yer Alan İşyerlerinde İş Güvenliği Uzmanı\n\n\n· 500'den az çalışanı bulunan işyerleri, çalışan başına ayda 20 dakika iş\ngüvenliği uzmanı görevlendirir.\n\n· Her 500 çalışan için tam süreli iş güvenliği uzmanı görevlendirir.\n\n· 500 sayısının tam katlarından fazla olması durumunda geriye kalan\nçalışan sayısı için çalışan başına ayda 20 dakika olacak şekilde iş gü-\nvenliği uzmanı görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 28,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 29,
+      "content": "## İşyeri Hekimi\n\n\n· 1000' den az çalışanı bulunan işyerleri, çalışan başına ayda 10 dakika\nişyeri hekimi görevlendirir.\n\n· Her 1000 çalışan için tam süreli işyeri hekimi görevlendirir.\n\n· 1000 sayısının tam katlarından fazla olması durumunda geriye kalan\nçalışan sayısı için çalışan başına ayda 10 dakika olacak şekilde işyeri\nhekimi görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 29,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 30,
+      "content": "## Diğer Sağlık Personeli\n\n\nTehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli görevlendir-\nme yükümlülüğü bulunmamaktadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 30,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 31,
+      "content": "## Az Tehlikeli Sınıfta Yer Alan İşverenlerinde İş Güvenliği Uzmanı\n\n\n· 1000'den az çalışanı bulunan işyerleri, çalışan başına ayda 10 dakika iş\ngüvenliği uzmanı görevlendirir.\n\n· Her 1000 çalışan için tam süreli iş güvenliği uzmanı görevlendirir.\n\n· 1000 sayısının tam katlarından fazla olması durumunda geriye kalan\nçalışan sayısı için çalışan başına ayda 10 dakika olacak şekilde iş gü-\nvenliği uzmanı görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 31,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 32,
+      "content": "## İşyeri Hekimi\n\n\n· 2000' den az çalışanı bulunan işyerleri, çalışan başına ayda 5 dakika\nişyeri hekimi görevlendirir.\n\n· Her 2000 çalışan için tam süreli işyeri hekimi görevlendirir.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"23\" -->\n<!-- PageBreak -->\n\n· 2000 sayısının tam katlarından fazla olması durumunda geriye kalan\nçalışan sayısı için çalışan başına ayda 5 dakika olacak şekilde işyeri\nhekimi görevlendirir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 32,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 33,
+      "content": "## Diğer Sağlık Personeli\n\n\nAz tehlikeli sınıfta yer alan işyerlerinde diğer sağlık personeli görevlen-\ndirme yükümlülüğü bulunmamaktadır.\n\nİş güvenliği uzmanı görevlendirirken dikkat edilmesi gereken başka\nönemli bir husus ise tehlike sınıfına uygun belgeye sahip uzmanın görev-\nlendirilmesidir.\n\nBirden fazla iş güvenliği uzmanının görevlendirilmesinin gerektiği iş-\nyerlerinde, (Değişik ibare:RG:15/2/2016-29625) tam süreli olarak görev-\nlendirilen iş güvenliği uzmanlarından sadece birinin, işyerinin tehlike sını-\nfına uygun belgeye sahip olması yeterlidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 33,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 34,
+      "content": "# Örnek Uygulama\n\n\nAz tehlikeli sınıfta yer alan bir kamu kurumunda 2500 çalışan bulunmaktadır. İş Güvenliği Uzmanı Görevlendirme: 2500=1000+1000+500\n500*10 dakika = 5000 dakika /60=83,4 saat\n\n2 tam süreli iş güvenliği uzmanı ve ayda 83,4 saat kısmi süreli iş gü-\nvenliği uzmanı\n\nŞekil-6, 7 ve 8'de çalışan sayısı ve tehlike sınıfına göre gerekli görevlendir-\nme süreleri ortaya konulmuştur. Çalışma süreleri aylık olarak belirtilmektedir. <!-- PageNumber=\"24\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nİSG profesyonellerinin görevlendirildiği süreler içerisinde farklı bir gö-\nrev verilmesi mümkün değildir. Görevlendirme süreleri İSG hizmetlerinin\nyerine getirilmesi için kullanılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 34,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 35,
+      "content": "</figure>\n\n\nİSG profesyonellerinin görevlendirildiği süreler içerisinde farklı bir gö-\nrev verilmesi mümkün değildir. Görevlendirme süreleri İSG hizmetlerinin\nyerine getirilmesi için kullanılmalıdır. <table>\n<tr>\n<th colspan=\"3\">İş Güvenliği Uzmanı Görevlendirme Tablosu</th>\n</tr>\n<tr>\n<th>Tehlike Sınıfı</th>\n<th>Süreli Görevlendirme*</th>\n<th>Tam Zamanlı Görevlendirme</th>\n</tr>\n<tr>\n<td>Az Tehlikeli</td>\n<td>10 dk</td>\n<td>1000 kişi</td>\n</tr>\n<tr>\n<td>Tehlikeli</td>\n<td>20 dk</td>\n<td>500 kişi</td>\n</tr>\n<tr>\n<td>Çok Tehlikeli</td>\n<td>40 dk</td>\n<td>250 kişi</td>\n</tr>\n<tr>\n<td colspan=\"3\">*Çalışma süreleri çalışan kişi başına aylık olarak belirtilmiştir.</td>\n</tr>\n</table>\n\n\nŞekil 6\n\n\n<table>\n<tr>\n<th colspan=\"3\">İşyeri Hekimi Görevlendirme Tablosu</th>\n</tr>\n<tr>\n<th>Tehlike Sınıfı</th>\n<th>Süreli Görevlendirme*</th>\n<th>Tam Zamanlı Görevlendirme</th>\n</tr>\n<tr>\n<td>Az Tehlikeli</td>\n<td>5 dk</td>\n<td>2000 kişi</td>\n</tr>\n<tr>\n<td>Tehlikeli</td>\n<td>10 dk</td>\n<td>1000 kişi</td>\n</tr>\n<tr>\n<td>Çok Tehlikeli</td>\n<td>15 dk</td>\n<td>750 kişi</td>\n</tr>\n<tr>\n<td colspan=\"3\">*Çalışma süreleri çalışan kişi başına aylık olarak belirtilmiştir.</td>\n</tr>\n</table>\n\n\nŞekil 7\n\n\n<table>\n<caption>Diğer Sağlık Personeli Görevlendirme Tablosu</caption>\n<tr>\n<th>Çalışan Sayısı</th>\n<th>Süreli Görevlendirme*</th>\n</tr>\n<tr>\n<td>10-49</td>\n<td>10 dk</td>\n</tr>\n<tr>\n<td>50-249</td>\n<td>15 dk</td>\n</tr>\n<tr>\n<td>250 ve üzeri</td>\n<td>20 dk</td>\n</tr>\n<tr>\n<td colspan=\"2\">* Çalışma süreleri çalışan kişi başına aylık olarak belirtilmiştir.</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 35,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 36,
+      "content": "# Şekil 8\n\n\n\\- Diğer Sağlık Personeli görevlendirmeleri on ve daha fazla çalışanı olan çok tehlikeli\nsınıfta yer alan işyerleri için zorunludur.\n\n\\- 750 kişi ve üzerinde çalışanı olan çok tehlikeli işyerlerinde tam zamanlı işyeri hekimi\ngörevlendirilmesi gerekmekte olup diğer sağlık personeli görevlendirmesi aranmaz.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"25\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 36,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 37,
+      "content": "## 2. Görevlendirilen kişilere çalışma ortamı sağlanması\n\n\nGörevlendirilen kişi veya hizmet alınan ku-\nrum ve kuruluşların görevlerini yerine getirebil-\nmeleri amacıyla araç, gereç, mekân ve zaman\ngibi gerekli bütün ihtiyaçların karşılanması iş-\nverenin (üst yönetimin) görevleri arasındadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 37,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 38,
+      "content": "## 3. İşbirliği ve koordinasyonun sağlanması\n\n\nİşyerinde sağlık ve güvenlik hizmetlerini\nyürüten kişiler arasında iş birliği ve koordinas-\nyonun sağlanması gerekmektedir.\n\n\n<figure>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 38,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 39,
+      "content": "## 4. Tedbirlere uymak\n\n\nGörevlendirilen kişi veya hizmet alınan ku-\nrum ve kuruluşlar tarafından iş sağlığı ve gü-\nvenliği ile ilgili mevzuata uygun olan ve yazılı\nolarak bildirilen tedbirler yerine getirilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 39,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 40,
+      "content": "## 5. Bilgilendirmek\n\n\nÇalışanların sağlık ve güvenliğini etkilediği\nbilinen veya etkilemesi muhtemel konular hak-\nkında çalışanlar bilgilendirilmelidir. Görevlendi-\nrilen kişi veya hizmet alınan kuruluşlar; başka\nişyerlerinden çalışmak üzere işyerlerine gelen\nçalışanlar ve bunların işverenleri de dahil olmak\nüzere bilgilendirme yapmakla yükümlüdür.\n\n\n<figure>\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 40,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 41,
+      "content": "## 6. İş kazası ve meslek hastalıkları bildirimleri\n\n\nKamu kurumlarında işveren Kanunun 14 üncü maddesi uyarınca; bütün\niş kazalarının ve meslek hastalıklarının kaydını tutmalı ve gerekli incele-\nmeleri yaparak bunlar ile ilgili raporları düzenlemeli ve kanuni sürelerde\nSosyal Güvenlik Kurumu'na bildirimde bulunmalıdır. Ramak kala olaylar\nda incelenerek bunlar ile ilgili raporlar düzenlenmelidir.\n\n<!-- PageNumber=\"26\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "İş kazası ve meslek hastalıkları bildirimleri\n\n\nKamu kurumlarında işveren Kanunu",
+        "madde_number": null,
+        "chunk_index": 41,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 42,
+      "content": "# RİSK DEĞERLENDİRMESİ\n\n\n\n<figure>\n\n!\n\n</figure>\n\n\nTEHLİKE: İşyerinde var olan ya da dışarıdan gele-\nbilecek, çalışanı veya işyerini etkileyebilecek zarar veya\nhasar verme potansiyelidir.\n\n\n<figure>\n\nR\n\nR\nI\n\nS\nS\nK K\n\n</figure>\n\n\nRİSK: Tehlikeden kaynaklanacak kayıp, yaralanma ya\nda başka zararlı sonuç meydana gelme ihtimalidir.\n\n\n<figure>\n\n!\n\n</figure>\n\n\nÖrnek: Çalışma ortamında yerde düzensiz kabloların\nbulunması bir tehlike iken, burada yürürken kablolara\ntakılıp düşmek bir risktir.\n\nBir tehlike birden fazla risk doğurabilir.\n\n\n<table>\n<tr>\n<th>TEHLİKE</th>\n<th>RİSK</th>\n</tr>\n<tr>\n<td rowspan=\"2\">Kapağı açık bırakılan elektrik panosunda açık uçlu elektrik kablosu bulunması</td>\n<td>Elektrik çarpması sonucu yaralanma veya ölüm</td>\n</tr>\n<tr>\n<td>Elektrik panosunda yangın-can ve mal kaybı</td>\n</tr>\n</table>\n\n\n<figure>\n</figure>\n\n\nRİSK DEĞERLENDIRMESİ: İşyerinde var olan ya da\ndışarıdan gelebilecek tehlikelerin belirlenmesi, bu teh-\nlikelerin riske dönüşmesine yol açan faktörler ile teh-\nlikelerden kaynaklanan risklerin analiz edilerek dere-\ncelendirilmesi ve kontrol tedbirlerinin kararlaştırılması\namacıyla yapılması gerekli çalışmalardır.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"27\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 42,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 43,
+      "content": "### 6331 Sayılı İSG Kanunu\n\n\nRisk değerlendirmesinin yasal dayanağı 20.06.2012 tarihli ve 6331 sa-\nyılı İş Sağlığı ve Güvenliği Kanunu'nun 10. maddesidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "6331 Sayılı İSG Kanunu",
+        "madde_number": null,
+        "chunk_index": 43,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 44,
+      "content": "### İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği\n\n\nRisk değerlendirmesinin usul ve esaslarını düzenlemek üzere 29.12.2012\ntarih ve 28512 sayılı Resmi Gazete'de yayınlanarak yürürlüğe girmiştir.\n\n\n<figure>\n\n!\n\n</figure>\n\n\n6331 sayılı Kanun ve ilgili Yönetmelik kapsamında\ntüm kamu kurumların da risk değerlendirmesi yapılması\nzorunludur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 44,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 45,
+      "content": "### İşveren Yükümlülükleri\n\n\nKamu kurumlarında;\n\n· İşveren, risk değerlendirmesi yapmak veya yaptırmakla yükümlüdür.\n\n· Risk değerlendirmesinin yapılması, işverenin İSG yükümlülüğünü orta-\ndan kaldırmaz.\n\n· İşveren görevli kişilere (Örnek: Risk Değerlendirmesi Ekibi) her türlü\nbilgi ve belgeyi temin eder.\n\n\n<figure>\n\n!\n\n</figure>\n\n\nKamu kurumlarının risk değerlendirmesi yapmak\niçin herhangi bir onay almalarına gerek yoktur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 45,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 46,
+      "content": "### Risk Değerlendirmesi Adımları\n\n\nRisk değerlendirmesi, tüm işyerleri için tasarım veya kuruluş aşama-\nsından başlar ve;\n\n<!-- PageNumber=\"28\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nTehlikeleri tanımlama\n\n· Riskleri belirleme ve analiz etme\n\n· Risk kontrol tedbirlerinin kararlaştırılması\n\n· Dokümantasyon\n\n· Çalışmaların güncellenmesi ve gerektiğinde yenilenmesi\naşamalarını içerir. (Bakınız Şekil-9)\n\n\n<figure>\n\n5 ADIM\n\nADIM 5:\nİzle ve\nTekrar Et\n\nADIM 1:\nTehlikeleri\nTanımla\n\nADIM 4:\nKontrol Tedbirlerini\nUygula ve\nDokümante Et\n\nADIM 2:\nRiskleri\nBelirle ve Analiz Et\n\nADIM 3:\nKontrol\nTedbirlerine\nKarar Ver\nŞekil 9\n\n</figure>\n\n\nRisk değerlendirmesi çalışması yapılırken ihtiyaç duyulan her aşamada\nçalışanların sürece katılımı sağlanarak görüşleri alınmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 46,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 47,
+      "content": "### Birden Fazla İşveren Olması Durumunda Risk Değerlendirmesi Çalışmaları\n\n\n· Aynı çalışma alanını birden fazla işverenin paylaşması durumunda,\nyürütülen işler için diğer işverenlerin yürüttüğü işler de göz önünde\nbulundurularak ayrı ayrı risk değerlendirmesi gerçekleştirilir.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"29\" -->\n<!-- PageBreak -->\n\n· İşverenler, risk değerlendirmesi çalışmalarını, koordinasyon içinde yü-\nrütür, birbirlerini ve çalışan temsilcilerini tespit edilen riskler konusun-\nda bilgilendirir.\n\n\n<figure>\n\n☒\n\nİŞBİRLİĞİ/\nKOORDINASYON\n\n☒\nRisk\nDeğerlendirmesi\n\n☒ ☒\nRisk\nDeğerlendirmesi\n\nBİLGİLENDİRME\n\nİŞVEREN\n\nİŞVEREN\n\nŞekil 10\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 47,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 48,
+      "content": "### Asıl İşveren ve Alt İşveren İlişkisinin Bulunduğu İşyerlerinde Risk Değerlendirmesi\n\n\n· Her alt işveren, yürüttükleri işlerle ilgili olarak gerekli risk değerlendir-\nmesi çalışmalarını yapar veya yaptırır.\n\n· Asıl işveren, alt işverenin ihtiyaç duyduğu bilgi ve belgeleri sağlar.\n\n· Asıl işveren, alt işverenlerce yürütülen risk değerlendirmesi çalışmala-\nrını denetler ve bu konudaki çalışmaları koordine eder.\n\n· Alt işverenler hazırladıkları risk değerlendirmesinin bir nüshasını asıl\nişverene verir. Asıl işveren; bu risk değerlendirmesi çalışmalarını kendi\nçalışmasıyla bütünleştirerek, risk kontrol tedbirlerinin uygulanıp uygu-\nlanmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar.\n\n<!-- PageNumber=\"30\" -->\n<!-- PageBreak -->\n\nKAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\n<figure>\n\n☒ ☒\nRisk\nDeğerlendirmesi\n\nBİLGİ, BELGE\n\n☒\n\nDENETLEME/\nKOORDINASYON\n\n☒\nRisk\nDeğerlendirmesi\n\nASIL İŞVEREN\n\nALT İŞVEREN\n\n☒\n\n☒\nRisk\nDeğerlendirmesi\n\nASIL İŞVEREN\n\nŞekil 11\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 48,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 49,
+      "content": "### Büyük Kaza Önleme Politika Belgesi veya Güvenlik Raporu Hazırlanması Gereken İşyerlerinde Risk Değerlendirmesi\n\n\n6331 Sayılı İSG Kanunu'nun 29 uncu maddesi gereğince büyük kaza\nönleme politika belgesi veya güvenlik raporu hazırlanan işyerlerinde; bu\nbelge ve raporlarda değerlendirilmiş riskler, İş Sağlığı ve Güvenliği Risk\nDeğerlendirmesi Yönetmeliği'ne göre yapılacak risk değerlendirmesinde\ndikkate alınarak kullanılır.\n\n\n<figure>\n\n!\n\n</figure>\n\n\nİşyerinde çalışanlar, çalışan temsilcileri ve başka iş-\nyerlerinden çalışmak üzere gelen çalışanlar ve bunların\nişverenleri; işyerinde karşılaşılabilecek sağlık ve güven-\nlik riskleri ile düzeltici ve önleyici tedbirler hakkında bil-\ngilendirilir.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"31\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Büyük Kaza Önleme Politika Belgesi veya Güvenlik Raporu Hazırlanması Gereken İşyerlerinde Risk Değerlendirmesi\n\n\n6331 Sayılı İSG Kanunu",
+        "madde_number": null,
+        "chunk_index": 49,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 50,
+      "content": "## Planlama (Risk Değerlendirmesi Ekibi ve Metodolojileri)\n\n\nKurumlarda risk değerlendirmesi yapılmadan önce risk değerlendirme\nekibi belirlenmeli ve uygun risk değerlendirme metodu seçilmelidir. Risk Değerlendirmesi Ekibi: Kamu kurumlarında gerçekleştirilecek\nrisk değerlendirme çalışmaları için oluşturulacak ekip en az aşağıdaki ki-\nşilerden oluşmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 50,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 51,
+      "content": "isk değerlendirme metodu seçilmelidir. Risk Değerlendirmesi Ekibi: Kamu kurumlarında gerçekleştirilecek\nrisk değerlendirme çalışmaları için oluşturulacak ekip en az aşağıdaki ki-\nşilerden oluşmalıdır. · İşveren veya işveren vekili (Bakan Yardımcısı / Kurum Başkan Yardım-\ncısı veya yetkilendirdiği bir idareci olabilir)\n\n· İş Güvenliği Uzmanı ile İşyeri Hekimi\n\n· Çalışan temsilcileri*\n\n· Destek elemanları **\n\n· Bütün birimleri temsil edecek şekilde belirlenen, çalışmalar, tehlikeler\nve riskler konusunda bilgi sahibi çalışanlar\n\n\\* 6331 Sayılı İSG Kanunu Madde 20'ye göre İşveren; işyerinin değişik\nbölümlerindeki riskler ve çalışan sayılarını göz önünde bulundurarak den-\ngeli dağılıma özen göstermek kaydıyla, çalışanlar arasında yapılacak se-\nçimle veya seçimle belirlenemediği durumda atama yoluyla, Şekil-12'de\nbelirtilen sayılarda çalışan temsilcisini görevlendirir:\n\n\n<table>\n<tr>\n<th>İşyerindeki çalışan sayısı</th>\n<th>Çalışan temsilcisi sayısı</th>\n</tr>\n<tr>\n<td>2-50</td>\n<td>1</td>\n</tr>\n<tr>\n<td>51-100</td>\n<td>2</td>\n</tr>\n<tr>\n<td>101-500</td>\n<td>3</td>\n</tr>\n<tr>\n<td>501-1000</td>\n<td>4</td>\n</tr>\n<tr>\n<td>1001-2000</td>\n<td>5</td>\n</tr>\n<tr>\n<td>≥ 2001</td>\n<td>6</td>\n</tr>\n</table>\n\n\nŞekil 12\n\nBirden fazla çalışan temsilcisinin bulunması durumunda baş temsilci,\nçalışan temsilcileri arasında yapılacak seçimle belirlenir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": "20",
+        "chunk_index": 51,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 52,
+      "content": "5</td>\n</tr>\n<tr>\n<td>≥ 2001</td>\n<td>6</td>\n</tr>\n</table>\n\n\nŞekil 12\n\nBirden fazla çalışan temsilcisinin bulunması durumunda baş temsilci,\nçalışan temsilcileri arasında yapılacak seçimle belirlenir. <!-- PageNumber=\"32\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nÇalışan temsilcileri, tehlike kaynağının yok edilmesi veya tehlikeden\nkaynaklanan riskin azaltılması için, işverene öneride bulunma ve işveren-\nden gerekli tedbirlerin alınmasını isteme hakkına sahiptir. Görevlerini yürütmeleri nedeniyle, çalışan temsilcileri ve destek ele-\nmanlarının hakları kısıtlanamaz ve görevlerini yerine getirebilmeleri için\nişveren tarafından gerekli imkânlar sağlanır. İşyerinde yetkili sendika bulunması hâlinde, işyeri sendika temsilcileri\nçalışan temsilcisi olarak da görev yapar. ** Destek elemanı: Asli görevinin yanında iş sağlığı ve güvenliği ile\nilgili önleme, koruma, tahliye, yangınla mücadele, ilk yardım ve benzeri\nkonularda özel olarak görevlendirilmiş uygun donanım ve yeterli eğitime\nsahip kişidir. · İşveren, ihtiyaç duyulduğunda işyeri dışındaki kişi ve kuruluşlardan hiz-\nmet alınabilir. · Koordinasyon, işveren ya da işverenin görevlendirdiği risk değerlendir-\nmesi ekibinde bulunan bir kişi tarafından sağlanabilir. · İşveren, görevlilerin araç, gereç, mekân ve zaman gibi ihtiyaçlarını karşılar ve\ngörevlilerin görevlerini yürütmeleri sebebi ile hak ve yetkilerini kısıtlayamaz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 52,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 53,
+      "content": "an bir kişi tarafından sağlanabilir. · İşveren, görevlilerin araç, gereç, mekân ve zaman gibi ihtiyaçlarını karşılar ve\ngörevlilerin görevlerini yürütmeleri sebebi ile hak ve yetkilerini kısıtlayamaz. · Görevli kişiler işverenin sağladığı bilgi ve belgeleri korur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 53,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 54,
+      "content": "## Risk Değerlendirmesi Metodolojileri\n\n\nRisk analiz yöntemleri iki temel ayrımda değerlendirilebilir. (Bakınız\nŞekil-13)\n\nRisk Analiz Yöntemleri\n\n\n<figure>\n\nKalitatif\nYöntemler\n(Mantıksal)\n\nKantitatif\nYöntemler\n(Matematiksel)\n\nŞekil 13\n\n</figure>\n\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"33\" -->\n<!-- PageBreak -->\n\nKantitatif (matematiksel) risk analizi, riski hesaplarken sayısal yöntem-\nlere başvurur. Kantitatif risk analizinde tehdidin olma ihtimali, tehdidin\netkisi gibi değerlere sayısal değerler verilir ve bu değerler matematiksel\nmetotlar ile işlenerek risk değeri bulunur. Diğer temel risk analizi yöntemi ise kalitatif (mantıksal) risk analizidir. Kalitatif risk analizi riski hesaplarken ve ifade ederken numerik değerler\nyerine yüksek, çok yüksek gibi tanımlayıcı değerler kullanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 54,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 55,
+      "content": "risk analizi yöntemi ise kalitatif (mantıksal) risk analizidir. Kalitatif risk analizi riski hesaplarken ve ifade ederken numerik değerler\nyerine yüksek, çok yüksek gibi tanımlayıcı değerler kullanır. Risk analizi çalışmalarında yerine göre kullanılan bazı örnek metotlar\nşöyle sıralanabilir;\n\n5*5 Matrix Metodu\n\nFine Kinney Metodu\n\nHata Türleri ve Etkileri Analizleri Metodu (Failure Modes and Effects\nAnalysis -(FMEA))\n\n· İşletilebilirlik Analizi Metodu (Hazard and Operability Studies-(HA-\nZOP))\n\n· Hata Ağacı Analizi Metodu (Fault Tree Analysis-(FTA))\n\nOlay Ağacı Analizi Metodu (Event Tree Analysis-(ETA))\n\n\n<table>\n<caption>Örnek Risk Değerlendirme Metodolojileri Karşılaştırma Tablosu</caption>\n<tr>\n<th>Kriterler</th>\n<th>5*5 Matrix</th>\n<th>Fine Kinney</th>\n<th>HAZOP</th>\n<th>FMEA</th>\n<th>FTA</th>\n<th>ETA</th>\n</tr>\n<tr>\n<td>Kalitatif/ Kantitatif</td>\n<td>Kalitatif</td>\n<td>Kantitatif</td>\n<td>Kalitatif</td>\n<td>Kalitatif</td>\n<td>Kalitatif/ Kantitatif</td>\n<td>Kalitatif/ Kantitatif</td>\n</tr>\n<tr>\n<td>Gerekli Doküman İhtiyacı</td>\n<td>Normal</td>\n<td>Çok Fazla</td>\n<td>Çok Fazla</td>\n<td>Çok Fazla</td>\n<td>Çok Fazla</td>\n<td>Çok Fazla</td>\n</tr>\n<tr>\n<td>Ekip Gerekliliği</td>\n<td>Ekip Çalışması</td>\n<td>Ekip Çalışması</td>\n<td>Ekip Çalışması</td>\n<td>Ekip Çalışması</td>\n<td>Ekip Çalışması</td>\n<td>Ekip Çalışması</td>\n</tr>\n<tr>\n<td>Sektörel Ayrım</td>\n<td>Her Sektöre Uygun</td>\n<td>Her Sektöre Uygun</td>\n<td>Kimya Sektörü</td>\n<td>Elektrik/ Makine</td>\n<td>Her Sektöre Uygun</td>\n<td>Her Sektöre Uygun</td>\n</tr>\n<tr>\n<td>Uygulama Başarısı</td>\n<td>Basit prosedürlü işlerde uygulanabilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 55,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 56,
+      "content": "töre Uygun</td>\n<td>Kimya Sektörü</td>\n<td>Elektrik/ Makine</td>\n<td>Her Sektöre Uygun</td>\n<td>Her Sektöre Uygun</td>\n</tr>\n<tr>\n<td>Uygulama Başarısı</td>\n<td>Basit prosedürlü işlerde uygulanabilir. Tecrübeye göre başarı oranı değişir.</td>\n<td>Yüksek tecrübe ve ekip üyelerinin yüksek performansı gerektirir.</td>\n<td>Oldukça zor bir yöntemdir. Yüksek tecrübe ve ekip üyelerinin yüksek performansı gerektirir.</td>\n<td>Analiz öncesinde FTA uygulaması başarı oranını artırır.</td>\n<td>Yüksek tecrübe ve ekip üyelerinin yüksek performansı gerektirir.</td>\n<td>Yüksek tecrübe ve ekip üyelerinin yüksek performansı gerektirir.</td>\n</tr>\n</table>\n\n\n<!-- PageNumber=\"34\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 56,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 57,
+      "content": "## Hangi risk analizi metodunu uygulamalısınız?\n\n\nYöntem seçiminde iki perspektif rol oynar;\n\n· Kaynak: Personel, zaman, metodu iyi bilen bir ekip liderinin varlığı vb.\n\n· Amaç: Analizi yapılacak kurumun/tesisin cinsi (kimya, metal vb.),so-\nnuçların ne amaçla kullanılacağı, analizin derinliği ve kapsamı, analizi\nyapılacak tesisin/prosesin basit veya karmaşık olması vb.\n\nBu bağlamda, her kamu kurumu kendi amaçları doğrultusunda kaynak\nplanlaması yaparak kullanacağı risk analizi metoduna karar vermelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 57,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 58,
+      "content": "### Tehlikeleri Tanımlama\n\n\n1\\) Tehlikeler tanımlanırken çalışma ortamı, çalışanlar ve işyerine ilişkin\nilgisine göre asgari olarak aşağıda belirtilen bilgiler toplanır. · İşyeri bina ve etkileri\n\n· İşyerinde yürütülen faaliyetler ile iş ve işlemler\n\n· Üretim süreç ve teknikleri\n\n· İş ekipmanları\n\n· Kullanılan maddeler\n\n· Artık ve atıklarla ilgili işlemler\n\n· Organizasyon ve hiyerarşik yapı, görev, yetki ve sorumluluklar\n\n· Çalışanların tecrübe ve düşünceleri\n\n· İşe başlamadan önce ilgili mevzuat gereği alınacak çalışma izin belge-\nleri\n\n· Çalışanların eğitim, yaş, cinsiyet ve benzeri özellikleri ile sağlık gözeti-\nmi kayıtları\n\n· Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika ge-\nrektiren gruplar ile kadın çalışanların durumu\n\n· İşyerinin teftiş sonuçları\n\n<!-- PageFooter=\"T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 58,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 59,
+      "content": "ık gözeti-\nmi kayıtları\n\n· Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika ge-\nrektiren gruplar ile kadın çalışanların durumu\n\n· İşyerinin teftiş sonuçları\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"35\" -->\n<!-- PageBreak -->\n\n· İş kazası ve meslek hastalığı kayıtları\n\n· İşyerinde meydana gelen ancak yaralanma veya ölüme neden olmadı-\nğı halde işyeri ya da iş ekipmanının zarara uğramasına yol açan olayla-\nra ilişkin kayıtlar\n\n· Ramak kala olay kayıtları\n\n· Malzeme güvenlik bilgi formları\n\n· Ortam ve kişisel maruziyet düzeyi ölçüm sonuçları\n\n· Varsa daha önce yapılmış risk değerlendirmesi çalışmaları\n\nAcil durum planları\n\n· Sağlık ve güvenlik planı ve patlamadan korunma dokümanı gibi belirli\nişyerlerinde hazırlanması gereken dokümanlar\n\n2\\) Toplanan bilgiler ışığında; iş sağlığı ve güvenliği ile ilgili mevzuatta\nyer alan hükümler de dikkate alınarak, çalışma ortamında bulunabilecek;\n\n· Fiziksel\n\nKimyasal\n\n· Psikososyal\n\n· Ergonomik vb. tehlike kaynaklarından ve bunların etkileşimlerinden ortaya çıkabile-\ncek tehlikeler belirlenir ve kayda alınır. \\* Tehlike belirlemesi yapılırken aşağıdaki hususlar, bu hususlardan et-\nkilenecekler ve ne şekilde etkilenebilecekleri göz önünde bulundurulur.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 59,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 60,
+      "content": "ya çıkabile-\ncek tehlikeler belirlenir ve kayda alınır. \\* Tehlike belirlemesi yapılırken aşağıdaki hususlar, bu hususlardan et-\nkilenecekler ve ne şekilde etkilenebilecekleri göz önünde bulundurulur. · İşletmenin yeri\n\n· Ulaşım yolları\n\n· İşyeri bina ve eklentilerinin plana uygunluğu\n\n· İşyeri bina ve eklentilerinin yapı ve yapım tarzı\n\n· İşyerinde yürütülecek her türlü faaliyet\n\n· İşin yürütümü, üretim teknikleri, kullanılan maddeler\n\n· Elektrik tesisatı, havalandırma ve benzeri yardımcı tesisat ve donanımlar\n\n<!-- PageNumber=\"36\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\n· Yanma, parlama veya patlama ihtimali olan maddeler\n\n· Hijyen koşulları\n\n· Çalışanların yeterli eğitimi almaması\n\n\n<table>\n<tr>\n<th></th>\n<th colspan=\"4\">Örnek</th>\n</tr>\n<tr>\n<th></th>\n<th colspan=\"2\"></th>\n<th></th>\n<th></th>\n</tr>\n<tr>\n<th>TEHLİKE KAYNAĞI</th>\n<th>TEHLİKE</th>\n<th>RİSK</th>\n<th>SONUÇ</th>\n<th>TEDBİR</th>\n</tr>\n<tr>\n<td>Makine ve Tesisat</td>\n<td>Çalışma ortamında yerde düzensiz kabloların bulunması</td>\n<td>Bu ortamda yürürken kablolara takılıp düşmek</td>\n<td>Kolunu kırmak veya yaralanma</td>\n<td>Kabloların yere sabitlenmesi veya yerden kaldırılması</td>\n</tr>\n</table>\n\n\nŞekil-14'de işyerinizde tespit edebileceğiniz tehlike kaynağı olan teh-\nlikeli hareket ve durumların kategorize edilmiş başlıklarını bulabilirsiniz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 60,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 61,
+      "content": "mesi veya yerden kaldırılması</td>\n</tr>\n</table>\n\n\nŞekil-14'de işyerinizde tespit edebileceğiniz tehlike kaynağı olan teh-\nlikeli hareket ve durumların kategorize edilmiş başlıklarını bulabilirsiniz. TEHLİKELİ HAREKET/DURUM\n\n\n<figure>\n\nKİŞİSEL NEDENLER (İNSAN)\n(TEHLİKELİ HAREKET)\n\nFİZİKSEL NEDENLER\n(TEHLİKELİ DURUM)\n\nİş Motivasyonu\nEksikliği\n\nİş Yetersizliği\n\nMakine ve Tesisat\n\nOrtam ve Çevre\n\nTemel Motivasyon\nEksikliği\n(Çalışma İsteği vb.)\n\nFizyolojik Yetenekler\n(Bünye, güç, kuvvet vb.)\n\nYönetim\n\nDirekt Motivasyon\nEksikliği\n(Memnuniyet vb.)\n\nZihinsel Yetenekler\n(Zeka yeteneği, bilgi,\nnitelik vb.)\n\nÇALIŞMA DURUMU\nÇalışma Süresi, istirahat\n\nHİZMET DURUMU\nUygunluk, tecrübe, yetenek\n\nŞekil 14\n\n</figure>\n\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"37\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 61,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 62,
+      "content": "### Risklerin Belirlenmesi ve Analizi\n\n\n· Tespit edilen her bir tehlikenin oluşturacağı risk için;\n\n1\\. Ne sıklıkla oluşabileceği\n\n2\\. Kimlerin, nelerin, ne şekilde ve hangi şiddette zarar görebileceği\nmevcut kontrol tedbirlerinin etkisi de göz önünde bulundurularak be-\nlirlenir.\n\n· Belirlenen riskler;\n\n1\\. İşletmenin faaliyetine ilişkin özellikleri\n\n2\\. İşyerindeki tehlike veya risklerin nitelikleri\n\n3\\. İşyerinin kısıtları\n\n4\\. Ulusal veya uluslararası standartlar\nesas alınarak seçilen yöntem(ler) kullanılarak analiz edilir.\n\n· Farklı işlerin yürütüldüğü bölümler varsa, bahsedilen adımlar tekrarla-\nnır ve bölümlerin etkileşimleri de dikkate alınır.\n\n· Analiz edilen riskler, en yüksek risk seviyesine sahip olandan başlaya-\nrak sıralanır ve yazılı hale getirilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 62,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 63,
+      "content": "#### RİSK SKORU\n\n\n\n<figure>\n\nTEHLİKE\n\nRİSK\n\nETKİ\n\nRİSKİN DERECESİ=\nOLASILIK*ŞİDDET\n\nOLASILIK\n\nŞİDDET\n\n</figure>\n\n\n<!-- PageNumber=\"38\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nRisk aşağıdaki unsurların birleşimidir:\n\n· Bir kaza veya hastalığın meydana gelme olasılığı\n\n· Meydana gelebilecek yaralanma veya rahatsızlığın potansiyel şiddeti\n\n\n<figure>\n\n!\n\n</figure>\n\n\nBir tehlikenin neden olduğu riskin maruz kalan kişiye\ngöre seviyesi farklı olabilir.\n\n\n<table>\n<tr>\n<th>TEHLİKE</th>\n<th>MARUZ KALAN KİŞİ</th>\n<th>RİSK</th>\n<th>RİSK SEVİYESİ</th>\n</tr>\n<tr>\n<td>Koridorun</td>\n<td>Memur (Günde 8 kez)</td>\n<td rowspan=\"2\">Kayma, Düşme</td>\n<td>Orta</td>\n</tr>\n<tr>\n<td>kaygan zemini</td>\n<td>Çay servisi yapan hizmetli (Günde 40 kez)</td>\n<td>Yüksek</td>\n</tr>\n</table>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 63,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 64,
+      "content": "### Dokümantasyon\n\n\n1\\) Risk değerlendirmesi asgarî aşağıdaki hususları kapsayacak şekilde\ndokümante edilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 64,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 65,
+      "content": "### Risk Değerlendirmesi Dokümanında Bulunması Gerekenler\n\n\nİşyerinin ünvanı, adresi, işverenin adı\n\nGerçekleştiren kişilerin isim, unvan ve belge bilgileri\nGerçekleştirilme tarihi ve bitiş tarihi\n\nRisk değerlendirmesi işyerindeki farklı bölümler için ayrı ayrı yapılmış-\nsa her birinin adı\n\nBelirlenen tehlike kaynakları ve tehlikeler\n\nTespit edilen riskler\n\nRisk analizinde kullanılan yöntemler\n\nRisklerin önem ve öncelik sırasına göre analiz sonuçları\n\nDüzeltici ve önleyici kontrol tedbirleri, tarihleri, sonrasında tespit edi-\nlen risk seviyesi\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"39\" -->\n<!-- PageBreak -->\n\n2\\) Risk değerlendirmesi dokümanının;\n\n\n<figure>\n\nHer sayfası\nnumaralandırılacak.\n\nGerçekleştirilen\nkişiler tarafından\nher sayfası\nparaflanacak.\n\nGerçekleştirilen\nkişiler tarafından\nson sayfası\nimzalanacak.\n\nİşyerinde\nsaklanacak.\n\n</figure>\n\n\n3\\) Risk değerlendirmesi dokümanı elektronik ve benzeri ortamlarda\nhazırlanıp arşivlenebilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 65,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 66,
+      "content": "## Planlama\n\n\nAnaliz edilerek etkilerinin büyüklüğüne ve önemine göre sıralı hale ge-\ntirilen risklerin kontrolü amacıyla bir planlama yapılır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 66,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 67,
+      "content": "## · Risk kontrol tedbirlerinin kararlaştırılması\n\n\nRiskin tamamen bertaraf edilmesi, bu mümkün değil ise riskin kabul\nedilebilir seviyeye indirilmesi için şu adımlar uygulanır.\n\n1\\) Tehlike veya tehlike kaynaklarının ortadan kaldırılması.\n\n2\\) Tehlikelinin, tehlikeli olmayanla veya daha az tehlikeli olanla değiş-\ntirilmesi.\n\n3\\) Riskler ile kaynağında mücadele edilmesi.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 67,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 68,
+      "content": "## · Risk kontrol tedbirlerinin uygulanması\n\n\nKararlaştırılan tedbirlerin iş ve işlem basamakları, işlemi yapacak kişi\nya da işyeri bölümü, sorumlu kişi ya da işyeri bölümü, başlama ve bitiş\ntarihi ile benzeri bilgileri içeren planlar hazırlanır. Bu planlar işverence uy-\ngulamaya konulur.\n\n<!-- PageNumber=\"40\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 68,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 69,
+      "content": "## · Uygulamaların izlenmesi\n\n\nHazırlanan planların uygulama adımları düzenli olarak izlenir, denetle-\nnir ve aksayan yönler tespit edilerek gerekli düzeltici ve önleyici işlemler\ntamamlanır.\n\n\n<figure>\n\nTehlikeyi Ortadan Kaldır\n\nTehlikeyi Tanımla\nRiski Belirle\n\nTehlikeyi İkame Et\n\nRiski Analiz Et\n\nTehlikeyi İzole Et\n\nKKD Kullan\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 69,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 70,
+      "content": "## Risk Değerlendirmesinin Gözden Geçirilmesi ve Yenilenmesi\n\n\nYapılmış olan risk değerlendirmesi tehlike sınıfına göre aşağıdaki yıl-\nlarda yenilenir;\n\n\n<figure>\n\n2\n\n+Çok tehlikeli sınıfta\nyer alan işyerleri\n\n4\n\n\\> Tehlikeli sınıfta yer\nalan işyerleri\n\n6\n\n\\> Az tehlikeli sınıfta\nyer alan işyerleri\n\n</figure>\n\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"41\" -->\n<!-- PageBreak -->\n\nAyrıca, aşağıda belirtilen durumlarda ortaya çıkabilecek yeni risklerin,\nişyerinin tamamını veya bir bölümünü etkiliyor olması göz önünde bulun-\ndurularak risk değerlendirmesi tamamen veya kısmen yenilenir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 70,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 71,
+      "content": ", aşağıda belirtilen durumlarda ortaya çıkabilecek yeni risklerin,\nişyerinin tamamını veya bir bölümünü etkiliyor olması göz önünde bulun-\ndurularak risk değerlendirmesi tamamen veya kısmen yenilenir. <figure>\n\nİşyerinde\nuygulanan\nteknoloji,\nkullanılan\nmadde ve\nekipmanlarda\ndeğişiklikler\nmeydana\ngelmesi\n\nİşyerinin\ntaşınması veya\nbinalarda\ndeğişiklik\nyapılması\n\nİşyeri dışından\nkaynaklanan\nve işyerini\netkileyebilecek\nyeni bir\ntehlikenin\nortaya çıkması\n\nÜretim\nyönteminde\ndeğişiklikler\nolması\n\nRisk\nDeğerlendirmesinin\nYenilenmesini\nGerektiren Nedenler\n\nÇalışma ortamı\nölçümü ve\nsağlık gözetim\nsonuçlarına\ngöre gerekli\ngörülmesi\n\nİş kazası,\nmeslek\nhastalığı veya\nramak kala\nolay meydana\ngelmesi\n\nÇalışma\nortamına ait\nsınır değerlere\nilişkin bir\nmevzuat\ndeğişikliği\nolması\n\n</figure>\n\n\nİşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya\niş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit\nedildiğinde; bu tehlike giderilinceye kadar, hayati tehlikenin niteliği ve bu\ntehlikeden doğabilecek riskin etkileyebileceği alan ile çalışanlar dikkate alı-\nnarak, işyerinin bir bölümünde veya tamamında iş durdurulur. Ayrıca çok\ntehlikeli sınıfta yer alan maden, metal ve yapı işleri ile tehlikeli kimyasallarla\nçalışılan işlerin yapıldığı veya büyük endüstriyel kazaların olabileceği işyer-\nlerinde, risk değerlendirmesi yapılmamış olması durumunda iş durdurulur. <!-- PageNumber=\"42\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 71,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 72,
+      "content": "# ÇALIŞANLARIN İSG EĞİTİMİ\n\n\n· Tüm kamu ve özel işyerleri 6331\nÇALIŞANLARIN\nEĞİTİMİ\nsayılı İş Sağlığı ve Güvenliği\nKanunu kapsamına alınması ile\nbirlikte birçok düzenleyici yö-\nnetmelik yayımlanmış ve ilgili\nmevzuatlarla işyerlerinin sağla-\nması gereken iş sağlığı ve gü-\nİSG Eğitimleri\nvenliği hizmetleriyle ilgili çeşitli\nzorunluluklar getirildiği daha\nönce konu edilmiştir. Bu zorun-\nluluklardan en önemlilerinden\nbiri çalışanların eğitimleridir. İSG eğitimleri\n(Tüm tehlike\nsınıfları)\nÇalışanlara verilecek iş sağlığı\nve güvenliği eğitimlerinin usul\nve esasları 28648 sayılı Resmi\nGazete 'de yayımlanan Çalışanların İş Sağlığı ve Güvenliği Eğitimleri-\nnin Usul ve Esasları Hakkında Yönetmelik'te belirtilmiştir. Yönetmelik,\n20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsa-\nmında bulunan kamu dâhil tüm işyerlerini, bu işyerlerinde çalışanlara\neğitim verecek kişi, kurum ve kuruluşları kapsamaktadır. <figure>\n\nMesleki Eğitimler\n\nYapılan işle ilgili\nmesleki eğitim\n(Çok tehlikeli ve\ntehlikeli sınıf)\n\n</figure>\n\n\n· Kamu kurumları, işçi-memur veya\nişyerinin tehlike sınıfının ayrımı ol-\nmaksızın tüm çalışanlarına iş sağlı-\nğı ve güvenliği eğitimini aldırmak\nile yükümlüdür. İSG eğitimi özel-\nlikle; işe başlamadan önce, çalışma\nyeri veya iş değişikliğinde, iş ekipmanının değişmesi hâlinde veya yeni\nteknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan\nyeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla\ntekrarlanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Tüm kamu ve özel işyerleri 6331\nÇALIŞANLARIN\nEĞİTİMİ\nsayılı İş Sağlığı ve Güvenliği\nKanunu",
+        "madde_number": null,
+        "chunk_index": 72,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 73,
+      "content": "ekipmanının değişmesi hâlinde veya yeni\nteknoloji uygulanması hâlinde verilir. Eğitimler, değişen ve ortaya çıkan\nyeni risklere uygun olarak yenilenir, gerektiğinde ve düzenli aralıklarla\ntekrarlanır. <figure>\n</figure>\n\n\nMesleki eğitim alma zorunluluğu bulunan tehlikeli ve çok tehlikeli sınıfta\nyer alan işlerde, yapacağı işle ilgili mesleki eğitim aldığını belgeleyemeyen-\nler çalıştırılamaz. <!-- PageNumber=\"43\" -->\n<!-- PageBreak -->\n\nKamu kurumlarının çalışanlarına sunduğu eğitimin temel beklentisi,\nyetişkin bireylere uygun içerikle güvenlik kültürü anlayışını benimsetecek\nbir yaklaşım olmalıdır. · Eğitimin maliyeti çalışanlara yansıtılmamalıdır ve eğitimlerde geçen\nsüre çalışma süresinden sayıldığı unutulmamalıdır. · Çalışanların ihtiyacı olan konuların seçilmesine özen gösterilerek teorik\nve uygulamalı eğitimler düzenlenmelidir. · Eğitimler, çalışanlarda iş sağlığı ve güvenliğine yönelik davranış deği-\nşikliği sağlamayı ve eğitimlerde aktarılan bilgilerin öneminin çalışanlar-\nca kavranmasını amaçlamalıdır. · Verilen eğitimin sonunda ölçme ve değerlendirme yapılmalı; değerlen-\ndirme sonuçlarına göre eğitimin etkin olup olmadığı belirlenerek, ihti-\nyaç duyulması halinde, eğitim programında veya eğiticilerde değişiklik\nyapılmalı veya eğitim tekrarlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 73,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 74,
+      "content": "ılmalı; değerlen-\ndirme sonuçlarına göre eğitimin etkin olup olmadığı belirlenerek, ihti-\nyaç duyulması halinde, eğitim programında veya eğiticilerde değişiklik\nyapılmalı veya eğitim tekrarlanmalıdır. · Tehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde; yapılacak işlerde\nkarşılaşılacak sağlık ve güvenlik riskleri ile ilgili yeterli bilgi ve talimat-\nları içeren eğitimin alındığına dair belge olmaksızın, başka işyerlerin-\nden çalışmak üzere gelen çalışanların işe başlatılamayacakları hususu-\nna dikkat edilmelidir. · Ayrıca, geçici iş ilişkisi kurulan işverenin, iş sağlığı ve güvenliği riskleri-\nne karşı çalışana gerekli eğitimin verilmesini sağlaması gerektiği unu-\ntulmamalıdır. <figure>\n\nYıllık çalışma planları hazırlanır\n\nTüm çalışanların İSG eğitimleri alması sağlanır\n\nEğitimden önce çalışanların seviyeleri belirlenir\n\nYönetmeliğin ekinde yer alan konular ile ihtiyaç duyulan konular hakkında eğitim verilir\n\nEğitim sonrası ölçme ve değerlendirme yapılır\n\nEğitimin etkin olmadığına karar verilirse eğitim programında ya da eğiticilerde değişiklik\nyapılarak eğitim tekrarlanır\n\n</figure>\n\n\n<!-- PageNumber=\"44\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nÇalışanlara verilecek iş sağlığı ve güvenliği eğitimleri tehlike sınıfına\ngöre süre olarak değişmektedir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 74,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 75,
+      "content": "PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nÇalışanlara verilecek iş sağlığı ve güvenliği eğitimleri tehlike sınıfına\ngöre süre olarak değişmektedir. Kurumlar çalışanlarına, az tehlikeli sınıfta 3 yılda en az bir defa ve en az\n8 saat, tehlikeli sınıfta 2 yılda en az bir defa ve en az 12 saat, çok tehlikeli\nsınıfta ise 1 yılda en az 1 defa ve en az 16 saat iş sağlığı ve güvenliği konu-\nsunda eğitim vermek zorundadır. Bu eğitimlerin 1 saat ve katları şeklinde\nfarklı zaman dilimlerinde de değerlendirilebileceği Yönetmelik ile hüküm\naltına alınmıştır. <figure>\n\nAz tehlikeli\nişyerleri\n\n· 8 saat / 3 yılda\n\nTehlikeli işyerleri\n\n· 12 saat / 2 yılda\n\nÇok tehlikeli\nişyerleri\n\n· 16 saat / 1 yılda\n\n</figure>\n\n\nÇalışanlara verilecek İSG eğitimleri Tablo-1'deki konu başlıklarını içer-\nmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 75,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 76,
+      "content": "## İSG EĞİTİMLERİ\n\n\n· İşyerinde görevli İSG profesyonelleri,\n\n· ÇSGB tarafından yetkilendirilen eğitim kurumları ve OSGB' ler,\n\n· Üniversiteler,\n\n· Kamu kurumlarının eğitim birimleri,\n\n· Kamu kurumu niteliğindeki meslek kuruluşları,\n\n· İşçi, işveren ve kamu görevlileri kuruluşları\n\n· Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi,\n\n· Çalışanlara ücretsiz eğitim hizmeti veren ve kamu yararına kuruluş statüsüne haiz, eğitim\namaçlı kurulmuş vakıflar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 76,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 77,
+      "content": "## tarafından verilebilir.\n\n\nİş kazası geçiren veya meslek hastalığına yakalanan çalışana işe dönü-\nşünde çalışmaya başlamadan önce, kazanın veya meslek hastalığının se-\nbepleri, korunma yolları ve güvenli çalışma yöntemleri ile ilgili ilave eğitim\nve herhangi bir sebeple altı aydan fazla süreyle işten uzak kalanlara, tekrar\nişe başlatılmadan önce bilgi yenileme eğitimi verilir.\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"45\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 77,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 78,
+      "content": "#### 1. Genel konular\n\n\na) Çalışma mevzuatı ile ilgili bilgiler,\n\nb) Çalışanların yasal hak ve sorumlulukları,\n\nc) İşyeri temizliği ve düzeni,\n\nç) İş kazası ve meslek hastalığından doğan hukuki sonuçlar",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 78,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 79,
+      "content": "#### 2. Sağlık konuları\n\n\na) Meslek hastalıklarının sebepleri,\n\nb) Hastalıktan korunma prensipleri ve korunma tekniklerinin uygulanması,\n\nc) Biyolojik ve psikososyal risk etmenleri,\n\nç) İlkyardım\n\nd) Tütün ürünlerinin zararları ve pasif etkileninim",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 79,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 80,
+      "content": "#### 3. Teknik konular\n\n\na) Kimyasal, fiziksel ve ergonomik risk etmenleri,\n\nb) Elle kaldırma ve taşıma,\n\nc) Parlama, patlama, yangın ve yangından korunma,\n\nç) İş ekipmanlarının güvenli kullanımı,\n\nd) Ekranlı araçlarla çalışma,\n\ne) Elektrik, tehlikeleri, riskleri ve önlemleri,\n\nf) İş kazalarının sebepleri ve korunma prensipleri ile tekniklerinin\nuygulanması,\n\ng) Güvenlik ve sağlık işaretleri,\n\nğ) Kişisel koruyucu donanım kullanımı,\n\nh) İş sağlığı ve güvenliği genel kuralları ve güvenlik kültürü,\n\n1\\) Tahliye ve kurtarma\n\n4\\. Diğer konular (çalışanın yaptığı işe özgü yüksekte çalışma, kapalı ortamda\nçalışma, radyasyon riskinin bulunduğu ortamlarda çalışma, kaynakla çalışma,\nözel risk taşıyan ekipman ile çalışma, kanserojen maddelerin yol açtığı olası\nsağlık riskleri ve benzeri)\n\n· Düzenlenen işe başlama eğitimi, temel eğitim, bilgi yenileme eğitimi,\nilave eğitim ve benzeri tüm eğitimler belgelendirilerek çalışanın özlük\ndosyasında saklanır. Hazırlanan eğitim katılım tutanağında eğitimin\ndüzenlendiği yer ve tarih, katılımcıların adı, soyadı ve imzası, eğiticinin\nadı, soyadı ve imzası ile eğitimin konusu ve süresi yer alır.\n\n· Eğitimlerin işyeri dışındaki bir kurum tarafından verilmesi durumunda\nbu kurumun unvanı da düzenlenen sertifikada yer almalıdır.\n\n<!-- PageNumber=\"46\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 80,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 81,
+      "content": "## ÇALIŞANLARIN SAĞLIK GÖZETİMİ\n\n\nÇalışanların büyük bir bölümü iş sağlığı hizmetlerinden tam anlamı\nile yararlanmadan çalışmaya devam etmektedir. Değişen çalışma koşul-\nları, iş sağlığı hizmetlerine olan ihtiyacı da artırmaktadır. Temel iş sağlığı\nhizmetleri; ekonomi sektörüne, işletme büyüklüğüne, coğrafi alana veya\niş sözleşmesinin içeriğine bakılmaksızın dünyadaki her çalışan birey için\ngerekli ve kamu kurumları içinde\nbir zorunluluktur. İş sağlığı hizmet-\nleri önceden sağlanmamışsa, tüm\nkurumların bir hazırlık yönelimine\nihtiyacı vardır.\n\n\n<figure>\n</figure>\n\n\nÇalışma ortamının gözetimi ile\nçalışan sağlığı gözetimi temel iş sağlığı hizmetlerinin önemli bir parçasıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 81,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 82,
+      "content": "### İş Sağlığı Gözetimi Kavramı\n\n\nBu kavram, çalışma ortamının gözetimi ile çalışanın sağlık gözetiminin\nbileşkesidir. Çalışanların sağlığının korunması ve geliştirilmesi amacıyla\nmesleki hastalıkları önlemeye yönelik yapılan tıbbi muayene ve tetkikler\nile tüm çalışmaların kayıt altına alınmasını, değerlendirilmesini ve bildiri-\nmini de içeren sağlığı koruyucu tüm çalışmalar, ilkyardım, acil tedavi, re-\nhabilitasyon ve sağlığı geliştirme bu kavramın içindedir. <figure>\n\nÇalışma\nortamı\ngözetimi\n\nİş Sağlığı\nGözetimi\n\nÇalışanların\nsağlık\ngözetimi\n\n</figure>\n\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"47\" -->\n<!-- PageBreak -->\n\nÇalışanın mesleği, eğitimi, becerileri, öz geçmişi, aile yapısı, soy geç-\nmişi, alışkanlıkları, fizik ve psikolojik yapısı bir bütün olarak ele alınmalıdır. Çalışma ortamı da bir bütün olarak değerlendirilmelidir. Fiziksel, kimyasal,\nbiyolojik, psikososyal, ergonomik pek çok sorun bir arada çalışanın sağ-\nlığını tehdit etmektedir. Bir başka deyişle fiziksel, psikososyal ve kültürel\nyapısıyla bir bütün olarak ele alınan çalışanın etrafındaki tüm risk etkenleri\nbir bütün olarak değerlendirilmelidir. Kamuya ait birimlerde sağlık gözetiminin yerine getirilmesinde idari\namir asıl sorumlu olmakla birlikte, üst yönetim de gerekli çalışmaları yap-\nmak ve yapılan çalışmaları izlemekten sorumludur. Bu kapsamda işverenin sağlık gözetimi ile ilgili olarak 6331 sayılı İş\nSağlığı ve Güvenliği Kanununun 15.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 82,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 83,
+      "content": "kte, üst yönetim de gerekli çalışmaları yap-\nmak ve yapılan çalışmaları izlemekten sorumludur. Bu kapsamda işverenin sağlık gözetimi ile ilgili olarak 6331 sayılı İş\nSağlığı ve Güvenliği Kanununun 15. Maddesinde de belirtilen 2 temel gö-\nrevi vardır:\n\n\n<figure>\n\nÇalışanların sağlık gözetimine tabi tutulmalarını sağlamak\n\nAşağıdaki hallerde sağlık muayenelerinin yapılmasını sağlamak\n\n· İşe girişlerde\n\n· İş değişikliklerinde\n\n· İş kazası, meslek hastalığı veya sağlık nedeniyle tekrarlanan işten\nuzaklaşmalarından sonra işe dönüşlerinde talep etmeleri hâlinde. · İşin devamı süresince, çalışanın ve işin niteliği ile işyerinin tehlike\nsınıfına göre Bakanlıkça belirlenen düzenli aralıklarla. </figure>\n\n\nTehlikeli ve çok tehlikeli sınıfta yer alan işyerlerinde çalışacaklar, ya-\npacakları işe uygun olduklarını belirten sağlık raporu olmadan işe başla-\ntılamaz. Alınması gereken sağlık raporları, işyeri hekiminden alınır. 50'den\naz çalışanı bulunan ve az tehlikeli işyerleri için ise kamu hizmet sunucuları\nveya aile hekimlerinden de alınabilir. Raporlara itirazlar Sağlık Bakanlığı\ntarafından belirlenen hakem hastanelere yapılır, verilen kararlar kesindir. <!-- PageNumber=\"48\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nSağlık gözetiminden doğan maliyet ve bu gözetimden kaynaklı her\ntürlü ek maliyet işverence karşılanır, çalışana yansıtılamaz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Bu kapsamda işverenin sağlık gözetimi ile ilgili olarak 6331 sayılı İş\nSağlığı ve Güvenliği Kanunu",
+        "madde_number": null,
+        "chunk_index": 83,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 84,
+      "content": "İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nSağlık gözetiminden doğan maliyet ve bu gözetimden kaynaklı her\ntürlü ek maliyet işverence karşılanır, çalışana yansıtılamaz. Sağlık muaye-\nnesi yaptırılan çalışanın özel hayatı ve itibarının korunması açısından sağlık\nbilgileri gizli tutulur. İşyerinde tehlike kaynakları ne ise o kaynağa uygun sağlık gözetimi\nplanlanmalıdır. Bunun için de öncelikle işyerindeki tehlikeler belirlenme-\nli, kimlerin, nasıl zarar görebileceği saptanmalı, risklerin analizi yapılmalı,\nbunun sonucuna göre alınacak kontrol önlemlerine karar verilmeli ve ön-\nlemler uygulamaya konulup risk değerlendirmesi gözden geçirilmeli ve\ngerekli durumlarda güncellenmelidir. İşyeri hekimi bu görevlerini yerine\ngetirmek için işyerini ve yapılan işi tanımalıdır. İşyerinde temel görevi koruyucu hekimlik olan işyeri hekimi çalışanın\nsağlığını koruyabilmek, gözetebilmek için, işyeri durum saptaması yapma-\nlı, çalışma koşulları ve çalışma ilişkileri hakkında bilgi sahibi olmalıdır. \"Risk\nDeğerlendirme\" çalışmalarına katılmalı ve sonuçlarına hâkim olmalıdır. Risk değerlendirmesi ideal sağlık gözetiminin olmazsa olmazı ve sağlık\ngözetiminin ilk hareket noktasıdır. İşyeri hekimi işe sağlık gözetimi ile başlamalıdır. Sağlık gözetimi;\n\n1\\.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 84,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 85,
+      "content": "na hâkim olmalıdır. Risk değerlendirmesi ideal sağlık gözetiminin olmazsa olmazı ve sağlık\ngözetiminin ilk hareket noktasıdır. İşyeri hekimi işe sağlık gözetimi ile başlamalıdır. Sağlık gözetimi;\n\n1\\. Çalışma Ortamı Gözetimi,\n\nÇalışma ortamı gözetimi kapsamında yapılması öngörülen ölçüm ve\nanalizler \"İş Hijyeni Ölçüm, Test ve Analiz Laboratuvarları Hakkında Yö-\nnetmelik\" hükümlerine istinaden yetkilendirilen laboratuvarlar tarafından\nyapılır. 2\\. Çalışanların Sağlık Gözetimi:\n\na. İşe Giriş Muayenesi, Ek ve Tamamlayıcı Muayeneleri,\n\nb. Erken Kontrol Muayenesi, İşe Dönüş Muayeneleri,\n\nc. Aralıklı Kontrol Muayenesi (AKM),\n\nd. İşten Ayrılma Muayenesi ve Geç Muayeneleri,\n\ne. Bağışıklama,\n\nf. Erken Tanı,\n\ng. Yer-İş Değişikliği,\n\nh. Sağlık ve Beslenme Eğitimi,\n\ni. Kayıtların tutulması, verilerin değerlendirilmesi ve bildirilmesi\nkonularını içermelidir. <!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"49\" -->\n<!-- PageBreak -->\n\nİşyeri hekimi işyeri ortamını etkileyen; psikososyal, ergonomik, biyolo-\njik, kimyasal ve fiziksel tehlike kaynaklarını ve riskli noktaları belirlemeli,\nrisk faktörlerini saptamalıdır. Bu risklere maruz kalan çalışanların kimler\nolduğunu bilmelidir. İşyeri içinde bunları yaparken, önceden hazırlanmış,\nçalışanların adları, görevleri ve yaşlarının kayıtlı olduğu listeye gerekli\nnotları düşmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 85,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 86,
+      "content": "aruz kalan çalışanların kimler\nolduğunu bilmelidir. İşyeri içinde bunları yaparken, önceden hazırlanmış,\nçalışanların adları, görevleri ve yaşlarının kayıtlı olduğu listeye gerekli\nnotları düşmelidir. Kamu kurumlarında temel olarak büro hizmetleri de-\nğerlendiriliyor gibi görülse de yapılan çalışmalara göre vardiyalı çalışılan,\ngece çalışması yapılan, ağır iş yükü olan, yüksek tempolu çalışılan veya\nçalışma süresi uzun olan riskli çalışma türleri de saptanmalıdır. Riskli ça-\nlışma koşulları işyeri hekimince bilinmelidir. İşyeri hekimi işyerinin genel\nhijyen koşullarını (işyerinin genel temizliği, içme suyu, kullanma suyu,\nyemek yapılan ve yenilen yerler, soyunma odaları ve dolapları, yıkanma\nyerleri, lavabo, tuvalet) saptamalı işyerindeki çalışma ilişkileri hakkında da\nbilgi sahibi olmalıdır. Kişisel ilişkiler (çalışanların; birbirleriyle, amirleriy-\nle, sağlık çalışanlarıyla, işyeri yakınındaki başka işyeri çalışanlarıyla), toplu\niş ilişkileri, sendikanın varlığı, kişilerin iş sağlığı ve güvenliğine yaklaşımı,\nalınan önlemlere yaklaşımı, işyerinde güvenlik kültürünün düzeyi ile ilgili\ngözlemlerde bulunmalıdır. İşyeri hekimi çalışma ortamı ziyaretlerinde hem\niyi bir gözlemci olmalı hem de çalışanlarla yaptıkları iş konusunda görü-\nşerek bilgi ve deneyimini artırmalıdır. Bir kamu çalışanının karşılaşabile-\nceği sağlık sorunları konusunda bilgi sahibi olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 86,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 87,
+      "content": "ir gözlemci olmalı hem de çalışanlarla yaptıkları iş konusunda görü-\nşerek bilgi ve deneyimini artırmalıdır. Bir kamu çalışanının karşılaşabile-\nceği sağlık sorunları konusunda bilgi sahibi olmalıdır. Aynı çalışanın farklı\ngünlerde farklı işler yapabileceği, farklı yerlerde görev alabileceği, farklı\ntehlike kaynaklarından etkilenebileceği göz önünde bulundurulmalıdır. Yapılan tüm iş sağlığı temelli çalışmalar iş güvenliği ile birlikte ele alın-\nmalı, işyerinin genel sağlık hareket planı oluşturulmalıdır. Tüm çalışanların\nsağlıklı bir ortamda çalışmaları, sağlıklarının korunması ve gelişen olum-\nsuzlukların takip altında tutularak mümkün ise tedavi edilmesi, mümkün\nolmadığı durumlarda sağlık sorunlarının ilerlemesinin önlenmesi işyerinde\nsağlık gözetiminin temel unsurlarındandır. Ana amacın önleyici sağlık hizmetleri olduğu göz önünde bulunduru-\nlarak planlama, işyerinin tüm kısımları ve çalışmaların tamamı için yapıl-\nmalı ve planlamaya göre sağlık gözetimi hayata geçirilmelidir. <!-- PageNumber=\"50\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nÇalışanların sağlık (periyodik) muayeneleri\n\n\n<figure>\n\nAz tehlikeli\nişyerleri\nçalışanları\n\n\\* En geç 5 yılda bir\n\nTehlikeli işyerleri\nçalışanları\n\n\\* En geç 3 yılda bir\n\nÇok tehlikeli\nişyerleri\nçalışanları\n\n\\* En geç yılda bir\n\nÖzel politika\ngerektiren\ngrupta yer alan\nçalışanlar\n\n\\* En geç 6 ayda bir\n\nYenilenir\n\n</figure>\n\n\n<figure>\n\n!",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 87,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 88,
+      "content": "ışanları\n\n\\* En geç 3 yılda bir\n\nÇok tehlikeli\nişyerleri\nçalışanları\n\n\\* En geç yılda bir\n\nÖzel politika\ngerektiren\ngrupta yer alan\nçalışanlar\n\n\\* En geç 6 ayda bir\n\nYenilenir\n\n</figure>\n\n\n<figure>\n\n! </figure>\n\n\nÇalışanın kişisel özellikleri, işyerinin tehlike sınıfı ve\nişin niteliği öncelikli olarak göz önünde bulundurularak\nuluslararası standartlar ile işyerinde yapılan risk değer-\nlendirmesi sonuçları doğrultusunda işyeri hekimi tara-\nfından gerekli görülmesi halinde tabloda belirtilen süre-\nlerin kısaltılabileceği göz önünde bulundurulmalıdır. <!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"51\" -->\n<!-- PageBreak -->\n\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 88,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 89,
+      "content": "# ACİL DURUM PLANI\n\n\n\n<figure>\n\nAcil durumların\nbelirlenmesi\n\nAcil durum\nplanlarının\nyenilenmesi\n\nTatbikat\n\nÖnleyici ve\nsınırlayıcı\ntedbirlerinin\nalınması\n\nDökümantasyon\n\nGörevlendirilecek\nkişilerin\nbelirlenmesi\n\nMüdahale ve\ntahliye\nyöntemlerinin\noluşturulması\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 89,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 90,
+      "content": "## DİKKAT EDİLMESİ GEREKEN HUSUSLAR\n\n\nRisk değerlendirmesi sonuçları\n\nYangın ve kimyasal maddelerden kaynaklı yayılım ve patlama ihtimali\n\nİlk yardım ve tahliye gerektirecek olaylar\n\nDoğal afetler\n\nSabotaj\n\n<!-- PageNumber=\"53\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 90,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 91,
+      "content": "## ACİL DURUM İÇİN ÇALIŞAN GÖREVLENDİRİLMESİ\n\n\n\n<figure>\n\nSöndürme\n\nAz tehlikeli\n\nTehlikeli\n\nÇok tehlikeli\n\n50 çalışana\nkadar\n\n40 çalışana\nkadar\n\n30 çalışana\nkadar\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\nKurtarma\n\nAz tehlikeli\n\nTehlikeli\n\nÇok\ntehlikeli\n\n50 çalışana\nkadar\n\n40 çalışana\nkadar\n\n30 çalışana\nkadar\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\nKoruma\n\nİlk yardım\n\nAz tehlikeli\n\nTehlikeli\n\nÇok\ntehlikeli\n\nAz tehlikeli\n\nTehlikeli\n\nÇok\ntehlikeli\n\n50 çalışana\nkadar\n\n40 çalışana\nkadar\n\n30 çalışana\nkadar\n\nHer 20\nçalışan için\n\n15 çalışana\nkadar\n\n10 çalışana\nkadar\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\n1 kişi\n\n</figure>\n\n\n<!-- PageNumber=\"54\" -->\n<!-- PageFooter=\"3\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 91,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 92,
+      "content": "### Örnek Uygulama\n\n\n110 çalışanı bulunan az tehlikeli sınıfta yer alan bir kamu kurumu için\nacil durum ekibi;\n\nSöndürme ekibi: 110=50+50+10\n\nİlgili Yönetmelik her 50 çalışana kadar demekte olup 50'nin katını ge-\nçen durumlarda da görevlendirme yapmak gerektiğini hüküm altına al-\nmıştır. Bizim örneğimizde görüldüğü gibi 110 çalışanı bulunan bu\nişyerinde söndürmeden sorumlu 3 kişi görevlendirilmesi gerekmektedir\n\nKurtarma ekibi: 110=50+50+10\n\n110 çalışanı bulunan bu işyerinde kurtarmadan sorumlu 3 kişi\ngörevlendirilmesi gerekmektedir. Koruma ekibi: 110=50+50+10\n\n110 çalışanı bulunan bu işyerinde korumadan sorumlu 3 kişi\ngörevlendirilmesi gerekmektedir. İlk yardım ekibi: 110=20*5+10\n\nİlkyardım Yönetmeliği az tehlikeli sınıfta yer alan işyerleri için her 20\nçalışan için 1 ilkyardımcı görevlendirilmesi gerektiğini hüküm altına almış\nolup 20'nin katlarının aşıldığı durumlarda geriye kalan sayıyı dikkate al-\nmamıştır. Örneğimizde görüldüğü gibi 110 çalışan için 5 kişi görevlendirmek ye-\nterli olup arta kalan 10 kişi için görevlendirme yapmaya gerek yoktur. Tehlikeli veya çok tehlikeli sınıfta yer alan işyerleri için ilkyardımcı gö-\nrevlendirme yükümlülüğü, az tehlikeli sınıfta yer alan işyerlerinden farklı\nolup, arama kurtarma, tahliye ekipleri veya yangınla mücadele ekipleri\niçin yapılan hesaplama ile aynı olacaktır. <!-- PageFooter=\"T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "10\n\nİlgili Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 92,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 93,
+      "content": "yükümlülüğü, az tehlikeli sınıfta yer alan işyerlerinden farklı\nolup, arama kurtarma, tahliye ekipleri veya yangınla mücadele ekipleri\niçin yapılan hesaplama ile aynı olacaktır. <!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"55\" -->\n<!-- PageBreak -->\n\nTATBİKAT\n\n\n<figure>\n\nYılda en az\nbir tatbikat\n\nDüzeltici ve\nönleyici\nfaaliyet\n\nTatbikat\nraporu\n\n</figure>\n\n\nACİL DURUM PLANLARI NE ZAMAN YENİLENİR\n\n\n<figure>\n\nAz\ntehlikeli\nişyerleri\n\n· 6 yılda bir\n\nTehlikeli\nişyerleri\n\n· 4 yılda bir\n\nÇok\ntehlikeli\nişyerleri\n\n· 2 yılda bir\n\n</figure>\n\n\nBelirlenmiş acil durumları\netkileyebilecek değişiklik\n\nYeni acil durumların ortaya çıkmasına\nneden olabilecek değişiklik\n\n<!-- PageNumber=\"56\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 93,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 94,
+      "content": "# KAMU KURUMLARINDA İŞ SAĞLIĞI VE GÜVENLİĞİ (İSG) KURULU\n\n\nİş sağlığı ve güvenliği; işyerlerinde iş kazalarının ve meslek hastalık-\nlarının önlenmesi için gerekli bütün faaliyetleri kapsayan bir konu olup\nişveren ile çalışanın birlikte etkili iletişim, eşgüdüm ve katılımıyla yönele-\nbilecek bir yapıdır. İşyerinde bulunan herkesi kapsayan bir yaklaşım, kaza\nve hastalıkları önleme çalışmalarında başarıyı doğrudan etkilemektedir. İşverenin kazaları önlemek için çalışanı gözetme borcu olduğu kadar, çalı-\nşanın da işverenin bu borcunu yerine getirebilmesine destek olma zorun-\nluluğu vardır. İşverenin sağlık ve güvenlik risklerini etkili bir biçimde yö-\nnetme sorumluluğu bulunduğu kadar çalışanın da verilen eğitimleri alma,\noluşturulan talimatları uygulama, alınan tedbirleri koruma ve işyerlerinde\ngördüğü tehlikeleri bildirerek sürekli iyileşmeye katılım sağlama görevi\nvardır. Durum böyle olunca sağlıklı ve güvenli işyeri oluşturmada her iki\ntarafın karşılıklı iletişiminin sağlanacağı, değerlendirmede bulunabileceği,\nfaaliyetlerini programlayabileceği, ortaya çıkan problemlere çözüm bula-\nbileceği ve başarı seviyelerini gözden geçirebileceği bir ortam ve zemin\noluşturulması gerekir ki bu zemin işyerlerinde kurulan iş sağlığı ve güven-\nliği kuruludur. Kamu kurumlarında etkin bir yapı olan iş sağlığı ve güven-\nliği kurullarınca iş sağlığı ve güvenliği mevzuatına uygun olarak verilen\nkararları uygulamak işverenlerin temel yükümlülüklerindendir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 94,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 95,
+      "content": "udur. Kamu kurumlarında etkin bir yapı olan iş sağlığı ve güven-\nliği kurullarınca iş sağlığı ve güvenliği mevzuatına uygun olarak verilen\nkararları uygulamak işverenlerin temel yükümlülüklerindendir. <figure>\n\n50 ve daha fazla çalışan\nçalıştırma,\n\nİş sağlığı ve güvenliği kurulu kurulması için\nşartlar;\n\n6 aydan daha fazla süreli iş\nyapma\n\n</figure>\n\n\n50 ve daha fazla çalışan sayısı kapsamına, memurlar da dahil olmak\nüzere işyerinde sigortalı olarak gözüken herkes girmektedir. <!-- PageNumber=\"57\" -->\n<!-- PageBreak -->\n\nBirden çok işyeri olan kamu kurumlarının, işletmesinde eğer her bir iş-\nyerinde 50 ve daha fazla çalışan çalıştırıyorsa iş sağlığı ve güvenliği kurulu\noluşturma zorunluluğu bulunmaktadır. İşletmeyi oluşturan işyerlerinde bir-\nden çok iş sağlığı ve güvenliği kurulu varsa bunlar arasında iletişim kurul-\nması gereklidir. Aynı şekilde bir kamu kurumunun da birden fazla işletmesi\nolabilir. Bu işletmelerin kurulları arasında koordinasyon oluşturma zorun-\nluluğu vardır. Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hal-\nlerde kurulun oluşumu Yönetmelikte şu şekilde yer almaktadır;\n\na) Asıl işveren ve alt işveren tarafından ayrı ayrı kurul oluşturulmuş ise,\nfaaliyetlerin yürütülmesi ve kararların uygulanması konusunda iş birliği ve\nkoordinasyon asıl işverence sağlanır. b) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması ge-\nrekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir\ntemsilci atar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 95,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 96,
+      "content": "e\nkoordinasyon asıl işverence sağlanır. b) Asıl işveren tarafından kurul oluşturulmuş ise, kurul oluşturması ge-\nrekmeyen alt işveren, koordinasyonu sağlamak üzere vekâleten yetkili bir\ntemsilci atar. c) İşyerinde kurul oluşturması gerekmeyen asıl işveren, alt işverenin\noluşturduğu kurula iş birliği ve koordinasyonu sağlamak üzere vekâleten\nyetkili bir temsilci atar. ç) Kurul oluşturması gerekmeyen asıl işveren ve alt işverenin toplam\nçalışan sayısı elliden fazla ise, koordinasyonu asıl işverence yapılmak kay-\ndıyla, asıl işveren ve alt işveren tarafından birlikte bir kurul oluşturulur. Aynı çalışma alanında birden fazla işverenin bulunması ve bu işveren-\nlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin\nçalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bil-\ngilendirmelidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 96,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 97,
+      "content": "## İSG KURULLARININ OLUŞTURULMASI\n\n\nİSG Kurulu aşağıda özellikleri belirtilen kişilerden oluşur. İşveren veya işvereni temsil etmeye tam yetkili işveren vekili;\nBu kişi kurul başkanıdır. İş güvenliği uzmanı;\nBu kişi kurul sekreteridir. İşyeri hekimi,\nBu kişi kurul üyesidir. <!-- PageNumber=\"58\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nİnsan kaynakları, personel, sosyal işler veya idari ve mali işleri yü-\nrütmekle görevli bir kişi;\n\nPersonel müdürü, insan kaynakları, endüstriyel ilişkiler veya mali ve ida-\nri işler diye adlandırılabilen birim sorumlularından biri veya bu bölümde\nçalışanların arasından bağlı bulunduğu bölümü temsil etme yeteneğine\nsahip olan bir kişi. Varsa sivil savunma uzmanı;\n\nDeprem, savaş ve doğal afet gibi olaylarda sivil savunma müdürlükle-\nrinin istekleri doğrultusunda verilen eğitimleri alıp sivil savunma uzmanı\nolarak yetiştirilmiş ve işyerinde bu görevi yapan kişi eğitim almamış olsa\nbile işveren işyerinde ilan etmek şartıyla çalışanlarından birini sivil savun-\nma uzmanı atayabilir. Varsa formen, ustabaşı veya usta;\n\nİşyerinde ilk amir pozisyonunda iş yapan formen, ustabaşı veya usta ya\nda bu pozisyona muadil çalışanların temsilcisi olan kurul üyesidir. Eğer bu\nkişiler birden fazla ise aralarında yaptıkları seçimle belirlenen kişi temsilci-\nleri olur. Bir de yedek temsilci seçilir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 97,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 98,
+      "content": "a\nda bu pozisyona muadil çalışanların temsilcisi olan kurul üyesidir. Eğer bu\nkişiler birden fazla ise aralarında yaptıkları seçimle belirlenen kişi temsilci-\nleri olur. Bir de yedek temsilci seçilir. Çalışan temsilcisi, işyerinde birden çok çalışan temsilcisi olması halinde\nbaş temsilci;\n\nİşveren tarafından, kurulun üyelerine ve yedeklerine iş sağlığı ve güven-\nliği konularında eğitim verilmesi sağlanır. Asıl işveren alt işveren ilişkilerin-\nde ortak kurul oluşumunda eğitimden her iki işveren birlikte sorumludur. İşyerinde sözleşmeli sendika varsa ve temsilcisi seçilmiş veya atanmış\nise bu kişi kurul üyesidir. Sendika temsilcisi birden çok ise aralarından se-\nçimle belirledikleri biri, sendika temsilcisi yoksa çalışanların yarısından\nfazlasının katıldığı bir toplantıda çoğunlukla seçilen kişi kurul üyesi olur. Çalışan temsilcisinin de bir yedeği seçilir. <!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"59\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 98,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 99,
+      "content": "## KURULUN ÇALIŞMA USULLERİ\n\n\nKurullar ayda en az bir kere toplanır. Ancak kurul, işyerinin tehlike sını-\nfını dikkate alarak, tehlikeli işyerlerinde bu sürenin iki ay, az tehlikeli işyer-\nlerinde ise üç ay olarak belirlenmesine karar verebilir. <figure>\n\nToplantının gündemi, yeri, günü ve saati toplantıdan en az kırk sekiz saat önce kurul\nüyelerine bildirilir. Ölümlü, uzuv kayıplı veya ağır iş kazası halleri veya özel bir tedbiri gerektiren önemli\nhallerde kurul üyelerinden herhangi biri kurulu olağanüstü toplantıya çağırabilir. Kurul toplantılarının günlük çalışma saatleri içinde yapılması asıldır. Kurul, üye tam sayısının salt çoğunluğu ile işveren veya işveren vekili başkanlığında\ntoplanır ve katılanların salt çoğunluğu ile karar alır. Çekimser oy kullanılamaz. Her toplantıda, önceki toplantıya ilişkin kararlar ve bunlarla ilgili uygulamalar hakkında\nbaşkan veya kurulun sekreteri tarafından kurula gerekli bilgi verilir ve gündeme geçilir. Her toplantıda, görüşülen konularla ilgili alınan kararları içeren bir tutanak düzenlenir. Toplantıda alınan kararlar gereği yapılmak üzere ilgililere duyurulur. </figure>\n\n\nKURULUN YÜKÜMLÜLÜKLERİ, GÖREV VE YETKİLERİ\n\nKurullar, yapacakları tekliflerde, bulunacakları tavsiyelerde ve verecekleri\nkararlarda işyerinin durumunu ve işverenin olanaklarını göz önünde\nbulundururlar.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 99,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 100,
+      "content": "RULUN YÜKÜMLÜLÜKLERİ, GÖREV VE YETKİLERİ\n\nKurullar, yapacakları tekliflerde, bulunacakları tavsiyelerde ve verecekleri\nkararlarda işyerinin durumunu ve işverenin olanaklarını göz önünde\nbulundururlar. Kurul üyeleri, görevleri nedeniyle işyerlerinin yapım ve üretim teknikleri, ticari\nsırları ve ekonomik durumları hakkında gördükleri ve öğrendiklerini gizli\ntutmak zorundadırlar. Kurullar, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş\nmüfettişlerine işyerlerinde yapacakları teftiş ve incelemelerde kolaylık\nsağlamak ve yardımcı olmakla yükümlüdür. <!-- PageNumber=\"60\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>\n\n\nKurulun İSG ile ilgili görev ve yetkileri şu şekilde sıralanabilir;\n\nÇalışanlara rehberlik yapma; Kurul çalışanlara sağlıklı ve güvenli çalış-\nmanın yol ve yöntemlerini gösterecek çalışmalar yapar. Hazırlanmış olan\nişyeri iç yönetmeliği, işyeri iletişim yöntemleri ve çalışanların hak ve so-\nrumluluklarının neler olduğunun öğrenilmesini sağlar. Tehlike ve kontrol yöntemlerini değerlendirme; Kurul, işyerindeki\ntehlikelerin belirlenmesinde, tehlikelerin oluşturacağı risklerin değerlen-\ndirmesinde ve kontrol yöntemlerinin tespitinde en üst karar organıdır. Başkanın onayının ardından risk kontrol yöntemleri olarak kabul edilmiş\ntedbirler faaliyet programına dahil edilir, iç denetimle tedbirlerin etkinliği\nsorgulanır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 100,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 101,
+      "content": "in tespitinde en üst karar organıdır. Başkanın onayının ardından risk kontrol yöntemleri olarak kabul edilmiş\ntedbirler faaliyet programına dahil edilir, iç denetimle tedbirlerin etkinliği\nsorgulanır. Kaza, hastalık ve ramak kala olayların araştırılması; İşyerinde mey-\ndana gelen kazaların, meslek hastalıklarının, tehlike bildirimlerinin veya\nramak kala olayların sebeplerinin neler olduğunun araştırılması aynı tür\nolay tekrarının önlenmesi, tehlikelerin ortadan kaldırılması veya kontrol\nedilmesi için zorunlu bir çalışmadır. İSG eğitimi; Kurul, bu programları çalışanların eğitimini düzenleyen\nçalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkın-\nda Yönetmelik çerçevesinde yapar ve uygular. Kurul, eğitimin etkinliğini\niç denetimlerle takip edip değerlendirir. Amacına ulaşmayan eğitimlerin\nbaşarısızlık sebeplerini araştırır ve mümkün olan en kısa sürede başarısız\nolan çalışanlara yönelik eğitimin tekrar yapılmasını sağlar. Bakım ve onarımlarda güvenliğin sağlanması; Bakım ve onarım gibi\nfaaliyetler ki bu faaliyetlere temizlik de katılabilir, işyerindeki risklere karşı\nkontrol yöntemlerinin uygulama zorluğu olan faaliyetlerdir. Kurul üretim\nçalışmasının dışındaki faaliyetlere özel karşılaşılabilecek tehlikeleri, oluş-\nturacağı riskleri ve kontrol yöntemlerini belirlemek veya belirlenmesini\nsağlamak durumundadır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 101,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 102,
+      "content": "liyetlerdir. Kurul üretim\nçalışmasının dışındaki faaliyetlere özel karşılaşılabilecek tehlikeleri, oluş-\nturacağı riskleri ve kontrol yöntemlerini belirlemek veya belirlenmesini\nsağlamak durumundadır. Olağanüstü durumlarla mücadele etme; İşyerinde meydana gelebile-\ncek yangın, deprem, fırtına ve sel gibi doğal olaylar, sabotajlar ve savaş\nhalleri ve benzeri durumlara işyerinin hazırlıklı olması için bir acil durum\nplanı hazırlanması, organizasyon yapılması, mücadele ekipleri oluşturul-\nması ve ekiplerin görevlerini yapabilmeleri için gerekli eğitimin alınması,\nekiplerin gerçekleşebilecek olağanüstü duruma tepki verme yetenekleri-\nnin canlı tutulması için olağanüstü durum senaryoları hazırlanarak müda-\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"61\" -->\n<!-- PageBreak -->\n\nhale ve tahliye tatbikatlarının yapılması, işyerinde olağanüstü durumlarla\nmücadelede temel gerekliliklerdir. Yıllık rapor hazırlanması; Kurul, yılda bir kez iş sağlığı ve güvenliği\nfaaliyetleri ile ilgili durum tespiti yapmak üzere bir değerlendirme raporu\nhazırlar. Bir yıl boyunca yapılanlar gözden geçirilir. Yıllık raporda şu konu-\nların açıklanmasında yarar vardır;\n\n· İSG politikasının çalışanlarca ne kadar benimsendiği,\n\n· Hedeflerin ne kadar gerçekleştiği,\n\n· Mevzuatın ne kadar karşılandığı,\n\n· Çalışanların katılımının ne kadar olduğu,\n\n· İSG planlarının yeterliliği,\n\n· Programların uygulanma durumu,\n\n· Eğitimlerin etkili olup olmadığı,\n\n· İç ve dış denetimler.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 102,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 103,
+      "content": "atın ne kadar karşılandığı,\n\n· Çalışanların katılımının ne kadar olduğu,\n\n· İSG planlarının yeterliliği,\n\n· Programların uygulanma durumu,\n\n· Eğitimlerin etkili olup olmadığı,\n\n· İç ve dış denetimler. Meydana gelen iş kazaları ve ramak kala olayları çerçevesinde faaliyet-\nlerin sonuçları değerlendirilir. Takip eden yıl için yapılacak faaliyetlerin ve\nprogramların neler olması gerektiği bu raporda belirtilir. İç Yönerge; Kurul; işyerinin niteliğine uygun bir iş sağlığı ve güvenliği iç\nyönerge taslağı hazırlar, işverenin veya işveren vekilinin onayına sunar ve\nyönergenin uygulanmasını izleyerek sonuçlarını rapor haline getirip alın-\nması gereken tedbirleri belirler ve gündemine alır. Çalışmaktan Kaçınma Hakkı; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu-\nnun 13 üncü maddesinde belirtilen çalışmaktan kaçınma hakkı talepleri ile\nilgili, kurul acilen toplanarak karar verir. Önleme Politikası; İşyerinde teknoloji, iş organizasyonu, çalışma şartla-\nrı, sosyal ilişkiler ve çalışma ortamı ile ilgili faktörlerin etkilerini kapsayan\ntutarlı ve genel bir önleme politikası geliştirmeye yönelik çalışmalar Kurul\ntarafından yapılır. Kurul üyelerinin kendilerine verilen görevleri yapmalarından dolayı hak-\nları kısıtlanamaz, kötü davranış ve muameleye maruz kalamazlar. <!-- PageNumber=\"62\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 103,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 104,
+      "content": "## GEBE VEYA EMZİREN KADIN ÇALIŞANLAR İLE EMZİRME ODASI VE ÇOCUK BAKIM YURTLARI\n\n\n6331 sayılı Kanun kapsamında gebe veya emziren kadın çalışanlar ile\nemzirme odası ve çocuk bakım yurtları hususlarında 16/8/2013 tarihli ve\n28737 sayılı Resmi Gazete'de \"Gebe veya Emziren Kadınların Çalıştırılma\nŞartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına Dair Yönetmelik\"\nyayımlanmıştır. Buna göre kamu kurumlarında Yönetmeliğin \"Uygulama-\nda öncelik\" başlıklı 5 inci maddesinde; Yönetmelik hükümlerinin uygula-\nnırken öncelikle çalışanın tabi olduğu ilgili mevzuat hükümlerinin dikkate\nalınacağı; kendi özel mevzuatlarında hüküm bulunmaması halinde ise bu\nYönetmelik hükümleri uygulanacağı düzenlemesine yer verilmiştir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Buna göre kamu kurumlarında Yönetmeliği",
+        "madde_number": null,
+        "chunk_index": 104,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 105,
+      "content": "### Gebe veya Emziren Kadın Çalışanlar:\n\n\n657 sayılı Devlet Memurları Kanunu kapsamındaki gebe ve emziren\nkadın çalışanlar için bu Kanunda özel hükümler bulunmaktadır. Dolayısıy\nla, 657 sayılı Kanun kapsamındaki çalışanlar için öncelikle bu Kanun ilgili\nhükümleri uygulanır, burada hüküm bulunmaması halinde ise 6331 sayılı\nKanun ile \"Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Emzirme\nOdaları ve Çocuk Bakım Yurtlarına Dair Yönetmelik\" hükümleri uygulana-\ncağı açıktır. Örneğin, 657 sayılı Kanunun 101 inci maddesinin birinci fıkrası «Gü-\nnün yirmi dört saatinde devamlılık gösteren hizmetlerde çalışan Devlet\nmemurlarının çalışma saat ve şekilleri kurumlarınca düzenlenir.» hükmü\nile kurumların kendi iç düzenlemelerini yapabilecekleri düzenlenmiştir. Bu\niç düzenlemeler Yönetmeliğin 5 inci maddesinde bahsi geçen mevzuat\ndüzenlemesi olarak kabul edilemez. Kurumlar yapacakları iç düzenlemeyi\nbaşta 657 sayılı Kanun hükümleri olmak üzere ve bu Kanun kapsamın-\ndaki personeli de kapsayan ve bu hususları düzenleyen başka emredici\nmevzuat varsa bu mevzuat çerçevesinde yapacaklardır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "657 sayılı Devlet Memurları Kanunu",
+        "madde_number": null,
+        "chunk_index": 105,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 106,
+      "content": "düzenlemeyi\nbaşta 657 sayılı Kanun hükümleri olmak üzere ve bu Kanun kapsamın-\ndaki personeli de kapsayan ve bu hususları düzenleyen başka emredici\nmevzuat varsa bu mevzuat çerçevesinde yapacaklardır. Dolayısıyla gebe\nve emziren kadın çalışanı bulunan kurumların 101 inci madde kapsamın-\n\n<!-- PageNumber=\"63\" -->\n<!-- PageBreak -->\n\nda yapacakları çalışma şekil ve saatleri düzenlemeleri öncelikle 657 sayılı\nKanunda açıkça düzenlenen hükümlere aykırılık teşkil etmeyecek, bu Ka-\nnunda bulunmayan hükümler açısından ise tüm çalışanları kapsayan 6331\nsayılı Kanun ile \"Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Em-\nzirme Odaları ve Çocuk Bakım Yurtlarına Dair Yönetmelik\" hükümlerine\naykırı olmayacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "düzenlemeyi\nbaşta 657 sayılı Kanun hükümleri olmak üzere ve bu Kanun",
+        "madde_number": null,
+        "chunk_index": 106,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 107,
+      "content": "### Emzirme Odası ve Çocuk Bakım Yurtları Açma/Kurma Zorunluluğu:\n\n\n6331 sayılı Kanun kapsamındaki tüm işyerlerinde; yaşları ve medeni\nhalleri ne olursa olsun 100-150 kadın çalışan varsa emzirme odası bu-\nlunmalıdır. Benzer şekilde kadın çalışan sayısının 150'den fazla olması\ndurumunda 0-6 yaşındaki çocuklar için yurt kurulur. Oda ve yurt açma\nyükümlülüğünün belirlenmesinde, işverenin belediye ve mücavir alan sı-\nnırları içinde bulunan tüm işyerlerindeki kadın çalışanların toplam sayısı\ndikkate alınır. Birden fazla işveren ortaklaşa oda ve yurt kurabilecekleri gibi, yurt,\nişyerine 250 metreden daha uzaksa işveren taşıt sağlamakla yükümlü-\ndür. Diğer yandan oda ve yurt açma yükümlülüğünü, kamu kurumlarınca\nyetkilendirilmiş yurtlarla yapacakları anlaşmalarla da yerine getirebilirler. Bunun için oda ve yurt açma yükümlülüğü bulunan kurumların, bu yü-\nkümlülüklerini kamu kurumlarınca yetkilendirilmiş yurtlarla yapacakları\nanlaşmalarla yerine getirmeleri halinde, 30/4/2015 tarihli ve 29342 sayılı\nResmi Gazetede yayımlanan \"Özel Kreş ve Gündüz Bakımevleri ile Özel\nÇocuk Kulüplerinin Kuruluş ve İşleyiş Esasları Hakkında Yönetmelik\" hü-\nkümleri devreye girmektedir. Bu hususta Devlet memurlarının çocukları için açılacak olan çocuk\nbakım evleri ile ilgili hükümler 8/2/1987 tarihli ve 19658 sayılı Bakanlar\nKurulu Kararı ile yürürlüğe konulan \"Kamu Kurum ve Kuruluşlarınca Açı-\nlacak Çocuk Bakımevleri Hakkında Yönetmelik hükümleri öncelikli olarak\nuygulanacaktır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "6331 sayılı Kanun",
+        "madde_number": null,
+        "chunk_index": 107,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 108,
+      "content": "8/2/1987 tarihli ve 19658 sayılı Bakanlar\nKurulu Kararı ile yürürlüğe konulan \"Kamu Kurum ve Kuruluşlarınca Açı-\nlacak Çocuk Bakımevleri Hakkında Yönetmelik hükümleri öncelikli olarak\nuygulanacaktır. <!-- PageNumber=\"64\" -->\n<!-- PageBreak -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "lacak Çocuk Bakımevleri Hakkında Yönetmelik",
+        "madde_number": null,
+        "chunk_index": 108,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 109,
+      "content": "## BÜTÇELENDİRME\n\n\nKamu kurumlarında iş sağlığı ve güvenliği hizmetlerinin sağlanma-\nsında temel etkileyici hususlardan biri de bütçelendirmedir. İş sağlığı ve\ngüvenliği hizmetinin gerekliliklerinin yerine getirilmesi ve hizmetin de-\nvamlılığının sağlanması adına bütçelendirmenin planlı şekilde yapılması\ngerekmektedir. Bütçe hazırlıkları sırasında, iş sağlığı ve güvenliği ile ilgili ihtiyaç duyu-\nlacak kalemler titizlikle belirlenmeli, önceki yıllarda iş sağlığı ve güvenliği\nönlemleri için harcanan tutarlar dikkate alınarak sonraki dönemler için bu\nkalemde ihtiyacı sağlayacak miktarlarda belirleme yapılmalıdır. Ayrıca hizmetin nasıl ve nerden sağlanacağı konusunda da belirleme\nyapılmalı ve bu kalem de bütçeye dâhil edilmelidir. Bütçe ile ilgili çalışan\nbirimlerin, İSG hizmetinin sunum modelinden, yapılmış olan risk değerlen-\ndirmesi sonuçlarından ve revizyonlarından haberdar olması ve hazırlıklar-\nda bu hususları veri olarak kullanılması oldukça önemlidir.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 109,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 110,
+      "content": "rin, İSG hizmetinin sunum modelinden, yapılmış olan risk değerlen-\ndirmesi sonuçlarından ve revizyonlarından haberdar olması ve hazırlıklar-\nda bu hususları veri olarak kullanılması oldukça önemlidir. <figure>\n\nYapılmış\nÇalışmaları\nİncele\n\nYapılacak\nÇalışmaları\nBelirle\n\nÇalışmaları\nTakvimlendir\n\nFiyat Analizi\nYap\n\nBütçelendir\n\n</figure>\n\n\nBu hususlar ışığında; kamu kurum ve kuruluşları için kurum içi ve/veya\nbağlı kuruluşlar ile ilgili iş sağlığı ve güvenliği hizmetleri için bütçe döne-\nminden önce,\n\n· Kurum içerisinden ya da bir başka kurumdan personel görevlendi-\nrilmesi durumunda, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu'nun\n8'nci maddesinde belirtilen iş güvenliği uzmanı ve işyeri hekimine\nödenecek olan ücretler\n\nKamu kurum ve kuruluşlarında ilgili mevzuata göre çalıştırılan işyeri\nhekimi veya iş güvenliği uzmanı olma niteliğini haiz personel, gerekli bel-\ngeye sahip olmaları şartıyla asli görevlerinin yanında, belirlenen çalışma\nsüresine riayet ederek çalışmakta oldukları kurumda veya ilgili personelin\nmuvafakati ve üst yöneticinin onayı ile diğer kamu kurum ve kuruluşlarında\ngörevlendirilebilir. Bu şekilde görevlendirilecek personele, görev yaptığı\n\n<!-- PageNumber=\"65\" -->\n<!-- PageBreak -->\n\nher saat için (200) gösterge rakamının memur aylık katsayısı ile çarpımı\ntutarında ilave ödeme, hizmet alan kurum tarafından yapılır. Bu ödemeden\ndamga vergisi hariç herhangi bir kesinti yapılmaz.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 110,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 111,
+      "content": "->\n\nher saat için (200) gösterge rakamının memur aylık katsayısı ile çarpımı\ntutarında ilave ödeme, hizmet alan kurum tarafından yapılır. Bu ödemeden\ndamga vergisi hariç herhangi bir kesinti yapılmaz. Bu durumdaki görev-\nlendirmeye ilişkin ilave ödemelerde, günlük mesai saatlerine bağlı kalmak\nkaydıyla, aylık toplam seksen saatten fazla olan görevlendirmeler dikkate\nalınmaz. · Acil durum planlarının hazırlanması için yapılacak çalışmalar,\n\n· Yangınla mücadele ve ilk yardım eğitimleri ve bu konularla ilgili\nsaha içi uygulamalar,\n\n· İşyerinde yapılacak kontrol ve ölçümler,\n\n· Risk değerlendirmesi ile ilgili teknik araştırma ve bu değerlendirme\nsonrasında alınacak önlemler,\n\n· Kişisel koruyucu donanım temini,\n\n· Çalışanların periyodik muayeneleri ve meslek hastalıklarının tespiti\nve önlenmesi için alınacak tedbirler,\n\n· Çalışanların bilgilendirilmesi ve eğitimleri,\n\n· Gerekliyse güvenlik raporu veya büyük kaza önleme politika belge-\nsinin düzenlenmesi gibi yapılacak çalışmalar ile ilgili giderleri,\n\nkapsayan İş Sağlığı ve Güvenliği Bütçe Raporu'nun hazırlanması faydalı\nolacaktır. Bu rapor, varsa İş Sağlığı ve Güvenliği Kurulu'na yoksa işveren ya\nda işveren vekiline sunulmalı ve onay doğrultusunda bütçe kalemlerinin\nbelirlenmesinde temel verilerden biri olarak kullanılmalıdır. Ayrıca bir önceki dönemlerde yapılan iş sağlığı ve güvenliği çalışmaları\nve bu çalışmalar için yapılan harcamalar da dikkate alınmalı ve ileriye yö-\nnelik planlamalar yapılmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 111,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 112,
+      "content": "ak kullanılmalıdır. Ayrıca bir önceki dönemlerde yapılan iş sağlığı ve güvenliği çalışmaları\nve bu çalışmalar için yapılan harcamalar da dikkate alınmalı ve ileriye yö-\nnelik planlamalar yapılmalıdır. Bütçe hazırlanırken; iş sağlığı ve güvenliği hizmetlerinin ne şekilde te-\nmin edileceği ve hizmet sunum modeli de ele alınmalıdır. 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında kamu sektörüne\nait işyerlerine uygulanacak idari para cezaları bu Kanunun 26ncı madde-\nsinde düzenlenmiştir. <!-- PageNumber=\"66\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"KAMUDA İŞ SAĞLIĞI VE GÜVENLİĞİ\" -->\n\n\n<figure>\n\nGüvenle\nBüyü\nTürkiye\n\n</figure>",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında kamu sektörüne\nait işyerlerine uygulanacak idari para cezaları bu Kanunu",
+        "madde_number": null,
+        "chunk_index": 112,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 113,
+      "content": "### İhale ile İş Sağlığı ve Güvenliği Hizmetlerinin Temini\n\n\nHizmetin harici iş sağlığı ve güvenliği hizmeti sağlayıcılarından ihale\nedilerek temin edilmek istenmesi durumunda, İş Sağlığı ve Güvenliği Ka-\nnunu'nun ilgili hususları dikkate alınarak rapor hazırlanmalı ve ihale dokü-\nmanları bu rapor doğrultusunda düzenlenmelidir. Ayrıca Kanunun 6'ncı\nmaddesinin ikinci fıkrasında yer alan Kamu İhale Kanunu kapsamındaki\nkamu kurum ve kuruluşlarının; iş sağlığı ve güvenliği hizmetlerini, Sağlık\nBakanlığına ait döner sermayeli kuruluşlardan doğrudan alabileceği husu-\nsu da alternatifler arasında değerlendirilmelidir. Alınacak hizmet ya da hizmetlerin 4735 sayılı Kamu İhale Kanunu'nun\n22'nci maddesinde belirtilen doğrudan temin sınırları ve yine aynı Kanun'un\n21'inci maddesinin b, c ve f bentlerinde belirtilen ihale yapılmaksızın pazarlık\nusulü temin sınırları içerisinde kalıp kalmaması durumunun saptanması da\netkinlik açısından gerekmektedir. Doğrudan veya pazarlık usulü hizmet alı-\nmı şartları içerisinde kalmayan ihalelerin iş ve işlemlerinde, Kamu İhale Ka-\nnunu'nda belirtilen ihale ilan, itiraz ve sözleşme imzalama süreleri ile mev-\ncut risk değerlendirmeleri sonucunda alınması gereken tedbirlerin öncelik\ndurumları dikkate alınmalıdır. İş sağlığı ve güvenliği ile ilgili bazı hususların\nacil düzenleme gerektirecek yapıda olabileceği de göz önünde bulundurul-\nmalı ve düzenlemeler bu yönde de uygulanabilir olmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Ayrıca Kanunu",
+        "madde_number": null,
+        "chunk_index": 113,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 114,
+      "content": "kkate alınmalıdır. İş sağlığı ve güvenliği ile ilgili bazı hususların\nacil düzenleme gerektirecek yapıda olabileceği de göz önünde bulundurul-\nmalı ve düzenlemeler bu yönde de uygulanabilir olmalıdır. Ayrıca yapılacak çalışmalarda;\n\n· İdari şartnamede yer alması zorunlu hususlardan biri olan istekli-\nlerde aranılan şartlar, belgeler ve yeterlik kriterleri içerisinde, hiz-\nmet sağlayıcının merkez ve şubelerinin yetki belgeleri bulunmalıdır. Bununla birlikte; İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'nin\n21'inci ve 22'nci maddelerine göre hizmet sağlayıcının merkez ve\nşubelerinin yetki belgelerinin geçerliliği ile işin yürütümünde ça-\nlışacak olan personelin belgelerinin geçerlilik durumları ve hizmet\nsunucusundaki çalışma durumları sorgulanmalıdır. · Birden fazla ili kapsayan hizmet alımı ihalelerinde Kamu İhale Ka-\nnunu'nun 14'üncü maddesinde belirtilen hususlar dâhilinde, harici\nhizmet sağlayıcıların İş Sağlığı ve Güvenliği Hizmetleri Yönetmeli-\nği'nin 12'nci maddesin beşinci fıkrasına göre o illerde faaliyet gös-\nterip gösteremeyeceğine dikkat edilmelidir. · Kamu İhale Kanunu'nun 15'inci maddesinde belirtilen alt yükleni-\n\n<!-- PageFooter=\"T.C.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 114,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 115,
+      "content": "nin 12'nci maddesin beşinci fıkrasına göre o illerde faaliyet gös-\nterip gösteremeyeceğine dikkat edilmelidir. · Kamu İhale Kanunu'nun 15'inci maddesinde belirtilen alt yükleni-\n\n<!-- PageFooter=\"T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI\" -->\n<!-- PageNumber=\"67\" -->\n<!-- PageBreak -->\n\nciler ile ilgili hususların, İş Sağlığı ve Güvenliği Hizmetleri Yönet-\nmeliği'nin 13'üncü maddesinin dördüncü fıkrasına göre iş sağlığı ve\ngüvenliği hizmetlerinin tamamını ya da başka bir kişi ya da kuruma\ndevredilmesinin mümkün olamamasından dolayı geçerliliğinin ol-\nmadığına dikkat edilmelidir. · Mevcut risk değerlendirmelerinde alınması gereken tedbirlerin aci-\nliyet durumu göz önüne alınarak, Kamu İhale Kanunu'nun 21'inci\nmaddesinin (b) bendinde yer alan \"Doğal afetler, salgın hastalıklar,\ncan veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya idare\ntarafından önceden öngörülemeyen olayların ortaya çıkması üze-\nrine ihalenin ivedi olarak yapılmasının zorunlu olması\" hükmünün\nkullanılması idarenin onayı alınarak sağlanmalıdır.",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamu İhale Kanunu",
+        "madde_number": null,
+        "chunk_index": 115,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    },
+    {
+      "chunk_index": 116,
+      "content": "### Kamu Kurum ve Kuruluşlarının İhale Edeceği İşlerde İş Sağlığı Ve Güvenliği Yükümlülükleri\n\n\nKamu kurum ve kuruluşunun yıl içerisinde ihale edeceği işler için ayrı\nayrı raporlandırma yapılmalı ve 4735 sayılı Kamu İhale Sözleşmeleri Ka-\nnunu'nun 7'nci maddesindeki sözleşme maddelerinde zorunlu tutulan iş\nsağlığı ve güvenliğine ilişkin yükümlülükler maddesi içerisinde sözleşme-\nlere eklenmelidir.\n\n<!-- PageNumber=\"68\" -->",
+      "metadata": {
+        "source_url": "file://./data/KLAVUZLAR/kamuda-isg-rehberi.pdf",
+        "source_title": "Kamuda Isg Rehberi",
+        "document_title": "Kamuda Isg Rehberi",
+        "madde_number": null,
+        "chunk_index": 116,
+        "chunk_type": "markdown",
+        "origin": "web_search",
+        "source_file": "kamuda-isg-rehberi.pdf",
+        "guide_title": "Kamuda Isg Rehberi",
+        "collection_type": "guide",
+        "total_chunks": 117,
+        "processed_at": "2026-02-12T04:21:20.540000"
+      }
+    }
+  ]
+}

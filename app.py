@@ -75,7 +75,7 @@ def initialize_rag_system():
         print("❌ MongoDB'de döküman bulunamadı!")
         raise Exception("MongoDB'de döküman yok. Lütfen preprocessing.py scriptini çalıştırın.")
     
-    # 3. Create OpenRouter client (shared for RAG + Gemini) - NOW auto-traced!
+    # 3. Create OpenRouter client (shared for RAG + Web Fallback) - NOW auto-traced!
     openrouter_client = create_openrouter_client()
     
     # 3. MongoDB Vector Store'u yükle (ChromaDB yerine)
@@ -89,15 +89,14 @@ def initialize_rag_system():
     # 5. Create RAG pipeline
     rag_pipeline = RAGPipeline(openrouter_client, vectorstore, reranker)
     
-    # 6. Create Hybrid Orchestrator (with Gemini 2.0 Flash fallback via OpenRouter)
+    # 6. Create Hybrid Orchestrator (2-tier: RAG → Web Fallback)
     try:
         hybrid_orchestrator = HybridRAGOrchestrator(
             rag_pipeline=rag_pipeline,
             mongo_collection=vectorstore.collection,
             openrouter_client=openrouter_client,
-            enable_fallback=True
         )
-        print("✅ Hybrid orchestrator with Gemini 2.0 Flash ready!")
+        print("✅ Hybrid orchestrator ready (RAG → Web Fallback)")
     except Exception as e:
         print(f"⚠️  Hybrid orchestrator disabled: {e}")
         hybrid_orchestrator = None
@@ -225,7 +224,7 @@ def query_question():
         
         # Use Hybrid Orchestrator if available, otherwise fallback to RAG
         if hybrid_orchestrator:
-            # Intelligent routing: RAG → Score → Gemini fallback if needed
+            # 2-tier routing: RAG → Web Fallback if needed
             result = hybrid_orchestrator.query(question)
             
             _query_latency = (_time.time() - _query_start) * 1000  # ms

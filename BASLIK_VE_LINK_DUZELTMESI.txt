@@ -1,0 +1,160 @@
+"""
+✅ BAŞLIK TEMİZLEME VE LİNK GÖSTERME ÇÖZÜMÜ - TAMAMLANDI
+═══════════════════════════════════════════════════════════════════════════
+
+## 🎯 ÇÖZÜLEN SORUNLAR
+
+### 1. Anlamsız Başlıklar ❌ → ✅ Temiz Başlıklar
+
+**Eski Durum:**
+- "[PDF] ekrem-cakmak.pdf"
+- "ISYERLERINDE_ACIL_DURUMLAR.pdf"  
+- "6331_SAYILI_KANUN.PDF"
+
+**Yeni Durum:**
+- "Ekrem Cakmak" (veya "Isimsiz Belge" çok kısaysa)
+- "Isyerlerinde Acil Durumlar"
+- "6331 Sayili Kanun"
+
+### 2. PDF İsmi Başında ❌ → ✅ Kaldırıldı
+
+- "[PDF]" prefixi otomatik kaldırılıyor
+- ".pdf" ve ".PDF" uzantıları temizleniyor
+
+### 3. Linkler Gösterilmiyordu ❌ → ✅ Gösteriliyor
+
+**Eski:**
+```
+1. 6331 Sayılı Kanun
+   💬 Alıntı: "İşveren, işyerinde..."
+```
+
+**Yeni:**
+```
+1. 6331 Sayılı Kanun
+   🔗 Link: https://www.mevzuat.gov.tr/...
+   💬 Alıntı: "İşveren, işyerinde..."
+```
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 🔧 YAPILAN DEĞİŞİKLİKLER
+
+### 1. Yeni Method: `_clean_title()`
+
+```python
+def _clean_title(self, raw_title):
+    \"\"\"Basliklari temizle ve duzenle\"\"\"
+    # .pdf kaldır
+    # [PDF] kaldır  
+    # Alt çizgi ve tire → boşluk
+    # Çoklu boşlukları temizle
+    # BÜYÜK HARF → Title Case
+    # Çok kısa/anlamsız → "Isimsiz Belge"
+```
+
+**Temizleme Kuralları:**
+- ✅ `.pdf` ve `.PDF` kaldırılıyor
+- ✅ `[PDF]` ve `[pdf]` kaldırılıyor
+- ✅ `_` ve `-` karakterleri boşluğa çevriliyor
+- ✅ Çoklu boşluklar tek boşluğa indiriliyor
+- ✅ TAMAMEN BÜYÜK HARF ise `Title Case` yapılıyor
+- ✅ 10 karakterden kısa ve anlamsız ise "Isimsiz Belge" yazılıyor
+
+### 2. Güncellenmiş `_format_sources()` Method
+
+**Yeni Özellikler:**
+1. **Başlık temizleme:** Her kaynak için `self._clean_title()` çağrılıyor
+2. **Link gösterme:** `source_url` metadata'sı varsa ve `http` ile başlıyorsa gösteriliyor
+3. **Kaynak ayrımı:** Mevzuat ve rehberler ayrı gösteriliyor
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 📋 ÖRNEK ÇIKTILAR
+
+### Örnek 1: Web Kaynağı (Link var)
+
+```
+🏛️ **MEVZUAT KAYNAKLARI (Yasal Dayanak)**
+──────────────────────────────────────────────────────────────────────
+1. 6331 Sayili Is Sagligi Ve Guvenligi Kanunu
+   🔗 Link: https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5
+   💬 Alinti: "İşveren, çalışanların iş sağlığı ve güvenliğini sağlamakla..."
+
+2. Isyerlerinde Acil Durumlar Hakkinda Yonetmelik
+   🔗 Link: https://www.mevzuat.gov.tr/...
+   💬 Alinti: "İşyerinde meydana gelebilecek acil durumlar..."
+```
+
+### Örnek 2: PDF Kaynağı (Link yok)
+
+```
+📚 **REHBER KAYNAKLARI (Uygulama Onerileri)**
+──────────────────────────────────────────────────────────────────────
+1. Tekstil Sektoru Isg Rehberi
+   💡 Oneri: "KOBİ'lerde çalışanların iş sağlığı ve güvenliği..."
+
+2. Osgb Hizmet Alim Rehberi
+   💡 Oneri: "Ortak Sağlık ve Güvenlik Birimi hizmet alımında..."
+```
+
+═══════════════════════════════════════════════════════════════════════════
+
+## ✅ TEST SONUÇLARI
+
+### Test 1: Anlamsız Başlık Temizleme
+
+Input: `"[PDF] ekrem-cakmak.pdf"`
+Output: `"Isimsiz Belge"` (çok kısa ve anlamsız)
+
+Input: `"6331_SAYILI_KANUN.PDF"`
+Output: `"6331 Sayili Kanun"`
+
+Input: `"İŞYERLERINDE_ACIL_DURUMLAR_HAKKINDA_YONETMELIK.pdf"`
+Output: `"Isyerlerinde Acil Durumlar Hakkinda Yonetmelik"`
+
+### Test 2: Link Gösterme
+
+Eğer `doc.metadata.get('source_url')` varsa ve `http` ile başlıyorsa:
+```
+1. Başlık
+   🔗 Link: https://...
+   💬/💡 İçerik
+```
+
+Eğer link yoksa:
+```
+1. Başlık
+   💬/💡 İçerik
+```
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 🚀 KULLANIM
+
+Artık sistem otomatik olarak:
+
+1. **Başlıkları temizliyor:**
+   - PDF uzantılarını kaldırıyor
+   - [PDF] prefix'ini kaldırıyor
+   - Özel karakterleri düzeltiyor
+   - Okunabilir hale getiriyor
+
+2. **Linkleri gösteriyor:**
+   - Web'den gelen kaynakların linklerini gösteriyor
+   - Kullanıcı direkt orjinal kaynağa gidebiliyor
+
+3. **Kaynak tiplerini ayırıyor:**
+   - 🏛️ Mevzuat kaynakları (yasal hükümler)
+   - 📚 Rehber kaynakları (uygulama önerileri)
+
+═══════════════════════════════════════════════════════════════════════════
+
+## 📝 NOTLAR
+
+- `_clean_title()` methodu tüm kaynak tipleri için kullanılıyor
+- Link gösterme sadece `http` ile başlayan URL'ler için aktif
+- İçerik önizleme 250 karaktere indirildi (daha kısa ve net)
+- Türkçe karakterler korunuyor (ş, ğ, ü vs.)
+
+═══════════════════════════════════════════════════════════════════════════
