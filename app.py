@@ -229,16 +229,22 @@ def query_question():
             
             _query_latency = (_time.time() - _query_start) * 1000  # ms
             
-            # Extract sources from result
+            # Extract sources from result - support both dict and Document formats
             sources = []
             if 'sources' in result and result['sources']:
                 for src in result['sources']:
                     if isinstance(src, dict):
-                        sources.append({
-                            'file': src.get('metadata', {}).get('file', 'Bilinmeyen Kaynak'),
-                            'page': src.get('metadata', {}).get('page', '?'),
-                            'content': src.get('content', '')[:200] + '...' if src.get('content') else ''
-                        })
+                        # Already formatted dict from RAG pipeline
+                        if 'title' in src or 'name' in src or 'full_text' in src:
+                            # New format from rag_pipeline.py
+                            sources.append(src)
+                        else:
+                            # Old format with metadata
+                            sources.append({
+                                'file': src.get('metadata', {}).get('file', 'Bilinmeyen Kaynak'),
+                                'page': src.get('metadata', {}).get('page', '?'),
+                                'content': src.get('content', '')[:200] + '...' if src.get('content') else ''
+                            })
             
             # Note: OpenRouter LLM calls are auto-traced by Arize OpenAI instrumentation
             
@@ -460,18 +466,23 @@ def ask_question():
             else:
                 result = hybrid_orchestrator.query(question)
             
-            # Format sources for response
+            # Format sources for response - support both new and old formats
             sources = []
             if 'sources' in result and result['sources']:
                 for src in result['sources']:
                     if isinstance(src, dict):
-                        sources.append({
-                            'title': src.get('title', src.get('metadata', {}).get('document_title', 'Bilinmeyen')),
-                            'source': src.get('source', src.get('metadata', {}).get('source', '')),
-                            'link': src.get('link', src.get('metadata', {}).get('source_url', '')),
-                            'source_type': src.get('source_type', src.get('metadata', {}).get('source_type', 'document')),
-                            'score': src.get('score', 0)
-                        })
+                        # New format from rag_pipeline.py (has title, name, full_text)
+                        if 'title' in src and 'full_text' in src:
+                            sources.append(src)  # Already formatted
+                        else:
+                            # Old format with metadata
+                            sources.append({
+                                'title': src.get('title', src.get('metadata', {}).get('document_title', 'Bilinmeyen')),
+                                'source': src.get('source', src.get('metadata', {}).get('source', '')),
+                                'link': src.get('link', src.get('metadata', {}).get('source_url', '')),
+                                'source_type': src.get('source_type', src.get('metadata', {}).get('source_type', 'document')),
+                                'score': src.get('score', 0)
+                            })
             
             return jsonify({
                 'answer': result.get('answer', ''),

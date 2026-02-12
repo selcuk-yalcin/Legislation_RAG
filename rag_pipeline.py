@@ -207,11 +207,18 @@ KURALLAR:
    - AMA yeterli detay ver, birden fazla ilgili madde varsa hepsini yaz
    - Gerekirse birden fazla kaynaktan bilgi birleştir
 
-5. KAYNAK GÖSTER.
-   Her alıntının sonuna [Kaynak Adı] ekle.
+5. KAYNAK GÖSTER - ÖNEMLİ!
+   - Her alıntının HEMEN ARKASINA o alıntının kaynağını yaz: [Kaynak Adı]
+   - SADECE o cümlede/paragrafta kullandığın kaynağı göster
+   - Aynı kaynağı tekrar kullanırsan tekrar yaz
    - .pdf uzantısı YAZMA
    - Dosya adı yerine düzgün Türkçe başlık kullan
    - Kaynak adını bağlamda KAYNAK [...] veya REHBER [...] başlığından al
+
+Örnek:
+"İşveren; yapılan risk değerlendirmesi sonuçlarına göre, kontrol tedbirlerini düzenli olarak izler ve risk değerlendirmesini yeniler." [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
+
+"Kadın çalışanlar, gebe oldukları anlaşılan kadınlar ve doğum tarihinden itibaren bir yıl geçmemiş kadınlar gece çalışamaz." [Kadın Çalışanların Gece Postalarında Çalıştırılma Koşulları Hakkında Yönetmelik]
 
 6. KAYNAK AYIRIMI.
    Mevzuat (kanun/yönetmelik) = kesin hüküm, tırnak içinde alıntı
