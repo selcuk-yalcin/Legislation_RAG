@@ -97,62 +97,13 @@ class RAGPipeline:
         return preview.strip()
     
     def _format_sources(self, documents):
-        """Format sources with clear separation between legislation and guides"""
-        if not documents:
-            return ""
-        
-        # Kaynak tipine gore ayir
-        mevzuat_docs = [d for d in documents if d.metadata.get('collection_type') != 'guide']
-        guide_docs = [d for d in documents if d.metadata.get('collection_type') == 'guide']
-        
-        sources = "\n\n" + "=" * 70 + "\n"
-        sources += "KAYNAKLAR\n"
-        sources += "=" * 70 + "\n\n"
-        
-        # Mevzuat kaynaklari
-        if mevzuat_docs:
-            sources += "MEVZUAT KAYNAKLARI:\n"
-            sources += "-" * 70 + "\n"
-            for idx, doc in enumerate(mevzuat_docs, 1):
-                # Basligi temizle
-                raw_title = doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen Belge'))
-                clean_title = self._clean_title(raw_title)
-                
-                # Link varsa ekle
-                source_url = doc.metadata.get('source_url', '')
-                if source_url and source_url.startswith('http'):
-                    sources += f"{idx}. {clean_title}\n"
-                    sources += f"   Link: {source_url}\n"
-                else:
-                    sources += f"{idx}. {clean_title}\n"
-                
-                # Icerik onizleme - TAM CUMLELER AL
-                content_preview = self._extract_clean_preview(doc.page_content, max_length=300)
-                sources += f"   İlgili Bölüm: \"{content_preview}\"\n\n"
-        
-        # Rehber kaynaklari
-        if guide_docs:
-            sources += "REHBER KAYNAKLARI:\n"
-            sources += "-" * 70 + "\n"
-            for idx, doc in enumerate(guide_docs, 1):
-                # Basligi temizle
-                raw_title = doc.metadata.get('guide_title', doc.metadata.get('source_file', 'Bilinmeyen Rehber'))
-                clean_title = self._clean_title(raw_title)
-                
-                # Link varsa ekle
-                source_url = doc.metadata.get('source_url', '')
-                if source_url and source_url.startswith('http'):
-                    sources += f"{idx}. {clean_title}\n"
-                    sources += f"   Link: {source_url}\n"
-                else:
-                    sources += f"{idx}. {clean_title}\n"
-                
-                # Icerik onizleme - TAM CUMLELER AL
-                content_preview = self._extract_clean_preview(doc.page_content, max_length=300)
-                sources += f"   İlgili Bölüm: \"{content_preview}\"\n\n"
-        
-        sources += "=" * 70 + "\n"
-        return sources
+        """
+        PERPLEXITY TARZI - Artık cevap içinde kaynak listesi yok
+        Sadece inline citation'lar kullanılacak [1][2][3]
+        """
+        # Artık kaynak formatlaması frontend'de pop-up olarak gösterilecek
+        # Bu metod şimdilik boş string döndürür
+        return ""
     
     def generate_response(self, user_input):
         """
@@ -323,9 +274,9 @@ KURALLAR:
         self.conversation_history.append({"role": "assistant", "content": response_text})
         self._manage_conversation_memory()
         
-        # Kaynak bilgilerini hazırla
+        # Kaynak bilgilerini hazırla - Perplexity tarzı
         sources_list = []
-        for doc in relevant_docs:
+        for idx, doc in enumerate(relevant_docs, 1):
             # Rehber ise guide_title, değilse document_title kullan
             if doc.metadata.get('collection_type') == 'guide':
                 raw_title = doc.metadata.get('guide_title') or doc.metadata.get('source_file', 'Bilinmeyen Rehber')
@@ -335,19 +286,26 @@ KURALLAR:
             clean_title = self._clean_title(raw_title)
             
             source_info = {
+                "id": idx,
                 "title": clean_title,
                 "name": clean_title,
                 "file": clean_title,
                 "madde_number": doc.metadata.get('madde_number', ''),
                 "source_type": doc.metadata.get('collection_type', 'document'),
                 "source_url": doc.metadata.get('source_url', ''),
-                "excerpt": self._extract_clean_preview(doc.page_content, max_length=200),
+                "excerpt": self._extract_clean_preview(doc.page_content, max_length=250),
                 "score": getattr(doc, 'score', 0)
             }
             sources_list.append(source_info)
         
+        # Inline citation ekle - Perplexity tarzı [1][2][3]
+        citation_text = ""
+        if sources_list:
+            citation_numbers = "".join([f"[{s['id']}]" for s in sources_list[:5]])  # İlk 5 kaynak
+            citation_text = f" {citation_numbers}"
+        
         return {
-            "answer": response_text + sources_html,
+            "answer": response_text + citation_text,
             "method": "internal",
             "sources": sources_list,
             "source_count": len(relevant_docs)
