@@ -14,6 +14,7 @@ Flow:
 """
 
 import re
+import random
 from typing import Dict, Optional, List
 from rag_pipeline import RAGPipeline
 from query_normalizer import QueryNormalizer
@@ -41,18 +42,19 @@ class HybridRAGOrchestrator:
         "mevzuatta bu konuya dair"  # new: catches generic "not in legislation" phrases
     ]
     
-    # Guidance message when nothing is found
-    NO_RESULT_GUIDANCE = """⚠️ **Mevzuatta bu konuya doğrudan karşılık gelen bir hüküm bulunamadı.**
-
-Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
-
-• **6331 Sayılı İş Sağlığı ve Güvenliği Kanunu** — İSG'nin temel çerçeve kanunu
-• **İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği** — Risk analizi prosedürleri
-• **İşyerlerinde Acil Durumlar Hakkında Yönetmelik** — Acil durum planları
-• **Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik** — Eğitim gereksinimleri
-
-💡 Daha spesifik bir soru sorarsanız (ör. sektör, konu veya yönetmelik adı belirterek) daha doğru sonuçlar alabiliriz.
-"""
+    # Guidance messages - varied responses when nothing is found
+    NO_RESULT_MESSAGES = [
+        "Sağlanan mevzuat kaynaklarında bu konuya ilişkin doğrudan bir hüküm bulunamadı. Sorunuzu daha spesifik bir şekilde (örneğin ilgili sektör, yönetmelik adı veya madde numarası belirterek) yeniden sorabilirsiniz.",
+        "Mevcut veritabanında bu soruya karşılık gelen bir düzenleme tespit edilemedi. Farklı anahtar kelimeler kullanarak veya sorunuzu daraltarak tekrar deneyebilirsiniz.",
+        "Bu konuda doğrudan bir mevzuat hükmüne ulaşılamadı. Sorunuzu belirli bir kanun veya yönetmelik adı ile daraltmanız daha isabetli sonuçlar verebilir.",
+        "Aradığınız bilgiye mevcut kaynaklarda rastlanmadı. Sorunuzu sektöre özel detaylar ekleyerek (örneğin inşaat, maden, kimya sektörü gibi) tekrar sormanızı öneriyoruz.",
+        "Bu konuya ilişkin bir düzenlemeye kaynaklarda ulaşılamadı. Sorunuzu farklı bir açıdan veya daha detaylı ifade ederek yeniden deneyebilirsiniz.",
+    ]
+    
+    @classmethod
+    def _get_guidance_message(cls):
+        """Return a varied guidance message each time"""
+        return random.choice(cls.NO_RESULT_MESSAGES)
     
     def __init__(
         self,
@@ -151,7 +153,7 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
             print("\n⚠️  Query filtered as IRRELEVANT to ISG/labor law")
             self.stats["guidance"] += 1
             return {
-                "answer": self.NO_RESULT_GUIDANCE,
+                "answer": self._get_guidance_message(),
                 "method": "guidance",
                 "confidence": 0.0,
                 "sources": [],
@@ -240,7 +242,7 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
             print("   ⚠️  Web fallback not available, returning guidance")
             self.stats["guidance"] += 1
             return {
-                "answer": self.NO_RESULT_GUIDANCE,
+                "answer": self._get_guidance_message(),
                 "method": "guidance",
                 "confidence": 0.1,
                 "normalized_query": normalized,
@@ -275,7 +277,7 @@ Sorunuzla ilgili inceleyebileceğiniz mevzuat kaynakları:
         # Nothing worked → guidance
         self.stats["guidance"] += 1
         return {
-            "answer": self.NO_RESULT_GUIDANCE,
+            "answer": self._get_guidance_message(),
             "method": "guidance",
             "confidence": 0.1,
             "normalized_query": normalized,

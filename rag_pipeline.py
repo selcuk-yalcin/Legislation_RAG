@@ -249,11 +249,12 @@ KURALLAR:
    Asla "genellikle", "muhtemelen", "yaklaşık" gibi belirsiz ifadeler kullanma.
    HİÇBİR ZAMAN yönlendirme yapma, başka kaynaklar önerme veya emoji kullanma.
 
-4. KISA VE ÖZ YAZ.
+4. DETAYLI VE AÇIKLAYICI YAZ.
    - Gereksiz giriş cümlesi yazma ("Elbette, bu konuda...", "Bu sorunun cevabı...")
    - Direkt cevaba gir
    - Aynı bilgiyi tekrar etme
-   - Hedef: en fazla 500 karakter (zorunlu değilse uzatma)
+   - AMA yeterli detay ver, birden fazla ilgili madde varsa hepsini yaz
+   - Gerekirse birden fazla kaynaktan bilgi birleştir
 
 5. KAYNAK GÖSTER.
    Her alıntının sonuna [Kaynak Adı] ekle.
@@ -297,7 +298,7 @@ KURALLAR:
 1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
 2. İlgili hükmü tırnak içinde ("...") AYNEN alıntıla. Kelime değiştirme.
 3. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de. Uydurma. Yönlendirme yapma. Liste verme.
-4. Kısa ve öz yaz. Gereksiz tekrar yapma. Direkt cevaba gir.
+4. Detaylı ve açıklayıcı cevap ver. Birden fazla ilgili kaynak varsa hepsini kullan. Gereksiz tekrar yapma ama yeterli bilgi ver.
 5. Mevzuat = kesin hüküm, tırnak alıntı. Rehber = öneri niteliğinde.
 6. Kaynak: [Tam Türkçe Ad] formatında. .pdf YAZMA. Dosya adı YAZMA.
 7. EMOJİ KULLANMA. Yönlendirme mesajı YAZMA."""
@@ -325,11 +326,22 @@ KURALLAR:
         # Kaynak bilgilerini hazırla
         sources_list = []
         for doc in relevant_docs:
+            # Rehber ise guide_title, değilse document_title kullan
+            if doc.metadata.get('collection_type') == 'guide':
+                raw_title = doc.metadata.get('guide_title') or doc.metadata.get('source_file', 'Bilinmeyen Rehber')
+            else:
+                raw_title = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen Belge')
+            
+            clean_title = self._clean_title(raw_title)
+            
             source_info = {
-                "title": doc.metadata.get('document_title', doc.metadata.get('source_file', 'Bilinmeyen')),
+                "title": clean_title,
+                "name": clean_title,
+                "file": clean_title,
                 "madde_number": doc.metadata.get('madde_number', ''),
-                "source_type": doc.metadata.get('source_type', 'document'),
+                "source_type": doc.metadata.get('collection_type', 'document'),
                 "source_url": doc.metadata.get('source_url', ''),
+                "excerpt": self._extract_clean_preview(doc.page_content, max_length=200),
                 "score": getattr(doc, 'score', 0)
             }
             sources_list.append(source_info)
