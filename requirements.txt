@@ -22,7 +22,8 @@ langchain-community==0.3.31
 pypdf==3.17.4
 
 # Web Server (Flask API)
-flask==3.0.0
+Flask==2.3.0
+Jinja2==3.1.2
 flask-cors==4.0.0
 gunicorn==21.2.0
 
