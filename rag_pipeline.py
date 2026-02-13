@@ -289,20 +289,19 @@ Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
 FORMAT KURALLARI:
 
 1. YASA/YÖNETMELİK BÖLÜMÜ:
-   - Her kaynak için yeni satırda "§MEVZUAT§" yaz
-   - Sonra KAYNAK başlığındaki tam adı aynen kullan ve "'na göre:" veya "uyarınca:" ekle
-   - Örnek: "§MEVZUAT§\nİş Sağlığı ve Güvenliği Kanunu'na göre:"
+   - KAYNAK başlığındaki tam adı aynen kullan ve "'na göre:" veya "uyarınca:" ekle
+   - Örnek: "İş Sağlığı ve Güvenliği Kanunu'na göre:"
    - Altına bilgileri • ile listele (her madde ayrı • satırı)
+   - Her • satırı arasında 1 boş satır bırak
    - MADDE NUMARASI YAZMA (md. 69, Madde 5 gibi). Sadece içeriği yaz.
-   - Aynı kaynaktan gelen bilgileri grupla
-   - Kaynaklar arasında 1 boş satır bırak
+   - Kaynaklar arasında 2 boş satır bırak
 
 2. REHBER BÖLÜMÜ:
-   - Her rehber için yeni satırda "§REHBER§" yaz
-   - Sonra REHBER başlığındaki tam adı aynen kullan ve "'ne göre:" ekle
-   - Örnek: "§REHBER§\nÇalışma ve Sosyal Güvenlik Bakanlığı'nın Acil Durum Planı Rehberi'ne göre:"
+   - REHBER başlığındaki tam adı aynen kullan ve "'ne göre:" ekle
+   - Örnek: "Çalışma ve Sosyal Güvenlik Bakanlığı'nın Acil Durum Planı Rehberi'ne göre:"
    - Altına önerileri • ile listele (her öneri ayrı • satırı)
-   - Rehber kaynaklar arasında 1 boş satır bırak
+   - Her • satırı arasında 1 boş satır bırak
+   - Rehber kaynaklar arasında 2 boş satır bırak
 
 3. KAPANIŞ:
    - En sonda, 1 cümlelik kısa bir yönlendirme yaz (her seferinde farklı, monoton olmasın)
