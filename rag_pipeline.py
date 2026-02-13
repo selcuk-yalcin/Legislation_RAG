@@ -36,8 +36,9 @@ class RAGPipeline:
     def _agentic_document_filter(self, user_query, documents, query_analysis):
         """
         ADIM 4: AGENTIC FİLTRELEME (Self-Correction)
-        GPT-4o-mini'ye döküman başlıklarını gösterip gereksizleri elemesini söyler.
-        Maliyet: Çok ucuz (~0.5 saniye ekler)
+        GPT-4o-mini'ye döküman başlıkları + ÖZET gösterip gereksizleri elemesini söyler.
+        
+        ÖNEMLİ DEĞİŞİKLİK: Sadece başlık değil, döküman özetini de gösteriyoruz!
         
         Args:
             user_query: Kullanıcının sorusu
@@ -50,12 +51,16 @@ class RAGPipeline:
         if not documents:
             return documents
         
-        # Döküman başlıklarını çıkar
-        doc_titles = []
+        # Döküman başlıkları + İLK 200 KARAKTER ÖZET
+        doc_summaries = []
         for i, doc in enumerate(documents):
-            title = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen')
+            title = doc.metadata.get('document_title') or doc.metadata.get('guide_title') or doc.metadata.get('source_file', 'Bilinmeyen')
             title = title.replace('.pdf', '').replace('.PDF', '')
-            doc_titles.append(f"{i+1}. {title}")
+            
+            # İlk 200 karakter özet (anahtar kelimeler için)
+            snippet = doc.page_content[:200].replace('\n', ' ').strip() + "..."
+            
+            doc_summaries.append(f"{i+1}. {title}\n   Özet: {snippet}")
         
         primary_sector = query_analysis.get('primary_sector', 'Genel')
         
@@ -64,16 +69,17 @@ class RAGPipeline:
 KULLANICI SORUSU: "{user_query}"
 SEKTÖR: {primary_sector}
 
-DÖKÜMAN BAŞLIKLARI:
-{chr(10).join(doc_titles)}
+DÖKÜMANLAR (Başlık + Özet):
+{chr(10).join(doc_summaries)}
 
 GÖREV: Yukarıdaki dökümanlardan hangilerini KULLANMAMALI? (Alakasız olanları listele)
 
 **KURALLAR:**
-1. Eğer soru "{primary_sector}" sektörüyle ilgiliyse, SADECE o sektör dökümanlarını koru
-2. Alakasız veya yanlış sektör dökümanlarını listele (örn: soru "işçi sağlığı" ise "Gemi" dökümanı alakasız)
-3. Eğer TÜM dökümanlar alakalıysa → "HEPSİ ALAKALI" yaz
-4. Eğer BAZI dökümanlar alakasızsa → Sadece numaralarını yaz: "2, 5, 7" (virgülle ayır)
+1. Eğer soru "{primary_sector}" sektörüyle ilgiliyse, SADECE o sektör + GENEL dökümanlarını koru
+2. ÖNEMLİ: "Genel" (6331 Kanunu, temel yönetmelikler) dökümanları ASLA ELEME!
+3. Alakasız sektör dökümanlarını listele (örn: soru "inşaat" ise "Gemi" alakasız)
+4. Eğer TÜM dökümanlar alakalıysa → "HEPSİ ALAKALI" yaz
+5. Eğer BAZI dökümanlar alakasızsa → Sadece numaralarını yaz: "2, 5, 7"
 
 Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
 
@@ -236,177 +242,105 @@ Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
                 name = name.title()
             return name.strip()
         
-        # Kaynak tipine göre ayır
+        # Kaynak tipine göre ayır VE NUMARALA
         documents_docs = [d for d in relevant_docs if d.metadata.get('collection_type') != 'guide']
         guides_docs = [d for d in relevant_docs if d.metadata.get('collection_type') == 'guide']
+        
+        # KAYNAK NUMARALAMA SİSTEMİ (Frontend popup eşleştirmesi için)
+        source_map = {}  # {numara: document_object}
+        current_id = 1
         
         # Mevzuat kaynakları
         mevzuat_context = ""
         if documents_docs:
-            mevzuat_context = "\nMEVZUAT KAYNAKLARI (Kanun/Yönetmelik - AYNEN ALINTILA):\n" + "="*70 + "\n\n"
-            mevzuat_context += "\n\n".join([
-                f"KAYNAK [{clean_source_name(doc)}]: {doc.page_content}" 
-                for doc in documents_docs
-            ])
+            mevzuat_context = "\n📋 MEVZUAT KAYNAKLARI (Kanun/Yönetmelik - AYNEN ALINTILA):\n" + "="*70 + "\n\n"
+            for doc in documents_docs:
+                source_map[current_id] = doc
+                mevzuat_context += f"KAYNAK [{current_id}] - {clean_source_name(doc)}:\n{doc.page_content}\n\n"
+                current_id += 1
         
         # Rehber kaynakları
         guide_context = ""
         if guides_docs:
-            guide_context = "\n\nREHBER KAYNAKLARI (Kılavuz/Uygulama Rehberi - ÖNERİ NİTELİĞİNDE):\n" + "="*70 + "\n\n"
-            guide_context += "\n\n".join([
-                f"REHBER [{clean_source_name(doc)}]: {doc.page_content}" 
-                for doc in guides_docs
-            ])
+            guide_context = "\n📚 REHBER KAYNAKLARI (Kılavuz/Uygulama Rehberi - ÖNERİ NİTELİĞİNDE):\n" + "="*70 + "\n\n"
+            for doc in guides_docs:
+                source_map[current_id] = doc
+                guide_context += f"REHBER [{current_id}] - {clean_source_name(doc)}:\n{doc.page_content}\n\n"
+                current_id += 1
         
         # Birleşik context
         context = mevzuat_context + guide_context
         
-        # Step 6: Sertleştirilmiş Prompt (Hallucination Engelleyici)
-        # OLD VERSION - Keeping for reference
-        # rag_prompt = f"""
-        # Sen Türk İş Sağlığı ve Güvenliği (İSG) mevzuatı konusunda uzmanlaşmış, son derece titiz bir hukuk danışmanısın. 
-        # Görevin, aşağıdaki 'Mevzuat İçeriği' kısmını bir hakim hassasiyetiyle incelemek ve soruyu yanıtlamaktır.
-        # ...
-        # """
-        
-        # DENETÇİ MODU - Sıkı Alıntı + Yorum Yapmama Promptu
+        # ADIM 5: SEKTÖR UYARI SİSTEMİ (Sert kilitleme yerine öncelik verme)
         primary_sector = query_analysis.get('primary_sector', 'Genel')
-        
-        # ADIM 5: SEKTÖR KİLİDİ (Prompt içinde sektör sadakati kuralı)
-        sector_lock_rule = ""
+        sector_guidance = ""
         if primary_sector != 'Genel':
-            sector_lock_rule = f"""
-⚠️ KRİTİK SEKTÖR KURALI:
-Bu soru "{primary_sector}" sektörü ile ilgilidir.
-- Eğer sağlanan döküman başka bir sektöre aitse (örn: Gemi, Maden, İnşaat) ve soru ile uyuşmuyorsa → O dökümanı ASLA KULLANMA
-- SADECE "{primary_sector}" sektörüne ait veya GENEL iş güvenliği mevzuatını kullan
-- Yanlış sektör dökümanından alıntı yapma
+            sector_guidance = f"""
+🎯 SEKTÖR BİLGİSİ: Bu soru "{primary_sector}" sektörü ile ilgilidir.
+- Öncelik sırası: 1) {primary_sector} sektörü dökümanları, 2) Genel mevzuat, 3) Diğer sektörler (sadece alakalıysa)
+- GENEL mevzuatı (6331 Kanunu vb.) her zaman kullanabilirsin
+- Başka sektör dökümanlarını SADECE soruyla alakalıysa kullan
 """
         
-        rag_prompt = f"""Sen bir İSG mevzuat uzmanısın. Görevin SADECE aşağıdaki metinleri kullanarak soruyu yanıtlamak.
-{sector_lock_rule}
-KURALLAR:
+        # TEK VE NET SYSTEM MESAJI (Tüm kurallar burada)
+        system_message = f"""Sen Türk İSG mevzuatı uzmanısın. Görevin: Sana verilen kaynaklardan AYNEN ALINTI yaparak soruyu yanıtlamak.
 
-1. METİNDEN DIŞARI ÇIKMA.
-   Sana verilen mevzuat/rehber metninde ne yazıyorsa ONU yaz. Kendi cümleni EKLEME, yorum YAPMA, çıkarım YAPMA.
+{sector_guidance}
 
-2. KAYNAK TİPİNE GÖRE FORMAT - ÇOK ÖNEMLİ!
+📐 FORMAT KURALLARI:
 
-   A) MEVZUAT KAYNAKLARI (KAYNAK [...] ile başlayanlar):
-      Format:
-      [Mevzuat Adı] uyarınca:
-      
-      "İlgili hükmü aynen tırnak içinde yaz." [Kaynak: Kısa Mevzuat Adı]
-      
-      Örnek:
-      Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik uyarınca:
-      
-      "En yüksek maruziyet eylem değerleri: (L_EX, 8saat) = 85 dB(A). Bu değerler aşıldığında, 
-      işveren gürültüye maruziyeti azaltmak için teknik ve/veya organizasyona yönelik önlemleri 
-      içeren bir eylem planı oluşturur ve uygulamaya koyar." [Kaynak: Gürültü Yönetmeliği]
-      
-      KURALLAR:
-      - Başlık: Tam mevzuat adı + "uyarınca:"
-      - Metin: Tırnak içinde, aynen alıntı (kelime değiştirme YOK)
-      - Kaynak: [Kaynak: Kısa Ad] formatında
-      - Madde numarası varsa cümle başına ekle
+A) MEVZUAT KAYNAKLARI (KAYNAK [numara] başlıklı):
    
-   B) REHBER KAYNAKLARI (REHBER [...] ile başlayanlar):
-      Format:
-      Bakanlık Rehberi [Rehber Adı]'ne göre şu pratik önlemler alınmalıdır:
-      
-      • Birinci önlem açıklaması.
-      • İkinci önlem açıklaması. [Kaynak: Rehber Adı Sayfa X | 📄 PDF Gör]
-      
-      Örnek:
-      Bakanlık Rehberi Gürültü Risklerinin Yönetilmesi Rehberi'ne göre şu pratik önlemler alınmalıdır:
-      
-      • Gürültü kaynağı ile çalışan arasına ses emici bariyerler yerleştirilmelidir.
-      • Kulak koruyucuların seçimi sadece desibel düşürme oranına (SNR) göre değil, çalışanın 
-        konforuna ve iletişim ihtiyacına göre yapılmalıdır. [Kaynak: İSGGM Gürültü Rehberi Sayfa 12 | 📄 PDF Gör]
-      
-      KURALLAR:
-      - Başlık: "Bakanlık Rehberi [Ad]'ne göre şu pratik önlemler alınmalıdır:"
-      - Metin: Madde madde (• ile), açıklayıcı dil
-      - Kaynak: [Kaynak: Ad Sayfa X | 📄 PDF Gör] formatında
-      - Tırnak KULLANMA (bu öneri/tavsiye, yasal zorunluluk değil)
+   [Mevzuat Tam Adı] uyarınca:
+   
+   "İlgili hükmü KELİMESİ KELİMESİNE tırnak içinde yaz." [1]
+   
+   Örnek:
+   Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik uyarınca:
+   
+   "En yüksek maruziyet eylem değerleri: (L_EX, 8saat) = 85 dB(A). Bu değerler aşıldığında, 
+   işveren gürültüye maruziyeti azaltmak için teknik ve/veya organizasyona yönelik önlemleri 
+   içeren bir eylem planı oluşturur ve uygulamaya koyar." [3]
 
-3. BİLGİ YOKSA "BULUNAMADI" DE.
-   Dokümanda net bir rakam, süre veya bilgi yoksa şunu yaz:
-   "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı."
-   Asla "genellikle", "muhtemelen", "yaklaşık" gibi belirsiz ifadeler kullanma.
-   HİÇBİR ZAMAN yönlendirme yapma, başka kaynaklar önerme veya emoji kullanma.
+B) REHBER KAYNAKLARI (REHBER [numara] başlıklı):
+   
+   Bakanlık Rehberi [Rehber Adı]'ne göre şu pratik önlemler alınmalıdır:
+   
+   • Birinci önlem açıklaması.
+   • İkinci önlem açıklaması. [5]
+   
+   Örnek:
+   Bakanlık Rehberi Güvenli İstifleme Rehberi'ne göre şu pratik önlemler alınmalıdır:
+   
+   • Keresteler dengeli ve sağlam şekilde istiflenmeli.
+   • İstifleme alanı düz ve sağlam zemine sahip olmalı. [8]
 
-4. DETAYLI VE AÇIKLAYICI YAZ.
-   - Gereksiz giriş cümlesi yazma ("Elbette, bu konuda...", "Bu sorunun cevabı...")
-   - Direkt cevaba gir
-   - Aynı bilgiyi tekrar etme
-   - AMA yeterli detay ver, birden fazla ilgili madde varsa hepsini yaz
-   - Önce mevzuat (yasal çerçeve), sonra rehber (pratik uygulama) sıralaması ideal
+⚠️ KATGORIK YASAK:
+- Metinde olmayan bilgi uydurma
+- Tırnaksız alıntı (mevzuat için)
+- Kaynak numarası yerine isim yazma ([Gürültü Yön.] değil, [3] yaz!)
+- Emoji, yönlendirme, "umarım yardımcı olmuştur" gibi kapanışlar
+- .pdf uzantısı, dosya adı
 
-YASAK DAVRANIŞLAR:
-- "Bu konuda şunu söyleyebiliriz ki..." gibi dolgu cümleleri
-- Metinde olmayan süre/rakam uydurma
-- Aynı bilgiyi farklı kelimelerle tekrarlama
-- Emoji kullanma
-- Yönlendirme mesajları ("Daha spesifik soru sorun", "Bu kaynaklara bakabilirsiniz")
-- Liste halinde kaynak gösterme (cevap yok ise bile)
-- .pdf uzantılı dosya adları
+✅ EĞER METİNDE YOKSA:
+"Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı."
 
-DOĞRU CEVAP ÖRNEĞİ:
-Soru: "Risk değerlendirmesi ne sıklıkla yenilenir?"
-
-Cevap:
-"İşveren; yapılan risk değerlendirmesi sonuçlarına göre, kontrol tedbirlerini düzenli olarak izler ve risk değerlendirmesini yeniler." [İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği]
-
-METİNLER:
-{context}
-
-Soru: {user_input}
-
-Cevap:"""
+Şimdi aşağıdaki kaynakları kullanarak soruyu yanıtla."""
         
-        # Mesaj Geçmişi Yönetimi
+        # USER MESAJI: Sadece Context + Soru
+        user_message = f"""{context}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SORU: {user_input}
+
+CEVAP:"""
+        
+        # MESAJ YAPISI (Conversation history ortada)
         messages = [
-            {
-                "role": "system",
-                "content": """Sen İSG mevzuat uzmanısın. Sadece verilen metne bağlı kal.
-
-KURALLAR:
-1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
-
-2. KAYNAK TİPİNE GÖRE FORMAT:
-
-   A) MEVZUAT (KAYNAK [...] başlıklı kaynaklar):
-      [Mevzuat Adı] uyarınca:
-      
-      "İlgili hükmü aynen tırnak içinde yaz." [Kaynak: Kısa Mevzuat Adı]
-      
-      Örnek:
-      Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik uyarınca:
-      
-      "En yüksek maruziyet eylem değerleri: (L_EX, 8saat) = 85 dB(A)..." [Kaynak: Gürültü Yönetmeliği]
-   
-   B) REHBER (REHBER [...] başlıklı kaynaklar):
-      Bakanlık Rehberi [Rehber Adı]'ne göre şu pratik önlemler alınmalıdır:
-      
-      • Birinci önlem açıklaması.
-      • İkinci önlem açıklaması. [Kaynak: Rehber Adı Sayfa X]
-      
-      Örnek:
-      Bakanlık Rehberi İstifleme Rehberi'ne göre şu pratik önlemler alınmalıdır:
-      
-      • Keresteler dengeli ve sağlam şekilde istiflenmeli.
-      • İstifleme alanı düz ve sağlam zemine sahip olmalı. [Kaynak: Güvenli İstifleme Rehberi]
-
-3. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de.
-
-4. Detaylı cevap ver. Birden fazla kaynak varsa hepsini kullan.
-
-5. YASAK: Emoji, yönlendirme, .pdf uzantısı, dosya adı, madde numarası kaynakta."""
-            }
+            {"role": "system", "content": system_message}
         ] + self.conversation_history + [
-            {"role": "user", "content": rag_prompt}
+            {"role": "user", "content": user_message}
         ]
         
         # Step 7: Cevap Üretimi (GPT-4o-mini)
