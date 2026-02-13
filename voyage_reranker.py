@@ -23,17 +23,20 @@ class VoyageReranker:
         
         print(f"✅ Voyage AI Reranker initialized (model: {self.model})")
     
-    def rerank_documents(self, query: str, documents: List, top_k: int = 5) -> List:
+    def rerank_documents(self, query: str, documents: List, top_k: int = 5, score_threshold: float = 0.0) -> List:
         """
-        Rerank documents using Voyage AI rerank-2.5-lite model
+        ADIM 3: RERANKER SKOR EŞİĞİ (Threshold)
+        Voyage AI ile dökümanları rerank eder ve belirli skor altındakileri eler.
         
         Args:
             query: Search query
             documents: List of Document objects with page_content
             top_k: Number of top documents to return
+            score_threshold: Minimum relevance score (0.0-1.0). Default 0.0 (no filtering)
+                           Önerilen: 0.4-0.5 arası (alakasız dökümanları eler)
             
         Returns:
-            List of top-k reranked documents
+            List of top-k reranked documents above threshold
         """
         try:
             if not documents:
@@ -42,9 +45,10 @@ class VoyageReranker:
             # Extract text content from documents
             doc_texts = [doc.page_content for doc in documents]
             
-            print(f"⚖️ Reranking {len(documents)} documents with Voyage AI...")
+            print(f"⚖️ ADIM 3 - RERANKER: {len(documents)} döküman skorlanıyor...")
             print(f"   • Model: {self.model}")
             print(f"   • Query: {query[:50]}...")
+            print(f"   • Skor Eşiği: {score_threshold}")
             
             # Call Voyage AI rerank API
             result = self.client.rerank(
@@ -54,12 +58,24 @@ class VoyageReranker:
                 top_k=min(top_k, len(documents))
             )
             
-            # Build ranked documents list
+            # Build ranked documents list with score filtering
             ranked_docs = []
-            for item in result.results:
-                ranked_docs.append(documents[item.index])
+            filtered_count = 0
             
-            print(f"✅ Reranking complete! Top {len(ranked_docs)} documents selected")
+            for item in result.results:
+                # THRESHOLD CHECK: Sadece yüksek skorlu dökümanları al
+                if item.relevance_score >= score_threshold:
+                    doc = documents[item.index]
+                    # Skoru metadata'ya ekle (debug için)
+                    if hasattr(doc, 'metadata'):
+                        doc.metadata['rerank_score'] = item.relevance_score
+                    ranked_docs.append(doc)
+                else:
+                    filtered_count += 1
+            
+            print(f"✅ Reranking tamamlandı!")
+            print(f"   • Kabul edilen: {len(ranked_docs)} döküman (skor >= {score_threshold})")
+            print(f"   • Elenen: {filtered_count} döküman (düşük skor)")
             
             return ranked_docs
             

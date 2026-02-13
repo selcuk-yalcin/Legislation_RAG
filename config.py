@@ -72,6 +72,11 @@ INITIAL_RETRIEVAL_K = 50
 # TOP_RERANKED_K: LLM'e (GPT-4o-mini) gönderilen en kaliteli ve elenmiş parça sayısı.
 TOP_RERANKED_K = 15
 
+# RERANK_SCORE_THRESHOLD: Voyage Reranker skor eşiği (0.0-1.0)
+# Alakasız ama kelime benzerliği olan dökümanları eler.
+# Önerilen: 0.4-0.5 arası (yüksek kalite kontrolü için)
+RERANK_SCORE_THRESHOLD = float(os.getenv("RERANK_SCORE_THRESHOLD", "0.45"))
+
 # --- DOCUMENT PATHS ---
 DATA_DIR = "./data"  # Ana data klasörü
 KANUN_DIR = "./data/KANUN VE YÖNETMELİKLER"  # Kanunlar ve yönetmelikler

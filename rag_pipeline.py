@@ -10,7 +10,8 @@ from config import (
     INITIAL_RETRIEVAL_K, # Bu değer config.py'de 100 olmalı
     TOP_RERANKED_K,
     MAX_CONVERSATION_HISTORY,
-    MEMORY_STRATEGY
+    MEMORY_STRATEGY,
+    RERANK_SCORE_THRESHOLD
 )
 from query_expansion import expand_query, analyze_query_context, build_metadata_filter
 
@@ -124,10 +125,15 @@ class RAGPipeline:
             filter_dict=metadata_filter
         )
         
-        # Step 4: Voyage Reranker ile Nokta Atışı
+        # Step 4: Voyage Reranker ile Nokta Atışı + Skor Eşiği
         if self.reranker and initial_docs:
             print(f"🎯 Voyage Reranker {len(initial_docs)} dökümanı sıralıyor...")
-            relevant_docs = self.reranker.rerank_documents(user_input, initial_docs, top_k=TOP_RERANKED_K)
+            relevant_docs = self.reranker.rerank_documents(
+                user_input, 
+                initial_docs, 
+                top_k=TOP_RERANKED_K,
+                score_threshold=RERANK_SCORE_THRESHOLD  # ADIM 3: Skor eşiği
+            )
         else:
             relevant_docs = initial_docs[:TOP_RERANKED_K]
         
