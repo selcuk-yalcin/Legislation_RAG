@@ -270,8 +270,21 @@ Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
         # """
         
         # DENETÇİ MODU - Sıkı Alıntı + Yorum Yapmama Promptu
+        primary_sector = query_analysis.get('primary_sector', 'Genel')
+        
+        # ADIM 5: SEKTÖR KİLİDİ (Prompt içinde sektör sadakati kuralı)
+        sector_lock_rule = ""
+        if primary_sector != 'Genel':
+            sector_lock_rule = f"""
+⚠️ KRİTİK SEKTÖR KURALI:
+Bu soru "{primary_sector}" sektörü ile ilgilidir.
+- Eğer sağlanan döküman başka bir sektöre aitse (örn: Gemi, Maden, İnşaat) ve soru ile uyuşmuyorsa → O dökümanı ASLA KULLANMA
+- SADECE "{primary_sector}" sektörüne ait veya GENEL iş güvenliği mevzuatını kullan
+- Yanlış sektör dökümanından alıntı yapma
+"""
+        
         rag_prompt = f"""Sen bir İSG mevzuat uzmanısın. Görevin SADECE aşağıdaki metinleri kullanarak soruyu yanıtlamak.
-
+{sector_lock_rule}
 KURALLAR:
 
 1. METİNDEN DIŞARI ÇIKMA.
