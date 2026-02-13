@@ -320,9 +320,17 @@ KURALLAR:
 
 "Kadın çalışanlar, gebe oldukları anlaşılan kadınlar ve doğum tarihinden itibaren bir yıl geçmemiş kadınlar gece çalışamaz." [Kadın Çalışanların Gece Postalarında Çalıştırılma Koşulları Hakkında Yönetmelik]
 
-6. KAYNAK AYIRIMI.
-   Mevzuat (kanun/yönetmelik) = kesin hüküm, tırnak içinde alıntı
-   Rehber (kılavuz/uygulama) = öneri niteliğinde, "...önerilmektedir" formatında
+6. KAYNAK AYIRIMI VE KULLANIMI.
+   - **MEVZUAT** (KAYNAK [...] ile başlayanlar): Kanun, yönetmelik, tebliğ
+     → Kesin hüküm, yasal zorunluluk
+     → Tırnak içinde aynen alıntı yap
+   
+   - **REHBER** (REHBER [...] ile başlayanlar): Kılavuz, uygulama rehberi
+     → Öneri niteliğinde, örnek uygulama
+     → "...önerilmektedir", "...tavsiye edilir" formatında yaz
+   
+   - Her iki tip kaynağı da kullanabilirsin
+   - Önce mevzuat (yasal çerçeve), sonra rehber (pratik uygulama) sıralaması ideal
 
 YASAK DAVRANIŞLAR:
 - "Bu konuda şunu söyleyebiliriz ki..." gibi dolgu cümleleri

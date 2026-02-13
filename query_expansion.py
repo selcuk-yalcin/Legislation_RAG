@@ -120,18 +120,31 @@ def build_metadata_filter(analysis):
     
     # Genel sorularda sektörel filtreleme YAPMA
     if is_general or primary_sector == 'Genel':
+        # ✅ HER ZAMAN hem mevzuat hem rehber ara
+        base_filter = {
+            '$or': [
+                {'metadata.collection_type': 'legislation'},
+                {'metadata.collection_type': 'guide'}
+            ]
+        }
+        
         # Ancak hariç tutulanları filtrele (örn: "işçi sağlığı" sorusunda maden dökümanı gösterme)
         if exclude_keywords:
-            exclude_filter = {
-                'metadata.document_title': {
-                    '$not': {'$regex': '|'.join(exclude_keywords), '$options': 'i'}
-                }
+            combined_filter = {
+                '$and': [
+                    base_filter,
+                    {
+                        'metadata.document_title': {
+                            '$not': {'$regex': '|'.join(exclude_keywords), '$options': 'i'}
+                        }
+                    }
+                ]
             }
-            print(f"📂 ADIM 2 - GENEL SORU (Sadece hariç tutma): {exclude_keywords}")
-            return exclude_filter
+            print(f"📂 ADIM 2 - GENEL SORU (Hem mevzuat hem rehber, hariç: {exclude_keywords})")
+            return combined_filter
         else:
-            print("📂 ADIM 2 - GENEL SORU (Filtre yok)")
-            return None
+            print("📂 ADIM 2 - GENEL SORU (Hem mevzuat hem rehber aranıyor)")
+            return base_filter
     
     # Sektöre özel SERT FİLTRE
     filters = {}
@@ -147,12 +160,24 @@ def build_metadata_filter(analysis):
     # İlgili sektör keyword'leri
     target_keywords = sector_keywords.get(primary_sector, [primary_sector.lower()])
     
-    # INCLUDE filtresi: Bu sektör keyword'lerini IÇEREN dökümanları getir
+    # ✅ INCLUDE filtresi: Hem sektör keyword'leri hem collection type
     sector_filter = {
-        'metadata.document_title': {
-            '$regex': '|'.join(target_keywords), 
-            '$options': 'i'
-        }
+        '$and': [
+            # Hem mevzuat hem rehber ara
+            {
+                '$or': [
+                    {'metadata.collection_type': 'legislation'},
+                    {'metadata.collection_type': 'guide'}
+                ]
+            },
+            # Sektör keyword'lerini içeren dökümanlar
+            {
+                'metadata.document_title': {
+                    '$regex': '|'.join(target_keywords), 
+                    '$options': 'i'
+                }
+            }
+        ]
     }
     
     # EXCLUDE filtresi: Hariç tutulan keyword'leri IÇERMEYEN dökümanları getir
@@ -168,10 +193,10 @@ def build_metadata_filter(analysis):
                 }
             ]
         }
-        print(f"📂 ADIM 2 - SERT FİLTRE: Sektör={primary_sector} (SADECE {target_keywords}, HARİÇ {exclude_keywords})")
+        print(f"📂 ADIM 2 - SERT FİLTRE: Sektör={primary_sector} (SADECE {target_keywords}, HARİÇ {exclude_keywords}) [Mevzuat+Rehber]")
     else:
         filters = sector_filter
-        print(f"📂 ADIM 2 - SERT FİLTRE: Sektör={primary_sector} (SADECE {target_keywords})")
+        print(f"📂 ADIM 2 - SERT FİLTRE: Sektör={primary_sector} (SADECE {target_keywords}) [Mevzuat+Rehber]")
     
     return filters
 
