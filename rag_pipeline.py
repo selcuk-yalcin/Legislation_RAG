@@ -33,6 +33,84 @@ class RAGPipeline:
         if len(self.conversation_history) > self.max_history:
             self.conversation_history = self.conversation_history[-self.max_history:]
     
+    def _agentic_document_filter(self, user_query, documents, query_analysis):
+        """
+        ADIM 4: AGENTIC FİLTRELEME (Self-Correction)
+        GPT-4o-mini'ye döküman başlıklarını gösterip gereksizleri elemesini söyler.
+        Maliyet: Çok ucuz (~0.5 saniye ekler)
+        
+        Args:
+            user_query: Kullanıcının sorusu
+            documents: Rerank edilmiş dökümanlar
+            query_analysis: Niyet analizi sonucu
+            
+        Returns:
+            Filtrelenmiş döküman listesi
+        """
+        if not documents:
+            return documents
+        
+        # Döküman başlıklarını çıkar
+        doc_titles = []
+        for i, doc in enumerate(documents):
+            title = doc.metadata.get('document_title') or doc.metadata.get('source_file', 'Bilinmeyen')
+            title = title.replace('.pdf', '').replace('.PDF', '')
+            doc_titles.append(f"{i+1}. {title}")
+        
+        primary_sector = query_analysis.get('primary_sector', 'Genel')
+        
+        filter_prompt = f"""Sen uzman bir mevzuat analistisin. Kullanıcının sorusuna cevap verebilecek ALAKALI dökümanları seç.
+
+KULLANICI SORUSU: "{user_query}"
+SEKTÖR: {primary_sector}
+
+DÖKÜMAN BAŞLIKLARI:
+{chr(10).join(doc_titles)}
+
+GÖREV: Yukarıdaki dökümanlardan hangilerini KULLANMAMALI? (Alakasız olanları listele)
+
+**KURALLAR:**
+1. Eğer soru "{primary_sector}" sektörüyle ilgiliyse, SADECE o sektör dökümanlarını koru
+2. Alakasız veya yanlış sektör dökümanlarını listele (örn: soru "işçi sağlığı" ise "Gemi" dökümanı alakasız)
+3. Eğer TÜM dökümanlar alakalıysa → "HEPSİ ALAKALI" yaz
+4. Eğer BAZI dökümanlar alakasızsa → Sadece numaralarını yaz: "2, 5, 7" (virgülle ayır)
+
+Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
+
+        try:
+            response = self.client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=[{"role": "user", "content": filter_prompt}],
+                temperature=0.0,
+                max_tokens=50
+            )
+            
+            result = response.choices[0].message.content.strip().upper()
+            
+            if "HEPSİ ALAKALI" in result or "HEPSI" in result:
+                print(f"✅ ADIM 4 - AGENTIC: Tüm {len(documents)} döküman alakalı")
+                return documents
+            
+            # Alakasız döküman numaralarını parse et
+            excluded_indices = set()
+            import re
+            numbers = re.findall(r'\d+', result)
+            for num in numbers:
+                idx = int(num) - 1  # 1-based'den 0-based'e çevir
+                if 0 <= idx < len(documents):
+                    excluded_indices.add(idx)
+            
+            # Alakalı dökümanları filtrele
+            filtered_docs = [doc for i, doc in enumerate(documents) if i not in excluded_indices]
+            
+            print(f"✅ ADIM 4 - AGENTIC: {len(filtered_docs)}/{len(documents)} döküman alakalı (elenen: {len(excluded_indices)})")
+            
+            return filtered_docs if filtered_docs else documents  # En az 1 döküman olsun
+            
+        except Exception as e:
+            print(f"⚠️ ADIM 4 - AGENTIC filtre hatası: {e}, tüm dökümanlar kullanılıyor")
+            return documents
+    
     def _clean_title(self, raw_title):
         """Basliklari temizle ve duzenle"""
         import re
@@ -136,6 +214,9 @@ class RAGPipeline:
             )
         else:
             relevant_docs = initial_docs[:TOP_RERANKED_K]
+        
+        # Step 4.5: Agentic Document Filtering (Self-Correction)
+        relevant_docs = self._agentic_document_filter(user_input, relevant_docs, query_analysis)
         
         # Step 5: Bağlam Oluşturma - KAYNAK TİPİNE GÖRE AYRI
         def clean_source_name(doc):
