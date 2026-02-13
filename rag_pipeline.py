@@ -374,13 +374,36 @@ Cevap:"""
 
 KURALLAR:
 1. Metinde ne yazıyorsa ONU yaz. Yorum YAPMA, çıkarım YAPMA, dolgu cümlesi EKLEME.
-2. İlgili hükmü tırnak içinde ("...") AYNEN alıntıla. Kelime değiştirme.
-3. Her alıntının sonunda [Kaynak Adı] formatında kaynak belirt. Örnek: "..." [İşyerlerinde Acil Durumlar Hakkında Yönetmelik]
-4. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de. Uydurma. Yönlendirme yapma. Liste verme.
-5. Detaylı ve açıklayıcı cevap ver. Birden fazla ilgili kaynak varsa hepsini kullan. Gereksiz tekrar yapma ama yeterli bilgi ver.
-6. Mevzuat = kesin hüküm, tırnak alıntı. Rehber = öneri niteliğinde.
-7. Kaynak adını köşeli parantez içinde yaz: [Tam Türkçe Ad]. .pdf YAZMA. Dosya adı YAZMA. MADDE numarası YAZMA.
-8. EMOJİ KULLANMA. Yönlendirme mesajı YAZMA."""
+
+2. KAYNAK TİPİNE GÖRE FORMAT:
+
+   A) MEVZUAT (KAYNAK [...] başlıklı kaynaklar):
+      [Mevzuat Adı] uyarınca:
+      
+      "İlgili hükmü aynen tırnak içinde yaz." [Kaynak: Kısa Mevzuat Adı]
+      
+      Örnek:
+      Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik uyarınca:
+      
+      "En yüksek maruziyet eylem değerleri: (L_EX, 8saat) = 85 dB(A)..." [Kaynak: Gürültü Yönetmeliği]
+   
+   B) REHBER (REHBER [...] başlıklı kaynaklar):
+      Bakanlık Rehberi [Rehber Adı]'ne göre şu pratik önlemler alınmalıdır:
+      
+      • Birinci önlem açıklaması.
+      • İkinci önlem açıklaması. [Kaynak: Rehber Adı Sayfa X]
+      
+      Örnek:
+      Bakanlık Rehberi İstifleme Rehberi'ne göre şu pratik önlemler alınmalıdır:
+      
+      • Keresteler dengeli ve sağlam şekilde istiflenmeli.
+      • İstifleme alanı düz ve sağlam zemine sahip olmalı. [Kaynak: Güvenli İstifleme Rehberi]
+
+3. Metinde yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı." de.
+
+4. Detaylı cevap ver. Birden fazla kaynak varsa hepsini kullan.
+
+5. YASAK: Emoji, yönlendirme, .pdf uzantısı, dosya adı, madde numarası kaynakta."""
             }
         ] + self.conversation_history + [
             {"role": "user", "content": rag_prompt}
