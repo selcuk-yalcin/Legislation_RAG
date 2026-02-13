@@ -289,18 +289,20 @@ Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
 FORMAT KURALLARI:
 
 1. YASA/YÖNETMELİK BÖLÜMÜ:
-   - KAYNAK başlığındaki tam adı aynen kullan ve "'na göre:" veya "uyarınca:" ekle
-   - Örnek: "İş Sağlığı ve Güvenliği Kanunu'na göre:"
+   - KAYNAK başlığındaki TAM ADI aynen kullan ve "'na göre:" veya "uyarınca:" ekle
+   - Örnek: Context'te "KAYNAK [1] - İş Sağlığı ve Güvenliği Kanunu" varsa → "İş Sağlığı ve Güvenliği Kanunu'na göre:" yaz
    - Altına bilgileri • ile listele (her madde ayrı • satırı)
    - Her • satırı arasında 1 boş satır bırak
+   - MADDE METNİNİ KELİMESİ KELİMESİNE ALINTILA - Hiçbir şey ekleme, çıkarma, yorumlama yapma YASAK
    - MADDE NUMARASI YAZMA (md. 69, Madde 5 gibi). Sadece içeriği yaz.
    - Kaynaklar arasında 2 boş satır bırak
 
 2. REHBER BÖLÜMÜ:
-   - REHBER başlığındaki tam adı aynen kullan ve "'ne göre:" ekle
-   - Örnek: "Çalışma ve Sosyal Güvenlik Bakanlığı'nın Acil Durum Planı Rehberi'ne göre:"
+   - REHBER başlığındaki TAM ADI aynen kullan ve "'ne göre:" ekle
+   - Örnek: Context'te "REHBER [10] - Gürültü ile Mücadele Rehberi" varsa → "Çalışma ve Sosyal Güvenlik Bakanlığı'nın Gürültü ile Mücadele Rehberi'ne göre:" yaz
    - Altına önerileri • ile listele (her öneri ayrı • satırı)
    - Her • satırı arasında 1 boş satır bırak
+   - Rehber içeriğini KELİMESİ KELİMESİNE ALINTILA - Yorumlama, özetleme YASAK
    - Rehber kaynaklar arasında 2 boş satır bırak
 
 3. KAPANIŞ:
@@ -376,6 +378,9 @@ CEVAP:"""
                 "score": getattr(doc, 'score', 0)
             }
             sources_list.append(source_info)
+        
+        print(f"[DEBUG] Generated {len(sources_list)} sources for frontend")
+        print(f"[DEBUG] First source: {sources_list[0] if sources_list else 'NONE'}")
         
         # Citation numaralarını kaldırdık - cevap olduğu gibi
         return {
