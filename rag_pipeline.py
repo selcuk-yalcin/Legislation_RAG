@@ -287,17 +287,29 @@ Cevap (sadece numaralar veya "HEPSİ ALAKALI"):"""
 {sector_guidance}
 
 YAZI KURALLARI:
-1. Mevzuat kaynağından bilgi verirken: Mevzuatın tam adını yaz, "uyarınca:" ekle, sonra ilgili hükmü tırnak içinde KELİMESİ KELİMESİNE alıntıla, cümle sonuna kaynak numarası koy. Birden fazla ilgili madde varsa HEPSİNİ yaz, kısaltma.
-2. Rehber kaynağından bilgi verirken: "Bakanlık Rehberi [Ad]'ne göre:" yaz, sonra önerileri • ile sırala, son maddenin sonuna kaynak numarası koy. Rehberdeki TÜM ilgili önerileri yaz.
-3. Önce mevzuat bilgilerini yaz, sonra rehber bilgilerini yaz.
-4. Kaynak numarası sadece rakam: [1] [2] [3] gibi. Kaynak ismi, dosya adı yazma.
-5. Kaynakta yoksa: "Sağlanan kaynaklarda bu konuya ilişkin doğrudan bir hüküm bulunamadı."
+
+1. Aynı kaynaktan gelen bilgileri grupla. Her kaynağı bir kez yaz, altına o kaynaktan çektiğin TÜM ilgili maddeleri sırala.
+
+2. Mevzuat (Kanun/Yönetmelik) kaynağı kullanırken:
+   - Önce kaynağın tam adını yaz ve "uyarınca:" veya "'na göre:" ekle
+   - Altına her ilgili maddeyi ayrı satırda tırnak içinde KELİMESİ KELİMESİNE alıntıla
+   - Birden fazla ilgili madde varsa HEPSİNİ yaz, kısaltma
+   
+3. Rehber kaynağı kullanırken:
+   - Önce "Bakanlık [Rehber Adı] Rehberi'ne göre:" yaz
+   - Altına önerileri • ile listele
+   - Rehberdeki TÜM ilgili önerileri yaz, kısaltma
+
+4. Sıralama: Önce kanunları, sonra yönetmelikleri, sonra rehberleri yaz.
+
+5. Cevabı düz metin olarak yaz. Kaynak numarası, referans kodu, dosya adı YAZMA.
 
 YASAKLAR:
-- "A) MEVZUAT KAYNAKLARI", "B) REHBER KAYNAKLARI" gibi bölüm başlıkları YAZMA
-- "KAYNAK [1] başlıklı", "REHBER [2] başlıklı" gibi ifadeler YAZMA
-- Emoji, yönlendirme cümlesi, .pdf uzantısı, kapanış cümlesi, bilgi uydurma YASAK
-- Doğrudan konuya gir, gereksiz giriş cümlesi yazma"""
+- [1] [2] [3] gibi kaynak numaraları YAZMA
+- "KAYNAK", "REHBER", "A)", "B)" gibi bölüm başlıkları YAZMA  
+- Emoji, yönlendirme cümlesi, .pdf uzantısı, kapanış cümlesi YAZMA
+- Bilgi uydurma, kaynakta olmayan şey yazma YASAK
+- Doğrudan konuya gir"""
         
         # USER MESAJI: Sadece Context + Soru
         user_message = f"""{context}
