@@ -84,7 +84,7 @@ TEBLIG_DIR = "./data/TEBLİĞ"  # Tebliğler
 
 # --- LLM VE HTTP PARAMETRELERİ ---
 TEMPERATURE = 0.0  # Denetçi modu: SIFIR yaratıcılık, metne TAM bağlılık (hallucination önleme)
-MAX_TOKENS = 800   # Kısa ve öz cevaplar için düşürüldü
+MAX_TOKENS = 2000  # Mevzuat + Rehber birlikte gelince uzun cevap gerekiyor
 EXPANSION_TEMPERATURE = 0.3
 EXPANSION_MAX_TOKENS = 100
 
