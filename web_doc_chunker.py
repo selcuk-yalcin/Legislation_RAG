@@ -32,7 +32,7 @@ class WebDocumentChunker:
         self.min_chunk_size = min_chunk_size
         self.overlap = overlap
         print(
-            f"✅ WebDocumentChunker initialized "
+            f" WebDocumentChunker initialized "
             f"(max={max_chunk_size}, min={min_chunk_size}, overlap={overlap})"
         )
 
@@ -88,7 +88,7 @@ class WebDocumentChunker:
                 },
             })
 
-        print(f"   ✅ Chunked into {len(chunks)} pieces (from {len(text):,} chars)")
+        print(f"    Chunked into {len(chunks)} pieces (from {len(text):,} chars)")
         return chunks
 
     # ──────────────────────────────────────────────
