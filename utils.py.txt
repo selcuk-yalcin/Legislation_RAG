@@ -168,4 +168,4 @@ if __name__ == "__main__":
     )
     print(f"\nSample citation:\n{citation}")
     
-    print("\n✅ Utility functions ready!")
+    print("\n Utility functions ready!")
