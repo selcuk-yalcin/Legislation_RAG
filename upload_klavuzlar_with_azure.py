@@ -17,14 +17,14 @@ class KlavuzUploader:
     
     def __init__(self):
         print("=" * 80)
-        print("📚 KLAVUZ UPLOADER - Azure DI + Voyage AI + MongoDB")
+        print(" KLAVUZ UPLOADER - Azure DI + Voyage AI + MongoDB")
         print("=" * 80)
         self.parser = AzureDocParser()
         self.chunker = WebDocumentChunker(max_chunk_size=1500, min_chunk_size=100, overlap=200)
         self.voyage_client = voyageai.Client(api_key=VOYAGE_API_KEY)
         self.mongo_client = MongoClient(MONGO_URI)
         self.collection = self.mongo_client[MONGO_DB_NAME][self.COLLECTION_NAME]
-        print(f"✅ Ready | Existing: {self.collection.count_documents({})} chunks\n")
+        print(f" Ready | Existing: {self.collection.count_documents({})} chunks\n")
         self.stats = {"total_pdfs": 0, "processed": 0, "failed": 0, "total_chunks": 0, "skipped": 0}
     
     def batch_embed(self, texts, batch_size=50):
@@ -41,11 +41,11 @@ class KlavuzUploader:
     def process_pdf(self, pdf_path):
         filename = os.path.basename(pdf_path)
         if self.collection.find_one({"metadata.source_file": filename}):
-            print(f"⏭️  Skip: {filename}")
+            print(f"  Skip: {filename}")
             self.stats["skipped"] += 1
             return
         
-        print(f"📄 {filename} ({os.path.getsize(pdf_path)/1024/1024:.1f} MB)")
+        print(f" {filename} ({os.path.getsize(pdf_path)/1024/1024:.1f} MB)")
         start = time.time()
         try:
             md = self.parser.parse_pdf(pdf_path)
@@ -67,32 +67,32 @@ class KlavuzUploader:
             } for i, (c, e) in enumerate(zip(chunks, embs))]
             
             self.collection.insert_many(docs)
-            print(f"✅ {len(docs)} chunks | {time.time()-start:.1f}s\n")
+            print(f" {len(docs)} chunks | {time.time()-start:.1f}s\n")
             self.stats["processed"] += 1
             self.stats["total_chunks"] += len(docs)
         except Exception as e:
-            print(f"❌ Error: {e}\n")
+            print(f" Error: {e}\n")
             self.stats["failed"] += 1
     
     def run(self):
         pdfs = sorted(glob.glob(os.path.join(self.KLAVUZ_DIR, "*.pdf")))
         self.stats["total_pdfs"] = len(pdfs)
-        print(f"🚀 Starting: {len(pdfs)} PDFs\n")
+        print(f" Starting: {len(pdfs)} PDFs\n")
         
         for i, pdf in enumerate(pdfs, 1):
             print(f"[{i}/{len(pdfs)}] ", end="")
             self.process_pdf(pdf)
         
         print("=" * 80)
-        print(f"✅ COMPLETE | Processed: {self.stats['processed']} | Failed: {self.stats['failed']} | Skipped: {self.stats['skipped']}")
-        print(f"📊 Total chunks: {self.stats['total_chunks']} | DB now has: {self.collection.count_documents({}):,} chunks")
+        print(f" COMPLETE | Processed: {self.stats['processed']} | Failed: {self.stats['failed']} | Skipped: {self.stats['skipped']}")
+        print(f" Total chunks: {self.stats['total_chunks']} | DB now has: {self.collection.count_documents({}):,} chunks")
         print("=" * 80)
 
 if __name__ == "__main__":
-    resp = input("🤔 Upload 75 klavuz PDFs to MongoDB? (y/n): ").strip().lower()
+    resp = input(" Upload 75 klavuz PDFs to MongoDB? (y/n): ").strip().lower()
     if resp == 'y':
         uploader = KlavuzUploader()
         uploader.run()
-        print("\n💡 Next: Run 'python export_guides.py' to export to Local + Azure")
+        print("\n Next: Run 'python export_guides.py' to export to Local + Azure")
     else:
         print("❌ Cancelled")
