@@ -34,15 +34,15 @@ def setup_models():
         model_name=EMBEDDING_MODEL,
         cache_folder=MODEL_CACHE_DIR
     )
-    print("✅ Embedding model hazır!")
+    print("Embedding model hazır!")
     
     # Test embedding
     test_text = "Test metni"
     _ = embeddings.embed_query(test_text)
-    print("✅ Embedding model test edildi!")
+    print("Embedding model test edildi!")
     
     # 2. Reranker Model
-    print("\n📥 2/2: Reranker model indiriliyor...")
+    print("\n 2/2: Reranker model indiriliyor...")
     print(f"Model: {RERANKER_MODEL}")
     
     flashrank_dir = Path(FLASHRANK_CACHE_DIR)
@@ -52,15 +52,15 @@ def setup_models():
         model_name=RERANKER_MODEL,
         cache_dir=FLASHRANK_CACHE_DIR
     )
-    print("✅ Reranker model hazır!")
+    print(" Reranker model hazır!")
     
     print("\n" + "=" * 60)
-    print("✅ Tüm modeller başarıyla indirildi!")
+    print(" Tüm modeller başarıyla indirildi!")
     print("\nModeller şu dizinlerde:")
-    print(f"  📁 Embedding: {MODEL_CACHE_DIR}")
-    print(f"  📁 Reranker: {FLASHRANK_CACHE_DIR}")
-    print("\n💡 Artık ana uygulama bu modelleri diskten okuyacak.")
-    print("\n📦 Railway Volume kullanıyorsanız:")
+    print(f"   Embedding: {MODEL_CACHE_DIR}")
+    print(f"   Reranker: {FLASHRANK_CACHE_DIR}")
+    print("\n  Artık ana uygulama bu modelleri diskten okuyacak.")
+    print("\n Railway Volume kullanıyorsanız:")
     print(f"  - Volume mount: /app/data_persistent")
     print(f"  - Models: {MODEL_CACHE_DIR}")
     print(f"  - Cache: {FLASHRANK_CACHE_DIR}")
