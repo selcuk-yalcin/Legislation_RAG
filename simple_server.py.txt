@@ -125,8 +125,8 @@ def get_doc_count():
         return 0
 
 if __name__ == '__main__':
-    print("🚀 Starting Simple Legislation API Server...")
-    print(f"📊 MongoDB: {MONGO_DB_NAME}")
-    print(f"📁 Collection: {MONGO_COLLECTION_NAME}")
-    print("🔗 Server running on http://localhost:8000")
+    print(" Starting Simple Legislation API Server...")
+    print(f" MongoDB: {MONGO_DB_NAME}")
+    print(f" Collection: {MONGO_COLLECTION_NAME}")
+    print(" Server running on http://localhost:8000")
     app.run(debug=True, host='0.0.0.0', port=8000)
