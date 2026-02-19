@@ -184,5 +184,3 @@ This project is licensed under the MIT License.
 - FlashRank for efficient reranking
 
 ---
-
-**Built with ❤️ for legal professionals**
