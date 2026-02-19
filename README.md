@@ -2,7 +2,7 @@
 
 AI-powered legal document search and question answering system using MongoDB Atlas Vector Search and Retrieval-Augmented Generation (RAG).
 
-## 🌟 Features
+##  Features
 
 - **Vector Search**: MongoDB Atlas Vector Search for semantic document retrieval
 - **RAG Pipeline**: Advanced retrieval-augmented generation with query expansion
@@ -10,7 +10,7 @@ AI-powered legal document search and question answering system using MongoDB Atl
 - **Turkish Support**: Optimized for Turkish legal documents
 - **Scalable**: Railway deployment with MongoDB Atlas backend
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 PDF Documents → Preprocessing → MongoDB Atlas (Vector DB)
@@ -18,7 +18,7 @@ PDF Documents → Preprocessing → MongoDB Atlas (Vector DB)
 User Query → Query Expansion → Vector Search → Reranking → LLM → Answer
 ```
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Vector Database**: MongoDB Atlas with Vector Search
 - **Embeddings**: Sentence Transformers (paraphrase-multilingual-MiniLM-L12-v2)
@@ -27,7 +27,7 @@ User Query → Query Expansion → Vector Search → Reranking → LLM → Answe
 - **API**: Flask + Gunicorn
 - **Deployment**: Railway
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ python app.py
 
 See [RAILWAY_DEPLOYMENT.md](RAILWAY_DEPLOYMENT.md) for detailed instructions.
 
-## 📊 Data Processing
+## Data Processing
 
 1. **Load PDFs**: Extract text from legal documents
 2. **Chunk**: Split into 1000-character chunks with 200 overlap
@@ -85,7 +85,7 @@ See [RAILWAY_DEPLOYMENT.md](RAILWAY_DEPLOYMENT.md) for detailed instructions.
 4. Reranker selects most relevant chunks
 5. LLM generates answer with citations
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -101,7 +101,7 @@ See [RAILWAY_DEPLOYMENT.md](RAILWAY_DEPLOYMENT.md) for detailed instructions.
 └── railway_start.sh        # Railway startup script
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 Edit `config.py`:
 
@@ -111,7 +111,7 @@ Edit `config.py`:
 - `TOP_RERANKED_K`: Final reranked results (default: 15)
 - `TEMPERATURE`: LLM temperature (default: 0.2)
 
-## 📝 API Endpoints
+##  API Endpoints
 
 ### Health Check
 ```bash
@@ -137,7 +137,7 @@ Response:
 }
 ```
 
-## 🛠️ Development
+##  Development
 
 ### Add New Documents
 
@@ -151,7 +151,7 @@ Response:
 
 ```bash
 # Test MongoDB connection
-python -c "from mongodb_vector_store import MongoDBVectorStore; store = MongoDBVectorStore(); print('✅ Connected')"
+python -c "from mongodb_vector_store import MongoDBVectorStore; store = MongoDBVectorStore(); print(' Connected')"
 
 # Test API
 curl -X POST http://localhost:8000/query \
@@ -159,12 +159,12 @@ curl -X POST http://localhost:8000/query \
   -d '{"question": "test question"}'
 ```
 
-## 📚 Documentation
+##  Documentation
 
 - [Railway Deployment Guide](RAILWAY_DEPLOYMENT.md)
 - [Quick Start Guide](QUICK_START.md)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/amazing-feature`)
@@ -172,11 +172,11 @@ curl -X POST http://localhost:8000/query \
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - MongoDB Atlas for vector search capabilities
 - Sentence Transformers for multilingual embeddings
