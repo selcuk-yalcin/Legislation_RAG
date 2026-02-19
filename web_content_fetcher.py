@@ -35,7 +35,7 @@ class WebContentFetcher:
         proxy_url = os.getenv("TR_PROXY_URL", "").strip()
         self.proxy = proxy_url if proxy_url else None
         mode = f"via TR proxy ({self.proxy})" if self.proxy else "direct (no proxy)"
-        print(f"✅ Web Content Fetcher initialized ({mode})")
+        print(f" Web Content Fetcher initialized ({mode})")
 
     def _get_client_kwargs(self) -> dict:
         """Build httpx client kwargs, optionally with proxy."""
@@ -58,7 +58,7 @@ class WebContentFetcher:
         Returns:
             Raw HTML string or None on failure.
         """
-        print(f"   📥 Fetching HTML: {url[:80]}...")
+        print(f"    Fetching HTML: {url[:80]}...")
         try:
             with httpx.Client(**self._get_client_kwargs()) as client:
                 resp = client.get(url)
@@ -66,24 +66,24 @@ class WebContentFetcher:
 
                 content_type = resp.headers.get("content-type", "")
                 if "text/html" not in content_type and "text/plain" not in content_type:
-                    print(f"   ⚠️  Unexpected content-type: {content_type}")
+                    print(f"     Unexpected content-type: {content_type}")
 
                 text = resp.text
                 if len(text) > self.MAX_SIZE:
-                    print(f"   ⚠️  Content truncated to {self.MAX_SIZE} bytes")
+                    print(f"     Content truncated to {self.MAX_SIZE} bytes")
                     text = text[: self.MAX_SIZE]
 
-                print(f"   ✅ HTML fetched ({len(text):,} chars)")
+                print(f"    HTML fetched ({len(text):,} chars)")
                 return text
 
         except httpx.TimeoutException:
-            print(f"   ❌ Timeout fetching {url}")
+            print(f"    Timeout fetching {url}")
             return None
         except httpx.HTTPStatusError as e:
-            print(f"   ❌ HTTP {e.response.status_code} for {url}")
+            print(f"    HTTP {e.response.status_code} for {url}")
             return None
         except Exception as e:
-            print(f"   ❌ Fetch failed: {e}")
+            print(f"    Fetch failed: {e}")
             return None
 
     def fetch_pdf(self, url: str) -> Optional[str]:
@@ -96,7 +96,7 @@ class WebContentFetcher:
         Returns:
             Path to the downloaded temporary file, or None on failure.
         """
-        print(f"   📥 Fetching PDF: {url[:80]}...")
+        print(f"    Fetching PDF: {url[:80]}...")
         try:
             with httpx.Client(**self._get_client_kwargs()) as client:
                 resp = client.get(url)
@@ -104,7 +104,7 @@ class WebContentFetcher:
 
                 content = resp.content
                 if len(content) > self.MAX_SIZE:
-                    print(f"   ❌ PDF too large ({len(content):,} bytes)")
+                    print(f"    PDF too large ({len(content):,} bytes)")
                     return None
 
                 # Write to temp file
@@ -112,17 +112,17 @@ class WebContentFetcher:
                 tmp.write(content)
                 tmp.close()
 
-                print(f"   ✅ PDF downloaded ({len(content):,} bytes) → {tmp.name}")
+                print(f"    PDF downloaded ({len(content):,} bytes) → {tmp.name}")
                 return tmp.name
 
         except httpx.TimeoutException:
-            print(f"   ❌ Timeout downloading PDF {url}")
+            print(f"    Timeout downloading PDF {url}")
             return None
         except httpx.HTTPStatusError as e:
-            print(f"   ❌ HTTP {e.response.status_code} for {url}")
+            print(f"    HTTP {e.response.status_code} for {url}")
             return None
         except Exception as e:
-            print(f"   ❌ PDF download failed: {e}")
+            print(f"    PDF download failed: {e}")
             return None
 
     def fetch(self, url: str) -> Tuple[Optional[str], str]:
@@ -152,7 +152,7 @@ class WebContentFetcher:
         This is preferred over fetch() when the content will be sent
         directly to Azure DI for structured parsing (tables, figures).
         """
-        print(f"   📥 Fetching raw bytes: {url[:80]}...")
+        print(f"    Fetching raw bytes: {url[:80]}...")
         try:
             with httpx.Client(**self._get_client_kwargs()) as client:
                 resp = client.get(url)
@@ -166,15 +166,15 @@ class WebContentFetcher:
                 else:
                     content_type = "html"
 
-                print(f"   ✅ Fetched {len(raw_bytes):,} bytes ({content_type})")
+                print(f"    Fetched {len(raw_bytes):,} bytes ({content_type})")
                 return raw_bytes, content_type
 
         except httpx.TimeoutException:
-            print(f"   ❌ Timeout fetching {url}")
+            print(f"    Timeout fetching {url}")
             return None, "unknown"
         except httpx.HTTPStatusError as e:
-            print(f"   ❌ HTTP {e.response.status_code} for {url}")
+            print(f"    HTTP {e.response.status_code} for {url}")
             return None, "unknown"
         except Exception as e:
-            print(f"   ❌ Fetch failed: {e}")
+            print(f"    Fetch failed: {e}")
             return None, "unknown"
