@@ -21,7 +21,7 @@ class VoyageReranker:
         self.client = voyageai.Client(api_key=api_key)
         self.model = VOYAGE_RERANK_MODEL  # Use model from config (rerank-2.5-lite)
         
-        print(f"✅ Voyage AI Reranker initialized (model: {self.model})")
+        print(f" Voyage AI Reranker initialized (model: {self.model})")
     
     def rerank_documents(self, query: str, documents: List, top_k: int = 5, score_threshold: float = 0.0) -> List:
         """
@@ -45,7 +45,7 @@ class VoyageReranker:
             # Extract text content from documents
             doc_texts = [doc.page_content for doc in documents]
             
-            print(f"⚖️ ADIM 3 - RERANKER: {len(documents)} döküman skorlanıyor...")
+            print(f" ADIM 3 - RERANKER: {len(documents)} döküman skorlanıyor...")
             print(f"   • Model: {self.model}")
             print(f"   • Query: {query[:50]}...")
             print(f"   • Skor Eşiği: {score_threshold}")
@@ -73,14 +73,14 @@ class VoyageReranker:
                 else:
                     filtered_count += 1
             
-            print(f"✅ Reranking tamamlandı!")
+            print(f" Reranking tamamlandı!")
             print(f"   • Kabul edilen: {len(ranked_docs)} döküman (skor >= {score_threshold})")
             print(f"   • Elenen: {filtered_count} döküman (düşük skor)")
             
             return ranked_docs
             
         except Exception as e:
-            print(f"❌ Voyage reranking failed!")
+            print(f" Voyage reranking failed!")
             print(f"   Error type: {type(e).__name__}")
             print(f"   Error message: {str(e)}")
             print(f"   Model attempted: {self.model}")
